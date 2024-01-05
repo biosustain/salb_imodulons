@@ -1,6 +1,6 @@
-# modulome-workflow
+# Salb-imodulons
 
-Salb-imodulons: A comprehensive characterization of the transcriptional regulatory network of *Streptomyces albidoflavus* J1074. iModulons are independently-modulated groups of genes that are computed through Independent Component Analysis (ICA) of a gene expression dataset (see [here](https://github.com/avsastry/modulome-workflow/) for more details).
+A comprehensive characterization of the transcriptional regulatory network of *Streptomyces albidoflavus* J1074. iModulons are independently-modulated groups of genes that are computed through Independent Component Analysis (ICA) of a gene expression dataset (see [here](https://github.com/avsastry/modulome-workflow/) for more details).
 
 This repository presents a computational workflow to compute and characterize all iModulons for *S. albidoflavus*:
 
