@@ -1,0 +1,621 @@
+,species,Function
+ecol_Acetate,Eco,Carbon Metabolism
+ecol_Acid Shock RNA,Eco,Acid Stress
+ecol_ArcA,Eco,Energy Metabolism
+ecol_arcA/luxS KO,Eco,Energy Metabolism
+ecol_Arginine,Eco,Amino Acid Metabolism
+ecol_baeR KO,Eco,Envelope Stress
+ecol_BasR,Eco,Extracellular Structures
+ecol_Biofilm,Eco,Extracellular Structures
+ecol_Biotin,Eco,Cofactor Metabolism
+ecol_BW25113,Eco,Strain Difference
+ecol_Capsule,Eco,Extracellular Structures
+ecol_CCK-PGI Del,Eco,Uncharacterized
+ecol_Cellulose,Eco,Extracellular Structures
+ecol_Cold Shock,Eco,Temperature Shock
+ecol_Copper,Eco,Metal Homeostasis
+ecol_CP4-44,Eco,Prophages
+ecol_CpxR,Eco,Envelope Stress
+ecol_Cra,Eco,Carbon Metabolism
+ecol_crp KO-1,Eco,Carbon Metabolism
+ecol_crp KO-2,Eco,Carbon Metabolism
+ecol_Crp-1,Eco,Carbon Metabolism
+ecol_Crp-2,Eco,Carbon Metabolism
+ecol_Curli-1,Eco,Extracellular Structures
+ecol_Curli-2,Eco,Extracellular Structures
+ecol_cydB/appC KO,Eco,Energy Metabolism
+ecol_cyoB/kdpE/qseB KO,Eco,Energy Metabolism
+ecol_cyoB/ndh/nuoB KO-1,Eco,Energy Metabolism
+ecol_cyoB/ndh/nuoB KO-2,Eco,Energy Metabolism
+ecol_Cysteine-1,Eco,Amino Acid Metabolism
+ecol_Cysteine-2,Eco,Amino Acid Metabolism
+ecol_Cytochrome c,Eco,Energy Metabolism
+ecol_DhaR,Eco,Carbon Metabolism
+ecol_Dipeptide,Eco,Amino Acid Metabolism
+ecol_DNA Damage,Eco,DNA Damage
+ecol_e14 Del,Eco,Uncharacterized
+ecol_efeU Activation,Eco,Metal Homeostasis
+ecol_Efflux Pump,Eco,Resistance
+ecol_entC/ubiC KO-1,Eco,Energy Metabolism
+ecol_entC/ubiC KO-2,Eco,Energy Metabolism
+ecol_EvgA,Eco,Envelope Stress
+ecol_Fatty Acid,Eco,Carbon Metabolism
+ecol_FDH-N/NRA,Eco,Energy Metabolism
+ecol_FDH-O,Eco,Energy Metabolism
+ecol_Ferric Citrate,Eco,Metal Homeostasis
+ecol_FHL,Eco,Energy Metabolism
+ecol_Fimbriae,Eco,Extracellular Structures
+ecol_Flagella,Eco,Extracellular Structures
+ecol_FlhDC-1,Eco,Extracellular Structures
+ecol_FlhDC-2,Eco,Extracellular Structures
+ecol_FliA,Eco,Extracellular Structures
+ecol_Fnr-1,Eco,Energy Metabolism
+ecol_Fnr-2,Eco,Energy Metabolism
+ecol_Fnr-3,Eco,Energy Metabolism
+ecol_FucR/AllR/AraC,Eco,Nitrogen Metabolism
+ecol_FucR/ExuR,Eco,Carbon Metabolism
+ecol_Fur-1,Eco,Metal Homeostasis
+ecol_Fur-2,Eco,Metal Homeostasis
+ecol_GadX,Eco,Envelope Stress
+ecol_GadXW,Eco,Envelope Stress
+ecol_Galactose,Eco,Carbon Metabolism
+ecol_gcvB,Eco,Amino Acid Metabolism
+ecol_GlcNAc,Eco,Carbon Metabolism
+ecol_glrR KO,Eco,Envelope Stress
+ecol_Gluconate,Eco,Carbon Metabolism
+ecol_Glutamine,Eco,Nitrogen Metabolism
+ecol_Glutarate,Eco,Carbon Metabolism
+ecol_Glycerol,Eco,Carbon Metabolism
+ecol_Glycine,Eco,Amino Acid Metabolism
+ecol_Glycolate,Eco,Carbon Metabolism
+ecol_Glyoxylate,Eco,Energy Metabolism
+ecol_Histidine,Eco,Amino Acid Metabolism
+ecol_Hot TALE 16,Eco,Uncharacterized
+ecol_Ile/Val,Eco,Amino Acid Metabolism
+ecol_IS Elements-1,Eco,Uncharacterized
+ecol_IS Elements-2,Eco,Uncharacterized
+ecol_IS1,Eco,Uncharacterized
+ecol_IS5,Eco,Uncharacterized
+ecol_Isc System,Eco,Cofactor Metabolism
+ecol_ldrA,Eco,Uncharacterized
+ecol_ldrC,Eco,Uncharacterized
+ecol_ldrD,Eco,Uncharacterized
+ecol_Leu/Val/Ile,Eco,Amino Acid Metabolism
+ecol_Leucine,Eco,Amino Acid Metabolism
+ecol_LPS,Eco,Extracellular Structures
+ecol_Lrp,Eco,Amino Acid Metabolism
+ecol_lsrB KO,Eco,Quorum Sensing
+ecol_Lysine/T2SS,Eco,Amino Acid Metabolism
+ecol_Magnesium,Eco,Metal Homeostasis
+ecol_malE OE,Eco,Carbon Metabolism
+ecol_Maltose,Eco,Carbon Metabolism
+ecol_Membrane,Eco,Envelope Stress
+ecol_Methionine,Eco,Amino Acid Metabolism
+ecol_Microaerobic,Eco,Energy Metabolism
+ecol_minicoli KOs,Eco,Genome Reduction
+ecol_Molybdenum,Eco,Metal Homeostasis
+ecol_N Reduction,Eco,Energy Metabolism
+ecol_NDH-1,Eco,Energy Metabolism
+ecol_Nickel,Eco,Metal Homeostasis
+ecol_Nickel/Cobalt,Eco,Metal Homeostasis
+ecol_Nitrate/Nitrite,Eco,Nitrogen Metabolism
+ecol_Nitrogen,Eco,Nitrogen Metabolism
+ecol_NO Stress,Eco,Redox
+ecol_nquinone ALE 3,Eco,Energy Metabolism
+ecol_NrdR,Eco,Nucleotide Metabolism
+ecol_NRZ,Eco,Energy Metabolism
+ecol_NtrC-1,Eco,Nitrogen Metabolism
+ecol_NtrC-2,Eco,Nitrogen Metabolism
+ecol_NtrC-3,Eco,Nitrogen Metabolism
+ecol_Nucleoside,Eco,Nucleotide Metabolism
+ecol_Nucleotide Stress,Eco,DNA Damage
+ecol_Osmoprotectant,Eco,Envelope Stress
+ecol_Oxidoreductase,Eco,Redox
+ecol_OxyR,Eco,Redox
+ecol_PaaX,Eco,Carbon Metabolism
+ecol_PAL 10 Del,Eco,Uncharacterized
+ecol_PAL 26 Del,Eco,Uncharacterized
+ecol_PAL Amp,Eco,Uncharacterized
+ecol_pgi KO,Eco,Carbon Metabolism
+ecol_Prophages,Eco,Prophages
+ecol_Phosphate-1,Eco,Phosphate Metabolism
+ecol_Phosphate-2,Eco,Phosphate Metabolism
+ecol_PlaR,Eco,Carbon Metabolism
+ecol_Potassium,Eco,Metal Homeostasis
+ecol_ppGpp,Eco,Global Stress
+ecol_Propionate,Eco,Carbon Metabolism
+ecol_pts ALE,Eco,Energy Metabolism
+ecol_pts KO,Eco,Carbon Metabolism
+ecol_Purine,Eco,Nucleotide Metabolism
+ecol_Putrescine,Eco,Nitrogen Metabolism
+ecol_Pyrimidine,Eco,Nucleotide Metabolism
+ecol_Pyruvate-1,Eco,Carbon Metabolism
+ecol_Pyruvate-2,Eco,Carbon Metabolism
+ecol_Quorum Sensing,Eco,Quorum Sensing
+ecol_rcsB KO,Eco,Envelope Stress
+ecol_Resistance,Eco,Envelope Stress
+ecol_Rhamnose,Eco,Carbon Metabolism
+ecol_Ribose,Eco,Carbon Metabolism
+ecol_ROS TALE Amp,Eco,Uncharacterized
+ecol_ROS TALE Del-1,Eco,Uncharacterized
+ecol_ROS TALE Del-2,Eco,Uncharacterized
+ecol_RpoE,Eco,Temperature Shock
+ecol_RpoH,Eco,Temperature Shock
+ecol_RpoS,Eco,Global Stress
+ecol_Salicylic Acid,Eco,Redox
+ecol_SCFA,Eco,Carbon Metabolism
+ecol_sdh KO,Eco,Carbon Metabolism
+ecol_Sialic Acid,Eco,Carbon Metabolism
+ecol_Sorbitol,Eco,Carbon Metabolism
+ecol_SSW SNPs,Eco,Redox
+ecol_Suf System,Eco,ALE Effects
+ecol_Sugar Diacid,Eco,Metal Homeostasis
+ecol_Sulfate,Eco,Carbon Metabolism
+ecol_Sulfoquinovose,Eco,Amino Acid Metabolism
+ecol_Superoxide,Eco,Carbon Metabolism
+ecol_Thiamine-1,Eco,Cofactor Metabolism
+ecol_Thiamine-2,Eco,Cofactor Metabolism
+ecol_Thr/Ser-1,Eco,Amino Acid Metabolism
+ecol_Thr/Ser-2,Eco,Amino Acid Metabolism
+ecol_thrA KO,Eco,Amino Acid Metabolism
+ecol_tpiA KO,Eco,Carbon Metabolism
+ecol_Translation,Eco,Translation
+ecol_trxC Del,Eco,Uncharacterized
+ecol_Tryptophan,Eco,Amino Acid Metabolism
+ecol_Tryptophanase,Eco,Amino Acid Metabolism
+ecol_Tyr/Trp/Phe,Eco,Amino Acid Metabolism
+ecol_UC-1,Eco,Uncharacterized
+ecol_UC-2,Eco,Uncharacterized
+ecol_UC-3,Eco,Uncharacterized
+ecol_UC-4,Eco,Uncharacterized
+ecol_UC-5,Eco,Uncharacterized
+ecol_UC-6,Eco,Uncharacterized
+ecol_UC-7,Eco,Uncharacterized
+ecol_UC-8,Eco,Uncharacterized
+ecol_UC-9,Eco,Uncharacterized
+ecol_Xylose,Eco,Carbon Metabolism
+ecol_yafF,Eco,Uncharacterized
+ecol_yceO,Eco,Uncharacterized
+ecol_YcjW,Eco,Carbon Metabolism
+ecol_ydaG,Eco,Uncharacterized
+ecol_ydfB,Eco,Uncharacterized
+ecol_ydfW,Eco,Uncharacterized
+ecol_YgbI,Eco,Carbon Metabolism
+ecol_ygdT,Eco,Uncharacterized
+ecol_YgeV,Eco,Carbon Metabolism
+ecol_YieP,Eco,Envelope Stress
+ecol_YjfJ,Eco,Temperature Shock
+ecol_yjjZ,Eco,Uncharacterized
+ecol_ykgR,Eco,Uncharacterized
+ecol_ymdG,Eco,Uncharacterized
+ecol_YmfT,Eco,DNA Damage
+ecol_ymgI,Eco,Uncharacterized
+ecol_ymiB,Eco,Uncharacterized
+ecol_yneP,Eco,Uncharacterized
+ecol_yoaI,Eco,Uncharacterized
+ecol_ypaB,Eco,Uncharacterized
+ecol_ypjJ,Eco,Uncharacterized
+ecol_yqhI,Eco,Uncharacterized
+ecol_ythA,Eco,Uncharacterized
+ecol_ytiC,Eco,Uncharacterized
+ecol_Zinc-1,Eco,Metal Homeostasis
+ecol_Zinc-2,Eco,Metal Homeostasis
+mtub_ArgR,Mtu,Amino Acid Metabolism
+mtub_BkaR,Mtu,Carbon Metabolism
+mtub_Blal,Mtu,Antibiotic Resistance
+mtub_Carbon Metabolism Metabolism,Mtu,Carbon Metabolism
+mtub_DevR-1,Mtu,Redox
+mtub_DevR-2,Mtu,Redox
+mtub_EccE1 KO,Mtu,KO
+mtub_EspL KO,Mtu,KO
+mtub_FasR,Mtu,Fatty Acid Metabolism
+mtub_Fatty Acid Biosynthesis,Mtu,Fatty Acid Metabolism
+mtub_Fumarate Reductase,Mtu,Carbon Metabolism
+mtub_GroEL-GroES Complex,Mtu,Amino Acid Metabolism
+mtub_HPT-2b Induced,Mtu,Metal Homeostasis
+mtub_IdeR,Mtu,Metal Homeostasis
+mtub_IniR,Mtu,Antibiotic Resistance
+mtub_KstR2,Mtu,Fatty Acid Metabolism
+mtub_Leucine Related,Mtu,Amino Acid Metabolism
+mtub_Lsr2,Mtu,Antibiotic Resistance
+mtub_LysG,Mtu,Amino Acid Metabolism
+mtub_M-box,Mtu,Metal Homeostasis
+mtub_MarR,Mtu,Acid Stress
+mtub_MbcA+Rv3249c+Rv3066,Mtu,Virulence/Persistence
+mtub_Mce1R,Mtu,Virulence/Persistence
+mtub_Mce3R,Mtu,Virulence/Persistence
+mtub_MprA,Mtu,Virulence/Persistence
+mtub_Mycofactocin Synthesis Pathway,Mtu,Fatty Acid Metabolism
+mtub_Nicotinate Metabolism,Mtu,Carbon Metabolism
+mtub_Nucleic Acid Hydrolysis ,Mtu,Nucleotide Metabolism
+mtub_PDIM;PGL Synthesis,Mtu,Virulence/Persistence
+mtub_Peptidoglycan Biosynthesis,Mtu,Carbon Metabolism
+mtub_PhoP,Mtu,Virulence/Persistence
+mtub_Polyketide Synthase Complex,Mtu,Fatty Acid Metabolism
+mtub_Positive Regulation of Growth,Mtu,Development
+mtub_PrpR,Mtu,Carbon Metabolism
+mtub_PyrR,Mtu,Nucleotide Metabolism
+mtub_RicR,Mtu,Metal Homeostasis
+mtub_Rv0078+Rv2034,Mtu,Antibiotic Resistance
+mtub_Rv0135+Rv1019,Mtu,Nucleotide Metabolism
+mtub_Rv0576,Mtu,Virulence/Persistence
+mtub_Rv0681,Mtu,Uncharacterized
+mtub_Rv1776c+WhiB4,Mtu,Redox
+mtub_Rv1828/SigH,Mtu,Redox
+mtub_Rv2488c,Mtu,Virulence/Persistence
+mtub_Rv2621c,Mtu,Uncharacterized
+mtub_Rv3095,Mtu,Uncharacterized
+mtub_Salicylate Induced,Mtu,Metal Homeostasis
+mtub_SG_1,Mtu,Uncharacterized
+mtub_SG_10,Mtu,Uncharacterized
+mtub_SG_11,Mtu,Uncharacterized
+mtub_SG_12,Mtu,Uncharacterized
+mtub_SG_13,Mtu,Uncharacterized
+mtub_SG_2,Mtu,Uncharacterized
+mtub_SG_3,Mtu,Uncharacterized
+mtub_SG_4,Mtu,Uncharacterized
+mtub_SG_5,Mtu,Uncharacterized
+mtub_SG_6,Mtu,Uncharacterized
+mtub_SG_7,Mtu,Uncharacterized
+mtub_SG_8,Mtu,Uncharacterized
+mtub_SG_9,Mtu,Uncharacterized
+mtub_SigC,Mtu,Virulence/Persistence
+mtub_SigD,Mtu,Virulence/Persistence
+mtub_SigH,Mtu,Virulence/Persistence
+mtub_SigK,Mtu,Uncharacterized
+mtub_Sulfur Metabolism,Mtu,Sulfur Metabolism
+mtub_Unc_1,Mtu,Uncharacterized
+mtub_Unc_2,Mtu,Uncharacterized
+mtub_Unc_3,Mtu,Uncharacterized
+mtub_Unc_4,Mtu,Uncharacterized
+mtub_Unc_5,Mtu,Uncharacterized
+mtub_Unc_6,Mtu,Uncharacterized
+mtub_Unc_7,Mtu,Uncharacterized
+mtub_Unc_8,Mtu,Uncharacterized
+mtub_Unc_9,Mtu,Uncharacterized
+mtub_VirS,Mtu,Redox
+mtub_WhiB1,Mtu,Redox
+mtub_WhiB4,Mtu,Redox
+mtub_WhiB4/IdeR,Mtu,Redox
+mtub_WhiB6,Mtu,Redox
+mtub_WhiB7,Mtu,Antibiotic Resistance
+mtub_Zur,Mtu,Metal Homeostasis
+pae_AauR,Pae,Amino Acid Metabolism
+pae_AcoR,Pae,Carbon Metabolism
+pae_AHL,Pae,Quorum Sensing
+pae_AmiE,Pae,Amino Acid Metabolism
+pae_AmpC,Pae,Antibiotic Resistance
+pae_AmrZ,Pae,Structural Components
+pae_Anr-1,Pae,Metal Homeostasis
+pae_Anr-2,Pae,Amino Acid Metabolism
+pae_Anr-3,Pae,Amino Acid Metabolism
+pae_Anr-4,Pae,Amino Acid Metabolism
+pae_AntR,Pae,Misc Metabolism
+pae_ArgR-1,Pae,Amino Acid Metabolism
+pae_AtsR,Pae,Metal Homeostasis
+pae_AtuR,Pae,Carbon Metabolism
+pae_BexR,Pae,Misc Metabolism
+pae_CbrB,Pae,Amino Acid Metabolism
+pae_Cell Division,Pae,Structural Components
+pae_CpxR,Pae,Antibiotic Resistance
+pae_CueR,Pae,Metal Homeostasis
+pae_CysB-1,Pae,Metal Homeostasis
+pae_CysB-2,Pae,Metal Homeostasis
+pae_CysB-3,Pae,Metal Homeostasis
+pae_CzcR,Pae,Antibiotic Resistance
+pae_DguR,Pae,Amino Acid Metabolism
+pae_DhcR,Pae,Amino Acid Metabolism
+pae_EatR,Pae,Amino Acid Metabolism
+pae_ErbR-1,Pae,Amino Acid Metabolism
+pae_ErbR-2,Pae,Misc Metabolism
+pae_EsrC,Pae,Antibiotic Resistance
+pae_EutR,Pae,Amino Acid Metabolism
+pae_ExsB,Pae,Secretion System
+pae_FleN-1,Pae,Structural Components
+pae_FleN-2,Pae,Structural Components
+pae_FoxR,Pae,Metal Homeostasis
+pae_FpvR,Pae,Metal Homeostasis
+pae_FruR,Pae,Carbon Metabolism
+pae_Fur,Pae,Metal Homeostasis
+pae_GcsR,Pae,Amino Acid Metabolism
+pae_GlpR,Pae,Carbon Metabolism
+pae_HexR-1,Pae,Carbon Metabolism
+pae_HexR-2,Pae,Carbon Metabolism
+pae_HutC,Pae,Amino Acid Metabolism
+pae_HypR,Pae,Amino Acid Metabolism
+pae_Iron acquisition,Pae,Metal Homeostasis
+pae_k-opioid,Pae,Secondary Metabolism
+pae_LaoR,Pae,Carbon Metabolism
+pae_LasR,Pae,Metal Homeostasis
+pae_LexA,Pae,Stress Response
+pae_LiuR,Pae,Amino Acid Metabolism
+pae_Lrp,Pae,Amino Acid Metabolism
+pae_MdcR,Pae,Misc Metabolism
+pae_MexS-1,Pae,Antibiotic Resistance
+pae_MexS-2,Pae,Antibiotic Resistance
+pae_MexZ,Pae,Antibiotic Resistance
+pae_MmsR,Pae,Amino Acid Metabolism
+pae_MvfR,Pae,Misc Metabolism
+pae_NagQ,Pae,Carbon Metabolism
+pae_NarL,Pae,Amino Acid Metabolism
+pae_NRPS,Pae,Secondary Metabolism
+pae_PA1226,Pae,Structural Components
+pae_PchR,Pae,Secondary Metabolism
+pae_PhhR-1,Pae,Amino Acid Metabolism
+pae_PhnR-2,Pae,Metal Homeostasis
+pae_PmrA,Pae,Antibiotic Resistance
+pae_PprB,Pae,Structural Components
+pae_PrrF,Pae,Amino Acid Metabolism
+pae_PtxS,Pae,Carbon Metabolism
+pae_PvdS,Pae,Secondary Metabolism
+pae_QscR-1,Pae,Quorum Sensing
+pae_QscR-2,Pae,Secondary Metabolism
+pae_Quorum sensing,Pae,Quorum Sensing
+pae_RiPP,Pae,Secondary Metabolism
+pae_RoxR,Pae,Energy Metabolism
+pae_RpoH,Pae,Heat Shock Response
+pae_RpoN,Pae,Carbon Metabolism
+pae_RpoS-1,Pae,Stress Response
+pae_RpoS-2,Pae,Stress Response
+pae_RsmA,Pae,Carbon Metabolism
+pae_Sfa2,Pae,Secretion System
+pae_Sigma-70,Pae,Prophages
+pae_Uncharacterized-1,Pae,Uncharacterized
+pae_Uncharacterized-10,Pae,Uncharacterized
+pae_Uncharacterized-11,Pae,Uncharacterized
+pae_Uncharacterized-12,Pae,Uncharacterized
+pae_Uncharacterized-2,Pae,Uncharacterized
+pae_Uncharacterized-3,Pae,Uncharacterized
+pae_Uncharacterized-4,Pae,Uncharacterized
+pae_Uncharacterized-5,Pae,Uncharacterized
+pae_Uncharacterized-6,Pae,Uncharacterized
+pae_Uncharacterized-7,Pae,Uncharacterized
+pae_Uncharacterized-8,Pae,Uncharacterized
+pae_Uncharacterized-9,Pae,Uncharacterized
+pae_SouR,Pae,Amino Acid Metabolism
+pae_SoxR,Pae,Antibiotic Resistance
+pae_TagR1,Pae,Secretion System
+pae_Translation-1,Pae,Translation
+pae_Translation-2,Pae,Translation
+pae_Translation-3,Pae,Translation
+pae_Uncharacterized-1,Pae,Uncharacterized
+pae_Uncharacterized-10,Pae,Uncharacterized
+pae_Uncharacterized-11,Pae,Uncharacterized
+pae_Uncharacterized-12,Pae,Uncharacterized
+pae_Uncharacterized-13,Pae,Uncharacterized
+pae_Uncharacterized-14,Pae,Uncharacterized
+pae_Uncharacterized-2,Pae,Uncharacterized
+pae_Uncharacterized-3,Pae,Uncharacterized
+pae_Uncharacterized-4,Pae,Uncharacterized
+pae_Uncharacterized-5,Pae,Uncharacterized
+pae_Uncharacterized-6,Pae,Uncharacterized
+pae_Uncharacterized-7,Pae,Uncharacterized
+pae_Uncharacterized-8,Pae,Translation
+pae_Uncharacterized-9,Pae,Uncharacterized
+pae_XisF4-1,Pae,Prophages
+pae_XisF4-2,Pae,Prophages
+pae_Zur-1,Pae,Metal Homeostasis
+pae_Zur-2,Pae,Metal Homeostasis
+sac_4-HPA,sac,Misc Metabolism
+sac_Ammonium-Uptake,sac,Other Functional
+sac_Arginine,sac,Amino Acid Metabolism
+sac_ArnRAB,sac,Other Functional
+sac_aromatic-degradation,sac,Misc Metabolism
+sac_carbon-fixation,sac,Misc Metabolism
+sac_carotenoid,sac,Other Functional
+sac_Cobalamin,sac,Vitamin B
+sac_cold-stress,sac,Stress Response
+sac_DARC,sac,Uncharacterized
+sac_FadR,sac,Misc Metabolism
+sac_FadR-KO,sac,Genomic
+sac_fatty-acid-related,sac,Misc Metabolism
+sac_Fe-S-lipoylation,sac,Other Functional
+sac_Gly-Ser-Thr,sac,Amino Acid Metabolism
+sac_heat-stress,sac,Stress Response
+sac_HMG-CoA,sac,Misc Metabolism
+sac_LysM,sac,Amino Acid Metabolism
+sac_niacin-transport,sac,Vitamin B
+sac_Phenylacetate,sac,Misc Metabolism
+sac_pseudogene,sac,Genomic
+sac_Purine,sac,Amino Acid Metabolism
+sac_Pyroglutamate,sac,Amino Acid Metabolism
+sac_Quinolinate,sac,Other Functional
+sac_Replication,sac,Other Functional
+sac_Riboflavin,sac,Vitamin B
+sac_single_gene_1,sac,Uncharacterized
+sac_single_gene_2,sac,Uncharacterized
+sac_single_gene_3,sac,Uncharacterized
+sac_single_gene_4,sac,Uncharacterized
+sac_single_gene_5,sac,Uncharacterized
+sac_SoxL2N,sac,Other Functional
+sac_SoxLABCD,sac,Other Functional
+sac_sulfur-assimilation,sac,Amino Acid Metabolism
+sac_TCA-BCAA,sac,Amino Acid Metabolism
+sac_Thiamin,sac,Vitamin B
+sac_translation-1,sac,Other Functional
+sac_translation-2,sac,Other Functional
+sac_translation-related,sac,Other Functional
+sac_unchar-1,sac,Uncharacterized
+sac_unchar-3,sac,Uncharacterized
+sac_UV-related,sac,Stress Response
+sac_UV-tfb3,sac,Stress Response
+sac_XylR-SoxM,sac,Misc Metabolism
+sac_YtrA,sac,Other Functional
+salb_Ammonium,Sal,Nitrogen Metabolism
+salb_Antimycin,Sal,Secondary Metabolism
+salb_Arsenate,Sal,Metal Homeostasis
+salb_BGC-General,Sal,Secondary Metabolism
+salb_Candicidin/Antimycin,Sal,Secondary Metabolism
+salb_Cellobiose,Sal,Carbon Metabolism
+salb_Chaplin,Sal,Development
+salb_Cyclofaulknamycin-1,Sal,Secondary Metabolism
+salb_Cyclofaulknamycin-2,Sal,Secondary Metabolism
+salb_CysB,Sal,Amino Acid Metabolism
+salb_Cytochrome,Sal,Energy Metabolism
+salb_DNA Damage,Sal,DNA Damage
+salb_Dudomycin/Minimycin,Sal,Secondary Metabolism
+salb_Fatty Acid,Sal,Fatty Acid Metabolism
+salb_Fructose,Sal,Carbon Metabolism
+salb_Galactose,Sal,Carbon Metabolism
+salb_Gas Vesicle,Sal,Membrane Transport
+salb_Glucose,Sal,Carbon Metabolism
+salb_Glycerol,Sal,Carbon Metabolism
+salb_Histidine,Sal,Amino Acid Metabolism
+salb_hrt Complex,Sal,Membrane Transport
+salb_Iron Acquisition,Sal,Metal Homeostasis
+salb_Leucine,Sal,Amino Acid Metabolism
+salb_Mce3R,Sal,Membrane Transport
+salb_NDH,Sal,Energy Metabolism
+salb_NRPS-1,Sal,Secondary Metabolism
+salb_Nucleoside,Sal,Carbon Metabolism
+salb_Paulomycin,Sal,Secondary Metabolism
+salb_Phenylacetate,Sal,Carbon Metabolism
+salb_Phosphate,Sal,Phosphate Metabolism
+salb_Phospholipid,Sal,Fatty Acid Metabolism
+salb_Potassium,Sal,Metal Homeostasis
+salb_Prophages,Sal,Prophages
+salb_RpoS,Sal,Stress Response
+salb_SAL-2242,Sal,Secondary Metabolism
+salb_SGR PTM,Sal,Secondary Metabolism
+salb_SigK,Sal,Cell wall/membrane/envelope biogenesis
+salb_Stress Response,Sal,Stress Response
+salb_Sucrose,Sal,Carbon Metabolism
+salb_Sugar-1,Sal,Carbon Metabolism
+salb_Sugar-2,Sal,Carbon Metabolism
+salb_Sulfur Metabolism,Sal,Amino Acid Metabolism
+salb_Surugamide-1,Sal,Secondary Metabolism
+salb_Surugamide-2,Sal,Secondary Metabolism
+salb_Thiopeptide,Sal,Secondary Metabolism
+salb_Transketolase,Sal,Amino Acid Metabolism
+salb_Translation,Sal,Translation
+salb_UC-1,Sal,Uncharacterized
+salb_UC-10,Sal,Uncharacterized
+salb_UC-11,Sal,Uncharacterized
+salb_UC-12,Sal,Uncharacterized
+salb_UC-13,Sal,Uncharacterized
+salb_UC-14,Sal,Uncharacterized
+salb_UC-2,Sal,Uncharacterized
+salb_UC-3,Sal,Uncharacterized
+salb_UC-4,Sal,Uncharacterized
+salb_UC-5,Sal,Uncharacterized
+salb_UC-6,Sal,Uncharacterized
+salb_UC-7,Sal,Uncharacterized
+salb_UC-8,Sal,Uncharacterized
+salb_UC-9,Sal,Uncharacterized
+salb_Valine,Sal,Amino Acid Metabolism
+salb_Xylose,Sal,Carbon Metabolism
+sen_ADI,Sen,Amino Acid Metabolism
+sen_appY,Sen,Energy Metabolism
+sen_arcA-1,Sen,Amino Acid Metabolism
+sen_arcA-2,Sen,Amino Acid Metabolism
+sen_arcA-3,Sen,Amino Acid Metabolism
+sen_argR-1,Sen,Amino Acid Metabolism
+sen_argR-2,Sen,Amino Acid Metabolism
+sen_birA,Sen,Misc Metabolism
+sen_cadC,Sen,Amino Acid Metabolism
+sen_CAMP resistance,Sen,Resistance
+sen_cdaR,Sen,Carbon Metabolism
+sen_cob,Sen,Vitamin B
+sen_cra,Sen,Carbon Metabolism
+sen_crp-1,Sen,Carbon Metabolism
+sen_crp-2,Sen,Carbon Metabolism
+sen_csgD,Sen,Uncharacterized
+sen_csp-1,Sen,Stress Response
+sen_csp-2,Sen,Stress Response
+sen_csrA,Sen,Uncharacterized
+sen_cydABTE,Sen,Energy Metabolism
+sen_cysB,Sen,Membrane Transport
+sen_cytR,Sen,Nucleotide Metabolism
+sen_dpiA,Sen,Carbon Metabolism
+sen_dsdC,Sen,Amino Acid Metabolism
+sen_fhlA,Sen,Energy Metabolism
+sen_fim cluster,Sen,Extracellular Structures
+sen_flhD;flhC,Sen,Extracellular Structures
+sen_fliA,Sen,Extracellular Structures
+sen_fnr-1,Sen,Translation
+sen_fnr-2,Sen,Translation
+sen_fra,Sen,Carbon Metabolism
+sen_fur-1,Sen,Metal Homeostasis
+sen_fur-2,Sen,Metal Homeostasis
+sen_fur-3,Sen,Metal Homeostasis
+sen_glpR,Sen,Carbon Metabolism
+sen_glycosyltransferase,Sen,Carbon Metabolism
+sen_gutM,Sen,Carbon Metabolism
+sen_hfq-related,Sen,Membrane Transport
+sen_hilD-related,Sen,Uncharacterized
+sen_his-tRNA,Sen,Amino Acid Metabolism
+sen_hyd5,Sen,Energy Metabolism
+sen_kdpE,Sen,Metal Homeostasis
+sen_leu-tRNA,Sen,Amino Acid Metabolism
+sen_lexA,Sen,DNA Damage
+sen_lldR,Sen,Uncharacterized
+sen_lrp,Sen,Amino Acid Metabolism
+sen_lsrR,Sen,Carbon Metabolism
+sen_Macrophage,Sen,Uncharacterized
+sen_malT,Sen,Carbon Metabolism
+sen_marR,Sen,Uncharacterized
+sen_metJ,Sen,Amino Acid Metabolism
+sen_molybdate,Sen,Membrane Transport
+sen_mraZ,Sen,Cell wall/membrane/envelope biogenesis
+sen_nanR,Sen,Cell wall/membrane/envelope biogenesis
+sen_narL,Sen,Energy Metabolism
+sen_narP,Sen,Energy Metabolism
+sen_NikR,Sen,Amino Acid Metabolism
+sen_nsrR,Sen,Energy Metabolism
+sen_O-antigen,Sen,Cell wall/membrane/envelope biogenesis
+sen_pdu,Sen,Amino Acid Metabolism
+sen_phoB,Sen,Phosphate Metabolism
+sen_pmrAB,Sen,Fatty Acid Metabolism
+sen_ppdABC,Sen,Extracellular Structures
+sen_ppGpp,Sen,Uncharacterized
+sen_proU,Sen,Amino Acid Metabolism
+sen_prpR,Sen,Carbon Metabolism
+sen_psp,Sen,Prophages
+sen_PTS,Sen,Carbon Metabolism
+sen_purR-1,Sen,Nucleotide Metabolism
+sen_purR-2,Sen,Nucleotide Metabolism
+sen_rbsR,Sen,Carbon Metabolism
+sen_rcsA;rcsB,Sen,Carbon Metabolism
+sen_rcsc related,Sen,Carbon Metabolism
+sen_ribosome,Sen,Translation
+sen_rpoE,Sen,Translation
+sen_rpoH,Sen,Heat Shock Response
+sen_rpoN,Sen,Amino Acid Metabolism
+sen_rpoN-associated,Sen,Amino Acid Metabolism
+sen_rpoS,Sen,Global Stress
+sen_rstA,Sen,Energy Metabolism
+sen_rtcR,Sen,Genomic
+sen_SG1_STM4302,Sen,Uncharacterized
+sen_SG2_STM2329,Sen,Uncharacterized
+sen_SG3_cpxR,Sen,Uncharacterized
+sen_SG4_hilC,Sen,Uncharacterized
+sen_SG5_sprB,Sen,Uncharacterized
+sen_SPI1 T3SS,Sen,Uncharacterized
+sen_SPI1-1,Sen,Uncharacterized
+sen_SPI1-2,Sen,Uncharacterized
+sen_SPI16,Sen,Uncharacterized
+sen_SPI2,Sen,Uncharacterized
+sen_SPI9,Sen,Uncharacterized
+sen_tartrate utilization,Sen,Carbon Metabolism
+sen_tdcA,Sen,Amino Acid Metabolism
+sen_torR,Sen,Energy Metabolism
+sen_TPP,Sen,Membrane Transport
+sen_tricarboxylic transport,Sen,Uncharacterized
+sen_ula-Ascorbate,Sen,Carbon Metabolism
+sen_unchar-1,Sen,Uncharacterized
+sen_unchar-10,Sen,Uncharacterized
+sen_unchar-11,Sen,Uncharacterized
+sen_unchar-12,Sen,Uncharacterized
+sen_unchar-2,Sen,Uncharacterized
+sen_unchar-3,Sen,Uncharacterized
+sen_unchar-4,Sen,Uncharacterized
+sen_unchar-5,Sen,Uncharacterized
+sen_unchar-6,Sen,Uncharacterized
+sen_unchar-7,Sen,Uncharacterized
+sen_unchar-8,Sen,Uncharacterized
+sen_unchar-9,Sen,Uncharacterized
+sen_yciGFEkatN,Sen,Uncharacterized
+sen_ygbLM,Sen,Uncharacterized
+sen_yji-operon,Sen,Uncharacterized
+sen_yjiAXY,Sen,Uncharacterized
+sen_zur,Sen,Uncharacterized
