@@ -1,0 +1,329 @@
+,Oplists,Op_num,Op_total_num,motif_gene_num,gene_total_num,consensus,width
+BGC-19-20 deletion,"['Op4114' 'Op4201' 'Op4203' 'Op4213' 'Op4214' 'Op4215' 'Op4216' 'Op4217'
+ 'Op4218' 'Op4219' 'Op4221' 'Op4223' 'Op4224' 'Op4227' 'Op4228' 'Op4229'
+ 'Op4230' 'Op4231' 'Op4232' 'Op4233' 'Op4234' 'Op4239' 'Op4240' 'Op4241'
+ 'Op4242' 'Op4243' 'Op4244' 'Op4246' 'Op4247' 'Op4248' 'Op4249' 'Op4250'
+ 'Op4251' 'Op4253' 'Op4254' 'Op4258' 'Op4259' 'Op4260' 'Op4262' 'Op654'
+ 'Op655' 'Op659']",42.0,42.0,53.0,53.0,WBSYCGWCGDCSNCGGYGACSWSSWSSDSSTSSWSGVMSD,40
+Glutamine,"Index(['Op1009', 'Op1337', 'Op1468', 'Op1469', 'Op1644', 'Op1690', 'Op2119',
+       'Op2120', 'Op2163', 'Op2180', 'Op2613', 'Op2743', 'Op2984', 'Op3224',
+       'Op3225', 'Op3469', 'Op3967', 'Op4091', 'Op417', 'Op922'],
+      dtype='object', name='operon')",20.0,20.0,26.0,26.0,TSSYCRCCGHSSTCVCCGMSMKSSHCGVCSHSGSCSTS,38
+Prophages,"Index(['Op187', 'Op2440', 'Op2806', 'Op400', 'Op401', 'Op402', 'Op403',
+       'Op405', 'Op406', 'Op407', 'Op408'],
+      dtype='object', name='operon')",11.0,12.0,19.0,20.0,KCVYCCWCVRGHTCGACGGGGWSMTSSWCSRSYWCNTCG,39
+Surugamide repressor,"Index(['Op1127', 'Op2600', 'Op2601', 'Op2602'], dtype='object', name='operon')",4.0,4.0,7.0,7.0,CASVSCTTCRVHCTWKYTGAYATWCAACTASTAGAAC,37
+ArsR,"Index(['Op2407', 'Op2408'], dtype='object', name='operon')",2.0,2.0,4.0,4.0,TCTTGTTTCGACATGGGTCTATGTTGACAGCCTTCGATG,39
+Paulomycin-1,"Index(['Op429', 'Op430', 'Op434', 'Op435', 'Op437', 'Op439', 'Op440'], dtype='object', name='operon')",7.0,21.0,15.0,31.0,CTWGGMAADGMADBSCATRDSDAHCAGRAASHSCGAVDK,39
+UC-1,"Index(['Op1002', 'Op1017', 'Op1081', 'Op1109', 'Op1110', 'Op1111', 'Op1112',
+       'Op1135', 'Op1194', 'Op121',
+       ...
+       'Op546', 'Op562', 'Op593', 'Op603', 'Op66', 'Op734', 'Op771', 'Op788',
+       'Op80', 'Op968'],
+      dtype='object', name='operon', length=121)",121.0,136.0,124.0,140.0,WSRNCGNSSWCSWSSNSGNCSRSGHSGMCSWSGDCGMCGH,40
+Cyclofaulknamycin-1,"Index(['Op715', 'Op716', 'Op717', 'Op718', 'Op719', 'Op720', 'Op722', 'Op723',
+       'Op724', 'Op725'],
+      dtype='object', name='operon')",10.0,11.0,17.0,18.0,CGBCCTSSWSGAVGASCWGWYCSASCTCGBCG,32
+Leucine,"Index(['Op322', 'Op3229', 'Op3306', 'Op920', 'Op921', 'Op949', 'Op952',
+       'Op953', 'Op964'],
+      dtype='object', name='operon')",9.0,9.0,12.0,12.0,RCGKYCCASDRNGTGAGACGGSVGKHTCRTBVYGYGGRC,39
+UC-2,"Index(['Op10', 'Op1010', 'Op1105', 'Op1175', 'Op1176', 'Op1297', 'Op1298',
+       'Op1310', 'Op1329', 'Op1338', 'Op1339', 'Op1340', 'Op137', 'Op1379',
+       'Op1457', 'Op1458', 'Op1505', 'Op1510', 'Op1641', 'Op1658', 'Op1659',
+       'Op1665', 'Op1752', 'Op1767', 'Op1801', 'Op1866', 'Op1910', 'Op192',
+       'Op1941', 'Op1966', 'Op2061', 'Op207', 'Op2204', 'Op2366', 'Op2418',
+       'Op2426', 'Op2443', 'Op2468', 'Op2542', 'Op2671', 'Op275', 'Op2750',
+       'Op2762', 'Op2781', 'Op2850', 'Op2876', 'Op2879', 'Op3034', 'Op3035',
+       'Op3036', 'Op3193', 'Op3194', 'Op3234', 'Op3293', 'Op3314', 'Op3332',
+       'Op3334', 'Op3443', 'Op349', 'Op351', 'Op3576', 'Op362', 'Op3757',
+       'Op3805', 'Op3807', 'Op3810', 'Op3843', 'Op3929', 'Op3936', 'Op3950',
+       'Op3951', 'Op4055', 'Op4067', 'Op4127', 'Op4157', 'Op4214', 'Op4247',
+       'Op459', 'Op491', 'Op504', 'Op510', 'Op551', 'Op56', 'Op573', 'Op607',
+       'Op638', 'Op782', 'Op838', 'Op839', 'Op864', 'Op868', 'Op874', 'Op942',
+       'Op957'],
+      dtype='object', name='operon')",94.0,95.0,103.0,104.0,SGWCBHSGDCGMSGHCGWSSYCSWSGHCSWSSWCGMC,37
+Histidine,"Index(['Op104', 'Op105', 'Op1447', 'Op207', 'Op2175', 'Op620'], dtype='object', name='operon')",6.0,14.0,10.0,18.0,YTCMTYCATKCCSCRTKBCCRWRWTYCGARYYT,33
+UC-3,"Index(['Op1883', 'Op1884', 'Op1885', 'Op1888', 'Op1891', 'Op1892'], dtype='object', name='operon')",6.0,9.0,12.0,20.0,GHSVCGGMSDGSCSGMTSYWGSGSATCGRSSGRGACYG,38
+Cysteine,"Index(['Op2497', 'Op2691', 'Op2692', 'Op4146', 'Op535', 'Op75', 'Op848'], dtype='object', name='operon')",7.0,14.0,9.0,23.0,MAGAAGWYCBTTSATGHYCSSMAMSTMSCSGKGBWRAMGT,40
+UC-4,"Index(['Op1100', 'Op1154', 'Op1170', 'Op1199', 'Op1313', 'Op132', 'Op1556',
+       'Op1577', 'Op1581', 'Op1585', 'Op1586', 'Op1640', 'Op1721', 'Op1730',
+       'Op1769', 'Op1788', 'Op1810', 'Op1849', 'Op1861', 'Op1906', 'Op1971',
+       'Op1979', 'Op2070', 'Op2134', 'Op2135', 'Op2137', 'Op2234', 'Op2269',
+       'Op2316', 'Op2415', 'Op2429', 'Op2503', 'Op2504', 'Op2539', 'Op2584',
+       'Op2636', 'Op2666', 'Op2675', 'Op2893', 'Op2942', 'Op305', 'Op3096',
+       'Op3156', 'Op3166', 'Op318', 'Op319', 'Op3201', 'Op3301', 'Op3333',
+       'Op3401', 'Op3440', 'Op3441', 'Op3469', 'Op3542', 'Op3545', 'Op3566',
+       'Op3569', 'Op3633', 'Op3658', 'Op3659', 'Op3660', 'Op3662', 'Op3837',
+       'Op4166', 'Op4167', 'Op4199', 'Op4204', 'Op4227', 'Op4249', 'Op4251',
+       'Op4254', 'Op4270', 'Op4318', 'Op4334', 'Op4335', 'Op552', 'Op605',
+       'Op627', 'Op631', 'Op729', 'Op757', 'Op773', 'Op787', 'Op85', 'Op948',
+       'Op958'],
+      dtype='object', name='operon')",86.0,87.0,93.0,94.0,YCGWSSTSGDCGASSRSGBCGMSGRSSTSGDCSDCG,36
+Minimycin deletion,"Index(['Op120', 'Op121', 'Op1733', 'Op1735', 'Op4191', 'Op4192', 'Op4193',
+       'Op4194', 'Op4195', 'Op4199', 'Op4201', 'Op4206', 'Op4207', 'Op4208',
+       'Op4209', 'Op4211'],
+      dtype='object', name='operon')",16.0,19.0,21.0,25.0,TCSAGSDBSHCGWSSHBGWCSACCHCRGCGCCGMSCKGCT,40
+RpoH,"Index(['Op1023', 'Op1100', 'Op1288', 'Op1289', 'Op1466', 'Op1610', 'Op187',
+       'Op1982', 'Op1983', 'Op2002', 'Op2003', 'Op2085', 'Op2326', 'Op2371',
+       'Op2372', 'Op2377', 'Op2430', 'Op2431', 'Op2695', 'Op2753', 'Op2942',
+       'Op3070', 'Op3071', 'Op3072', 'Op3073', 'Op3184', 'Op3236', 'Op324',
+       'Op354', 'Op3841', 'Op4097', 'Op424', 'Op4289', 'Op4328', 'Op513',
+       'Op530', 'Op531', 'Op654', 'Op655', 'Op808', 'Op90'],
+      dtype='object', name='operon')",41.0,41.0,48.0,48.0,YCRDCVWSGCCGWSSHSGAVSWCSBCGWCSHSGA,34
+Isorenieratene/streptamidine,"Index(['Op2765', 'Op3312', 'Op37', 'Op4266', 'Op4267', 'Op4292', 'Op4293',
+       'Op4312', 'Op4313', 'Op4315', 'Op4316'],
+      dtype='object', name='operon')",11.0,16.0,20.0,27.0,WATGRAAAYGATTWTCATYWMYAWHHVSGGGRS,33
+WhiH,"Index(['Op1131', 'Op1187', 'Op1189', 'Op144', 'Op1590', 'Op1591', 'Op1592',
+       'Op1597', 'Op1598', 'Op1719', 'Op198', 'Op199', 'Op200', 'Op218',
+       'Op2211', 'Op2215', 'Op2216', 'Op2346', 'Op2347', 'Op2633', 'Op2634',
+       'Op2875', 'Op3362', 'Op3430', 'Op3646', 'Op3711', 'Op3752', 'Op3784',
+       'Op3852', 'Op3853', 'Op3854', 'Op3891', 'Op495', 'Op753'],
+      dtype='object', name='operon')",34.0,40.0,43.0,52.0,RYSVMSAYCHYSGWSRRCVTCDGSGGCWNCMYSKYSRNSR,40
+WblA,"Index(['Op1004', 'Op1078', 'Op1259', 'Op1327', 'Op1454', 'Op1455', 'Op1634',
+       'Op1664', 'Op1959', 'Op1960', 'Op2034', 'Op243', 'Op2432', 'Op2438',
+       'Op2511', 'Op2549', 'Op2686', 'Op2695', 'Op2748', 'Op3074', 'Op323',
+       'Op341', 'Op3749', 'Op3804', 'Op3919', 'Op4038', 'Op4085', 'Op4143',
+       'Op4146', 'Op4163', 'Op513', 'Op772', 'Op945', 'Op956'],
+      dtype='object', name='operon')",34.0,35.0,37.0,38.0,SWSSWSCCCGKMSTCSWSSMSSTCCDCRYCSWC,33
+Sucrose,"Index(['Op456', 'Op457', 'Op462', 'Op463'], dtype='object', name='operon')",4.0,4.0,4.0,4.0,CTYRBCTYTCKARASCTAACHCGTSATA,28
+Sulfate,"Index(['Op129', 'Op130', 'Op131', 'Op190', 'Op191', 'Op3495', 'Op3794',
+       'Op3795', 'Op3796', 'Op3797', 'Op3865', 'Op4146', 'Op4276', 'Op4332',
+       'Op639', 'Op798', 'Op799'],
+      dtype='object', name='operon')",17.0,23.0,26.0,37.0,GHGRCCSWSGBCGACGHSGRVGMSCDBCWSBAG,33
+Phosphate,"Index(['Op1676', 'Op1907', 'Op2008', 'Op2078', 'Op2435', 'Op2436', 'Op2959',
+       'Op2960', 'Op2962', 'Op3673', 'Op4117', 'Op663', 'Op821'],
+      dtype='object', name='operon')",13.0,18.0,17.0,23.0,SASGYBSTVGAVSAGSRCGAYGRCGRAGAGSHBGASSA,38
+Ribosomal,"Index(['Op1002', 'Op1427', 'Op1556', 'Op1604', 'Op1606', 'Op1613', 'Op1921',
+       'Op1990', 'Op1991', 'Op2026', 'Op2081', 'Op2219', 'Op2512', 'Op2577',
+       'Op261', 'Op2653', 'Op2686', 'Op2720', 'Op2789', 'Op2794', 'Op2830',
+       'Op3324', 'Op3362', 'Op3445', 'Op359', 'Op4308', 'Op454', 'Op946'],
+      dtype='object', name='operon')",28.0,31.0,29.0,32.0,WCNTSRKCAYCYNCSWCMWGSMGSSCNKCGDGMH,34
+Glycerol,"Index(['Op2486', 'Op2488', 'Op2850', 'Op3023', 'Op3043', 'Op3846', 'Op3847',
+       'Op3866', 'Op3867', 'Op3868', 'Op3869', 'Op3987', 'Op67', 'Op972'],
+      dtype='object', name='operon')",14.0,14.0,18.0,18.0,GMSGCSGTCGAGMCSGTCGWCGSCGSGCTCGNCG,34
+RpoE,"Index(['Op1100', 'Op1134', 'Op119', 'Op1228', 'Op1327', 'Op1456', 'Op149',
+       'Op1895', 'Op1947', 'Op2048', 'Op2158', 'Op2166', 'Op2230', 'Op2259',
+       'Op246', 'Op2490', 'Op2491', 'Op2759', 'Op3017', 'Op3018', 'Op3042',
+       'Op3174', 'Op3350', 'Op3428', 'Op3469', 'Op3612', 'Op3630', 'Op3700',
+       'Op3804', 'Op417', 'Op4361', 'Op733', 'Op974', 'Op982'],
+      dtype='object', name='operon')",34.0,41.0,38.0,49.0,SMSSWSSWCGYCGAGGYCSWCSACGRCGWCSWSGVSG,37
+Phenylacetate,"Index(['Op1595', 'Op1596'], dtype='object', name='operon')",2.0,4.0,11.0,15.0,AACATTCGGTTAGCTTGCGACCAGCTCAGTAATTCAGCAT,40
+WhiB3,"Index(['Op108', 'Op1086', 'Op1137', 'Op1299', 'Op1308', 'Op1370', 'Op1375',
+       'Op1520', 'Op1552', 'Op1567', 'Op1568', 'Op1655', 'Op1761', 'Op181',
+       'Op1825', 'Op1829', 'Op2128', 'Op2222', 'Op2283', 'Op2367', 'Op2471',
+       'Op2506', 'Op2617', 'Op264', 'Op265', 'Op2866', 'Op2893', 'Op2933',
+       'Op311', 'Op3191', 'Op3305', 'Op3348', 'Op3353', 'Op34', 'Op3452',
+       'Op3487', 'Op3506', 'Op3558', 'Op36', 'Op3615', 'Op3640', 'Op3723',
+       'Op3724', 'Op3725', 'Op3738', 'Op4053', 'Op4071', 'Op4072', 'Op4116',
+       'Op4146', 'Op4172', 'Op4173', 'Op4226', 'Op4268', 'Op4303', 'Op4304',
+       'Op4305', 'Op4324', 'Op511', 'Op646', 'Op654', 'Op96', 'Op97', 'Op998'],
+      dtype='object', name='operon')",64.0,75.0,75.0,86.0,GNCGRSSWSSWCGRCSDSGBCGMCGWSSASGDSGACGAC,39
+Mce transporters,"Index(['Op1030', 'Op1031', 'Op3803', 'Op684', 'Op685', 'Op686', 'Op687',
+       'Op688', 'Op957'],
+      dtype='object', name='operon')",9.0,10.0,20.0,22.0,CGKCSACSGVRASYTBGTSRTCSAGATGACMGGRMHGA,38
+Nitrogen/Ammonia/Urea,"Index(['Op3472', 'Op3496', 'Op370', 'Op709', 'Op710', 'Op745', 'Op88',
+       'Op896'],
+      dtype='object', name='operon')",8.0,11.0,14.0,21.0,AWSCSGGSBGTCAYSARSRTRACGWVSKSGGCVCYGDKCR,40
+Stress,"Index(['Op1034', 'Op1114', 'Op1167', 'Op1552', 'Op1555', 'Op1556', 'Op1575',
+       'Op181', 'Op1827', 'Op1828', 'Op1935', 'Op1946', 'Op2100', 'Op2135',
+       'Op2222', 'Op2317', 'Op2319', 'Op2320', 'Op256', 'Op258', 'Op26',
+       'Op260', 'Op2617', 'Op2624', 'Op263', 'Op264', 'Op2735', 'Op2866',
+       'Op2870', 'Op2871', 'Op2902', 'Op2996', 'Op3035', 'Op3036', 'Op3127',
+       'Op3159', 'Op317', 'Op33', 'Op3316', 'Op3348', 'Op3351', 'Op3352',
+       'Op3353', 'Op3354', 'Op3356', 'Op3357', 'Op3415', 'Op3505', 'Op3506',
+       'Op3526', 'Op3673', 'Op3738', 'Op3750', 'Op3802', 'Op3839', 'Op3866',
+       'Op3868', 'Op3910', 'Op3930', 'Op4080', 'Op4113', 'Op4183', 'Op505',
+       'Op511', 'Op616', 'Op654', 'Op670', 'Op671', 'Op672', 'Op673', 'Op679',
+       'Op998'],
+      dtype='object', name='operon')",72.0,72.0,83.0,83.0,WCSWCGTCGASSTCGYCGASSDSGHCSWCSHSGTCGNSGW,40
+Cytochrome,"Index(['Op456', 'Op623', 'Op624', 'Op627'], dtype='object', name='operon')",4.0,5.0,4.0,5.0,TSCGGTSATYGSTGCTSGDCMTSKCSTSCCGTCCCTTCST,40
+Transketolase,"Index(['Op1218', 'Op193', 'Op1964', 'Op1967', 'Op2296', 'Op3407', 'Op4215'], dtype='object', name='operon')",7.0,13.0,8.0,16.0,CTTGACCTCGACCSRRSTTGAGGTCVNAGSBTG,33
+Carbohydrate metabolism-2,"Index(['Op252', 'Op253', 'Op292', 'Op294', 'Op295'], dtype='object', name='operon')",5.0,12.0,9.0,25.0,AKYBVTTSMGGTYRTAGAYSTTGRCGACBSBSGARAAGA,39
+BGC-1 related,"Index(['Op10', 'Op13', 'Op14', 'Op15', 'Op16', 'Op17', 'Op4410', 'Op9'], dtype='object', name='operon')",8.0,13.0,10.0,18.0,CCYBGDSCAGVMSCTTGMCCKCCWGGDCGVCGTCSTCMHC,40
+UC-6,"Index(['Op1616', 'Op1617', 'Op1618'], dtype='object', name='operon')",3.0,3.0,4.0,4.0,ASWASAGTRGMSSCMGTGRWCTMGACGTTSSATACSW,37
+UC-7,"Index(['Op1042', 'Op1077', 'Op1123', 'Op1155', 'Op1255', 'Op1395', 'Op1401',
+       'Op1481', 'Op1610', 'Op168', 'Op1972', 'Op2075', 'Op2158', 'Op2159',
+       'Op2344', 'Op236', 'Op238', 'Op2398', 'Op2419', 'Op2420', 'Op2432',
+       'Op2715', 'Op2735', 'Op2755', 'Op2818', 'Op2941', 'Op3013', 'Op3182',
+       'Op3186', 'Op3205', 'Op3338', 'Op3363', 'Op3377', 'Op3427', 'Op3435',
+       'Op3582', 'Op3644', 'Op3750', 'Op3768', 'Op3816', 'Op4038', 'Op4068',
+       'Op4088', 'Op468', 'Op501', 'Op502', 'Op526', 'Op572', 'Op830', 'Op94',
+       'Op940', 'Op969'],
+      dtype='object', name='operon')",52.0,54.0,54.0,56.0,CCWSSBCSWCSRCSWCGRSSNSCWCSKCGWSSWSSW,36
+NRPS BGC-14 related,"Index(['Op1590', 'Op1593', 'Op1598', 'Op2165', 'Op2347', 'Op284', 'Op3615',
+       'Op3643', 'Op367', 'Op3688', 'Op3752', 'Op3852', 'Op3853', 'Op3854',
+       'Op4113', 'Op4172', 'Op4345'],
+      dtype='object', name='operon')",17.0,25.0,18.0,29.0,CGMGGBSACCGSCGCCSTCGYCGTCKMCG,29
+Paulomycin-2,"Index(['Op429', 'Op430', 'Op434', 'Op443', 'Op444', 'Op447', 'Op448', 'Op450',
+       'Op451'],
+      dtype='object', name='operon')",9.0,25.0,18.0,36.0,CSBVMHTTACVKWKGSATWNCWGGCGGSTSYCMWGRAGG,39
+Minimycin/dudomycin,"Index(['Op1874', 'Op1875', 'Op1876', 'Op1877', 'Op1878', 'Op1879', 'Op2952',
+       'Op2953', 'Op2954', 'Op2955', 'Op3317', 'Op3318', 'Op3320', 'Op3321',
+       'Op3347', 'Op4217', 'Op4218'],
+      dtype='object', name='operon')",17.0,18.0,34.0,35.0,GTMMKCSWSGNHGBYGHGGVCNTCBMCGWCGACDVSSYC,39
+SigK,"Index(['Op1924', 'Op1925', 'Op3893', 'Op3894', 'Op3895', 'Op516', 'Op518'], dtype='object', name='operon')",7.0,8.0,9.0,14.0,WKGTCGAVNGCCTKGRSCTCGTCSTCGVKGVMGGSCA,37
+NDH,"Index(['Op1041', 'Op1085', 'Op1162', 'Op1223', 'Op1327', 'Op1552', 'Op1657',
+       'Op2175', 'Op2187', 'Op236', 'Op2361', 'Op242', 'Op243', 'Op2682',
+       'Op2686', 'Op2731', 'Op2765', 'Op3017', 'Op3085', 'Op3099', 'Op3214',
+       'Op3436', 'Op3552', 'Op3689', 'Op3692', 'Op3733', 'Op3910', 'Op4131',
+       'Op4143', 'Op4185', 'Op483', 'Op577', 'Op654', 'Op710'],
+      dtype='object', name='operon')",34.0,45.0,55.0,68.0,SBTSAYSGYSNYSDYCGKCRTCGBCDYCRYSGTSDTC,37
+SAL-2242,"Index(['Op1732', 'Op1733', 'Op1734', 'Op4146'], dtype='object', name='operon')",4.0,4.0,5.0,5.0,AGGYCSAGAAKCSSCAKSWCGTMCTCSTYCGTGTCGA,37
+LAP/Thiopeptide BGC-11,"Index(['Op1492', 'Op1493', 'Op1494', 'Op1495', 'Op1496', 'Op1497', 'Op1498'], dtype='object', name='operon')",7.0,7.0,14.0,14.0,AGCCGGRGTSGDMGVSCWTCGRGAKCWTGNNGTASYC,37
+Cell membrane,"Index(['Op1003', 'Op1099', 'Op111', 'Op1224', 'Op1372', 'Op1373', 'Op1374',
+       'Op1375', 'Op1376', 'Op1588', 'Op1589', 'Op1592', 'Op1593', 'Op1594',
+       'Op1597', 'Op1598', 'Op1603', 'Op1605', 'Op161', 'Op1635', 'Op1657',
+       'Op1692', 'Op1779', 'Op1827', 'Op1869', 'Op1894', 'Op1896', 'Op1915',
+       'Op1959', 'Op2020', 'Op2022', 'Op2034', 'Op2101', 'Op2106', 'Op2160',
+       'Op2280', 'Op2405', 'Op2466', 'Op2565', 'Op2634', 'Op27', 'Op2894',
+       'Op2914', 'Op2983', 'Op3304', 'Op3305', 'Op3316', 'Op337', 'Op3511',
+       'Op3561', 'Op359', 'Op3615', 'Op3630', 'Op3646', 'Op3688', 'Op3711',
+       'Op3752', 'Op378', 'Op3784', 'Op3918', 'Op4016', 'Op4031', 'Op4162',
+       'Op4163', 'Op4238', 'Op4281', 'Op4336', 'Op4337', 'Op486', 'Op539',
+       'Op575', 'Op608', 'Op660', 'Op661', 'Op758', 'Op783', 'Op805', 'Op872',
+       'Op900', 'Op947'],
+      dtype='object', name='operon')",80.0,82.0,90.0,92.0,WSSBCGBCGMCGHCGDCGMSSWSBWCGBCSYCGD,34
+Candicidin/antimycin,"Index(['Op4367', 'Op4368', 'Op4369', 'Op4370', 'Op4371', 'Op4372', 'Op4373',
+       'Op4374', 'Op4375', 'Op4376', 'Op4377', 'Op4378', 'Op4379', 'Op4383',
+       'Op4384', 'Op4388', 'Op4389', 'Op4390', 'Op4391', 'Op4392', 'Op4393',
+       'Op4394'],
+      dtype='object', name='operon')",22.0,23.0,31.0,32.0,GNCGHCGASYTCGTSGARGYCCTCSVYSMCGNCSDSGASG,40
+DNA damage,"Index(['Op1254', 'Op1387', 'Op1563', 'Op1564', 'Op1654', 'Op1889', 'Op2079',
+       'Op2101', 'Op2159', 'Op2308', 'Op2409', 'Op2424', 'Op2425', 'Op2558',
+       'Op2631', 'Op2888', 'Op2889', 'Op3349', 'Op3413', 'Op363', 'Op3673',
+       'Op4107', 'Op4140', 'Op5', 'Op544', 'Op678', 'Op704', 'Op800', 'Op977'],
+      dtype='object', name='operon')",29.0,59.0,33.0,65.0,TCMWKKSGVCSASBSTRSCVSSCGSCACYGACAVYSSS,38
+SigE,"Index(['Op1006', 'Op1171', 'Op1244', 'Op1419', 'Op1535', 'Op154', 'Op1660',
+       'Op1804', 'Op1845', 'Op1920', 'Op2062', 'Op2072', 'Op2230', 'Op2350',
+       'Op2556', 'Op2568', 'Op2704', 'Op276', 'Op2840', 'Op2841', 'Op2844',
+       'Op286', 'Op2863', 'Op2947', 'Op2969', 'Op2985', 'Op2987', 'Op3174',
+       'Op3243', 'Op3466', 'Op3675', 'Op3793', 'Op4203', 'Op4354', 'Op565',
+       'Op737', 'Op768', 'Op780', 'Op781', 'Op922'],
+      dtype='object', name='operon')",40.0,45.0,40.0,45.0,WCSNCGNCGASGMBSDCSWCGHCGRCGBCGASSWSGRSSV,40
+Glycosyltransferase,"Index(['Op1939', 'Op2345', 'Op2757', 'Op2813', 'Op3400', 'Op713', 'Op714',
+       'Op716'],
+      dtype='object', name='operon')",8.0,11.0,10.0,14.0,CRTGRHCWBCAVCVHSADCBYCACCRCSVHCDKSCCCA,38
+Lipid metabolism,"Index(['Op109', 'Op1150', 'Op1270', 'Op1362', 'Op1434', 'Op1435', 'Op1446',
+       'Op1493', 'Op1557', 'Op1690', 'Op1691', 'Op1692', 'Op1834', 'Op1852',
+       'Op1853', 'Op1923', 'Op1975', 'Op2075', 'Op2076', 'Op2300', 'Op2450',
+       'Op2478', 'Op2508', 'Op2641', 'Op2646', 'Op2695', 'Op3138', 'Op3139',
+       'Op3305', 'Op3364', 'Op3365', 'Op3492', 'Op3493', 'Op3590', 'Op3591',
+       'Op3715', 'Op3729', 'Op3832', 'Op3927', 'Op3933', 'Op4007', 'Op4013',
+       'Op4014', 'Op4023', 'Op4285', 'Op4286', 'Op4355', 'Op4356', 'Op4357',
+       'Op483', 'Op559', 'Op6', 'Op620', 'Op658', 'Op698', 'Op7', 'Op922',
+       'Op944', 'Op972'],
+      dtype='object', name='operon')",59.0,59.0,79.0,79.0,NSSNCGMCSWSGVCGNCGRSGAGSTSGWSGMSBYCG,36
+Large genome deletion,"Index(['Op1152', 'Op4238', 'Op4271', 'Op4272', 'Op4273', 'Op4274', 'Op4275',
+       'Op4276', 'Op4278', 'Op4279', 'Op4280', 'Op4281', 'Op4284', 'Op4287',
+       'Op4288', 'Op4289', 'Op4290', 'Op4294', 'Op4295', 'Op4297', 'Op4298',
+       'Op4300', 'Op4306', 'Op4311', 'Op4318', 'Op4320', 'Op4321', 'Op4322',
+       'Op4323', 'Op4326', 'Op4329', 'Op4330', 'Op4331', 'Op4332', 'Op4333',
+       'Op4334', 'Op4335', 'Op4340', 'Op4341', 'Op4342', 'Op4343', 'Op4344',
+       'Op4345', 'Op4346', 'Op4347', 'Op4349', 'Op4358', 'Op4359', 'Op4361',
+       'Op4362', 'Op4363', 'Op4381', 'Op4382', 'Op4385', 'Op4386', 'Op4387',
+       'Op4397', 'Op4399', 'Op4400', 'Op4403', 'Op4407', 'Op4408', 'Op4410',
+       'Op713', 'Op714'],
+      dtype='object', name='operon')",65.0,65.0,98.0,98.0,CGVCSWSGHCSSCSTCGYCGHSSNSGWCGACSASSWC,37
+SGR PTMs,"Index(['Op158', 'Op159', 'Op162', 'Op163', 'Op165'], dtype='object', name='operon')",5.0,11.0,6.0,15.0,CSGGYSSGAGMCSRSCHWRTWCRSWTCRCKCMCRWKRA,38
+Iron acquisition,"Index(['Op1650', 'Op1651', 'Op1735', 'Op2359', 'Op2360', 'Op3134', 'Op3135',
+       'Op3299', 'Op343', 'Op3456', 'Op3457', 'Op3578', 'Op3896', 'Op394',
+       'Op395', 'Op494', 'Op583', 'Op630'],
+      dtype='object', name='operon')",18.0,20.0,32.0,34.0,RDGBTTAGGTWAGCCTWACCTAA,23
+RpoS,"Index(['Op1265', 'Op1304', 'Op1549', 'Op1744', 'Op1760', 'Op181', 'Op1811',
+       'Op1829', 'Op1836', 'Op1862', 'Op1863', 'Op1918', 'Op1919', 'Op1949',
+       'Op1952', 'Op2077', 'Op2098', 'Op2257', 'Op2293', 'Op2350', 'Op2550',
+       'Op2575', 'Op288', 'Op2924', 'Op2925', 'Op2926', 'Op2964', 'Op3032',
+       'Op3033', 'Op3088', 'Op310', 'Op321', 'Op3358', 'Op3433', 'Op4118',
+       'Op640', 'Op641', 'Op813'],
+      dtype='object', name='operon')",38.0,38.0,41.0,41.0,GAGCASSTCSWCSTCGMCSDSSNSGYCSABSASGDCGNCG,40
+UC-8,"Index(['Op1342', 'Op1343', 'Op1344', 'Op1346'], dtype='object', name='operon')",4.0,4.0,6.0,6.0,TCGTMCACDCACCACMCAMMDSGASARSCRTKDAGM,36
+Cellobiose,"Index(['Op1450', 'Op1451', 'Op3122', 'Op3123', 'Op3847', 'Op4196', 'Op4197',
+       'Op4198', 'Op591', 'Op659'],
+      dtype='object', name='operon')",10.0,15.0,14.0,19.0,TSDDGYYCDGBAMGWWSAWCKRCYDSAASAAGYCGTYC,38
+Paulomycin-3,"Index(['Op1335', 'Op160', 'Op161', 'Op1610', 'Op162', 'Op17', 'Op1923',
+       'Op2191', 'Op2407', 'Op2408', 'Op2744', 'Op2814', 'Op2815', 'Op282',
+       'Op3073', 'Op3316', 'Op3493', 'Op3850', 'Op4051', 'Op430', 'Op432',
+       'Op433', 'Op434', 'Op435', 'Op436', 'Op437', 'Op438', 'Op439', 'Op440',
+       'Op441', 'Op442', 'Op875', 'Op876', 'Op9'],
+      dtype='object', name='operon')",34.0,34.0,39.0,39.0,CSAGVTCGCCGWCVWSGCCGVCGVCSTSGWCGNCCKSVTS,40
+Fatty Acid,"Index(['Op1030', 'Op1031', 'Op1033', 'Op1048', 'Op1049', 'Op1050', 'Op1432',
+       'Op1461', 'Op1526', 'Op1557', 'Op1829', 'Op1923', 'Op2127', 'Op2162',
+       'Op221', 'Op2298', 'Op233', 'Op2332', 'Op234', 'Op235', 'Op2362',
+       'Op2363', 'Op2376', 'Op246', 'Op2699', 'Op270', 'Op2700', 'Op2809',
+       'Op2847', 'Op2848', 'Op298', 'Op3007', 'Op3009', 'Op3151', 'Op3153',
+       'Op3154', 'Op3282', 'Op3325', 'Op3365', 'Op3386', 'Op344', 'Op346',
+       'Op3545', 'Op3565', 'Op3590', 'Op3591', 'Op3645', 'Op3690', 'Op3743',
+       'Op377', 'Op3803', 'Op3828', 'Op3837', 'Op3838', 'Op3858', 'Op4105',
+       'Op4129', 'Op4150', 'Op4189', 'Op4343', 'Op481', 'Op571', 'Op70',
+       'Op71', 'Op961', 'Op962', 'Op984'],
+      dtype='object', name='operon')",67.0,67.0,86.0,86.0,HCGNSNYSGHCGASSWSVWCGNSGMSGKCGHCGHSGA,37
+Nitrate,"Index(['Op1038', 'Op1039', 'Op1047', 'Op1087', 'Op1239', 'Op1240', 'Op1245',
+       'Op1260', 'Op1274', 'Op1279', 'Op1281', 'Op1299', 'Op1309', 'Op1322',
+       'Op1328', 'Op1412', 'Op1417', 'Op1426', 'Op1587', 'Op1594', 'Op1597',
+       'Op1598', 'Op2021', 'Op2043', 'Op2100', 'Op2164', 'Op2185', 'Op2245',
+       'Op2367', 'Op254', 'Op2540', 'Op2541', 'Op255', 'Op256', 'Op260',
+       'Op261', 'Op2617', 'Op2811', 'Op2826', 'Op2829', 'Op2933', 'Op311',
+       'Op3316', 'Op3359', 'Op3360', 'Op3511', 'Op3549', 'Op3615', 'Op3640',
+       'Op367', 'Op3801', 'Op3859', 'Op3976', 'Op4053', 'Op4113', 'Op4146',
+       'Op4164', 'Op4171', 'Op423', 'Op4301', 'Op539', 'Op561', 'Op614',
+       'Op615', 'Op872', 'Op99'],
+      dtype='object', name='operon')",66.0,66.0,86.0,86.0,ACRWSGDCSKSGABSWSSBCGHCGNCGBSSHCSWSSW,37
+Nucleotide,"Index(['Op3171', 'Op472', 'Op487', 'Op660', 'Op661'], dtype='object', name='operon')",5.0,13.0,5.0,20.0,ASKAGGYGCAGGTCATSCCGMCGAYGGYGAGBTMGAC,37
+Translation,"Index(['Op1068', 'Op1522', 'Op1523', 'Op1657', 'Op183', 'Op1955', 'Op2014',
+       'Op2105', 'Op214', 'Op2154', 'Op2219', 'Op2220', 'Op2221', 'Op247',
+       'Op2511', 'Op2772', 'Op2774', 'Op2780', 'Op2781', 'Op2786', 'Op2787',
+       'Op2788', 'Op2789', 'Op2790', 'Op2792', 'Op2793', 'Op2794', 'Op2795',
+       'Op2796', 'Op2797', 'Op2799', 'Op2800', 'Op2892', 'Op2943', 'Op2966',
+       'Op2995', 'Op3176', 'Op3253', 'Op3254', 'Op3261', 'Op3280', 'Op3484',
+       'Op3500', 'Op3636', 'Op3637', 'Op3656', 'Op3725', 'Op3755', 'Op3761',
+       'Op3814', 'Op3832', 'Op3854', 'Op3912', 'Op3913', 'Op3914', 'Op3991',
+       'Op3998', 'Op4004', 'Op4147', 'Op446', 'Op470', 'Op498', 'Op588',
+       'Op828', 'Op840', 'Op879', 'Op880', 'Op889', 'Op890', 'Op891', 'Op906',
+       'Op911', 'Op972'],
+      dtype='object', name='operon')",73.0,78.0,104.0,110.0,SDHSGHSGMSVYGGYCKTCSNSDWSWYCGRSVAGRHC,37
+Cell motility,"Index(['Op1398', 'Op1575', 'Op1723', 'Op1911', 'Op1941', 'Op1942', 'Op1943',
+       'Op2051', 'Op2052', 'Op2099', 'Op2175', 'Op2176', 'Op2177', 'Op2285',
+       'Op2337', 'Op2356', 'Op2400', 'Op2501', 'Op2555', 'Op2676', 'Op2803',
+       'Op2849', 'Op2868', 'Op2908', 'Op2917', 'Op2918', 'Op3144', 'Op3172',
+       'Op3347', 'Op3469', 'Op3470', 'Op4143', 'Op4297', 'Op456', 'Op512',
+       'Op660', 'Op661', 'Op859', 'Op939'],
+      dtype='object', name='operon')",39.0,39.0,46.0,46.0,GHCCTCBWCSBCGNSGWSSYCRVCVBCBTCBYCSHC,36
+Quorum sensing,"Index(['Op1015', 'Op1030', 'Op1031', 'Op1120', 'Op1175', 'Op1190', 'Op1202',
+       'Op1241', 'Op1242', 'Op1252',
+       ...
+       'Op786', 'Op793', 'Op861', 'Op868', 'Op945', 'Op972', 'Op985', 'Op987',
+       'Op988', 'Op997'],
+      dtype='object', name='operon', length=105)",105.0,108.0,131.0,134.0,KCSASGHCSNSSDCGNCGWSSWSSWSGVCSAGSTCS,36
+Serine protease,"Index(['Op1013', 'Op125', 'Op164', 'Op166', 'Op182', 'Op2072', 'Op250',
+       'Op2549', 'Op2820', 'Op2923', 'Op2932', 'Op3065', 'Op3109', 'Op3158',
+       'Op3189', 'Op3406', 'Op3445', 'Op3467', 'Op3798', 'Op3800', 'Op3804',
+       'Op3815', 'Op538', 'Op662', 'Op932', 'Op985'],
+      dtype='object', name='operon')",26.0,26.0,27.0,27.0,GCGGYSGSGGYGRSSGCGGBGGCGAGS,27
+Surugamide,"Index(['Op1015', 'Op1025', 'Op1030', 'Op1031', 'Op1120', 'Op1149', 'Op1252',
+       'Op1270', 'Op1320', 'Op1371', 'Op1457', 'Op1458', 'Op1609', 'Op1621',
+       'Op1628', 'Op1700', 'Op1701', 'Op1720', 'Op1738', 'Op1739', 'Op1740',
+       'Op1741', 'Op2140', 'Op24', 'Op2501', 'Op2592', 'Op2593', 'Op2594',
+       'Op2595', 'Op2598', 'Op2599', 'Op2603', 'Op2604', 'Op2605', 'Op2606',
+       'Op2608', 'Op2609', 'Op2681', 'Op2762', 'Op2849', 'Op2972', 'Op303',
+       'Op3197', 'Op3198', 'Op3223', 'Op3347', 'Op3560', 'Op3649', 'Op3733',
+       'Op3889', 'Op4106', 'Op4146', 'Op4297', 'Op4386', 'Op4387', 'Op580',
+       'Op581', 'Op654', 'Op655', 'Op664', 'Op834', 'Op988'],
+      dtype='object', name='operon')",62.0,62.0,89.0,89.0,GGYGVYSRSSRCGRBCGCSGCSRCGRCCGYSR,32
+Amino acid transport,"Index(['Op1035', 'Op109', 'Op1100', 'Op1244', 'Op1335', 'Op1452', 'Op1493',
+       'Op1502', 'Op157', 'Op1618',
+       ...
+       'Op67', 'Op737', 'Op75', 'Op794', 'Op795', 'Op796', 'Op805', 'Op871',
+       'Op931', 'Op970'],
+      dtype='object', name='operon', length=107)",107.0,107.0,119.0,119.0,HSSNSGHSVNGGMSGHSCDGSWSGBCSDSGMCSWSGHCSW,40
+UC-9,"Index(['Op1021', 'Op1025', 'Op1162', 'Op1163', 'Op1175', 'Op1229', 'Op1230',
+       'Op126', 'Op1327', 'Op1349', 'Op1362', 'Op1465', 'Op1487', 'Op1492',
+       'Op1608', 'Op166', 'Op1920', 'Op1973', 'Op1983', 'Op1996', 'Op2227',
+       'Op2300', 'Op2426', 'Op253', 'Op2686', 'Op2691', 'Op2692', 'Op2715',
+       'Op2716', 'Op2722', 'Op2723', 'Op2781', 'Op280', 'Op2932', 'Op3023',
+       'Op3044', 'Op3050', 'Op3138', 'Op3139', 'Op3151', 'Op3190', 'Op3381',
+       'Op3382', 'Op3386', 'Op3633', 'Op3775', 'Op3840', 'Op390', 'Op391',
+       'Op3953', 'Op4146', 'Op418', 'Op4196', 'Op4285', 'Op4286', 'Op4297',
+       'Op4308', 'Op4361', 'Op4365', 'Op475', 'Op477', 'Op483', 'Op539',
+       'Op553', 'Op56', 'Op645', 'Op648', 'Op662', 'Op690', 'Op691', 'Op698',
+       'Op75', 'Op750', 'Op751', 'Op847', 'Op933'],
+      dtype='object', name='operon')",76.0,78.0,91.0,93.0,HCGNCGHSGMSSDSSWSGACSDSSNSGBCSKCSNCSRCSA,40
