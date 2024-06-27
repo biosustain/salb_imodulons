@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>WP_010639247.1</td>
+              <td>2Fe-2S_iron-sulfur_cluster-binding_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000958/1">BGC0000958</a></td>
+              <td>NRP:Cyclic depsipeptide+Polyketide:Modular type I polyketide</td>
+              <td>100.0</td>
+              <td>100.0</td>
+              <td>727.0</td>
+              <td>3.25e-268</td>
+          </tr>
+    
+          <tr>
+              <td>AKA54636.1</td>
+              <td>phenylacetate-CoA_oxygenase_PaaE</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001216/1">BGC0001216</a></td>
+              <td>NRP+Polyketide</td>
+              <td>96.0</td>
+              <td>100.0</td>
+              <td>699.0</td>
+              <td>4.36e-257</td>
+          </tr>
+    
+          <tr>
+              <td>BBD17772.1</td>
+              <td>epoxidase_component</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001919/1">BGC0001919</a></td>
+              <td>NRP+Polyketide</td>
+              <td>62.0</td>
+              <td>95.6</td>
+              <td>409.0</td>
+              <td>2.26e-142</td>
+          </tr>
+    
+          <tr>
+              <td>AWX24494.1</td>
+              <td>phenylacetate-CoA_oxygenase/reductase_subunit_PaaK</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001695/1">BGC0001695</a></td>
+              <td>NRP</td>
+              <td>62.0</td>
+              <td>97.0</td>
+              <td>408.0</td>
+              <td>2.99e-142</td>
+          </tr>
+    
+          <tr>
+              <td>BBD17751.1</td>
+              <td>epoxidase_complex_component</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001918/1">BGC0001918</a></td>
+              <td>NRP+Polyketide</td>
+              <td>62.0</td>
+              <td>97.5</td>
+              <td>405.0</td>
+              <td>3.45e-141</td>
+          </tr>
+    
+          <tr>
+              <td>antaL</td>
+              <td>phenylacetate-CoA_oxigenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001455/1">BGC0001455</a></td>
+              <td>NRP+Polyketide</td>
+              <td>60.0</td>
+              <td>99.5</td>
+              <td>405.0</td>
+              <td>2e-140</td>
+          </tr>
+    
+          <tr>
+              <td>CAC44653.1</td>
+              <td>putative_phenylacetic_acid_degradation_NADH_oxidoreductase_PaaE</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002128/1">BGC0002128</a></td>
+              <td>Other</td>
+              <td>37.0</td>
+              <td>100.5</td>
+              <td>213.0</td>
+              <td>9.31e-66</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

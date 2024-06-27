@@ -1,0 +1,590 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="550" width="800" viewBox="0 0 800 550" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="13,40 27,40 32,35 27,30 13,30 13,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11535&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2714362 - 2714887" locus_tag="XNR_RS11535" class="clusterblast-orf" id="general-13_q0_0_all"  />
+<polygon points="33,40 54,40 59,35 54,30 33,30 33,40 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11540&lt;/b&gt;&lt;br&gt;futalosine hydrolase&lt;br&gt;Location: 2714907 - 2715633" locus_tag="XNR_RS11540" class="clusterblast-orf" id="general-13_q1_0_all"  />
+<polygon points="61,40 88,40 93,35 88,30 61,30 61,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11545&lt;/b&gt;&lt;br&gt;1,4-dihydroxy-6-naphthoate synthase&lt;br&gt;Location: 2715700 - 2716594" locus_tag="XNR_RS11545" class="clusterblast-orf" id="general-13_q2_0_all"  />
+<polygon points="104,35 109,30 111,30 111,40 109,40 104,35 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS31190&lt;/b&gt;&lt;br&gt;cold-shock protein&lt;br&gt;Location: 2716899 - 2717094" locus_tag="XNR_RS31190" class="clusterblast-orf" id="general-13_q3_0_all"  />
+<polygon points="117,40 121,40 126,35 121,30 117,30 117,40 " style="fill:#d85e15; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11555&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2717235 - 2717487" locus_tag="XNR_RS11555" class="clusterblast-orf" id="general-13_q4_0_all"  />
+<polygon points="136,40 157,40 162,35 157,30 136,30 136,40 " style="fill:#2ed815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11560&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 2717762 - 2718500" locus_tag="XNR_RS11560" class="clusterblast-orf" id="general-13_q5_0_all"  />
+<polygon points="183,35 188,30 253,30 253,40 188,40 183,35 " style="fill:#158fd8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11565&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2719084 - 2721016" locus_tag="XNR_RS11565" class="clusterblast-orf" id="general-13_q6_0_all"  />
+<polygon points="253,35 258,30 321,30 321,40 258,40 253,35 " style="fill:#c015d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11570&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2721012 - 2722908" locus_tag="XNR_RS11570" class="clusterblast-orf" id="general-13_q7_0_all"  />
+<polygon points="327,35 332,30 332,30 332,40 332,40 327,35 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11575&lt;/b&gt;&lt;br&gt;SapB/AmfS family lanthipeptide&lt;br&gt;Location: 2723066 - 2723198" locus_tag="XNR_RS11575" class="clusterblast-orf" id="general-13_q8_0_all"  />
+<polygon points="335,35 340,30 428,30 428,40 340,40 335,35 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11580&lt;/b&gt;&lt;br&gt;class III lanthionine synthetase LanKC&lt;br&gt;Location: 2723287 - 2725867" locus_tag="XNR_RS11580" class="clusterblast-orf" id="general-13_q9_0_all"  />
+<polygon points="436,35 441,30 471,30 471,40 441,40 436,35 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11585&lt;/b&gt;&lt;br&gt;iron-siderophore ABC transporter substrate-binding protein&lt;br&gt;Location: 2726084 - 2727062" locus_tag="XNR_RS11585" class="clusterblast-orf" id="general-13_q10_0_all"  />
+<polygon points="471,35 476,30 502,30 502,40 476,40 471,35 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11590&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2727058 - 2727913" locus_tag="XNR_RS11590" class="clusterblast-orf" id="general-13_q11_0_all"  />
+<polygon points="501,35 506,30 541,30 541,40 506,40 501,35 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11595&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 2727909 - 2729007" locus_tag="XNR_RS11595" class="clusterblast-orf" id="general-13_q12_0_all"  />
+<polygon points="541,35 546,30 579,30 579,40 546,40 541,35 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11600&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 2729003 - 2730068" locus_tag="XNR_RS11600" class="clusterblast-orf" id="general-13_q13_0_all"  />
+<polygon points="584,40 604,40 609,35 604,30 584,30 584,40 " style="fill:#15d88f; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11605&lt;/b&gt;&lt;br&gt;haloacid dehalogenase-like hydrolase&lt;br&gt;Location: 2730200 - 2730887" locus_tag="XNR_RS11605" class="clusterblast-orf" id="general-13_q14_0_all"  />
+<polygon points="654,40 687,40 692,35 687,30 654,30 654,40 " style="fill:#2e15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11610&lt;/b&gt;&lt;br&gt;YihY/virulence factor BrkB family protein&lt;br&gt;Location: 2732125 - 2733190" locus_tag="XNR_RS11610" class="clusterblast-orf" id="general-13_q15_0_all"  />
+<polygon points="705,40 762,40 767,35 762,30 705,30 705,40 " style="fill:#d8155e; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS11615&lt;/b&gt;&lt;br&gt;acyl-CoA dehydrogenase&lt;br&gt;Location: 2733556 - 2735266" locus_tag="XNR_RS11615" class="clusterblast-orf" id="general-13_q16_0_all"  />
+</g>
+<g label="NZ_CP014485" description="NZ_CP014485 (2980722-3003302): Streptomyces albidoflavus strain SM254 chromos... (100% of genes show similarity), lanthipeptide-class-iii" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP014485&amp;start=2980722&amp;end=3003302" target="_blank">NZ_CP014485 (2980722-3003302)</a>: Streptomyces albidoflavus strain SM254 chromos... (100% of genes show similarity), lanthipeptide-class-iii</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a13_000"  >
+<polygon points="15,90 29,90 34,85 29,80 15,80 15,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS12670&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2981912 - 2982436&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11535&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 335&lt;br&gt;E-value: 8.79e-118" locus_tag="Salbus254_RS12670" class="clusterblast-orf" id="general-13_all_13_1_0"  />
+</g>
+<g id="a13_001"  >
+<polygon points="34,90 55,90 60,85 55,80 34,80 34,90 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS12675&lt;/b&gt;&lt;br&gt;futalosine hydrolase&lt;br&gt;Location: 2982457 - 2983182&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11540&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 431&lt;br&gt;E-value: 1.59e-153" locus_tag="Salbus254_RS12675" class="clusterblast-orf" id="general-13_all_13_1_1"  />
+</g>
+<g id="a13_002"  >
+<polygon points="63,90 90,90 95,85 90,80 63,80 63,90 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS12680&lt;/b&gt;&lt;br&gt;1,4-dihydroxy-6-naphthoate synthase&lt;br&gt;Location: 2983250 - 2984146&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11545&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 586&lt;br&gt;E-value: 9.25e-213" locus_tag="Salbus254_RS12680" class="clusterblast-orf" id="general-13_all_13_1_2"  />
+</g>
+<g id="a13_003"  >
+<polygon points="99,85 104,80 113,80 113,90 104,90 99,85 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS33460&lt;/b&gt;&lt;br&gt;cold-shock protein&lt;br&gt;Location: 2984263 - 2984646&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS31190&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 134&lt;br&gt;E-value: 1.55e-40" locus_tag="Salbus254_RS33460" class="clusterblast-orf" id="general-13_all_13_1_3"  />
+</g>
+<g id="a13_004"  >
+<polygon points="118,90 122,90 127,85 122,80 118,80 118,90 " style="fill:#d85e15; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS12690&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2984788 - 2985039&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11555&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 157&lt;br&gt;E-value: 6.15e-50" locus_tag="Salbus254_RS12690" class="clusterblast-orf" id="general-13_all_13_1_4"  />
+</g>
+<g id="a13_005"  >
+<polygon points="137,90 159,90 164,85 159,80 137,80 137,90 " style="fill:#2ed815; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS12695&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 2985315 - 2986058&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11560&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 385&lt;br&gt;E-value: 4.42e-135" locus_tag="Salbus254_RS12695" class="clusterblast-orf" id="general-13_all_13_1_5"  />
+</g>
+<g id="a13_006"  >
+<polygon points="181,85 186,80 250,80 250,90 186,90 181,85 " style="fill:#158fd8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS33285&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2986520 - 2988451&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11565&lt;/b&gt;&lt;br&gt;Percentage identity: 95&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1080&lt;br&gt;E-value: 0.0" locus_tag="Salbus254_RS33285" class="clusterblast-orf" id="general-13_all_13_1_6"  />
+</g>
+<g id="a13_007"  >
+<polygon points="250,85 255,80 319,80 319,90 255,90 250,85 " style="fill:#c015d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS12705&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2988448 - 2990343&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11570&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1060&lt;br&gt;E-value: 0.0" locus_tag="Salbus254_RS12705" class="clusterblast-orf" id="general-13_all_13_1_7"  />
+</g>
+<g id="a13_008"  >
+<polygon points="324,85 329,80 329,80 329,90 329,90 324,85 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS12710&lt;/b&gt;&lt;br&gt;SapB/AmfS family lanthipeptide&lt;br&gt;Location: 2990502 - 2990633&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11575&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 86&lt;br&gt;E-value: 6.92e-23" locus_tag="Salbus254_RS12710" class="clusterblast-orf" id="general-13_all_13_1_8"  />
+</g>
+<g id="a13_009"  >
+<polygon points="332,85 337,80 425,80 425,90 337,90 332,85 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS12715&lt;/b&gt;&lt;br&gt;class III lanthionine synthetase LanKC&lt;br&gt;Location: 2990723 - 2993302&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11580&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1695&lt;br&gt;E-value: 0.0" locus_tag="Salbus254_RS12715" class="clusterblast-orf" id="general-13_all_13_1_9"  />
+</g>
+<g id="a13_0010"  >
+<polygon points="433,85 438,80 469,80 469,90 438,90 433,85 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS12720&lt;/b&gt;&lt;br&gt;iron-siderophore ABC transporter substrate-binding protein&lt;br&gt;Location: 2993520 - 2994497&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11585&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 603&lt;br&gt;E-value: 1.53e-218" locus_tag="Salbus254_RS12720" class="clusterblast-orf" id="general-13_all_13_1_10"  />
+</g>
+<g id="a13_0011"  >
+<polygon points="468,85 473,80 499,80 499,90 473,90 468,85 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS12725&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2994494 - 2995348&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11590&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 548&lt;br&gt;E-value: 4.02e-198" locus_tag="Salbus254_RS12725" class="clusterblast-orf" id="general-13_all_13_1_11"  />
+</g>
+<g id="a13_0012"  >
+<polygon points="499,85 504,80 539,80 539,90 504,90 499,85 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS12730&lt;/b&gt;&lt;br&gt;iron chelate uptake ABC transporter family permease subunit&lt;br&gt;Location: 2995345 - 2996442&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 641&lt;br&gt;E-value: 1.95e-232&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 150&lt;br&gt;E-value: 6.48e-40" locus_tag="Salbus254_RS12730" class="clusterblast-orf" id="general-13_all_13_1_12"  />
+</g>
+<g id="a13_0013"  >
+<polygon points="539,85 544,80 577,80 577,90 544,90 539,85 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS12735&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 2996439 - 2997503&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 155&lt;br&gt;E-value: 8.58e-42&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 615&lt;br&gt;E-value: 1.35e-222" locus_tag="Salbus254_RS12735" class="clusterblast-orf" id="general-13_all_13_1_13"  />
+</g>
+<g id="a13_0014"  >
+<polygon points="582,90 601,90 606,85 601,80 582,80 582,90 " style="fill:#15d88f; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS12740&lt;/b&gt;&lt;br&gt;HAD family hydrolase&lt;br&gt;Location: 2997636 - 2998322&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11605&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 427&lt;br&gt;E-value: 2.79e-152" locus_tag="Salbus254_RS12740" class="clusterblast-orf" id="general-13_all_13_1_14"  />
+</g>
+<g id="a13_0015"  >
+<polygon points="651,90 685,90 690,85 685,80 651,80 651,90 " style="fill:#2e15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS12745&lt;/b&gt;&lt;br&gt;YihY/virulence factor BrkB family protein&lt;br&gt;Location: 2999560 - 3000624&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11610&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 642&lt;br&gt;E-value: 5.87e-233" locus_tag="Salbus254_RS12745" class="clusterblast-orf" id="general-13_all_13_1_15"  />
+</g>
+<g id="a13_0016"  >
+<polygon points="694,90 759,90 764,85 759,80 694,80 694,90 " style="fill:#d8155e; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS12750&lt;/b&gt;&lt;br&gt;acyl-CoA dehydrogenase&lt;br&gt;Location: 3000745 - 3002700&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11615&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1119&lt;br&gt;E-value: 0.0" locus_tag="Salbus254_RS12750" class="clusterblast-orf" id="general-13_all_13_1_16"  />
+</g>
+<g label="NZ_CP063844" description="NZ_CP063844 (2883173-2905753): Streptomyces sp. A10(2020) chromosome, complet... (100% of genes show similarity), lanthipeptide-class-iii" class="clusterblast-cluster"  >
+<text x="5" y="120" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP063844&amp;start=2883173&amp;end=2905753" target="_blank">NZ_CP063844 (2883173-2905753)</a>: Streptomyces sp. A10(2020) chromosome, complet... (100% of genes show similarity), lanthipeptide-class-iii</text>
+<line x1="10" y1="135" x2="778.0" y2="135" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a13_000"  >
+<polygon points="14,140 28,140 33,135 28,130 14,130 14,140 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12370&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2884235 - 2884759&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11535&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 335&lt;br&gt;E-value: 8.79e-118" locus_tag="IPZ55_RS12370" class="clusterblast-orf" id="general-13_all_13_2_0"  />
+</g>
+<g id="a13_001"  >
+<polygon points="33,140 54,140 59,135 54,130 33,130 33,140 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12375&lt;/b&gt;&lt;br&gt;futalosine hydrolase&lt;br&gt;Location: 2884780 - 2885505&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11540&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 427&lt;br&gt;E-value: 1.07e-151" locus_tag="IPZ55_RS12375" class="clusterblast-orf" id="general-13_all_13_2_1"  />
+</g>
+<g id="a13_002"  >
+<polygon points="62,140 89,140 94,135 89,130 62,130 62,140 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12380&lt;/b&gt;&lt;br&gt;1,4-dihydroxy-6-naphthoate synthase&lt;br&gt;Location: 2885573 - 2886469&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11545&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 586&lt;br&gt;E-value: 9.25e-213" locus_tag="IPZ55_RS12380" class="clusterblast-orf" id="general-13_all_13_2_2"  />
+</g>
+<g id="a13_003"  >
+<polygon points="105,135 110,130 112,130 112,140 110,140 105,135 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12385&lt;/b&gt;&lt;br&gt;cold-shock protein&lt;br&gt;Location: 2886780 - 2886974&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS31190&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 134&lt;br&gt;E-value: 2.48e-41" locus_tag="IPZ55_RS12385" class="clusterblast-orf" id="general-13_all_13_2_3"  />
+</g>
+<g id="a13_004"  >
+<polygon points="118,140 122,140 127,135 122,130 118,130 118,140 " style="fill:#d85e15; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12390&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2887116 - 2887367&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11555&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 157&lt;br&gt;E-value: 6.15e-50" locus_tag="IPZ55_RS12390" class="clusterblast-orf" id="general-13_all_13_2_4"  />
+</g>
+<g id="a13_005"  >
+<polygon points="137,140 158,140 163,135 158,130 137,130 137,140 " style="fill:#2ed815; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12395&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 2887643 - 2888386&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11560&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 381&lt;br&gt;E-value: 1.47e-133" locus_tag="IPZ55_RS12395" class="clusterblast-orf" id="general-13_all_13_2_5"  />
+</g>
+<g id="a13_006"  >
+<polygon points="184,135 189,130 254,130 254,140 189,140 184,135 " style="fill:#158fd8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12400&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 2888970 - 2890901&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11565&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1073&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS12400" class="clusterblast-orf" id="general-13_all_13_2_6"  />
+</g>
+<g id="a13_007"  >
+<polygon points="254,135 259,130 322,130 322,140 259,140 254,135 " style="fill:#c015d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12405&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 2890898 - 2892793&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11570&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1062&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS12405" class="clusterblast-orf" id="general-13_all_13_2_7"  />
+</g>
+<g id="a13_008"  >
+<polygon points="328,135 333,130 333,130 333,140 333,140 328,135 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12410&lt;/b&gt;&lt;br&gt;SapB/AmfS family lanthipeptide&lt;br&gt;Location: 2892953 - 2893084&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11575&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 86&lt;br&gt;E-value: 6.92e-23" locus_tag="IPZ55_RS12410" class="clusterblast-orf" id="general-13_all_13_2_8"  />
+</g>
+<g id="a13_009"  >
+<polygon points="336,135 341,130 429,130 429,140 341,140 336,135 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12415&lt;/b&gt;&lt;br&gt;class III lanthionine synthetase LanKC&lt;br&gt;Location: 2893174 - 2895753&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11580&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1682&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS12415" class="clusterblast-orf" id="general-13_all_13_2_9"  />
+</g>
+<g id="a13_0010"  >
+<polygon points="437,135 442,130 472,130 472,140 442,140 437,135 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12420&lt;/b&gt;&lt;br&gt;iron-siderophore ABC transporter substrate-binding protein&lt;br&gt;Location: 2895971 - 2896948&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11585&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 592&lt;br&gt;E-value: 4.03e-214" locus_tag="IPZ55_RS12420" class="clusterblast-orf" id="general-13_all_13_2_10"  />
+</g>
+<g id="a13_0011"  >
+<polygon points="472,135 477,130 503,130 503,140 477,140 472,135 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12425&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2896945 - 2897799&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11590&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 546&lt;br&gt;E-value: 1.64e-197" locus_tag="IPZ55_RS12425" class="clusterblast-orf" id="general-13_all_13_2_11"  />
+</g>
+<g id="a13_0012"  >
+<polygon points="503,135 508,130 542,130 542,140 508,140 503,135 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12430&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 2897796 - 2898893&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 642&lt;br&gt;E-value: 6.8e-233&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 150&lt;br&gt;E-value: 3.32e-40" locus_tag="IPZ55_RS12430" class="clusterblast-orf" id="general-13_all_13_2_12"  />
+</g>
+<g id="a13_0013"  >
+<polygon points="542,135 547,130 581,130 581,140 547,140 542,135 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12435&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 2898890 - 2899954&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 155&lt;br&gt;E-value: 8.58e-42&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 615&lt;br&gt;E-value: 1.35e-222" locus_tag="IPZ55_RS12435" class="clusterblast-orf" id="general-13_all_13_2_13"  />
+</g>
+<g id="a13_0014"  >
+<polygon points="585,140 605,140 610,135 605,130 585,130 585,140 " style="fill:#15d88f; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12440&lt;/b&gt;&lt;br&gt;HAD family hydrolase&lt;br&gt;Location: 2900087 - 2900773&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11605&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 427&lt;br&gt;E-value: 2.79e-152" locus_tag="IPZ55_RS12440" class="clusterblast-orf" id="general-13_all_13_2_14"  />
+</g>
+<g id="a13_0015"  >
+<polygon points="652,140 685,140 690,135 685,130 652,130 652,140 " style="fill:#2e15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12445&lt;/b&gt;&lt;br&gt;YihY/virulence factor BrkB family protein&lt;br&gt;Location: 2901932 - 2902987&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11610&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 634&lt;br&gt;E-value: 8.32e-230" locus_tag="IPZ55_RS12445" class="clusterblast-orf" id="general-13_all_13_2_15"  />
+</g>
+<g id="a13_0016"  >
+<polygon points="703,140 760,140 765,135 760,130 703,130 703,140 " style="fill:#d8155e; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS12450&lt;/b&gt;&lt;br&gt;acyl-CoA oxidase&lt;br&gt;Location: 2903354 - 2905075&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11615&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 1108&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS12450" class="clusterblast-orf" id="general-13_all_13_2_16"  />
+</g>
+<g label="NZ_CP091820" description="NZ_CP091820 (564730-587316): Streptomyces sp. NBU3104 chromosome, complete ge... (100% of genes show similarity), lanthipeptide-class-iii" class="clusterblast-cluster"  >
+<text x="5" y="170" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP091820&amp;start=564730&amp;end=587316" target="_blank">NZ_CP091820 (564730-587316)</a>: Streptomyces sp. NBU3104 chromosome, complete ge... (100% of genes show similarity), lanthipeptide-class-iii</text>
+<line x1="10" y1="185" x2="778.0" y2="185" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a13_000"  >
+<polygon points="17,190 31,190 36,185 31,180 17,180 17,190 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02875&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 586003 - 585479&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11535&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 335&lt;br&gt;E-value: 8.79e-118" locus_tag="L2I08_RS02875" class="clusterblast-orf" id="general-13_all_13_3_0"  />
+</g>
+<g id="a13_001"  >
+<polygon points="36,190 58,190 63,185 58,180 36,180 36,190 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02870&lt;/b&gt;&lt;br&gt;futalosine hydrolase&lt;br&gt;Location: 585458 - 584733&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11540&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 429&lt;br&gt;E-value: 1.85e-152" locus_tag="L2I08_RS02870" class="clusterblast-orf" id="general-13_all_13_3_1"  />
+</g>
+<g id="a13_002"  >
+<polygon points="65,190 92,190 97,185 92,180 65,180 65,190 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02865&lt;/b&gt;&lt;br&gt;1,4-dihydroxy-6-naphthoate synthase&lt;br&gt;Location: 584665 - 583769&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11545&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 586&lt;br&gt;E-value: 9.25e-213" locus_tag="L2I08_RS02865" class="clusterblast-orf" id="general-13_all_13_3_2"  />
+</g>
+<g id="a13_003"  >
+<polygon points="108,185 113,180 115,180 115,190 113,190 108,185 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02860&lt;/b&gt;&lt;br&gt;cold-shock protein&lt;br&gt;Location: 583463 - 583269&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS31190&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 134&lt;br&gt;E-value: 2.48e-41" locus_tag="L2I08_RS02860" class="clusterblast-orf" id="general-13_all_13_3_3"  />
+</g>
+<g id="a13_004"  >
+<polygon points="121,190 125,190 130,185 125,180 121,180 121,190 " style="fill:#d85e15; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02855&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 583127 - 582876&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11555&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 157&lt;br&gt;E-value: 6.15e-50" locus_tag="L2I08_RS02855" class="clusterblast-orf" id="general-13_all_13_3_4"  />
+</g>
+<g id="a13_005"  >
+<polygon points="140,190 161,190 166,185 161,180 140,180 140,190 " style="fill:#2ed815; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02850&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 582600 - 581857&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11560&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 385&lt;br&gt;E-value: 4.42e-135" locus_tag="L2I08_RS02850" class="clusterblast-orf" id="general-13_all_13_3_5"  />
+</g>
+<g id="a13_006"  >
+<polygon points="178,185 183,180 248,180 248,190 183,190 178,185 " style="fill:#158fd8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02845&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 581538 - 579607&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11565&lt;/b&gt;&lt;br&gt;Percentage identity: 92&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1041&lt;br&gt;E-value: 0.0" locus_tag="L2I08_RS02845" class="clusterblast-orf" id="general-13_all_13_3_6"  />
+</g>
+<g id="a13_007"  >
+<polygon points="247,185 252,180 316,180 316,190 252,190 247,185 " style="fill:#c015d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02840&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 579610 - 577697&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11570&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 1050&lt;br&gt;E-value: 0.0" locus_tag="L2I08_RS02840" class="clusterblast-orf" id="general-13_all_13_3_7"  />
+</g>
+<g id="a13_008"  >
+<polygon points="322,185 327,180 327,180 327,190 327,190 322,185 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02835&lt;/b&gt;&lt;br&gt;SapB/AmfS family lanthipeptide&lt;br&gt;Location: 577537 - 577406&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11575&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 86&lt;br&gt;E-value: 6.92e-23" locus_tag="L2I08_RS02835" class="clusterblast-orf" id="general-13_all_13_3_8"  />
+</g>
+<g id="a13_009"  >
+<polygon points="330,185 335,180 423,180 423,190 335,190 330,185 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02830&lt;/b&gt;&lt;br&gt;class III lanthionine synthetase LanKC&lt;br&gt;Location: 577316 - 574731&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11580&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1676&lt;br&gt;E-value: 0.0" locus_tag="L2I08_RS02830" class="clusterblast-orf" id="general-13_all_13_3_9"  />
+</g>
+<g id="a13_0010"  >
+<polygon points="431,185 436,180 466,180 466,190 436,190 431,185 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02825&lt;/b&gt;&lt;br&gt;iron-siderophore ABC transporter substrate-binding protein&lt;br&gt;Location: 574518 - 573541&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11585&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 597&lt;br&gt;E-value: 4.21e-216" locus_tag="L2I08_RS02825" class="clusterblast-orf" id="general-13_all_13_3_10"  />
+</g>
+<g id="a13_0011"  >
+<polygon points="466,185 471,180 497,180 497,190 471,190 466,185 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02820&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 573544 - 572690&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11590&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 549&lt;br&gt;E-value: 9.88e-199" locus_tag="L2I08_RS02820" class="clusterblast-orf" id="general-13_all_13_3_11"  />
+</g>
+<g id="a13_0012"  >
+<polygon points="497,185 502,180 536,180 536,190 502,190 497,185 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02815&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 572693 - 571596&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 644&lt;br&gt;E-value: 2.38e-233&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 150&lt;br&gt;E-value: 4.64e-40" locus_tag="L2I08_RS02815" class="clusterblast-orf" id="general-13_all_13_3_12"  />
+</g>
+<g id="a13_0013"  >
+<polygon points="536,185 541,180 575,180 575,190 541,190 536,185 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02810&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 571599 - 570535&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 155&lt;br&gt;E-value: 8.58e-42&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 618&lt;br&gt;E-value: 1.64e-223" locus_tag="L2I08_RS02810" class="clusterblast-orf" id="general-13_all_13_3_13"  />
+</g>
+<g id="a13_0014"  >
+<polygon points="580,190 599,190 604,185 599,180 580,180 580,190 " style="fill:#15d88f; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02805&lt;/b&gt;&lt;br&gt;haloacid dehalogenase-like hydrolase&lt;br&gt;Location: 570402 - 569716&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11605&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 433&lt;br&gt;E-value: 1.44e-154" locus_tag="L2I08_RS02805" class="clusterblast-orf" id="general-13_all_13_3_14"  />
+</g>
+<g id="a13_0015"  >
+<polygon points="649,190 682,190 687,185 682,180 649,180 649,190 " style="fill:#2e15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02800&lt;/b&gt;&lt;br&gt;YihY/virulence factor BrkB family protein&lt;br&gt;Location: 568477 - 567413&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11610&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 644&lt;br&gt;E-value: 1.02e-233" locus_tag="L2I08_RS02800" class="clusterblast-orf" id="general-13_all_13_3_15"  />
+</g>
+<g id="a13_0016"  >
+<polygon points="701,190 757,190 762,185 757,180 701,180 701,190 " style="fill:#d8155e; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS02795&lt;/b&gt;&lt;br&gt;acyl-CoA dehydrogenase&lt;br&gt;Location: 567046 - 565337&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11615&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1111&lt;br&gt;E-value: 0.0" locus_tag="L2I08_RS02795" class="clusterblast-orf" id="general-13_all_13_3_16"  />
+</g>
+<g label="NZ_CP016824" description="NZ_CP016824 (4185522-4208102): Streptomyces sampsonii strain KJ40 chromosome,... (100% of genes show similarity), lanthipeptide-class-iii" class="clusterblast-cluster"  >
+<text x="5" y="220" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP016824&amp;start=4185522&amp;end=4208102" target="_blank">NZ_CP016824 (4185522-4208102)</a>: Streptomyces sampsonii strain KJ40 chromosome,... (100% of genes show similarity), lanthipeptide-class-iii</text>
+<line x1="10" y1="235" x2="778.0" y2="235" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a13_000"  >
+<polygon points="18,240 32,240 37,235 32,230 18,230 18,240 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18205&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4206942 - 4206418&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11535&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 332&lt;br&gt;E-value: 2.94e-116" locus_tag="BEN82_RS18205" class="clusterblast-orf" id="general-13_all_13_4_0"  />
+</g>
+<g id="a13_001"  >
+<polygon points="38,240 59,240 64,235 59,230 38,230 38,240 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18200&lt;/b&gt;&lt;br&gt;futalosine hydrolase&lt;br&gt;Location: 4206397 - 4205672&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11540&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 428&lt;br&gt;E-value: 2.63e-152" locus_tag="BEN82_RS18200" class="clusterblast-orf" id="general-13_all_13_4_1"  />
+</g>
+<g id="a13_002"  >
+<polygon points="66,240 94,240 99,235 94,230 66,230 66,240 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18195&lt;/b&gt;&lt;br&gt;1,4-dihydroxy-6-naphthoate synthase&lt;br&gt;Location: 4205604 - 4204708&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11545&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 581&lt;br&gt;E-value: 6.25e-211" locus_tag="BEN82_RS18195" class="clusterblast-orf" id="general-13_all_13_4_2"  />
+</g>
+<g id="a13_003"  >
+<polygon points="109,235 114,230 116,230 116,240 114,240 109,235 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS31950&lt;/b&gt;&lt;br&gt;cold-shock protein&lt;br&gt;Location: 4204409 - 4204215&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS31190&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 134&lt;br&gt;E-value: 2.48e-41" locus_tag="BEN82_RS31950" class="clusterblast-orf" id="general-13_all_13_4_3"  />
+</g>
+<g id="a13_004"  >
+<polygon points="121,240 125,240 130,235 125,230 121,230 121,240 " style="fill:#d85e15; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18185&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4204073 - 4203822&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11555&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 155&lt;br&gt;E-value: 2.51e-49" locus_tag="BEN82_RS18185" class="clusterblast-orf" id="general-13_all_13_4_4"  />
+</g>
+<g id="a13_005"  >
+<polygon points="140,240 163,240 168,235 163,230 140,230 140,240 " style="fill:#2ed815; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18180&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 4203546 - 4202794&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11560&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 102&lt;br&gt;BLAST bit score: 384&lt;br&gt;E-value: 1.41e-134" locus_tag="BEN82_RS18180" class="clusterblast-orf" id="general-13_all_13_4_5"  />
+</g>
+<g id="a13_006"  >
+<polygon points="185,235 190,230 255,230 255,240 190,240 185,235 " style="fill:#158fd8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18175&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4202305 - 4200374&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11565&lt;/b&gt;&lt;br&gt;Percentage identity: 95&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1082&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS18175" class="clusterblast-orf" id="general-13_all_13_4_6"  />
+</g>
+<g id="a13_007"  >
+<polygon points="255,235 260,230 323,230 323,240 260,240 255,235 " style="fill:#c015d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18170&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4200377 - 4198482&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11570&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1058&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS18170" class="clusterblast-orf" id="general-13_all_13_4_7"  />
+</g>
+<g id="a13_008"  >
+<polygon points="329,235 334,230 334,230 334,240 334,240 329,235 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18165&lt;/b&gt;&lt;br&gt;SapB/AmfS family lanthipeptide&lt;br&gt;Location: 4198323 - 4198192&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11575&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 86&lt;br&gt;E-value: 6.92e-23" locus_tag="BEN82_RS18165" class="clusterblast-orf" id="general-13_all_13_4_8"  />
+</g>
+<g id="a13_009"  >
+<polygon points="337,235 342,230 430,230 430,240 342,240 337,235 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18160&lt;/b&gt;&lt;br&gt;class III lanthionine synthetase LanKC&lt;br&gt;Location: 4198102 - 4195523&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11580&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1677&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS18160" class="clusterblast-orf" id="general-13_all_13_4_9"  />
+</g>
+<g id="a13_0010"  >
+<polygon points="438,235 443,230 473,230 473,240 443,240 438,235 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18155&lt;/b&gt;&lt;br&gt;iron-siderophore ABC transporter substrate-binding protein&lt;br&gt;Location: 4195305 - 4194328&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11585&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 598&lt;br&gt;E-value: 1.03e-216" locus_tag="BEN82_RS18155" class="clusterblast-orf" id="general-13_all_13_4_10"  />
+</g>
+<g id="a13_0011"  >
+<polygon points="473,235 478,230 504,230 504,240 478,240 473,235 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18150&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4194331 - 4193477&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11590&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 547&lt;br&gt;E-value: 8.12e-198" locus_tag="BEN82_RS18150" class="clusterblast-orf" id="general-13_all_13_4_11"  />
+</g>
+<g id="a13_0012"  >
+<polygon points="504,235 509,230 543,230 543,240 509,240 504,235 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18145&lt;/b&gt;&lt;br&gt;iron chelate uptake ABC transporter family permease subunit&lt;br&gt;Location: 4193480 - 4192383&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 636&lt;br&gt;E-value: 1.86e-230&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 149&lt;br&gt;E-value: 1.27e-39" locus_tag="BEN82_RS18145" class="clusterblast-orf" id="general-13_all_13_4_12"  />
+</g>
+<g id="a13_0013"  >
+<polygon points="543,235 548,230 581,230 581,240 548,240 543,235 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18140&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 4192386 - 4191322&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 155&lt;br&gt;E-value: 8.58e-42&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 615&lt;br&gt;E-value: 1.35e-222" locus_tag="BEN82_RS18140" class="clusterblast-orf" id="general-13_all_13_4_13"  />
+</g>
+<g id="a13_0014"  >
+<polygon points="586,240 606,240 611,235 606,230 586,230 586,240 " style="fill:#15d88f; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18135&lt;/b&gt;&lt;br&gt;haloacid dehalogenase-like hydrolase&lt;br&gt;Location: 4191189 - 4190503&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11605&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 429&lt;br&gt;E-value: 4.82e-153" locus_tag="BEN82_RS18135" class="clusterblast-orf" id="general-13_all_13_4_14"  />
+</g>
+<g id="a13_0015"  >
+<polygon points="648,240 681,240 686,235 681,230 648,230 648,240 " style="fill:#2e15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18130&lt;/b&gt;&lt;br&gt;YihY/virulence factor BrkB family protein&lt;br&gt;Location: 4189484 - 4188429&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11610&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 634&lt;br&gt;E-value: 8.32e-230" locus_tag="BEN82_RS18130" class="clusterblast-orf" id="general-13_all_13_4_15"  />
+</g>
+<g id="a13_0016"  >
+<polygon points="699,240 756,240 761,235 756,230 699,230 699,240 " style="fill:#d8155e; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS18125&lt;/b&gt;&lt;br&gt;acyl-CoA dehydrogenase&lt;br&gt;Location: 4188062 - 4186341&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11615&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 1097&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS18125" class="clusterblast-orf" id="general-13_all_13_4_16"  />
+</g>
+<g label="NZ_CP056773" description="NZ_CP056773 (2858082-2880668): Streptomyces violascens strain YIM 100212 chro... (100% of genes show similarity), lanthipeptide-class-iii" class="clusterblast-cluster"  >
+<text x="5" y="270" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP056773&amp;start=2858082&amp;end=2880668" target="_blank">NZ_CP056773 (2858082-2880668)</a>: Streptomyces violascens strain YIM 100212 chro... (100% of genes show similarity), lanthipeptide-class-iii</text>
+<line x1="10" y1="285" x2="778.0" y2="285" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a13_000"  >
+<polygon points="19,290 33,290 38,285 33,280 19,280 19,290 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12205&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2859323 - 2859847&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11535&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 335&lt;br&gt;E-value: 8.79e-118" locus_tag="HWN34_RS12205" class="clusterblast-orf" id="general-13_all_13_5_0"  />
+</g>
+<g id="a13_001"  >
+<polygon points="39,290 60,290 65,285 60,280 39,280 39,290 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12210&lt;/b&gt;&lt;br&gt;futalosine hydrolase&lt;br&gt;Location: 2859868 - 2860593&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11540&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 429&lt;br&gt;E-value: 1.85e-152" locus_tag="HWN34_RS12210" class="clusterblast-orf" id="general-13_all_13_5_1"  />
+</g>
+<g id="a13_002"  >
+<polygon points="67,290 95,290 100,285 95,280 67,280 67,290 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12215&lt;/b&gt;&lt;br&gt;1,4-dihydroxy-6-naphthoate synthase&lt;br&gt;Location: 2860661 - 2861557&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11545&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 586&lt;br&gt;E-value: 9.25e-213" locus_tag="HWN34_RS12215" class="clusterblast-orf" id="general-13_all_13_5_2"  />
+</g>
+<g id="a13_003"  >
+<polygon points="111,285 116,280 118,280 118,290 116,290 111,285 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS30270&lt;/b&gt;&lt;br&gt;cold-shock protein&lt;br&gt;Location: 2861863 - 2862057&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS31190&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 134&lt;br&gt;E-value: 2.48e-41" locus_tag="HWN34_RS30270" class="clusterblast-orf" id="general-13_all_13_5_3"  />
+</g>
+<g id="a13_004"  >
+<polygon points="123,290 127,290 132,285 127,280 123,280 123,290 " style="fill:#d85e15; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12225&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2862199 - 2862450&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11555&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 157&lt;br&gt;E-value: 6.15e-50" locus_tag="HWN34_RS12225" class="clusterblast-orf" id="general-13_all_13_5_4"  />
+</g>
+<g id="a13_005"  >
+<polygon points="142,290 164,290 169,285 164,280 142,280 142,290 " style="fill:#2ed815; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12230&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 2862726 - 2863469&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11560&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 387&lt;br&gt;E-value: 5.39e-136" locus_tag="HWN34_RS12230" class="clusterblast-orf" id="general-13_all_13_5_5"  />
+</g>
+<g id="a13_006"  >
+<polygon points="183,285 188,280 253,280 253,290 188,290 183,285 " style="fill:#158fd8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12235&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 2863856 - 2865805&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11565&lt;/b&gt;&lt;br&gt;Percentage identity: 95&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 1078&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS12235" class="clusterblast-orf" id="general-13_all_13_5_6"  />
+</g>
+<g id="a13_007"  >
+<polygon points="253,285 258,280 321,280 321,290 258,290 253,285 " style="fill:#c015d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12240&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 2865802 - 2867703&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11570&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 91&lt;br&gt;BLAST bit score: 1029&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS12240" class="clusterblast-orf" id="general-13_all_13_5_7"  />
+</g>
+<g id="a13_008"  >
+<polygon points="327,285 332,280 332,280 332,290 332,290 327,285 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12245&lt;/b&gt;&lt;br&gt;SapB/AmfS family lanthipeptide&lt;br&gt;Location: 2867862 - 2867993&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11575&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 86&lt;br&gt;E-value: 6.92e-23" locus_tag="HWN34_RS12245" class="clusterblast-orf" id="general-13_all_13_5_8"  />
+</g>
+<g id="a13_009"  >
+<polygon points="335,285 340,280 428,280 428,290 340,290 335,285 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12250&lt;/b&gt;&lt;br&gt;class III lanthionine synthetase LanKC&lt;br&gt;Location: 2868083 - 2870668&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11580&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1673&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS12250" class="clusterblast-orf" id="general-13_all_13_5_9"  />
+</g>
+<g id="a13_0010"  >
+<polygon points="436,285 441,280 471,280 471,290 441,290 436,285 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12255&lt;/b&gt;&lt;br&gt;iron-siderophore ABC transporter substrate-binding protein&lt;br&gt;Location: 2870886 - 2871863&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11585&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 599&lt;br&gt;E-value: 3.61e-217" locus_tag="HWN34_RS12255" class="clusterblast-orf" id="general-13_all_13_5_10"  />
+</g>
+<g id="a13_0011"  >
+<polygon points="471,285 476,280 502,280 502,290 476,290 471,285 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12260&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2871860 - 2872714&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11590&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 545&lt;br&gt;E-value: 3.3e-197" locus_tag="HWN34_RS12260" class="clusterblast-orf" id="general-13_all_13_5_11"  />
+</g>
+<g id="a13_0012"  >
+<polygon points="502,285 507,280 542,280 542,290 507,290 502,285 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12265&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 2872711 - 2873808&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 643&lt;br&gt;E-value: 4.79e-233&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 149&lt;br&gt;E-value: 9.06e-40" locus_tag="HWN34_RS12265" class="clusterblast-orf" id="general-13_all_13_5_12"  />
+</g>
+<g id="a13_0013"  >
+<polygon points="541,285 546,280 580,280 580,290 546,290 541,285 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12270&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 2873805 - 2874869&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 152&lt;br&gt;E-value: 8.97e-41&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 615&lt;br&gt;E-value: 1.91e-222" locus_tag="HWN34_RS12270" class="clusterblast-orf" id="general-13_all_13_5_13"  />
+</g>
+<g id="a13_0014"  >
+<polygon points="585,290 604,290 609,285 604,280 585,280 585,290 " style="fill:#15d88f; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12275&lt;/b&gt;&lt;br&gt;HAD family hydrolase&lt;br&gt;Location: 2875002 - 2875688&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11605&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 429&lt;br&gt;E-value: 6.85e-153" locus_tag="HWN34_RS12275" class="clusterblast-orf" id="general-13_all_13_5_14"  />
+</g>
+<g id="a13_0015"  >
+<polygon points="646,290 680,290 685,285 680,280 646,280 646,290 " style="fill:#2e15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12280&lt;/b&gt;&lt;br&gt;YihY/virulence factor BrkB family protein&lt;br&gt;Location: 2876709 - 2877773&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11610&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 642&lt;br&gt;E-value: 4.13e-233" locus_tag="HWN34_RS12280" class="clusterblast-orf" id="general-13_all_13_5_15"  />
+</g>
+<g id="a13_0016"  >
+<polygon points="698,290 755,290 760,285 755,280 698,280 698,290 " style="fill:#d8155e; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS12285&lt;/b&gt;&lt;br&gt;acyl-CoA oxidase&lt;br&gt;Location: 2878140 - 2879861&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11615&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 1108&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS12285" class="clusterblast-orf" id="general-13_all_13_5_16"  />
+</g>
+<g label="NZ_CP047147" description="NZ_CP047147 (4248041-4270627): Streptomyces sp. GF20 chromosome, complete genome (100% of genes show similarity), lanthipeptide-class-iii" class="clusterblast-cluster"  >
+<text x="5" y="320" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP047147&amp;start=4248041&amp;end=4270627" target="_blank">NZ_CP047147 (4248041-4270627)</a>: Streptomyces sp. GF20 chromosome, complete genome (100% of genes show similarity), lanthipeptide-class-iii</text>
+<line x1="10" y1="335" x2="778.0" y2="335" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a13_000"  >
+<polygon points="14,340 28,340 33,335 28,330 14,330 14,340 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18560&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4269477 - 4268953&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11535&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 335&lt;br&gt;E-value: 8.79e-118" locus_tag="GR131_RS18560" class="clusterblast-orf" id="general-13_all_13_6_0"  />
+</g>
+<g id="a13_001"  >
+<polygon points="33,340 55,340 60,335 55,330 33,330 33,340 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18555&lt;/b&gt;&lt;br&gt;futalosine hydrolase&lt;br&gt;Location: 4268932 - 4268207&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11540&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 427&lt;br&gt;E-value: 1.07e-151" locus_tag="GR131_RS18555" class="clusterblast-orf" id="general-13_all_13_6_1"  />
+</g>
+<g id="a13_002"  >
+<polygon points="62,340 89,340 94,335 89,330 62,330 62,340 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18550&lt;/b&gt;&lt;br&gt;1,4-dihydroxy-6-naphthoate synthase&lt;br&gt;Location: 4268139 - 4267246&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11545&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 590&lt;br&gt;E-value: 1.32e-214" locus_tag="GR131_RS18550" class="clusterblast-orf" id="general-13_all_13_6_2"  />
+</g>
+<g id="a13_003"  >
+<polygon points="105,335 110,330 112,330 112,340 110,340 105,335 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS32265&lt;/b&gt;&lt;br&gt;cold-shock protein&lt;br&gt;Location: 4266940 - 4266746&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS31190&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 134&lt;br&gt;E-value: 2.48e-41" locus_tag="GR131_RS32265" class="clusterblast-orf" id="general-13_all_13_6_3"  />
+</g>
+<g id="a13_004"  >
+<polygon points="117,340 121,340 126,335 121,330 117,330 117,340 " style="fill:#d85e15; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18540&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4266604 - 4266353&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11555&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 157&lt;br&gt;E-value: 6.15e-50" locus_tag="GR131_RS18540" class="clusterblast-orf" id="general-13_all_13_6_4"  />
+</g>
+<g id="a13_005"  >
+<polygon points="136,340 158,340 163,335 158,330 136,330 136,340 " style="fill:#2ed815; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18535&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 4266077 - 4265334&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11560&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 384&lt;br&gt;E-value: 1.8e-134" locus_tag="GR131_RS18535" class="clusterblast-orf" id="general-13_all_13_6_5"  />
+</g>
+<g id="a13_006"  >
+<polygon points="181,335 186,330 251,330 251,340 186,340 181,335 " style="fill:#158fd8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18530&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4264844 - 4262913&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11565&lt;/b&gt;&lt;br&gt;Percentage identity: 92&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1036&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS18530" class="clusterblast-orf" id="general-13_all_13_6_6"  />
+</g>
+<g id="a13_007"  >
+<polygon points="250,335 255,330 319,330 319,340 255,340 250,335 " style="fill:#c015d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18525&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4262916 - 4261003&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11570&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 1055&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS18525" class="clusterblast-orf" id="general-13_all_13_6_7"  />
+</g>
+<g id="a13_008"  >
+<polygon points="325,335 330,330 330,330 330,340 330,340 325,335 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18520&lt;/b&gt;&lt;br&gt;SapB/AmfS family lanthipeptide&lt;br&gt;Location: 4260848 - 4260717&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11575&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 86&lt;br&gt;E-value: 6.92e-23" locus_tag="GR131_RS18520" class="clusterblast-orf" id="general-13_all_13_6_8"  />
+</g>
+<g id="a13_009"  >
+<polygon points="333,335 338,330 426,330 426,340 338,340 333,335 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18515&lt;/b&gt;&lt;br&gt;class III lanthionine synthetase LanKC&lt;br&gt;Location: 4260627 - 4258042&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11580&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1682&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS18515" class="clusterblast-orf" id="general-13_all_13_6_9"  />
+</g>
+<g id="a13_0010"  >
+<polygon points="434,335 439,330 469,330 469,340 439,340 434,335 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18510&lt;/b&gt;&lt;br&gt;iron-siderophore ABC transporter substrate-binding protein&lt;br&gt;Location: 4257829 - 4256852&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11585&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 598&lt;br&gt;E-value: 7.28e-217" locus_tag="GR131_RS18510" class="clusterblast-orf" id="general-13_all_13_6_10"  />
+</g>
+<g id="a13_0011"  >
+<polygon points="469,335 474,330 500,330 500,340 474,340 469,335 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18505&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4256855 - 4256001&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11590&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 549&lt;br&gt;E-value: 9.88e-199" locus_tag="GR131_RS18505" class="clusterblast-orf" id="general-13_all_13_6_11"  />
+</g>
+<g id="a13_0012"  >
+<polygon points="500,335 505,330 539,330 539,340 505,340 500,335 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18500&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 4256004 - 4254907&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 635&lt;br&gt;E-value: 5.34e-230&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 38&lt;br&gt;Percentage coverage: 92&lt;br&gt;BLAST bit score: 153&lt;br&gt;E-value: 4.45e-41" locus_tag="GR131_RS18500" class="clusterblast-orf" id="general-13_all_13_6_12"  />
+</g>
+<g id="a13_0013"  >
+<polygon points="539,335 544,330 578,330 578,340 544,340 539,335 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18495&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 4254910 - 4253846&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 159&lt;br&gt;E-value: 2.13e-43&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 613&lt;br&gt;E-value: 1.1e-221" locus_tag="GR131_RS18495" class="clusterblast-orf" id="general-13_all_13_6_13"  />
+</g>
+<g id="a13_0014"  >
+<polygon points="582,340 602,340 607,335 602,330 582,330 582,340 " style="fill:#15d88f; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18490&lt;/b&gt;&lt;br&gt;HAD family hydrolase&lt;br&gt;Location: 4253713 - 4253027&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11605&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 431&lt;br&gt;E-value: 8.34e-154" locus_tag="GR131_RS18490" class="clusterblast-orf" id="general-13_all_13_6_14"  />
+</g>
+<g id="a13_0015"  >
+<polygon points="652,340 685,340 690,335 685,330 652,330 652,340 " style="fill:#2e15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18485&lt;/b&gt;&lt;br&gt;YihY/virulence factor BrkB family protein&lt;br&gt;Location: 4251788 - 4250733&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11610&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 636&lt;br&gt;E-value: 7.14e-231" locus_tag="GR131_RS18485" class="clusterblast-orf" id="general-13_all_13_6_15"  />
+</g>
+<g id="a13_0016"  >
+<polygon points="703,340 760,340 765,335 760,330 703,330 703,340 " style="fill:#d8155e; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS18480&lt;/b&gt;&lt;br&gt;acyl-CoA dehydrogenase&lt;br&gt;Location: 4250366 - 4248645&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11615&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 1101&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS18480" class="clusterblast-orf" id="general-13_all_13_6_16"  />
+</g>
+<g label="NZ_MNPQ01000004" description="NZ_MNPQ01000004 (306912-329504): Streptomyces albidoflavus strain OsiLf-2 Sca... (94% of genes show similarity), lanthipeptide-class-iii" class="clusterblast-cluster"  >
+<text x="5" y="370" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_MNPQ01000004&amp;start=306912&amp;end=329504" target="_blank">NZ_MNPQ01000004 (306912-329504)</a>: Streptomyces albidoflavus strain OsiLf-2 Sca... (94% of genes show similarity), lanthipeptide-class-iii</text>
+<line x1="10" y1="385" x2="778.0" y2="385" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a13_000"  >
+<polygon points="0,390 47,390 52,385 47,380 0,380 0,390 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11215&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 329458 - 328013" locus_tag="BGV78_RS11215" class="clusterblast-orf" id="general-13_all_13_7_0"  />
+</g>
+<g id="a13_001"  >
+<polygon points="53,390 67,390 72,385 67,380 53,380 53,390 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11210&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 327983 - 327459&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11535&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 334&lt;br&gt;E-value: 3.58e-117" locus_tag="BGV78_RS11210" class="clusterblast-orf" id="general-13_all_13_7_1"  />
+</g>
+<g id="a13_002"  >
+<polygon points="72,390 94,390 99,385 94,380 72,380 72,390 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11205&lt;/b&gt;&lt;br&gt;futalosine hydrolase&lt;br&gt;Location: 327438 - 326713&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11540&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 425&lt;br&gt;E-value: 4.35e-151" locus_tag="BGV78_RS11205" class="clusterblast-orf" id="general-13_all_13_7_2"  />
+</g>
+<g id="a13_003"  >
+<polygon points="101,390 128,390 133,385 128,380 101,380 101,390 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11200&lt;/b&gt;&lt;br&gt;1,4-dihydroxy-6-naphthoate synthase&lt;br&gt;Location: 326645 - 325749&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11545&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 586&lt;br&gt;E-value: 9.25e-213" locus_tag="BGV78_RS11200" class="clusterblast-orf" id="general-13_all_13_7_3"  />
+</g>
+<g id="a13_004"  >
+<polygon points="144,385 149,380 151,380 151,390 149,390 144,385 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS31610&lt;/b&gt;&lt;br&gt;cold-shock protein&lt;br&gt;Location: 325455 - 325261&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS31190&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 134&lt;br&gt;E-value: 2.48e-41" locus_tag="BGV78_RS31610" class="clusterblast-orf" id="general-13_all_13_7_4"  />
+</g>
+<g id="a13_005"  >
+<polygon points="156,390 160,390 165,385 160,380 156,380 156,390 " style="fill:#d85e15; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11190&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 325119 - 324868&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11555&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 157&lt;br&gt;E-value: 6.15e-50" locus_tag="BGV78_RS11190" class="clusterblast-orf" id="general-13_all_13_7_5"  />
+</g>
+<g id="a13_006"  >
+<polygon points="176,390 197,390 202,385 197,380 176,380 176,390 " style="fill:#2ed815; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11185&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 324559 - 323831&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11560&lt;/b&gt;&lt;br&gt;Percentage identity: 95&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 363&lt;br&gt;E-value: 1.77e-126" locus_tag="BGV78_RS11185" class="clusterblast-orf" id="general-13_all_13_7_6"  />
+</g>
+<g id="a13_007"  >
+<polygon points="208,385 213,380 278,380 278,390 213,390 208,385 " style="fill:#158fd8; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11180&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 323677 - 321746&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11565&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1077&lt;br&gt;E-value: 0.0" locus_tag="BGV78_RS11180" class="clusterblast-orf" id="general-13_all_13_7_7"  />
+</g>
+<g id="a13_008"  >
+<polygon points="278,385 283,380 345,380 345,390 283,390 278,385 " style="fill:#c015d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11175&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 321749 - 319884&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11570&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 91&lt;br&gt;BLAST bit score: 1028&lt;br&gt;E-value: 0.0" locus_tag="BGV78_RS11175" class="clusterblast-orf" id="general-13_all_13_7_8"  />
+</g>
+<g id="a13_009"  >
+<polygon points="351,385 355,380 355,390 351,385 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11170&lt;/b&gt;&lt;br&gt;SapB/AmfS family lanthipeptide&lt;br&gt;Location: 319725 - 319594&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11575&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 86&lt;br&gt;E-value: 6.92e-23" locus_tag="BGV78_RS11170" class="clusterblast-orf" id="general-13_all_13_7_9"  />
+</g>
+<g id="a13_0010"  >
+<polygon points="359,385 364,380 452,380 452,390 364,390 359,385 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11165&lt;/b&gt;&lt;br&gt;class III lanthionine synthetase LanKC&lt;br&gt;Location: 319504 - 316913&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11580&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1682&lt;br&gt;E-value: 0.0" locus_tag="BGV78_RS11165" class="clusterblast-orf" id="general-13_all_13_7_10"  />
+</g>
+<g id="a13_0011"  >
+<polygon points="460,385 465,380 495,380 495,390 465,390 460,385 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11160&lt;/b&gt;&lt;br&gt;iron-siderophore ABC transporter substrate-binding protein&lt;br&gt;Location: 316700 - 315723&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11585&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 595&lt;br&gt;E-value: 2.43e-215" locus_tag="BGV78_RS11160" class="clusterblast-orf" id="general-13_all_13_7_11"  />
+</g>
+<g id="a13_0012"  >
+<polygon points="495,385 500,380 526,380 526,390 500,390 495,385 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11155&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 315726 - 314872&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11590&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 544&lt;br&gt;E-value: 1.35e-196" locus_tag="BGV78_RS11155" class="clusterblast-orf" id="general-13_all_13_7_12"  />
+</g>
+<g id="a13_0013"  >
+<polygon points="525,385 530,380 565,380 565,390 530,390 525,385 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11150&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 314875 - 313778&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 637&lt;br&gt;E-value: 1.31e-230&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 92&lt;br&gt;BLAST bit score: 145&lt;br&gt;E-value: 2.56e-38" locus_tag="BGV78_RS11150" class="clusterblast-orf" id="general-13_all_13_7_13"  />
+</g>
+<g id="a13_0014"  >
+<polygon points="565,385 570,380 603,380 603,390 570,390 565,385 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11145&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 313781 - 312717&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 155&lt;br&gt;E-value: 8.58e-42&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 612&lt;br&gt;E-value: 2.23e-221" locus_tag="BGV78_RS11145" class="clusterblast-orf" id="general-13_all_13_7_14"  />
+</g>
+<g id="a13_0015"  >
+<polygon points="608,390 628,390 633,385 628,380 608,380 608,390 " style="fill:#15d88f; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11140&lt;/b&gt;&lt;br&gt;HAD family hydrolase&lt;br&gt;Location: 312584 - 311898&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11605&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 431&lt;br&gt;E-value: 8.34e-154" locus_tag="BGV78_RS11140" class="clusterblast-orf" id="general-13_all_13_7_15"  />
+</g>
+<g id="a13_0016"  >
+<polygon points="666,390 699,390 704,385 699,380 666,380 666,390 " style="fill:#2e15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11135&lt;/b&gt;&lt;br&gt;YihY/virulence factor BrkB family protein&lt;br&gt;Location: 310984 - 309920&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11610&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 636&lt;br&gt;E-value: 1.13e-230" locus_tag="BGV78_RS11135" class="clusterblast-orf" id="general-13_all_13_7_16"  />
+</g>
+<g id="a13_0017"  >
+<polygon points="717,390 775,390 780,385 775,380 717,380 717,390 " style="fill:#d8155e; stroke-width:1; stroke:black; " description="&lt;b&gt;BGV78_RS11130&lt;/b&gt;&lt;br&gt;acyl-CoA oxidase&lt;br&gt;Location: 309553 - 307832&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11615&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 1106&lt;br&gt;E-value: 0.0" locus_tag="BGV78_RS11130" class="clusterblast-orf" id="general-13_all_13_7_17"  />
+</g>
+<g label="NZ_AMPN02000002" description="NZ_AMPN02000002 (2771633-2794213): Streptomyces sp. SM8 Scaffold 2, whole gen... (100% of genes show similarity), lanthipeptide-class-iii" class="clusterblast-cluster"  >
+<text x="5" y="420" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_AMPN02000002&amp;start=2771633&amp;end=2794213" target="_blank">NZ_AMPN02000002 (2771633-2794213)</a>: Streptomyces sp. SM8 Scaffold 2, whole gen... (100% of genes show similarity), lanthipeptide-class-iii</text>
+<line x1="10" y1="435" x2="778.0" y2="435" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a13_000"  >
+<polygon points="18,440 32,440 37,435 32,430 18,430 18,440 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12745&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2772689 - 2773213&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11535&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 335&lt;br&gt;E-value: 8.79e-118" locus_tag="SM8_RS12745" class="clusterblast-orf" id="general-13_all_13_8_0"  />
+</g>
+<g id="a13_001"  >
+<polygon points="37,440 59,440 64,435 59,430 37,430 37,440 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12750&lt;/b&gt;&lt;br&gt;futalosine hydrolase&lt;br&gt;Location: 2773234 - 2773959&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11540&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 429&lt;br&gt;E-value: 1.85e-152" locus_tag="SM8_RS12750" class="clusterblast-orf" id="general-13_all_13_8_1"  />
+</g>
+<g id="a13_002"  >
+<polygon points="66,440 93,440 98,435 93,430 66,430 66,440 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12755&lt;/b&gt;&lt;br&gt;1,4-dihydroxy-6-naphthoate synthase&lt;br&gt;Location: 2774027 - 2774923&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11545&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 584&lt;br&gt;E-value: 3.77e-212" locus_tag="SM8_RS12755" class="clusterblast-orf" id="general-13_all_13_8_2"  />
+</g>
+<g id="a13_003"  >
+<polygon points="110,435 115,430 117,430 117,440 115,440 110,435 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS33605&lt;/b&gt;&lt;br&gt;cold-shock protein&lt;br&gt;Location: 2775239 - 2775433&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS31190&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 134&lt;br&gt;E-value: 2.48e-41" locus_tag="SM8_RS33605" class="clusterblast-orf" id="general-13_all_13_8_3"  />
+</g>
+<g id="a13_004"  >
+<polygon points="122,440 126,440 131,435 126,430 122,430 122,440 " style="fill:#d85e15; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12765&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2775575 - 2775826&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11555&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 157&lt;br&gt;E-value: 6.15e-50" locus_tag="SM8_RS12765" class="clusterblast-orf" id="general-13_all_13_8_4"  />
+</g>
+<g id="a13_005"  >
+<polygon points="141,440 163,440 168,435 163,430 141,430 141,440 " style="fill:#2ed815; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12770&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 2776102 - 2776845&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11560&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 389&lt;br&gt;E-value: 9.33e-137" locus_tag="SM8_RS12770" class="clusterblast-orf" id="general-13_all_13_8_5"  />
+</g>
+<g id="a13_006"  >
+<polygon points="189,435 194,430 248,430 248,440 194,440 189,435 " style="fill:#158fd8; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12775&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2777430 - 2779082&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11565&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 86&lt;br&gt;BLAST bit score: 933&lt;br&gt;E-value: 0.0" locus_tag="SM8_RS12775" class="clusterblast-orf" id="general-13_all_13_8_6"  />
+</g>
+<g id="a13_007"  >
+<polygon points="258,435 263,430 327,430 327,440 263,440 258,435 " style="fill:#c015d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12780&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2779359 - 2781254&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11570&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1084&lt;br&gt;E-value: 0.0" locus_tag="SM8_RS12780" class="clusterblast-orf" id="general-13_all_13_8_7"  />
+</g>
+<g id="a13_008"  >
+<polygon points="332,435 337,430 337,430 337,440 337,440 332,435 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12785&lt;/b&gt;&lt;br&gt;SapB/AmfS family lanthipeptide&lt;br&gt;Location: 2781413 - 2781544&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11575&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 86&lt;br&gt;E-value: 6.92e-23" locus_tag="SM8_RS12785" class="clusterblast-orf" id="general-13_all_13_8_8"  />
+</g>
+<g id="a13_009"  >
+<polygon points="340,435 345,430 433,430 433,440 345,440 340,435 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12790&lt;/b&gt;&lt;br&gt;class III lanthionine synthetase LanKC&lt;br&gt;Location: 2781634 - 2784213&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11580&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1694&lt;br&gt;E-value: 0.0" locus_tag="SM8_RS12790" class="clusterblast-orf" id="general-13_all_13_8_9"  />
+</g>
+<g id="a13_0010"  >
+<polygon points="441,435 446,430 477,430 477,440 446,440 441,435 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12795&lt;/b&gt;&lt;br&gt;iron-siderophore ABC transporter substrate-binding protein&lt;br&gt;Location: 2784431 - 2785408&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11585&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 595&lt;br&gt;E-value: 2.43e-215" locus_tag="SM8_RS12795" class="clusterblast-orf" id="general-13_all_13_8_10"  />
+</g>
+<g id="a13_0011"  >
+<polygon points="476,435 481,430 507,430 507,440 481,440 476,435 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12800&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2785405 - 2786259&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11590&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 549&lt;br&gt;E-value: 9.88e-199" locus_tag="SM8_RS12800" class="clusterblast-orf" id="general-13_all_13_8_11"  />
+</g>
+<g id="a13_0012"  >
+<polygon points="507,435 512,430 547,430 547,440 512,440 507,435 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12805&lt;/b&gt;&lt;br&gt;iron chelate uptake ABC transporter family permease subunit&lt;br&gt;Location: 2786256 - 2787353&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 642&lt;br&gt;E-value: 9.66e-233&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 157&lt;br&gt;E-value: 1.11e-42" locus_tag="SM8_RS12805" class="clusterblast-orf" id="general-13_all_13_8_12"  />
+</g>
+<g id="a13_0013"  >
+<polygon points="547,435 552,430 585,430 585,440 552,440 547,435 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12810&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 2787350 - 2788414&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 155&lt;br&gt;E-value: 8.58e-42&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 615&lt;br&gt;E-value: 1.35e-222" locus_tag="SM8_RS12810" class="clusterblast-orf" id="general-13_all_13_8_13"  />
+</g>
+<g id="a13_0014"  >
+<polygon points="590,440 610,440 615,435 610,430 590,430 590,440 " style="fill:#15d88f; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12815&lt;/b&gt;&lt;br&gt;HAD family hydrolase&lt;br&gt;Location: 2788547 - 2789233&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11605&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 431&lt;br&gt;E-value: 8.34e-154" locus_tag="SM8_RS12815" class="clusterblast-orf" id="general-13_all_13_8_14"  />
+</g>
+<g id="a13_0015"  >
+<polygon points="647,440 681,440 686,435 681,430 647,430 647,440 " style="fill:#2e15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12820&lt;/b&gt;&lt;br&gt;YihY/virulence factor BrkB family protein&lt;br&gt;Location: 2790146 - 2791210&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11610&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 642&lt;br&gt;E-value: 4.13e-233" locus_tag="SM8_RS12820" class="clusterblast-orf" id="general-13_all_13_8_15"  />
+</g>
+<g id="a13_0016"  >
+<polygon points="699,440 756,440 761,435 756,430 699,430 699,440 " style="fill:#d8155e; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS12825&lt;/b&gt;&lt;br&gt;acyl-CoA oxidase&lt;br&gt;Location: 2791577 - 2793298&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11615&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 1105&lt;br&gt;E-value: 0.0" locus_tag="SM8_RS12825" class="clusterblast-orf" id="general-13_all_13_8_16"  />
+</g>
+<g label="NZ_JAHUVY010000001" description="NZ_JAHUVY010000001 (4095132-4117718): Streptomyces albidoflavus strain LGO-A1... (100% of genes show similarity), lanthipeptide-class-iii" class="clusterblast-cluster"  >
+<text x="5" y="470" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_JAHUVY010000001&amp;start=4095132&amp;end=4117718" target="_blank">NZ_JAHUVY010000001 (4095132-4117718)</a>: Streptomyces albidoflavus strain LGO-A1... (100% of genes show similarity), lanthipeptide-class-iii</text>
+<line x1="10" y1="485" x2="778.0" y2="485" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a13_000"  >
+<polygon points="21,490 35,490 40,485 35,480 21,480 21,490 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17945&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4116277 - 4115753&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11535&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 334&lt;br&gt;E-value: 3.58e-117" locus_tag="STALF3_RS17945" class="clusterblast-orf" id="general-13_all_13_9_0"  />
+</g>
+<g id="a13_001"  >
+<polygon points="41,490 61,490 66,485 61,480 41,480 41,490 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17940&lt;/b&gt;&lt;br&gt;futalosine hydrolase&lt;br&gt;Location: 4115726 - 4115007&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11540&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 417&lt;br&gt;E-value: 9.12e-148" locus_tag="STALF3_RS17940" class="clusterblast-orf" id="general-13_all_13_9_1"  />
+</g>
+<g id="a13_002"  >
+<polygon points="70,490 97,490 102,485 97,480 70,480 70,490 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17935&lt;/b&gt;&lt;br&gt;1,4-dihydroxy-6-naphthoate synthase&lt;br&gt;Location: 4114921 - 4114019&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11545&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 580&lt;br&gt;E-value: 1.93e-210" locus_tag="STALF3_RS17935" class="clusterblast-orf" id="general-13_all_13_9_2"  />
+</g>
+<g id="a13_003"  >
+<polygon points="113,485 118,480 120,480 120,490 118,490 113,485 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS31210&lt;/b&gt;&lt;br&gt;cold-shock protein&lt;br&gt;Location: 4113725 - 4113531&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS31190&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 134&lt;br&gt;E-value: 2.48e-41" locus_tag="STALF3_RS31210" class="clusterblast-orf" id="general-13_all_13_9_3"  />
+</g>
+<g id="a13_004"  >
+<polygon points="122,490 129,490 134,485 129,480 122,480 122,490 " style="fill:#d85e15; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17925&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4113467 - 4113138&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11555&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 155&lt;br&gt;E-value: 5.54e-49" locus_tag="STALF3_RS17925" class="clusterblast-orf" id="general-13_all_13_9_4"  />
+</g>
+<g id="a13_005"  >
+<polygon points="144,490 166,490 171,485 166,480 144,480 144,490 " style="fill:#2ed815; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17920&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 4112862 - 4112119&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11560&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 387&lt;br&gt;E-value: 5.39e-136" locus_tag="STALF3_RS17920" class="clusterblast-orf" id="general-13_all_13_9_5"  />
+</g>
+<g id="a13_006"  >
+<polygon points="177,485 182,480 245,480 245,490 182,490 177,485 " style="fill:#158fd8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17915&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 4111942 - 4110053&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11565&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 1058&lt;br&gt;E-value: 0.0" locus_tag="STALF3_RS17915" class="clusterblast-orf" id="general-13_all_13_9_6"  />
+</g>
+<g id="a13_007"  >
+<polygon points="247,485 252,480 316,480 316,490 252,490 247,485 " style="fill:#c015d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17910&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 4110014 - 4108098&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11570&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 1011&lt;br&gt;E-value: 0.0" locus_tag="STALF3_RS17910" class="clusterblast-orf" id="general-13_all_13_9_7"  />
+</g>
+<g id="a13_008"  >
+<polygon points="321,485 326,480 326,480 326,490 326,490 321,485 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17905&lt;/b&gt;&lt;br&gt;SapB/AmfS family lanthipeptide&lt;br&gt;Location: 4107939 - 4107808&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11575&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 86&lt;br&gt;E-value: 6.92e-23" locus_tag="STALF3_RS17905" class="clusterblast-orf" id="general-13_all_13_9_8"  />
+</g>
+<g id="a13_009"  >
+<polygon points="329,485 334,480 423,480 423,490 334,490 329,485 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17900&lt;/b&gt;&lt;br&gt;class III lanthionine synthetase LanKC&lt;br&gt;Location: 4107718 - 4105133&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11580&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1673&lt;br&gt;E-value: 0.0" locus_tag="STALF3_RS17900" class="clusterblast-orf" id="general-13_all_13_9_9"  />
+</g>
+<g id="a13_0010"  >
+<polygon points="431,485 436,480 466,480 466,490 436,490 431,485 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17895&lt;/b&gt;&lt;br&gt;iron-siderophore ABC transporter substrate-binding protein&lt;br&gt;Location: 4104914 - 4103937&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11585&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 592&lt;br&gt;E-value: 4.03e-214" locus_tag="STALF3_RS17895" class="clusterblast-orf" id="general-13_all_13_9_10"  />
+</g>
+<g id="a13_0011"  >
+<polygon points="466,485 471,480 496,480 496,490 471,490 466,485 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17890&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4103940 - 4103086&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11590&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 548&lt;br&gt;E-value: 2.83e-198" locus_tag="STALF3_RS17890" class="clusterblast-orf" id="general-13_all_13_9_11"  />
+</g>
+<g id="a13_0012"  >
+<polygon points="496,485 501,480 535,480 535,490 501,490 496,485 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17885&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 4103089 - 4102007&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 626&lt;br&gt;E-value: 2.01e-226&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 38&lt;br&gt;Percentage coverage: 92&lt;br&gt;BLAST bit score: 150&lt;br&gt;E-value: 2.98e-40" locus_tag="STALF3_RS17885" class="clusterblast-orf" id="general-13_all_13_9_12"  />
+</g>
+<g id="a13_0013"  >
+<polygon points="536,485 541,480 574,480 574,490 541,490 536,485 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17880&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 4101995 - 4100931&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 155&lt;br&gt;E-value: 8.58e-42&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 615&lt;br&gt;E-value: 1.35e-222" locus_tag="STALF3_RS17880" class="clusterblast-orf" id="general-13_all_13_9_13"  />
+</g>
+<g id="a13_0014"  >
+<polygon points="579,490 599,490 604,485 599,480 579,480 579,490 " style="fill:#15d88f; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17875&lt;/b&gt;&lt;br&gt;HAD family hydrolase&lt;br&gt;Location: 4100798 - 4100112&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11605&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 429&lt;br&gt;E-value: 4.82e-153" locus_tag="STALF3_RS17875" class="clusterblast-orf" id="general-13_all_13_9_14"  />
+</g>
+<g id="a13_0015"  >
+<polygon points="645,490 678,490 683,485 678,480 645,480 645,490 " style="fill:#2e15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17870&lt;/b&gt;&lt;br&gt;YihY/virulence factor BrkB family protein&lt;br&gt;Location: 4098957 - 4097902&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11610&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 636&lt;br&gt;E-value: 7.14e-231" locus_tag="STALF3_RS17870" class="clusterblast-orf" id="general-13_all_13_9_15"  />
+</g>
+<g id="a13_0016"  >
+<polygon points="697,490 753,490 758,485 753,480 697,480 697,490 " style="fill:#d8155e; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF3_RS17865&lt;/b&gt;&lt;br&gt;acyl-CoA oxidase&lt;br&gt;Location: 4097535 - 4095826&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11615&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1106&lt;br&gt;E-value: 0.0" locus_tag="STALF3_RS17865" class="clusterblast-orf" id="general-13_all_13_9_16"  />
+</g>
+<g label="NZ_AP025692" description="NZ_AP025692 (4146452-4169026): Streptomyces sp. PLM4 chromosome (94% of genes show similarity), lanthipeptide-class-iii" class="clusterblast-cluster"  >
+<text x="5" y="520" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_AP025692&amp;start=4146452&amp;end=4169026" target="_blank">NZ_AP025692 (4146452-4169026)</a>: Streptomyces sp. PLM4 chromosome (94% of genes show similarity), lanthipeptide-class-iii</text>
+<line x1="10" y1="535" x2="778.0" y2="535" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a13_000"  >
+<polygon points="9,540 23,540 28,535 23,530 9,530 9,540 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18230&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4167723 - 4167199&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11535&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 335&lt;br&gt;E-value: 8.79e-118" locus_tag="MTP06_RS18230" class="clusterblast-orf" id="general-13_all_13_10_0"  />
+</g>
+<g id="a13_001"  >
+<polygon points="29,540 50,540 55,535 50,530 29,530 29,540 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18225&lt;/b&gt;&lt;br&gt;futalosine hydrolase&lt;br&gt;Location: 4167178 - 4166453&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11540&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 427&lt;br&gt;E-value: 1.07e-151" locus_tag="MTP06_RS18225" class="clusterblast-orf" id="general-13_all_13_10_1"  />
+</g>
+<g id="a13_002"  >
+<polygon points="57,540 85,540 90,535 85,530 57,530 57,540 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18220&lt;/b&gt;&lt;br&gt;1,4-dihydroxy-6-naphthoate synthase&lt;br&gt;Location: 4166385 - 4165489&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11545&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 583&lt;br&gt;E-value: 1.53e-211" locus_tag="MTP06_RS18220" class="clusterblast-orf" id="general-13_all_13_10_2"  />
+</g>
+<g id="a13_003"  >
+<polygon points="101,535 106,530 108,530 108,540 106,540 101,535 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18215&lt;/b&gt;&lt;br&gt;cold-shock protein&lt;br&gt;Location: 4165184 - 4164990&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS31190&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 134&lt;br&gt;E-value: 2.48e-41" locus_tag="MTP06_RS18215" class="clusterblast-orf" id="general-13_all_13_10_3"  />
+</g>
+<g id="a13_004"  >
+<polygon points="113,540 117,540 122,535 117,530 113,530 113,540 " style="fill:#d85e15; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18210&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4164848 - 4164597&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11555&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 157&lt;br&gt;E-value: 6.15e-50" locus_tag="MTP06_RS18210" class="clusterblast-orf" id="general-13_all_13_10_4"  />
+</g>
+<g id="a13_005"  >
+<polygon points="132,540 153,540 158,535 153,530 132,530 132,540 " style="fill:#2ed815; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18205&lt;/b&gt;&lt;br&gt;response regulator transcription factor&lt;br&gt;Location: 4164321 - 4163578&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11560&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 387&lt;br&gt;E-value: 5.39e-136" locus_tag="MTP06_RS18205" class="clusterblast-orf" id="general-13_all_13_10_5"  />
+</g>
+<g id="a13_006"  >
+<polygon points="172,535 177,530 242,530 242,540 177,540 172,535 " style="fill:#158fd8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18200&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 4163202 - 4161271&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11565&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1077&lt;br&gt;E-value: 0.0" locus_tag="MTP06_RS18200" class="clusterblast-orf" id="general-13_all_13_10_6"  />
+</g>
+<g id="a13_007"  >
+<polygon points="242,535 247,530 310,530 310,540 247,540 242,535 " style="fill:#c015d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18195&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 4161274 - 4159379&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11570&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1042&lt;br&gt;E-value: 0.0" locus_tag="MTP06_RS18195" class="clusterblast-orf" id="general-13_all_13_10_7"  />
+</g>
+<g id="a13_008"  >
+<polygon points="315,535 319,530 319,540 315,535 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18190&lt;/b&gt;&lt;br&gt;SapB/AmfS family lanthipeptide&lt;br&gt;Location: 4159247 - 4159116&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11575&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 86&lt;br&gt;E-value: 6.92e-23" locus_tag="MTP06_RS18190" class="clusterblast-orf" id="general-13_all_13_10_8"  />
+</g>
+<g id="a13_009"  >
+<polygon points="323,535 328,530 415,530 415,540 328,540 323,535 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18185&lt;/b&gt;&lt;br&gt;class III lanthionine synthetase LanKC&lt;br&gt;Location: 4159026 - 4156453&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11580&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1676&lt;br&gt;E-value: 0.0" locus_tag="MTP06_RS18185" class="clusterblast-orf" id="general-13_all_13_10_9"  />
+</g>
+<g id="a13_0010"  >
+<polygon points="423,535 428,530 458,530 458,540 428,540 423,535 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18180&lt;/b&gt;&lt;br&gt;iron-siderophore ABC transporter substrate-binding protein&lt;br&gt;Location: 4156240 - 4155263&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11585&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 598&lt;br&gt;E-value: 1.03e-216" locus_tag="MTP06_RS18180" class="clusterblast-orf" id="general-13_all_13_10_10"  />
+</g>
+<g id="a13_0011"  >
+<polygon points="458,535 463,530 489,530 489,540 463,540 458,535 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18175&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4155266 - 4154412&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11590&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 545&lt;br&gt;E-value: 6.67e-197" locus_tag="MTP06_RS18175" class="clusterblast-orf" id="general-13_all_13_10_11"  />
+</g>
+<g id="a13_0012"  >
+<polygon points="489,535 494,530 529,530 529,540 494,540 489,535 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18170&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 4154415 - 4153318&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 642&lt;br&gt;E-value: 9.66e-233&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 157&lt;br&gt;E-value: 1.11e-42" locus_tag="MTP06_RS18170" class="clusterblast-orf" id="general-13_all_13_10_12"  />
+</g>
+<g id="a13_0013"  >
+<polygon points="528,535 533,530 567,530 567,540 533,540 528,535 " style="fill:#c0d815; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18165&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 4153321 - 4152257&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11595&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 156&lt;br&gt;E-value: 2.24e-42&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11600&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 616&lt;br&gt;E-value: 6.68e-223" locus_tag="MTP06_RS18165" class="clusterblast-orf" id="general-13_all_13_10_13"  />
+</g>
+<g id="a13_0014"  >
+<polygon points="572,540 591,540 596,535 591,530 572,530 572,540 " style="fill:#15d88f; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18160&lt;/b&gt;&lt;br&gt;HAD family hydrolase&lt;br&gt;Location: 4152124 - 4151438&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11605&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 426&lt;br&gt;E-value: 8e-152" locus_tag="MTP06_RS18160" class="clusterblast-orf" id="general-13_all_13_10_14"  />
+</g>
+<g id="a13_0015"  >
+<polygon points="628,535 633,530 648,530 648,540 633,540 628,535 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18155&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 4150547 - 4150006" locus_tag="MTP06_RS18155" class="clusterblast-orf" id="general-13_all_13_10_15"  />
+</g>
+<g id="a13_0016"  >
+<polygon points="657,540 690,540 695,535 690,530 657,530 657,540 " style="fill:#2e15d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18150&lt;/b&gt;&lt;br&gt;YihY/virulence factor BrkB family protein&lt;br&gt;Location: 4149764 - 4148709&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11610&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 634&lt;br&gt;E-value: 5.86e-230" locus_tag="MTP06_RS18150" class="clusterblast-orf" id="general-13_all_13_10_16"  />
+</g>
+<g id="a13_0017"  >
+<polygon points="708,540 765,540 770,535 765,530 708,530 708,540 " style="fill:#d8155e; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS18145&lt;/b&gt;&lt;br&gt;acyl-CoA oxidase&lt;br&gt;Location: 4148342 - 4146621&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS11615&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 1100&lt;br&gt;E-value: 0.0" locus_tag="MTP06_RS18145" class="clusterblast-orf" id="general-13_all_13_10_17"  />
+</g>
+</svg>

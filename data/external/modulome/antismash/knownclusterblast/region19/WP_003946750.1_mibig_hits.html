@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ACK77754.1</td>
+              <td>putative_indigoidine_synthase_IndA</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000727/1">BGC0000727</a></td>
+              <td>Saccharide</td>
+              <td>75.0</td>
+              <td>97.8</td>
+              <td>428.0</td>
+              <td>8.44e-152</td>
+          </tr>
+    
+          <tr>
+              <td>QDX19370.1</td>
+              <td>Pseudouridine-5&#39;-phosphate_glycosidase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002295/1">BGC0002295</a></td>
+              <td>NRP+Saccharide</td>
+              <td>72.0</td>
+              <td>97.4</td>
+              <td>413.0</td>
+              <td>1.14e-145</td>
+          </tr>
+    
+          <tr>
+              <td>AFV27435.1</td>
+              <td>IndA</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000375/1">BGC0000375</a></td>
+              <td>NRP</td>
+              <td>71.0</td>
+              <td>96.2</td>
+              <td>407.0</td>
+              <td>1.53e-143</td>
+          </tr>
+    
+          <tr>
+              <td>KKZ73237.1</td>
+              <td>pseudouridine-5&#39;-phosphate_glycosidase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001778/1">BGC0001778</a></td>
+              <td>Other</td>
+              <td>51.0</td>
+              <td>94.9</td>
+              <td>265.0</td>
+              <td>2.72e-87</td>
+          </tr>
+    
+          <tr>
+              <td>ACI88875.1</td>
+              <td>prealnumycin_C-ribosylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000195/1">BGC0000195</a></td>
+              <td>Polyketide:Type II polyketide</td>
+              <td>48.0</td>
+              <td>93.3</td>
+              <td>231.0</td>
+              <td>3.57e-74</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

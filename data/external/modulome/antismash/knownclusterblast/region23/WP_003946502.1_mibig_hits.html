@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>WP_003946502.1</td>
+              <td>1,2-phenylacetyl-CoA_epoxidase_subunit_B</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000958/1">BGC0000958</a></td>
+              <td>NRP:Cyclic depsipeptide+Polyketide:Modular type I polyketide</td>
+              <td>100.0</td>
+              <td>100.0</td>
+              <td>211.0</td>
+              <td>6.23e-73</td>
+          </tr>
+    
+          <tr>
+              <td>antaI</td>
+              <td>1,2-phenylacetate-CoA_epoxidase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001455/1">BGC0001455</a></td>
+              <td>NRP+Polyketide</td>
+              <td>74.0</td>
+              <td>96.0</td>
+              <td>154.0</td>
+              <td>5.21e-50</td>
+          </tr>
+    
+          <tr>
+              <td>BBD17748.1</td>
+              <td>epoxidase_complex_component</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001918/1">BGC0001918</a></td>
+              <td>NRP+Polyketide</td>
+              <td>74.0</td>
+              <td>89.0</td>
+              <td>144.0</td>
+              <td>1.92e-46</td>
+          </tr>
+    
+          <tr>
+              <td>AKA54633.1</td>
+              <td>phenylacetate-CoA_oxygenase_PaaB</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001216/1">BGC0001216</a></td>
+              <td>NRP+Polyketide</td>
+              <td>98.0</td>
+              <td>64.0</td>
+              <td>132.0</td>
+              <td>5.76e-42</td>
+          </tr>
+    
+          <tr>
+              <td>BBD17769.1</td>
+              <td>epoxidase_component</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001919/1">BGC0001919</a></td>
+              <td>NRP+Polyketide</td>
+              <td>67.0</td>
+              <td>86.0</td>
+              <td>129.0</td>
+              <td>3.5e-40</td>
+          </tr>
+    
+          <tr>
+              <td>AWX24491.1</td>
+              <td>phenylacetate-CoA_oxygenase_subunit</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001695/1">BGC0001695</a></td>
+              <td>NRP</td>
+              <td>68.0</td>
+              <td>83.0</td>
+              <td>125.0</td>
+              <td>1.28e-38</td>
+          </tr>
+    
+          <tr>
+              <td>CBH32822.1</td>
+              <td>putative_phenylacetic_acid_degradation_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000263/1">BGC0000263</a></td>
+              <td>Polyketide</td>
+              <td>61.0</td>
+              <td>84.0</td>
+              <td>104.0</td>
+              <td>2.51e-30</td>
+          </tr>
+    
+          <tr>
+              <td>CAC44650.1</td>
+              <td>putative_phenylacetic_acid_degradation_protein_PaaB</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002128/1">BGC0002128</a></td>
+              <td>Other</td>
+              <td>57.0</td>
+              <td>75.0</td>
+              <td>96.0</td>
+              <td>5.09e-27</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

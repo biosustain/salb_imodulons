@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,40 97,40 102,35 97,30 0,30 0,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03700&lt;/b&gt;&lt;br&gt;DUF839 domain-containing protein&lt;br&gt;Location: 879991 - 881356" locus_tag="XNR_RS03700" class="clusterblast-orf" id="dummy-6_q0_0_all"  />
+<polygon points="107,35 112,30 175,30 175,40 112,40 107,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03705&lt;/b&gt;&lt;br&gt;SDR family NAD(P)-dependent oxidoreductase&lt;br&gt;Location: 881423 - 882338" locus_tag="XNR_RS03705" class="clusterblast-orf" id="dummy-6_q1_0_all"  />
+<polygon points="187,40 227,40 232,35 227,30 187,30 187,40 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03710&lt;/b&gt;&lt;br&gt;TetR family transcriptional regulator&lt;br&gt;Location: 882502 - 883108" locus_tag="XNR_RS03710" class="clusterblast-orf" id="dummy-6_q2_0_all"  />
+<polygon points="242,40 301,40 306,35 301,30 242,30 242,40 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03715&lt;/b&gt;&lt;br&gt;polysaccharide deacetylase family protein&lt;br&gt;Location: 883235 - 884105" locus_tag="XNR_RS03715" class="clusterblast-orf" id="dummy-6_q3_0_all"  />
+<polygon points="309,40 357,40 362,35 357,30 309,30 309,40 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03720&lt;/b&gt;&lt;br&gt;peptidyl-tRNA hydrolase&lt;br&gt;Location: 884135 - 884849" locus_tag="XNR_RS03720" class="clusterblast-orf" id="dummy-6_q4_0_all"  />
+<polygon points="370,40 464,40 469,35 464,30 370,30 370,40 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03725&lt;/b&gt;&lt;br&gt;DUF692 domain-containing protein&lt;br&gt;Location: 884960 - 886289" locus_tag="XNR_RS03725" class="clusterblast-orf" id="dummy-6_q5_0_all"  />
+<polygon points="493,40 611,40 616,35 611,30 493,30 493,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03730&lt;/b&gt;&lt;br&gt;alpha/beta hydrolase&lt;br&gt;Location: 886615 - 888262" locus_tag="XNR_RS03730" class="clusterblast-orf" id="dummy-6_q6_0_all"  />
+<polygon points="617,35 622,30 670,30 670,40 622,40 617,35 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03735&lt;/b&gt;&lt;br&gt;chlorite dismutase family protein&lt;br&gt;Location: 888275 - 888992" locus_tag="XNR_RS03735" class="clusterblast-orf" id="dummy-6_q7_0_all"  />
+<polygon points="671,35 676,30 780,30 780,40 676,40 671,35 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03740&lt;/b&gt;&lt;br&gt;protoporphyrinogen oxidase&lt;br&gt;Location: 888996 - 890469" locus_tag="XNR_RS03740" class="clusterblast-orf" id="dummy-6_q8_0_all"  />
+</g>
+<g label="NZ_CP047147" description="NZ_CP047147 (6059517-6070846): Streptomyces sp. GF20 chromosome, complete genome (100% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP047147&amp;start=6059517&amp;end=6070846" target="_blank">NZ_CP047147 (6059517-6070846)</a>: Streptomyces sp. GF20 chromosome, complete genome (100% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a6_000"  >
+<polygon points="1,90 97,90 102,85 97,80 1,80 1,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS26205&lt;/b&gt;&lt;br&gt;PhoX family protein&lt;br&gt;Location: 6070818 - 6069454&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03700&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 941&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS26205" class="clusterblast-orf" id="dummy-6_h6_1_0"  />
+</g>
+<g id="a6_001"  >
+<polygon points="108,85 113,80 176,80 176,90 113,90 108,85 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS26200&lt;/b&gt;&lt;br&gt;SDR family NAD(P)-dependent oxidoreductase&lt;br&gt;Location: 6069381 - 6068467&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03705&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 575&lt;br&gt;E-value: 2.84e-208" locus_tag="GR131_RS26200" class="clusterblast-orf" id="dummy-6_h6_1_1"  />
+</g>
+<g id="a6_002"  >
+<polygon points="188,90 228,90 233,85 228,80 188,80 188,90 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS26195&lt;/b&gt;&lt;br&gt;TetR family transcriptional regulator&lt;br&gt;Location: 6068302 - 6067697&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03710&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 374&lt;br&gt;E-value: 5.5e-132" locus_tag="GR131_RS26195" class="clusterblast-orf" id="dummy-6_h6_1_2"  />
+</g>
+<g id="a6_003"  >
+<polygon points="243,90 302,90 307,85 302,80 243,80 243,90 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS26190&lt;/b&gt;&lt;br&gt;polysaccharide deacetylase family protein&lt;br&gt;Location: 6067570 - 6066701&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03715&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 567&lt;br&gt;E-value: 1.41e-205" locus_tag="GR131_RS26190" class="clusterblast-orf" id="dummy-6_h6_1_3"  />
+</g>
+<g id="a6_004"  >
+<polygon points="310,90 358,90 363,85 358,80 310,80 310,90 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS26185&lt;/b&gt;&lt;br&gt;peptidyl-tRNA hydrolase&lt;br&gt;Location: 6066670 - 6065957&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03720&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 476&lt;br&gt;E-value: 1.7e-171" locus_tag="GR131_RS26185" class="clusterblast-orf" id="dummy-6_h6_1_4"  />
+</g>
+<g id="a6_005"  >
+<polygon points="371,90 465,90 470,85 465,80 371,80 371,90 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS26180&lt;/b&gt;&lt;br&gt;DUF692 domain-containing protein&lt;br&gt;Location: 6065846 - 6064518&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03725&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 836&lt;br&gt;E-value: 8.64e-307" locus_tag="GR131_RS26180" class="clusterblast-orf" id="dummy-6_h6_1_5"  />
+</g>
+<g id="a6_006"  >
+<polygon points="491,90 609,90 614,85 609,80 491,80 491,90 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS26175&lt;/b&gt;&lt;br&gt;alpha/beta hydrolase&lt;br&gt;Location: 6064230 - 6062584&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03730&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1080&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS26175" class="clusterblast-orf" id="dummy-6_h6_1_6"  />
+</g>
+<g id="a6_007"  >
+<polygon points="615,85 620,80 668,80 668,90 620,90 615,85 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS26170&lt;/b&gt;&lt;br&gt;chlorite dismutase family protein&lt;br&gt;Location: 6062570 - 6061854&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03735&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 479&lt;br&gt;E-value: 1.58e-172" locus_tag="GR131_RS26170" class="clusterblast-orf" id="dummy-6_h6_1_7"  />
+</g>
+<g id="a6_008"  >
+<polygon points="669,85 674,80 778,80 778,90 674,90 669,85 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS26165&lt;/b&gt;&lt;br&gt;protoporphyrinogen oxidase&lt;br&gt;Location: 6061849 - 6060377&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03740&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 916&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS26165" class="clusterblast-orf" id="dummy-6_h6_1_8"  />
+</g>
+</svg>

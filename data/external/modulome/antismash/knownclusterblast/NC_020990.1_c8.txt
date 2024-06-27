@@ -1,0 +1,145 @@
+ClusterBlast scores for NC_020990.1
+
+Table of genes, locations, strands and annotations of query cluster:
+XNR_RS05215	1259932	1261750	-	DUF4173 domain-containing protein	
+XNR_RS05220	1261988	1262897	-	ADP-ribosylglycohydrolase family protein	
+XNR_RS05225	1262910	1263570	-	histidine phosphatase family protein	
+XNR_RS05230	1263639	1264245	-	YdbC family protein	
+XNR_RS05235	1264460	1265000	+	TerD family protein	
+XNR_RS05240	1265155	1265854	-	SUMF1/EgtB/PvdO family nonheme iron enzyme	
+XNR_RS05245	1266065	1268936	-	vitamin B12-dependent ribonucleotide reductase	
+XNR_RS05250	1269073	1269586	-	transcriptional regulator NrdR	
+XNR_RS05255	1270207	1270993	+	transcriptional repressor LexA	
+XNR_RS05260	1271088	1273077	-	ATP-dependent DNA helicase	
+XNR_RS05265	1273163	1275026	-	IucA/IucC family siderophore biosynthesis protein	
+XNR_RS05270	1275488	1276274	-	GNAT family N-acetyltransferase	
+XNR_RS05275	1276300	1278196	-	IucA/IucC family protein	
+XNR_RS05280	1278266	1279625	-	diaminobutyrate--2-oxoglutarate transaminase family protein	
+XNR_RS05285	1279886	1281104	+	hypothetical protein	
+XNR_RS05290	1281262	1282468	+	hypothetical protein	
+XNR_RS05295	1282544	1284074	-	GTPase HflX	
+XNR_RS05300	1284276	1285719	-	M1 family metallopeptidase	
+XNR_RS05305	1285816	1287988	-	HD domain-containing protein	
+XNR_RS05310	1288333	1289224	-	diaminopimelate epimerase	
+XNR_RS05315	1289266	1289713	-	membrane protein	
+XNR_RS05320	1289820	1290759	-	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA	
+XNR_RS05325	1290867	1291200	+	antitoxin	
+XNR_RS05330	1291251	1291737	-	universal stress protein	
+
+
+Significant hits: 
+1. BGC0000236	kinamycin
+2. BGC0002470	synechobactin C9/synechobactin C11/synechobactin 13/synechobactin 14/synechobactin 16/synechobactin A/synechobactin B/synechobactin C
+3. BGC0002633	schizokinen
+4. BGC0002683	schizokinen
+
+
+Details:
+
+>>
+1. BGC0000236
+Source: kinamycin
+Type: Polyketide
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 2759.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAO65322.1	AAO65322.1	1	2481	+	putative_vitamin_B12-dependent_ribonucleotide_reductase
+AAO65323.1	AAO65323.1	2699	3268	-	unknown
+AAO65324.1	AAO65324.1	3318	4145	+	putative_arylamine_N-acetyltransferase
+AAO65325.1	AAO65325.1	4179	4784	+	unknown
+AAO65326.1	AAO65326.1	4883	5542	+	unknown
+AAO65327.1	AAO65327.1	5555	6466	+	putative_hydrolase
+AAO65328.1	AAO65328.1	6470	8029	-	putative_transmembrane_efflux_protein
+AAO65329.1	AAO65329.1	8225	8860	+	putative_transcriptional_regulator
+AAO65330.1	AAO65330.1	8933	9643	+	putative_ribonuclease_HII
+AAO65331.1	AAO65331.1	9749	10357	+	unknown
+AAO65332.1	AAO65332.1	10605	11243	-	unknown
+AAO65333.1	AAO65333.1	11571	13730	+	putative_ATP-dependent_DNA_helicase
+AAO65334.1	AAO65334.1	13811	14824	+	unknown
+AAO65335.1	AAO65335.1	14871	15269	+	unknown
+AAO65336.1	AAO65336.1	15280	15960	+	putative_bifunctional_enzyme_deaminase/reductase
+AAO65337.1	AAO65337.1	16067	16381	+	unknown
+AAO65338.1	AAO65338.1	16503	18935	+	unknown
+AAO65339.1	AAO65339.1	19022	19318	+	unknown
+AAO65340.1	AAO65340.1	19336	19929	-	putative_TetR/AcrR-family_transcriptional_regulator
+AAO65341.1	AAO65341.1	20100	20519	+	KinU1
+AAO65342.1	AAO65342.1	20509	21093	-	JadX-like_protein
+AAO65343.1	AAO65343.1	21236	22705	+	oxygenase-like_protein
+AAO65344.1	AAO65344.1	22756	23445	+	anthrone_oxidase-like_protein
+AAO65345.1	AAO65345.1	23886	24215	+	JadI_cyclase-like_protein
+AAO65346.1	AAO65346.1	24212	25486	+	putative_ketoacyl_synthase
+AAO65347.1	AAO65347.1	25483	26694	+	putative_chain_length_determinant
+AAO65348.1	AAO65348.1	26733	27065	+	putative_acyl_carrier_protein
+AAO65349.1	AAO65349.1	27091	27876	+	putative_ketoreductase
+AAO65350.1	AAO65350.1	27903	28838	+	cyclase/dehydratase-like_protein
+AAO65351.1	AAO65351.1	28846	30318	+	oxygenase_reductase-like_protein
+AAO65352.1	AAO65352.1	30426	31913	+	oxygenase-like_protein
+AAO65353.1	AAO65353.1	32197	32946	+	LanU-like_protein
+AAO65354.1	AAO65354.1	32956	34236	+	putative_integral_membrane_efflux_protein
+AAO65355.1	AAO65355.1	34233	34922	+	JadM_phosphopantetheinyl_transferase-like_protein
+AAO65356.1	AAO65356.1	34982	36562	+	JadN_decarboxylase-like_protein
+AAO65357.1	AAO65357.1	36582	36887	+	SimX2-like_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS05220	AAO65327.1	69	397	98.34437086092716	7.8e-140
+XNR_RS05225	AAO65326.1	83	380	100.0	7.63e-136
+XNR_RS05230	AAO65325.1	80	342	100.0	3.4e-121
+XNR_RS05235	AAO65323.1	51	177	94.41340782122904	8.7e-57
+XNR_RS05245	AAO65322.1	91	1463	86.40167364016736	0.0
+
+
+
+>>
+2. BGC0002470
+Source: synechobactin C9/synechobactin C11/synechobactin 13/synechobactin 14/synechobactin 16/synechobactin A/synechobactin B/synechobactin C
+Type: Other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1007.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS05265	SYNPCC7002_G0019	48	534	95.16129032258065	2.94e-181
+XNR_RS05280	SYNPCC7002_G0025	56	473	96.01769911504425	5.55e-165
+
+
+
+>>
+3. BGC0002633
+Source: schizokinen
+Type: Other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 993.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS05265	Lepto7376_4153	47	522	95.16129032258065	1.08e-176
+XNR_RS05280	Lepto7376_4147	55	471	96.01769911504425	4.35e-164
+
+
+
+>>
+4. BGC0002683
+Source: schizokinen
+Type: Other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 982.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BAB72345.1	BAB72345.1	1	1557	-	permease_protein_of_iron(III)_ABC_transporter
+BAB72346.1	BAB72346.1	1999	2901	-	periplasmic_iron-compound-binding_protein_of_iron(III)_ABC_transporter
+BAB72347.1	BAB72347.1	2898	3719	-	ATP-binding_protein_of_iron(III)_ABC_transporter
+BAB72348.1	BAB72348.1	3870	5609	-	
+BAB72349.1	BAB72349.1	5852	7048	-	
+BAB72350.1	BAB72350.1	7045	8328	-	
+BAB72351.1	BAB72351.1	8322	8903	-	
+BAB72352.1	BAB72352.1	8975	10795	-	
+BAB72353.1	BAB72353.1	10914	12530	-	L-2,4-diaminobutyrate_decarboxylase
+BAB72354.1	BAB72354.1	12530	14011	-	diaminobutyrate--pyruvate_transaminase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS05265	BAB72348.1	48	514	92.74193548387096	1.21e-176
+XNR_RS05280	BAB72354.1	55	468	96.46017699115043	1.77e-162
+

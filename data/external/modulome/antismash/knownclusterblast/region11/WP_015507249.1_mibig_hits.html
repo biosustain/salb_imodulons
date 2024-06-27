@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ADG87283.1</td>
+              <td>amidohydrolase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001860/1">BGC0001860</a></td>
+              <td>RiPP:Thiopeptide</td>
+              <td>51.0</td>
+              <td>94.4</td>
+              <td>317.0</td>
+              <td>3.05e-104</td>
+          </tr>
+    
+          <tr>
+              <td>ACS83788.1</td>
+              <td>peptidase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000613/1">BGC0000613</a></td>
+              <td>RiPP:Thiopeptide</td>
+              <td>42.0</td>
+              <td>94.2</td>
+              <td>195.0</td>
+              <td>3.05e-57</td>
+          </tr>
+    
+          <tr>
+              <td>QBF29338.1</td>
+              <td>putative_hydrolase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002294/1">BGC0002294</a></td>
+              <td>Other</td>
+              <td>43.0</td>
+              <td>77.1</td>
+              <td>192.0</td>
+              <td>1.31e-56</td>
+          </tr>
+    
+          <tr>
+              <td>QVQ62843.1</td>
+              <td>amidohydrolase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002373/1">BGC0002373</a></td>
+              <td>NRP</td>
+              <td>41.0</td>
+              <td>75.7</td>
+              <td>171.0</td>
+              <td>1.52e-48</td>
+          </tr>
+    
+          <tr>
+              <td>AEM00622.1</td>
+              <td>aminohydrolase/peptidase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000605/1">BGC0000605</a></td>
+              <td>RiPP:Thiopeptide</td>
+              <td>41.0</td>
+              <td>63.6</td>
+              <td>170.0</td>
+              <td>6.41e-48</td>
+          </tr>
+    
+          <tr>
+              <td>WP_036055457.1</td>
+              <td>M20_family_metallopeptidase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002087/1">BGC0002087</a></td>
+              <td>NRP+Polyketide</td>
+              <td>40.0</td>
+              <td>75.2</td>
+              <td>157.0</td>
+              <td>1.72e-43</td>
+          </tr>
+    
+          <tr>
+              <td>CBA63682.1</td>
+              <td>amidohydrolase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000368/1">BGC0000368</a></td>
+              <td>NRP</td>
+              <td>35.0</td>
+              <td>61.9</td>
+              <td>74.0</td>
+              <td>5.5e-14</td>
+          </tr>
+    
+          <tr>
+              <td>OKH92782.1</td>
+              <td>peptidase_M20</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002343/1">BGC0002343</a></td>
+              <td>Alkaloid+RiPP</td>
+              <td>33.0</td>
+              <td>61.9</td>
+              <td>62.0</td>
+              <td>3.07e-10</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

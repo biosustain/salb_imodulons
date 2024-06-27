@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,40 97,40 102,35 97,30 0,30 0,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03700&lt;/b&gt;&lt;br&gt;DUF839 domain-containing protein&lt;br&gt;Location: 879991 - 881356" locus_tag="XNR_RS03700" class="clusterblast-orf" id="dummy-6_q0_0_all"  />
+<polygon points="107,35 112,30 175,30 175,40 112,40 107,35 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03705&lt;/b&gt;&lt;br&gt;SDR family NAD(P)-dependent oxidoreductase&lt;br&gt;Location: 881423 - 882338" locus_tag="XNR_RS03705" class="clusterblast-orf" id="dummy-6_q1_0_all"  />
+<polygon points="187,40 227,40 232,35 227,30 187,30 187,40 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03710&lt;/b&gt;&lt;br&gt;TetR family transcriptional regulator&lt;br&gt;Location: 882502 - 883108" locus_tag="XNR_RS03710" class="clusterblast-orf" id="dummy-6_q2_0_all"  />
+<polygon points="242,40 301,40 306,35 301,30 242,30 242,40 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03715&lt;/b&gt;&lt;br&gt;polysaccharide deacetylase family protein&lt;br&gt;Location: 883235 - 884105" locus_tag="XNR_RS03715" class="clusterblast-orf" id="dummy-6_q3_0_all"  />
+<polygon points="309,40 357,40 362,35 357,30 309,30 309,40 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03720&lt;/b&gt;&lt;br&gt;peptidyl-tRNA hydrolase&lt;br&gt;Location: 884135 - 884849" locus_tag="XNR_RS03720" class="clusterblast-orf" id="dummy-6_q4_0_all"  />
+<polygon points="370,40 464,40 469,35 464,30 370,30 370,40 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03725&lt;/b&gt;&lt;br&gt;DUF692 domain-containing protein&lt;br&gt;Location: 884960 - 886289" locus_tag="XNR_RS03725" class="clusterblast-orf" id="dummy-6_q5_0_all"  />
+<polygon points="493,40 611,40 616,35 611,30 493,30 493,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03730&lt;/b&gt;&lt;br&gt;alpha/beta hydrolase&lt;br&gt;Location: 886615 - 888262" locus_tag="XNR_RS03730" class="clusterblast-orf" id="dummy-6_q6_0_all"  />
+<polygon points="617,35 622,30 670,30 670,40 622,40 617,35 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03735&lt;/b&gt;&lt;br&gt;chlorite dismutase family protein&lt;br&gt;Location: 888275 - 888992" locus_tag="XNR_RS03735" class="clusterblast-orf" id="dummy-6_q7_0_all"  />
+<polygon points="671,35 676,30 780,30 780,40 676,40 671,35 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS03740&lt;/b&gt;&lt;br&gt;protoporphyrinogen oxidase&lt;br&gt;Location: 888996 - 890469" locus_tag="XNR_RS03740" class="clusterblast-orf" id="dummy-6_q8_0_all"  />
+</g>
+<g label="NZ_CP079112" description="NZ_CP079112 (6023089-6034418): Streptomyces albidoflavus strain LGO-A16 chrom... (77% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP079112&amp;start=6023089&amp;end=6034418" target="_blank">NZ_CP079112 (6023089-6034418)</a>: Streptomyces albidoflavus strain LGO-A16 chrom... (77% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a6_000"  >
+<polygon points="14,85 19,80 80,80 80,90 19,90 14,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS26145&lt;/b&gt;&lt;br&gt;RNA polymerase sigma factor SigJ&lt;br&gt;Location: 6034214 - 6033318" locus_tag="STALF2_RS26145" class="clusterblast-orf" id="dummy-6_h6_3_0"  />
+</g>
+<g id="a6_001"  >
+<polygon points="88,90 111,90 116,85 111,80 88,80 88,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS26140&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6033214 - 6032837" locus_tag="STALF2_RS26140" class="clusterblast-orf" id="dummy-6_h6_3_1"  />
+</g>
+<g id="a6_002"  >
+<polygon points="128,90 225,90 230,85 225,80 128,80 128,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS26135&lt;/b&gt;&lt;br&gt;DUF839 domain-containing protein&lt;br&gt;Location: 6032674 - 6031310&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03700&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 946&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS26135" class="clusterblast-orf" id="dummy-6_h6_3_2"  />
+</g>
+<g id="a6_003"  >
+<polygon points="242,90 302,90 307,85 302,80 242,80 242,90 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS26130&lt;/b&gt;&lt;br&gt;polysaccharide deacetylase family protein&lt;br&gt;Location: 6031143 - 6030274&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03715&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 565&lt;br&gt;E-value: 1.16e-204" locus_tag="STALF2_RS26130" class="clusterblast-orf" id="dummy-6_h6_3_3"  />
+</g>
+<g id="a6_004"  >
+<polygon points="309,90 357,90 362,85 357,80 309,80 309,90 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS26125&lt;/b&gt;&lt;br&gt;peptidyl-tRNA hydrolase&lt;br&gt;Location: 6030243 - 6029530&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03720&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 476&lt;br&gt;E-value: 1.7e-171" locus_tag="STALF2_RS26125" class="clusterblast-orf" id="dummy-6_h6_3_4"  />
+</g>
+<g id="a6_005"  >
+<polygon points="371,90 464,90 469,85 464,80 371,80 371,90 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS26120&lt;/b&gt;&lt;br&gt;DUF692 domain-containing protein&lt;br&gt;Location: 6029418 - 6028090&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03725&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 842&lt;br&gt;E-value: 3.15e-309" locus_tag="STALF2_RS26120" class="clusterblast-orf" id="dummy-6_h6_3_5"  />
+</g>
+<g id="a6_006"  >
+<polygon points="479,90 596,90 601,85 596,80 479,80 479,90 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS26115&lt;/b&gt;&lt;br&gt;alpha/beta hydrolase&lt;br&gt;Location: 6027967 - 6026321&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03730&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1085&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS26115" class="clusterblast-orf" id="dummy-6_h6_3_6"  />
+</g>
+<g id="a6_007"  >
+<polygon points="602,85 607,80 655,80 655,90 607,90 602,85 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS26110&lt;/b&gt;&lt;br&gt;chlorite dismutase family protein&lt;br&gt;Location: 6026307 - 6025591&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03735&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 481&lt;br&gt;E-value: 1.92e-173" locus_tag="STALF2_RS26110" class="clusterblast-orf" id="dummy-6_h6_3_7"  />
+</g>
+<g id="a6_008"  >
+<polygon points="656,85 661,80 765,80 765,90 661,90 656,85 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS26105&lt;/b&gt;&lt;br&gt;protoporphyrinogen oxidase&lt;br&gt;Location: 6025586 - 6024114&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS03740&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 914&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS26105" class="clusterblast-orf" id="dummy-6_h6_3_8"  />
+</g>
+</svg>

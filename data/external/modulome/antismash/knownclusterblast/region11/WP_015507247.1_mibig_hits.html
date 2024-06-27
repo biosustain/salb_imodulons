@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ALC22061.1</td>
+              <td>LuxR_family_transcriptional_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002303/1">BGC0002303</a></td>
+              <td>RiPP</td>
+              <td>61.0</td>
+              <td>100.3</td>
+              <td>367.0</td>
+              <td>3.67e-127</td>
+          </tr>
+    
+          <tr>
+              <td>ABW11820.1</td>
+              <td>transcriptional_regulator,_LuxR_family</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001197/1">BGC0001197</a></td>
+              <td>Polyketide</td>
+              <td>33.0</td>
+              <td>100.6</td>
+              <td>134.0</td>
+              <td>2.42e-36</td>
+          </tr>
+    
+          <tr>
+              <td>CBW54659.1</td>
+              <td>LuxR_like_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000971/1">BGC0000971</a></td>
+              <td>NRP+Polyketide:Modular type I polyketide</td>
+              <td>32.0</td>
+              <td>88.0</td>
+              <td>115.0</td>
+              <td>1.61e-29</td>
+          </tr>
+    
+          <tr>
+              <td>ACG70813.1</td>
+              <td>transcriptional_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000938/1">BGC0000938</a></td>
+              <td>Other:Aminocoumarin</td>
+              <td>32.0</td>
+              <td>64.1</td>
+              <td>92.0</td>
+              <td>2.86e-21</td>
+          </tr>
+    
+          <tr>
+              <td>QSI97715.1</td>
+              <td>bacterial_conjugation_repressor_FinO</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002499/1">BGC0002499</a></td>
+              <td>Polyketide+NRP</td>
+              <td>26.0</td>
+              <td>98.8</td>
+              <td>85.0</td>
+              <td>3.28e-18</td>
+          </tr>
+    
+          <tr>
+              <td>BCN28619.1</td>
+              <td>LuxR_family_transcriptional_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002441/1">BGC0002441</a></td>
+              <td>Polyketide+NRP</td>
+              <td>43.0</td>
+              <td>42.5</td>
+              <td>75.0</td>
+              <td>4.38e-15</td>
+          </tr>
+    
+          <tr>
+              <td>UMM61376.1</td>
+              <td>Tsk15</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002661/1">BGC0002661</a></td>
+              <td>NRP</td>
+              <td>41.0</td>
+              <td>41.0</td>
+              <td>73.0</td>
+              <td>2.19e-14</td>
+          </tr>
+    
+          <tr>
+              <td>QYA99273.1</td>
+              <td>LuxR_family_transcriptional_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002676/1">BGC0002676</a></td>
+              <td>NRP</td>
+              <td>40.0</td>
+              <td>37.4</td>
+              <td>69.0</td>
+              <td>2.86e-13</td>
+          </tr>
+    
+          <tr>
+              <td>AEA30290.1</td>
+              <td>putative_LuxR-family_transcriptional_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000429/1">BGC0000429</a></td>
+              <td>Polyketide+NRP:Cyclic depsipeptide</td>
+              <td>40.0</td>
+              <td>37.4</td>
+              <td>69.0</td>
+              <td>3.49e-13</td>
+          </tr>
+    
+          <tr>
+              <td>QNH67530.1</td>
+              <td>Cip2</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002108/1">BGC0002108</a></td>
+              <td>NRP</td>
+              <td>41.0</td>
+              <td>38.3</td>
+              <td>70.0</td>
+              <td>3.92e-13</td>
+          </tr>
+    
+          <tr>
+              <td>CAM56765.1</td>
+              <td>regulatory_protein_A</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000354/1">BGC0000354</a></td>
+              <td>NRP</td>
+              <td>38.0</td>
+              <td>35.9</td>
+              <td>68.0</td>
+              <td>6.74e-13</td>
+          </tr>
+    
+          <tr>
+              <td>QNH67531.1</td>
+              <td>Cip3</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002108/1">BGC0002108</a></td>
+              <td>NRP</td>
+              <td>40.0</td>
+              <td>29.6</td>
+              <td>69.0</td>
+              <td>8.65e-13</td>
+          </tr>
+    
+          <tr>
+              <td>EWC60877.1</td>
+              <td>regulatory_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001496/1">BGC0001496</a></td>
+              <td>RiPP</td>
+              <td>34.0</td>
+              <td>45.2</td>
+              <td>68.0</td>
+              <td>1.12e-12</td>
+          </tr>
+    
+          <tr>
+              <td>AEG64684.1</td>
+              <td>regulatory_protein_A</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000379/1">BGC0000379</a></td>
+              <td>NRP</td>
+              <td>35.0</td>
+              <td>49.7</td>
+              <td>68.0</td>
+              <td>1.39e-12</td>
+          </tr>
+    
+          <tr>
+              <td>QYA99274.1</td>
+              <td>LuxR_family_transcriptional_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002676/1">BGC0002676</a></td>
+              <td>NRP</td>
+              <td>37.0</td>
+              <td>35.0</td>
+              <td>66.0</td>
+              <td>6.71e-12</td>
+          </tr>
+    
+          <tr>
+              <td>AEA30289.1</td>
+              <td>putative_LuxR-family_transcriptional_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000429/1">BGC0000429</a></td>
+              <td>Polyketide+NRP:Cyclic depsipeptide</td>
+              <td>37.0</td>
+              <td>35.0</td>
+              <td>66.0</td>
+              <td>8.57e-12</td>
+          </tr>
+    
+          <tr>
+              <td>QBG38763.1</td>
+              <td>Atr2</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001975/1">BGC0001975</a></td>
+              <td>NRP</td>
+              <td>40.0</td>
+              <td>29.6</td>
+              <td>66.0</td>
+              <td>9.01e-12</td>
+          </tr>
+    
+          <tr>
+              <td>CAJ14055.1</td>
+              <td>regulatory_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000406/1">BGC0000406</a></td>
+              <td>NRP</td>
+              <td>32.0</td>
+              <td>56.6</td>
+              <td>65.0</td>
+              <td>1.39e-11</td>
+          </tr>
+    
+          <tr>
+              <td>QLG04855.1</td>
+              <td>PulW</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002374/1">BGC0002374</a></td>
+              <td>Polyketide</td>
+              <td>39.0</td>
+              <td>39.8</td>
+              <td>64.0</td>
+              <td>1.86e-11</td>
+          </tr>
+    
+          <tr>
+              <td>QDJ74282.1</td>
+              <td>LuxR_family_transcriptional_regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002109/1">BGC0002109</a></td>
+              <td>NRP</td>
+              <td>40.0</td>
+              <td>29.6</td>
+              <td>63.0</td>
+              <td>4.88e-11</td>
+          </tr>
+    
+          <tr>
+              <td>QBG38762.1</td>
+              <td>Atr1</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001975/1">BGC0001975</a></td>
+              <td>NRP</td>
+              <td>39.0</td>
+              <td>38.9</td>
+              <td>61.0</td>
+              <td>4.99e-10</td>
+          </tr>
+    
+          <tr>
+              <td>BCN28620.1</td>
+              <td>response_regulator_transcription_factor</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002441/1">BGC0002441</a></td>
+              <td>Polyketide+NRP</td>
+              <td>33.0</td>
+              <td>51.5</td>
+              <td>55.0</td>
+              <td>3.84e-08</td>
+          </tr>
+    
+          <tr>
+              <td>QLG04854.1</td>
+              <td>Hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002374/1">BGC0002374</a></td>
+              <td>Polyketide</td>
+              <td>32.0</td>
+              <td>42.8</td>
+              <td>50.0</td>
+              <td>1.19e-06</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

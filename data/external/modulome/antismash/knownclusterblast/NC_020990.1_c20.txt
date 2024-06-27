@@ -1,0 +1,317 @@
+ClusterBlast scores for NC_020990.1
+
+Table of genes, locations, strands and annotations of query cluster:
+XNR_RS28140	6401865	6402324	-	type II toxin-antitoxin system PemK/MazF family toxin	
+XNR_RS28145	6402494	6402893	-	thioredoxin	
+XNR_RS28150	6403017	6404478	+	NAD(P)/FAD-dependent oxidoreductase	
+XNR_RS28155	6404540	6405134	-	TMEM165/GDT1 family protein	
+XNR_RS28160	6405433	6406018	-	hypothetical protein	
+XNR_RS28165	6406160	6406964	-	family 1 encapsulin nanocompartment shell protein	
+XNR_RS28170	6406960	6408019	-	Dyp-type peroxidase	
+XNR_RS28175	6408246	6408615	-	tetratricopeptide repeat protein	
+XNR_RS28180	6408803	6409817	+	PHP domain-containing protein	
+XNR_RS28185	6410040	6411279	+	polyprenyl synthetase family protein	
+XNR_RS28190	6411253	6412795	+	phytoene desaturase family protein	
+XNR_RS28195	6412791	6413754	+	phytoene/squalene synthase family protein	
+XNR_RS28200	6413750	6414749	+	DUF5914 domain-containing protein	
+XNR_RS28205	6414811	6415465	+	LysE family translocator	
+XNR_RS30185	6415518	6416400	+	IS5 family transposase	
+XNR_RS28215	6416434	6416953	-	hypothetical protein	
+XNR_RS30190	6417034	6417289	-	winged helix-turn-helix transcriptional regulator	
+XNR_RS28225	6417327	6418887	-	FAD-dependent oxidoreductase	
+XNR_RS28230	6418883	6420092	-	lycopene cyclase family protein	
+XNR_RS28235	6420271	6421579	+	VWA domain-containing protein	
+XNR_RS28240	6421586	6422537	-	DUF5996 family protein	
+XNR_RS28245	6422726	6423449	+	NAD(P)H-dependent oxidoreductase	
+XNR_RS28250	6423456	6423696	-	30S ribosomal protein S18	
+XNR_RS28255	6423742	6424891	-	GTP-binding protein	
+XNR_RS28260	6424887	6425142	-	type B 50S ribosomal protein L31	
+XNR_RS28265	6425185	6425350	-	50S ribosomal protein L33	
+XNR_RS28270	6425419	6425656	+	50S ribosomal protein L28	
+XNR_RS28275	6425655	6425961	+	30S ribosomal protein S14	
+XNR_RS30195	6426116	6426476	+	UBP-type zinc finger domain-containing protein	
+XNR_RS28280	6426497	6427617	-	PP2C family protein-serine/threonine phosphatase	
+XNR_RS28285	6427826	6428858	+	zinc-binding alcohol dehydrogenase family protein	
+XNR_RS28290	6428885	6429086	-	ferredoxin	
+
+
+Significant hits: 
+1. BGC0001456	isorenieratene
+2. BGC0000664	isorenieratene
+3. BGC0000633	carotenoid
+4. BGC0001227	isorenieratene
+5. BGC0000649	carotenoid
+6. BGC0001818	vazabitide A
+7. BGC0000074	herbimycin A
+8. BGC0001690	natamycin
+
+
+Details:
+
+>>
+1. BGC0001456
+Source: isorenieratene
+Type: Terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3115.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+crtaV	crtaV	1	1017	-	2Fe-2S_ferredoxin
+crtaB	crtaB	1014	2045	-	phytoene_/_squalene_synthase
+crtaI	crtaI	2042	3586	-	phytoene_desaturase
+crtaE	crtaE	3583	4974	-	geranylgeranyl_pyrophosphate_synthase
+crtaQ	crtaQ	5310	5930	+	RNA_polymerase,_sigma-24_subunit
+crtaY	crtaY	6172	7362	+	lycopene_cyclase
+crtaT	crtaT	7418	8152	+	methyltransferase
+crtaU	crtaU	8149	9777	+	isorenieratene_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS28185	crtaE	55	351	91.74757281553399	1.37e-117
+XNR_RS28190	crtaI	76	749	97.6608187134503	3.74e-272
+XNR_RS28195	crtaB	75	410	90.3125	4.28e-144
+XNR_RS28200	crtaV	70	448	98.79518072289156	5.08e-159
+XNR_RS28225	crtaU	73	713	99.42196531791907	2.59e-257
+XNR_RS28230	crtaY	64	444	98.75621890547264	2.56e-155
+
+
+
+>>
+2. BGC0000664
+Source: isorenieratene
+Type: Terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3064.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS28185	SGR_6830	54	319	88.3495145631068	9.37e-106
+XNR_RS28190	SGR_6829	77	761	97.85575048732943	1.12e-276
+XNR_RS28195	SGR_6828	74	407	90.3125	6.78e-143
+XNR_RS28200	SGR_6827	73	481	99.09638554216868	8.49e-172
+XNR_RS28225	SGR_6826	70	679	97.6878612716763	5.19e-244
+XNR_RS28230	SGR_6824	60	417	99.75124378109453	1.88e-144
+
+
+
+>>
+3. BGC0000633
+Source: carotenoid
+Type: Terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3060.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BAB69138.1	BAB69138.1	1	363	+	hypothetical_protein
+BAB69139.1	BAB69139.1	419	967	-	integral_membrane_protein
+BAB69140.1	BAB69140.1	1122	2624	-	phytoene_desaturase
+BAB69141.1	BAB69141.1	2678	3409	-	methyltransferase
+BAB69142.1	BAB69142.1	3453	4799	-	lycopene_cyclase
+BAB69143.1	BAB69143.1	5061	6200	+	geranylgeranyl_pyrophosphase_synthase
+BAB69144.1	BAB69144.1	6197	7738	+	phytoene_synthase
+BAB69145.1	BAB69145.1	7735	8763	+	phytoene_synthase
+BAB69146.1	BAB69146.1	8760	9839	+	methyltransferase
+BAB69147.1	BAB69147.1	10060	12159	-	secreted_protein
+BAB69148.1	BAB69148.1	12242	14284	-	beta-galactosidase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS28185	BAB69143.1	58	332	84.70873786407766	3.28e-111
+XNR_RS28190	BAB69144.1	78	768	99.41520467836257	1.79e-279
+XNR_RS28195	BAB69145.1	75	416	90.3125	2.17e-146
+XNR_RS28200	BAB69146.1	69	431	97.28915662650603	5.2e-152
+XNR_RS28225	BAB69140.1	72	677	95.95375722543352	1.55e-243
+XNR_RS28230	BAB69142.1	61	436	98.50746268656717	1.63e-151
+
+
+
+>>
+4. BGC0001227
+Source: isorenieratene
+Type: Terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2990.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS28185	B446_02735	55	328	88.59223300970875	2.14e-109
+XNR_RS28190	B446_02730	75	712	93.56725146198829	8.95e-258
+XNR_RS28195	B446_02725	74	394	92.1875	1.23e-137
+XNR_RS28200	B446_02720	74	479	99.3975903614458	2.52e-171
+XNR_RS28225	B446_02750	69	654	97.6878612716763	6.98e-234
+XNR_RS28230	B446_02740	59	423	97.76119402985076	6.02e-147
+
+
+
+>>
+5. BGC0000649
+Source: carotenoid
+Type: Terpene
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 2983.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAG28698.1	AAG28698.1	149	1771	+	FadD
+AAG28699.1	AAG28699.1	2343	3620	+	CrtE
+AAG28700.1	AAG28700.1	3617	5140	+	CrtI
+AAG28701.1	AAG28701.1	5137	6165	+	CrtB
+AAG28702.1	AAG28702.1	6162	7178	+	CrtV
+AAG28703.1	AAG28703.1	7228	8781	-	CrtU
+AAG28704.1	AAG28704.1	8781	9509	-	CrtT
+AAG28705.1	AAG28705.1	9506	10747	-	CrtY
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS28185	AAG28699.1	53	312	86.16504854368931	4.79e-103
+XNR_RS28190	AAG28700.1	76	752	97.85575048732943	2.49e-273
+XNR_RS28195	AAG28701.1	70	376	90.3125	9.57e-131
+XNR_RS28200	AAG28702.1	71	459	98.79518072289156	2.81e-163
+XNR_RS28225	AAG28703.1	70	672	96.91714836223507	1.92e-241
+XNR_RS28230	AAG28705.1	60	412	99.75124378109453	1.24e-142
+
+
+
+>>
+6. BGC0001818
+Source: vazabitide A
+Type: NRP
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 1216.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BAV57436.1	BAV57436.1	2	217	-	putative_membrane_protein
+BAV57437.1	BAV57437.1	353	1111	-	MerR-family_transcriptional_regulator
+BAV57438.1	BAV57438.1	1202	2455	-	putative_ligase/carboxylase
+BAV57439.1	BAV57439.1	2490	2810	-	branched-chain_amino_acid_transporter
+BAV57440.1	BAV57440.1	2812	3645	-	branched-chain_amino_acid_transporter
+BAV57441.1	BAV57441.1	3685	4836	-	acyl-CoA_dehydrogenase
+BAV57442.1	BAV57442.1	4863	6014	-	pimeloyl-CoA_dehydrogenase
+BAV57443.1	BAV57443.1	6017	10186	-	NRPS_(C-A-PCP-TE)
+BAV57444.1	BAV57444.1	10164	10544	-	PCP_domain_protein
+BAV57445.1	BAV57445.1	10523	11905	-	Glutamine--scyllo-inositol_transaminase
+BAV57446.1	BAV57446.1	11902	12933	-	hypothetical_protein
+BAV57447.1	BAV57447.1	12930	13565	-	hypothetical_protein
+BAV57448.1	BAV57448.1	13562	14491	-	GCN5-related_N-acetyltransferase
+BAV57449.1	BAV57449.1	14484	15827	-	peptidase_M20
+BAV57450.1	BAV57450.1	15824	16642	-	thioesterase
+BAV57451.1	BAV57451.1	16639	18474	-	NRPS_(A-PCP)
+BAV57452.1	BAV57452.1	18510	18704	-	MbtH
+BAV57453.1	BAV57453.1	18870	19550	-	LuxR_family_transcriptional_regulator
+BAV57454.1	BAV57454.1	19695	20984	-	sulfate_adenylyltransferase
+BAV57455.1	BAV57455.1	20987	22006	-	sulfate_adenylyltransferase
+BAV57456.1	BAV57456.1	22014	22574	-	adenylylsulfate_kinase
+BAV57457.1	BAV57457.1	22629	23360	-	hypothetical_protein
+BAV57458.1	BAV57458.1	23661	23834	+	LysW
+BAV57459.1	BAV57459.1	23831	24709	+	LysX
+BAV57460.1	BAV57460.1	24697	25734	+	LysY
+BAV57461.1	BAV57461.1	25750	26616	+	LysZ
+BAV57462.1	BAV57462.1	26613	27731	+	LysK
+BAV57463.1	BAV57463.1	27731	28600	+	Transketolase_N-terminal_domain_protein
+BAV57464.1	BAV57464.1	28597	29595	+	Transketolase_C-terminal_domain_protein
+BAV57465.1	BAV57465.1	29762	30403	-	transcriptional_regulator
+BAV57466.1	BAV57466.1	30469	31005	-	hypothetical_protein
+BAV57467.1	BAV57467.1	31102	32559	-	aldehyde_dehydrogenase
+BAV57468.1	BAV57468.1	32630	33565	-	helix-turn-helix_domain_protein
+BAV57469.1	BAV57469.1	33653	33844	-	hypothetical_protein
+BAV57470.1	BAV57470.1	33822	34331	+	regulator
+BAV57471.1	BAV57471.1	34395	34682	-	putative_regulator
+BAV57472.1	BAV57472.1	34882	35127	-	30S_ribosomal_protein_S18
+BAV57473.1	BAV57473.1	35132	36256	-	cobalamin_synthesis_CobW_domain_containing_protein
+BAV57474.1	BAV57474.1	36256	36516	-	50S_ribosomal_protein_L31_type_B
+BAV57475.1	BAV57475.1	36525	36725	-	50S_ribosomal_protein_L33
+BAV57476.1	BAV57476.1	36753	36989	+	50S_ribosomal_protein_L28
+BAV57477.1	BAV57477.1	36989	37294	+	30S_ribosomal_protein_S14
+BAV57478.1	BAV57478.1	37236	37832	+	membrane_protein
+BAV57479.1	BAV57479.1	37829	37978	-	hypothetical_protein
+BAV57480.1	BAV57480.1	38164	39324	-	hypothetical_protein
+BAV57481.1	BAV57481.1	39673	40440	+	DNA_polymerase_I
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS28250	BAV57472.1	80	118	96.20253164556962	1.22e-36
+XNR_RS28255	BAV57473.1	76	555	98.1675392670157	9.37e-200
+XNR_RS28260	BAV57474.1	85	146	94.04761904761905	1.27e-47
+XNR_RS28265	BAV57475.1	87	101	100.0	2.08e-30
+XNR_RS28270	BAV57476.1	86	136	100.0	7.28e-44
+XNR_RS28275	BAV57477.1	84	160	100.0	9.18e-53
+
+
+
+>>
+7. BGC0000074
+Source: herbimycin A
+Type: Polyketide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 315.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AAY28209.1	AAY28209.1	71	2359	-	unknown
+AAY28210.1	AAY28210.1	2359	2775	-	unknown
+AAY28211.1	AAY28211.1	2762	3745	-	unknown
+AAY28212.1	AAY28212.1	3757	5013	-	unknown
+AAY28213.1	AAY28213.1	5026	6852	-	unknown
+AAY28214.1	AAY28214.1	6887	8317	-	putative_transmembrane_efflux_protein
+AAY28215.1	AAY28215.1	8437	9207	-	unknown
+AAY28216.1	AAY28216.1	9204	10286	-	FtrD
+AAY28217.1	AAY28217.1	10286	11362	-	lipoprotein
+AAY28218.1	AAY28218.1	18360	19043	-	unknown
+AAY28219.1	AAY28219.1	21063	21965	-	putative_secreted_protein
+AAY28220.1	AAY28220.1	22155	22946	-	putative_hydrolase
+AAY28221.1	AAY28221.1	23100	23984	+	putative_transcriptional_regulator
+AAY28222.1	AAY28222.1	24036	24797	-	putative_transcriptional_regulator
+AAY28223.1	AAY28223.1	24781	26277	+	HbmL
+AAY28224.1	AAY28224.1	26325	26795	-	HbmX
+AAY28225.1	AAY28225.1	27677	48139	+	HbmAI
+AAY28226.1	AAY28226.1	48197	58492	+	HbmAII
+AAY28227.1	AAY28227.1	58519	70125	+	HbmAIII
+AAY28228.1	AAY28228.1	70662	72719	-	HbmN
+AAY28229.1	AAY28229.1	72781	73893	-	HbmH
+AAY28230.1	AAY28230.1	73890	75002	-	HbmI
+AAY28231.1	AAY28231.1	74999	75274	-	HbmJ
+AAY28232.1	AAY28232.1	75271	76137	-	HbmK
+AAY28233.1	AAY28233.1	76381	77037	+	HbmG
+AAY28234.1	AAY28234.1	77137	79917	-	HbmRII
+AAY28235.1	AAY28235.1	80193	81257	-	HbmO
+AAY28236.1	AAY28236.1	81334	81528	-	HbmFdx
+AAY28237.1	AAY28237.1	81571	82764	-	HbmP
+AAY28238.1	AAY28238.1	82921	85764	-	HbmRI
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS28205	AAY28218.1	63	231	99.53917050691244	4.94e-77
+XNR_RS28290	AAY28236.1	63	84	93.93939393939394	2.41e-23
+
+
+
+>>
+8. BGC0001690
+Source: natamycin
+Type: Polyketide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 288.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AQT01379.1	AQT01379.1	39	1235	+	hypothetical_protein
+AQT01380.1	AQT01380.1	1232	2605	+	SgnH
+AQT01381.1	AQT01381.1	2853	4046	-	SgnD
+AQT01382.1	AQT01382.1	4313	24730	+	SgnS1
+AQT01383.1	AQT01383.1	24835	25551	-	SgnL
+AQT01384.1	AQT01384.1	25637	30934	-	SgnS0
+AQT01385.1	AQT01385.1	31017	31208	-	SgnF
+AQT01386.1	AQT01386.1	31262	32458	-	SgnG
+AQT01387.1	AQT01387.1	32487	33545	-	SgnC
+AQT01388.1	AQT01388.1	33634	35283	-	SgnE
+AQT01389.1	AQT01389.1	35298	37178	-	SgnB
+AQT01390.1	AQT01390.1	37156	38982	-	SgnA
+AQT01391.1	AQT01391.1	39307	40338	+	SgnJ
+AQT01392.1	AQT01392.1	40556	41323	+	SgnI
+AQT01393.1	AQT01393.1	41496	70037	+	SgnS2
+AQT01394.1	AQT01394.1	70049	75475	+	SgnS3
+AQT01395.1	AQT01395.1	75511	81585	+	SgnS4
+AQT01396.1	AQT01396.1	81681	83057	-	SgnK
+AQT01397.1	AQT01397.1	83161	86679	-	SgnR
+AQT01398.1	AQT01398.1	87154	87732	+	SgnM
+AQT01399.1	AQT01399.1	89109	89753	+	SgnT
+AQT01400.1	AQT01400.1	90049	91329	-	hypothetical_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS28205	AQT01399.1	61	231	100.0	4.59e-77
+XNR_RS28290	AQT01385.1	52	57	93.93939393939394	7.71e-13
+

@@ -1,0 +1,55 @@
+ClusterBlast scores for NC_020990.1
+
+Table of genes, locations, strands and annotations of query cluster:
+XNR_RS10865	2561294	2561594	-	hypothetical protein	
+XNR_RS10870	2561590	2562322	-	GntR family transcriptional regulator	
+XNR_RS31180	2562330	2562555	-	hypothetical protein	
+XNR_RS31185	2563080	2563359	-	hypothetical protein	
+XNR_RS10895	2563438	2564194	+	GntR family transcriptional regulator	
+XNR_RS30300	2564565	2565383	+	IS5 family transposase	
+XNR_RS10905	2565713	2566226	+	lactococcin 972 family bacteriocin	
+XNR_RS29755	2566538	2566988	+	hypothetical protein	
+XNR_RS30305	2567025	2567843	-	IS5 family transposase	
+XNR_RS29770	2568475	2569284	-	IS5 family transposase	
+XNR_RS10925	2569693	2570068	-	VOC family protein	
+XNR_RS10930	2570198	2570678	-	cold shock domain-containing protein	
+
+
+Significant hits: 
+1. BGC0000565	goadsporin
+
+
+Details:
+
+>>
+1. BGC0000565
+Source: goadsporin
+Type: RiPP:LAP
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1140.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BAE46915.1	BAE46915.1	1	215	+	transposase
+BAE46916.1	BAE46916.1	594	743	+	goadsporin_structure_protein
+BAE46917.1	BAE46917.1	1315	2967	+	goadsporin_biosynthetic_protein
+BAE46918.1	BAE46918.1	2964	4637	+	goadsporin_biosynthetic_protein
+BAE46919.2	BAE46919.2	4679	6979	+	goadsporin_biosynthetic_protein
+BAE46920.1	BAE46920.1	6979	8547	+	goadsporin_biosynthetic_protein
+BAE46921.1	BAE46921.1	8544	11147	+	goadsporin_biosynthetic_protein
+BAE46922.2	BAE46922.2	11140	12003	+	goadsporin_biosynthetic_protein
+BAE46923.1	BAE46923.1	12000	12668	+	goadsporin_biosynthetic_protein
+BAE46924.1	BAE46924.1	12908	13624	+	goadsporin_biosynthetic_protein
+BAE46925.1	BAE46925.1	14378	14860	+	transposase
+BAE46926.1	BAE46926.1	14752	15195	+	transposase
+BAE46927.1	BAE46927.1	15261	16175	-	transposase
+BAE46928.1	BAE46928.1	16943	18499	-	goadsporin_biosynthetic_protein
+BAE46929.1	BAE46929.1	18745	18963	-	transposase
+BAE46930.1	BAE46930.1	18960	19346	-	transposase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS30300	BAE46926.1	85	259	54.04411764705882	2.11e-88
+XNR_RS30300	BAE46925.1	88	229	43.01470588235294	2.27e-76
+XNR_RS30305	BAE46926.1	85	259	54.04411764705882	2.99e-88
+XNR_RS30305	BAE46925.1	89	231	43.01470588235294	3.96e-77
+XNR_RS29770	BAE46926.1	55	162	53.73134328358209	3.86e-50
+

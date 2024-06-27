@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>crtaY</td>
+              <td>lycopene_cyclase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001456/1">BGC0001456</a></td>
+              <td>Terpene</td>
+              <td>64.0</td>
+              <td>98.8</td>
+              <td>444.0</td>
+              <td>2.56e-155</td>
+          </tr>
+    
+          <tr>
+              <td>BAB69142.1</td>
+              <td>lycopene_cyclase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000633/1">BGC0000633</a></td>
+              <td>Terpene</td>
+              <td>61.0</td>
+              <td>98.5</td>
+              <td>436.0</td>
+              <td>1.63e-151</td>
+          </tr>
+    
+          <tr>
+              <td>AGS67380.1</td>
+              <td>lycopene_cyclase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001227/1">BGC0001227</a></td>
+              <td>Terpene</td>
+              <td>59.0</td>
+              <td>97.8</td>
+              <td>423.0</td>
+              <td>6.02e-147</td>
+          </tr>
+    
+          <tr>
+              <td>BAG23653.1</td>
+              <td>putative_lycopene_cyclase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000664/1">BGC0000664</a></td>
+              <td>Terpene</td>
+              <td>60.0</td>
+              <td>99.8</td>
+              <td>417.0</td>
+              <td>1.88e-144</td>
+          </tr>
+    
+          <tr>
+              <td>AAG28705.1</td>
+              <td>CrtY</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000649/1">BGC0000649</a></td>
+              <td>Terpene</td>
+              <td>60.0</td>
+              <td>99.8</td>
+              <td>412.0</td>
+              <td>1.24e-142</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

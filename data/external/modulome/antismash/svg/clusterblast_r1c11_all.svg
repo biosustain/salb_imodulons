@@ -1,0 +1,909 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="550" width="800" viewBox="0 0 800 550" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="2,40 7,40 12,35 7,30 2,30 2,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS29710&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 2376751 - 2377186" locus_tag="XNR_RS29710" class="clusterblast-orf" id="general-11_q0_0_all"  />
+<polygon points="20,35 25,30 100,30 100,40 25,40 20,35 " style="fill:#54d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10025&lt;/b&gt;&lt;br&gt;transcription-repair coupling factor&lt;br&gt;Location: 2377548 - 2381082" locus_tag="XNR_RS10025" class="clusterblast-orf" id="general-11_q1_0_all"  />
+<polygon points="110,40 128,40 133,35 128,30 110,30 110,40 " style="fill:#15c1d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10030&lt;/b&gt;&lt;br&gt;LuxR C-terminal-related transcriptional regulator&lt;br&gt;Location: 2381512 - 2382517" locus_tag="XNR_RS10030" class="clusterblast-orf" id="general-11_q2_0_all"  />
+<polygon points="133,35 138,30 165,30 165,40 138,40 133,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10035&lt;/b&gt;&lt;br&gt;amidase&lt;br&gt;Location: 2382518 - 2383938" locus_tag="XNR_RS10035" class="clusterblast-orf" id="general-11_q3_0_all"  />
+<polygon points="168,40 177,40 182,35 177,30 168,30 168,40 " style="fill:#8215d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10040&lt;/b&gt;&lt;br&gt;TetR family transcriptional regulator C-terminal domain-containing protein&lt;br&gt;Location: 2384080 - 2384695" locus_tag="XNR_RS10040" class="clusterblast-orf" id="general-11_q4_0_all"  />
+<polygon points="182,35 187,30 188,30 188,40 187,40 182,35 " style="fill:#d84415; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10045&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2384683 - 2384944" locus_tag="XNR_RS10045" class="clusterblast-orf" id="general-11_q5_0_all"  />
+<polygon points="188,35 193,30 217,30 217,40 193,40 188,35 " style="fill:#25d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10050&lt;/b&gt;&lt;br&gt;amidohydrolase&lt;br&gt;Location: 2384940 - 2386227" locus_tag="XNR_RS10050" class="clusterblast-orf" id="general-11_q6_0_all"  />
+<polygon points="221,40 221,40 226,35 221,30 221,30 221,40 " style="fill:#1592d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10055&lt;/b&gt;&lt;br&gt;thiazolylpeptide-type bacteriocin&lt;br&gt;Location: 2386427 - 2386604" locus_tag="XNR_RS10055" class="clusterblast-orf" id="general-11_q7_0_all"  />
+<polygon points="227,35 232,30 273,30 273,40 232,40 227,35 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10060&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 2386687 - 2388697" locus_tag="XNR_RS10060" class="clusterblast-orf" id="general-11_q8_0_all"  />
+<polygon points="275,35 280,30 292,30 292,40 280,40 275,35 " style="fill:#d87315; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10065&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 2388797 - 2389553" locus_tag="XNR_RS10065" class="clusterblast-orf" id="general-11_q9_0_all"  />
+<polygon points="293,35 298,30 315,30 315,40 298,40 293,35 " style="fill:#15d834; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10070&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2389597 - 2390545" locus_tag="XNR_RS10070" class="clusterblast-orf" id="general-11_q10_0_all"  />
+<polygon points="316,35 321,30 342,30 342,40 321,40 316,35 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10075&lt;/b&gt;&lt;br&gt;M50 family metallopeptidase&lt;br&gt;Location: 2390596 - 2391724" locus_tag="XNR_RS10075" class="clusterblast-orf" id="general-11_q11_0_all"  />
+<polygon points="341,35 346,30 366,30 366,40 346,40 341,35 " style="fill:#d815d0; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10080&lt;/b&gt;&lt;br&gt;lantibiotic dehydratase C-terminal domain-containing protein&lt;br&gt;Location: 2391720 - 2392788" locus_tag="XNR_RS10080" class="clusterblast-orf" id="general-11_q12_0_all"  />
+<polygon points="366,35 371,30 428,30 428,40 371,40 366,35 " style="fill:#d8a215; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10085&lt;/b&gt;&lt;br&gt;lantibiotic dehydratase&lt;br&gt;Location: 2392784 - 2395520" locus_tag="XNR_RS10085" class="clusterblast-orf" id="general-11_q13_0_all"  />
+<polygon points="428,35 433,30 465,30 465,40 433,40 428,35 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10090&lt;/b&gt;&lt;br&gt;SagB family peptide dehydrogenase&lt;br&gt;Location: 2395546 - 2397154" locus_tag="XNR_RS10090" class="clusterblast-orf" id="general-11_q14_0_all"  />
+<polygon points="466,35 471,30 510,30 510,40 471,40 466,35 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10095&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 2397206 - 2399159" locus_tag="XNR_RS10095" class="clusterblast-orf" id="general-11_q15_0_all"  />
+<polygon points="510,35 515,30 560,30 560,40 515,40 510,35 " style="fill:#1534d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10100&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 2399148 - 2401371" locus_tag="XNR_RS10100" class="clusterblast-orf" id="general-11_q16_0_all"  />
+<polygon points="560,35 565,30 603,30 603,40 565,40 560,35 " style="fill:#d815a2; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10105&lt;/b&gt;&lt;br&gt;AfsR/SARP family transcriptional regulator&lt;br&gt;Location: 2401377 - 2403264" locus_tag="XNR_RS10105" class="clusterblast-orf" id="general-11_q17_0_all"  />
+<polygon points="603,35 608,30 609,30 609,40 608,40 603,35 " style="fill:#d8d015; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10110&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2403272 - 2403506" locus_tag="XNR_RS10110" class="clusterblast-orf" id="general-11_q18_0_all"  />
+<polygon points="619,40 651,40 656,35 651,30 619,30 619,40 " style="fill:#15d892; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10115&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 2403981 - 2405574" locus_tag="XNR_RS10115" class="clusterblast-orf" id="general-11_q19_0_all"  />
+<polygon points="656,35 661,30 668,30 668,40 661,40 656,35 " style="fill:#2515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10120&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 2405589 - 2406141" locus_tag="XNR_RS10120" class="clusterblast-orf" id="general-11_q20_0_all"  />
+<polygon points="671,40 679,40 684,35 679,30 671,30 671,40 " style="fill:#d81573; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10125&lt;/b&gt;&lt;br&gt;GNAT family protein&lt;br&gt;Location: 2406259 - 2406817" locus_tag="XNR_RS10125" class="clusterblast-orf" id="general-11_q21_0_all"  />
+<polygon points="685,35 690,30 699,30 699,40 690,40 685,35 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10130&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2406894 - 2407494" locus_tag="XNR_RS10130" class="clusterblast-orf" id="general-11_q22_0_all"  />
+<polygon points="700,35 705,30 712,30 712,40 705,40 700,35 " style="fill:#15d8c1; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10135&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2407519 - 2408080" locus_tag="XNR_RS10135" class="clusterblast-orf" id="general-11_q23_0_all"  />
+<polygon points="720,35 725,30 737,30 737,40 725,40 720,35 " style="fill:#5415d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10140&lt;/b&gt;&lt;br&gt;NPP1 family protein&lt;br&gt;Location: 2408404 - 2409172" locus_tag="XNR_RS10140" class="clusterblast-orf" id="general-11_q24_0_all"  />
+<polygon points="741,40 750,40 755,35 750,30 741,30 741,40 " style="fill:#d81544; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10145&lt;/b&gt;&lt;br&gt;histidine phosphatase family protein&lt;br&gt;Location: 2409348 - 2409981" locus_tag="XNR_RS10145" class="clusterblast-orf" id="general-11_q25_0_all"  />
+<polygon points="755,35 760,30 777,30 777,40 760,40 755,35 " style="fill:#82d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS10150&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2409977 - 2410946" locus_tag="XNR_RS10150" class="clusterblast-orf" id="general-11_q26_0_all"  />
+</g>
+<g label="NZ_CP113103" description="NZ_CP113103 (4359725-4394410): Streptomyces sp. NA13 chromosome, complete genome (92% of genes show similarity), LAP,RRE-containing,thiopeptide" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP113103&amp;start=4359725&amp;end=4394410" target="_blank">NZ_CP113103 (4359725-4394410)</a>: Streptomyces sp. NA13 chromosome, complete genome (92% of genes show similarity), LAP,RRE-containing,thiopeptide</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a11_000"  >
+<polygon points="2,90 7,90 12,85 7,80 2,80 2,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19305&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 4394345 - 4393911&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS29710&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 273&lt;br&gt;E-value: 4.64e-94" locus_tag="OSU72_RS19305" class="clusterblast-orf" id="general-11_all_11_1_0"  />
+</g>
+<g id="a11_001"  >
+<polygon points="12,90 14,90 19,85 14,80 12,80 12,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19300&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4393914 - 4393573" locus_tag="OSU72_RS19300" class="clusterblast-orf" id="general-11_all_11_1_1"  />
+</g>
+<g id="a11_002"  >
+<polygon points="20,85 25,80 100,80 100,90 25,90 20,85 " style="fill:#54d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19295&lt;/b&gt;&lt;br&gt;transcription-repair coupling factor&lt;br&gt;Location: 4393548 - 4390015&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10025&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 2290&lt;br&gt;E-value: 0.0" locus_tag="OSU72_RS19295" class="clusterblast-orf" id="general-11_all_11_1_2"  />
+</g>
+<g id="a11_003"  >
+<polygon points="110,90 128,90 133,85 128,80 110,80 110,90 " style="fill:#15c1d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19290&lt;/b&gt;&lt;br&gt;helix-turn-helix transcriptional regulator&lt;br&gt;Location: 4389584 - 4388580&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10030&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 637&lt;br&gt;E-value: 8.4e-232" locus_tag="OSU72_RS19290" class="clusterblast-orf" id="general-11_all_11_1_3"  />
+</g>
+<g id="a11_004"  >
+<polygon points="133,85 138,80 165,80 165,90 138,90 133,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19285&lt;/b&gt;&lt;br&gt;amidase&lt;br&gt;Location: 4388578 - 4387160" locus_tag="OSU72_RS19285" class="clusterblast-orf" id="general-11_all_11_1_4"  />
+</g>
+<g id="a11_005"  >
+<polygon points="168,90 177,90 182,85 177,80 168,80 168,90 " style="fill:#8215d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19280&lt;/b&gt;&lt;br&gt;TetR family transcriptional regulator C-terminal domain-containing protein&lt;br&gt;Location: 4387017 - 4386403&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10040&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 384&lt;br&gt;E-value: 7.52e-136" locus_tag="OSU72_RS19280" class="clusterblast-orf" id="general-11_all_11_1_5"  />
+</g>
+<g id="a11_006"  >
+<polygon points="182,85 187,80 188,80 188,90 187,90 182,85 " style="fill:#d84415; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19275&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4386414 - 4386154&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10045&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 177&lt;br&gt;E-value: 4.38e-58" locus_tag="OSU72_RS19275" class="clusterblast-orf" id="general-11_all_11_1_6"  />
+</g>
+<g id="a11_007"  >
+<polygon points="188,85 193,80 217,80 217,90 193,90 188,85 " style="fill:#25d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19270&lt;/b&gt;&lt;br&gt;amidohydrolase&lt;br&gt;Location: 4386157 - 4384871&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10050&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 784&lt;br&gt;E-value: 7.62e-287" locus_tag="OSU72_RS19270" class="clusterblast-orf" id="general-11_all_11_1_7"  />
+</g>
+<g id="a11_008"  >
+<polygon points="221,90 225,85 221,80 221,90 " style="fill:#1592d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19265&lt;/b&gt;&lt;br&gt;thiazolylpeptide-type bacteriocin&lt;br&gt;Location: 4384670 - 4384494&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10055&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 85&lt;br&gt;E-value: 5.34e-22" locus_tag="OSU72_RS19265" class="clusterblast-orf" id="general-11_all_11_1_8"  />
+</g>
+<g id="a11_009"  >
+<polygon points="227,85 232,80 273,80 273,90 232,90 227,85 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19260&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 4384410 - 4382401&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1298&lt;br&gt;E-value: 0.0&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 455&lt;br&gt;E-value: 3.04e-150" locus_tag="OSU72_RS19260" class="clusterblast-orf" id="general-11_all_11_1_9"  />
+</g>
+<g id="a11_0010"  >
+<polygon points="275,85 280,80 292,80 292,90 280,90 275,85 " style="fill:#d87315; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19255&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 4382300 - 4381545&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10065&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 486&lt;br&gt;E-value: 1.1e-174" locus_tag="OSU72_RS19255" class="clusterblast-orf" id="general-11_all_11_1_10"  />
+</g>
+<g id="a11_0011"  >
+<polygon points="293,85 298,80 315,80 315,90 298,90 293,85 " style="fill:#15d834; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19250&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4381499 - 4380552&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10070&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 610&lt;br&gt;E-value: 6.33e-222" locus_tag="OSU72_RS19250" class="clusterblast-orf" id="general-11_all_11_1_11"  />
+</g>
+<g id="a11_0012"  >
+<polygon points="316,85 321,80 341,80 341,90 321,90 316,85 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19245&lt;/b&gt;&lt;br&gt;M50 family metallopeptidase&lt;br&gt;Location: 4380500 - 4379373&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10075&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 700&lt;br&gt;E-value: 2.05e-255" locus_tag="OSU72_RS19245" class="clusterblast-orf" id="general-11_all_11_1_12"  />
+</g>
+<g id="a11_0013"  >
+<polygon points="341,85 346,80 365,80 365,90 346,90 341,85 " style="fill:#d815d0; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19240&lt;/b&gt;&lt;br&gt;lantibiotic biosynthesis protein&lt;br&gt;Location: 4379376 - 4378309&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10080&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 721&lt;br&gt;E-value: 3.6e-264" locus_tag="OSU72_RS19240" class="clusterblast-orf" id="general-11_all_11_1_13"  />
+</g>
+<g id="a11_0014"  >
+<polygon points="365,85 370,80 427,80 427,90 370,90 365,85 " style="fill:#d8a215; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19235&lt;/b&gt;&lt;br&gt;lantibiotic dehydratase&lt;br&gt;Location: 4378312 - 4375577&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10085&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1779&lt;br&gt;E-value: 0.0" locus_tag="OSU72_RS19235" class="clusterblast-orf" id="general-11_all_11_1_14"  />
+</g>
+<g id="a11_0015"  >
+<polygon points="428,85 433,80 464,80 464,90 433,90 428,85 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19230&lt;/b&gt;&lt;br&gt;SagB family peptide dehydrogenase&lt;br&gt;Location: 4375550 - 4373943&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10090&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1048&lt;br&gt;E-value: 0.0" locus_tag="OSU72_RS19230" class="clusterblast-orf" id="general-11_all_11_1_15"  />
+</g>
+<g id="a11_0016"  >
+<polygon points="466,85 471,80 510,80 510,90 471,90 466,85 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19225&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 4373890 - 4371938&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 448&lt;br&gt;E-value: 1.56e-147&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1291&lt;br&gt;E-value: 0.0" locus_tag="OSU72_RS19225" class="clusterblast-orf" id="general-11_all_11_1_16"  />
+</g>
+<g id="a11_0017"  >
+<polygon points="510,85 515,80 560,80 560,90 515,90 510,85 " style="fill:#1534d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19220&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 4371948 - 4369726&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10100&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1389&lt;br&gt;E-value: 0.0" locus_tag="OSU72_RS19220" class="clusterblast-orf" id="general-11_all_11_1_17"  />
+</g>
+<g id="a11_0018"  >
+<polygon points="560,85 565,80 603,80 603,90 565,90 560,85 " style="fill:#d815a2; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19215&lt;/b&gt;&lt;br&gt;BTAD domain-containing putative transcriptional regulator&lt;br&gt;Location: 4369719 - 4367833&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10105&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1214&lt;br&gt;E-value: 0.0" locus_tag="OSU72_RS19215" class="clusterblast-orf" id="general-11_all_11_1_18"  />
+</g>
+<g id="a11_0019"  >
+<polygon points="603,85 608,80 608,80 608,90 608,90 603,85 " style="fill:#d8d015; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19210&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4367824 - 4367591&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10110&lt;/b&gt;&lt;br&gt;Percentage identity: 88&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 124&lt;br&gt;E-value: 5.34e-37" locus_tag="OSU72_RS19210" class="clusterblast-orf" id="general-11_all_11_1_19"  />
+</g>
+<g id="a11_0020"  >
+<polygon points="619,90 650,90 655,85 650,80 619,80 619,90 " style="fill:#15d892; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19205&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 4367115 - 4365523&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10115&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1000&lt;br&gt;E-value: 0.0" locus_tag="OSU72_RS19205" class="clusterblast-orf" id="general-11_all_11_1_20"  />
+</g>
+<g id="a11_0021"  >
+<polygon points="656,85 661,80 668,80 668,90 661,90 656,85 " style="fill:#2515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19200&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 4365503 - 4364952&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10120&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 347&lt;br&gt;E-value: 4.64e-122" locus_tag="OSU72_RS19200" class="clusterblast-orf" id="general-11_all_11_1_21"  />
+</g>
+<g id="a11_0022"  >
+<polygon points="671,90 679,90 684,85 679,80 671,80 671,90 " style="fill:#d81573; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19195&lt;/b&gt;&lt;br&gt;GNAT family protein&lt;br&gt;Location: 4364833 - 4364276&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10125&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 376&lt;br&gt;E-value: 1.97e-133" locus_tag="OSU72_RS19195" class="clusterblast-orf" id="general-11_all_11_1_22"  />
+</g>
+<g id="a11_0023"  >
+<polygon points="685,85 690,80 699,80 699,90 690,90 685,85 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19190&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4364198 - 4363599&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10130&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 374&lt;br&gt;E-value: 4.73e-132" locus_tag="OSU72_RS19190" class="clusterblast-orf" id="general-11_all_11_1_23"  />
+</g>
+<g id="a11_0024"  >
+<polygon points="699,85 704,80 712,80 712,90 704,90 699,85 " style="fill:#15d8c1; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19185&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4363573 - 4363013&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10135&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 363&lt;br&gt;E-value: 2.3e-128" locus_tag="OSU72_RS19185" class="clusterblast-orf" id="general-11_all_11_1_24"  />
+</g>
+<g id="a11_0025"  >
+<polygon points="720,85 725,80 737,80 737,90 725,90 720,85 " style="fill:#5415d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19180&lt;/b&gt;&lt;br&gt;NPP1 family protein&lt;br&gt;Location: 4362689 - 4361922&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10140&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 537&lt;br&gt;E-value: 7.88e-195" locus_tag="OSU72_RS19180" class="clusterblast-orf" id="general-11_all_11_1_25"  />
+</g>
+<g id="a11_0026"  >
+<polygon points="741,90 750,90 755,85 750,80 741,80 741,90 " style="fill:#d81544; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19175&lt;/b&gt;&lt;br&gt;histidine phosphatase family protein&lt;br&gt;Location: 4361747 - 4361115&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10145&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 427&lt;br&gt;E-value: 9.96e-153" locus_tag="OSU72_RS19175" class="clusterblast-orf" id="general-11_all_11_1_26"  />
+</g>
+<g id="a11_0027"  >
+<polygon points="755,85 760,80 777,80 777,90 760,90 755,85 " style="fill:#82d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS19170&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4361118 - 4360150&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10150&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 642&lt;br&gt;E-value: 3.45e-234" locus_tag="OSU72_RS19170" class="clusterblast-orf" id="general-11_all_11_1_27"  />
+</g>
+<g label="NZ_CP056773" description="NZ_CP056773 (2535055-2569740): Streptomyces violascens strain YIM 100212 chro... (92% of genes show similarity), LAP,RRE-containing,thiopeptide" class="clusterblast-cluster"  >
+<text x="5" y="120" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP056773&amp;start=2535055&amp;end=2569740" target="_blank">NZ_CP056773 (2535055-2569740)</a>: Streptomyces violascens strain YIM 100212 chro... (92% of genes show similarity), LAP,RRE-containing,thiopeptide</text>
+<line x1="10" y1="135" x2="778.0" y2="135" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a11_000"  >
+<polygon points="1,140 7,140 12,135 7,130 1,130 1,140 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10785&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 2535072 - 2535554&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS29710&lt;/b&gt;&lt;br&gt;Percentage identity: 89&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 246&lt;br&gt;E-value: 3.75e-83" locus_tag="HWN34_RS10785" class="clusterblast-orf" id="general-11_all_11_2_0"  />
+</g>
+<g id="a11_001"  >
+<polygon points="12,140 15,140 20,135 15,130 12,130 12,140 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10790&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2535551 - 2535883" locus_tag="HWN34_RS10790" class="clusterblast-orf" id="general-11_all_11_2_1"  />
+</g>
+<g id="a11_002"  >
+<polygon points="20,135 25,130 100,130 100,140 25,140 20,135 " style="fill:#54d815; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10795&lt;/b&gt;&lt;br&gt;transcription-repair coupling factor&lt;br&gt;Location: 2535909 - 2539442&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10025&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 2291&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS10795" class="clusterblast-orf" id="general-11_all_11_2_2"  />
+</g>
+<g id="a11_003"  >
+<polygon points="110,140 128,140 133,135 128,130 110,130 110,140 " style="fill:#15c1d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10800&lt;/b&gt;&lt;br&gt;LuxR C-terminal-related transcriptional regulator&lt;br&gt;Location: 2539873 - 2540877&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10030&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 640&lt;br&gt;E-value: 5.07e-233" locus_tag="HWN34_RS10800" class="clusterblast-orf" id="general-11_all_11_2_3"  />
+</g>
+<g id="a11_004"  >
+<polygon points="133,135 138,130 165,130 165,140 138,140 133,135 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10805&lt;/b&gt;&lt;br&gt;amidase&lt;br&gt;Location: 2540879 - 2542297" locus_tag="HWN34_RS10805" class="clusterblast-orf" id="general-11_all_11_2_4"  />
+</g>
+<g id="a11_005"  >
+<polygon points="169,140 177,140 182,135 177,130 169,130 169,140 " style="fill:#8215d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10810&lt;/b&gt;&lt;br&gt;TetR family transcriptional regulator&lt;br&gt;Location: 2542449 - 2543063&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10040&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 382&lt;br&gt;E-value: 3.06e-135" locus_tag="HWN34_RS10810" class="clusterblast-orf" id="general-11_all_11_2_5"  />
+</g>
+<g id="a11_006"  >
+<polygon points="182,135 187,130 188,130 188,140 187,140 182,135 " style="fill:#d84415; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10815&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2543052 - 2543312&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10045&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 177&lt;br&gt;E-value: 4.38e-58" locus_tag="HWN34_RS10815" class="clusterblast-orf" id="general-11_all_11_2_6"  />
+</g>
+<g id="a11_007"  >
+<polygon points="188,135 193,130 217,130 217,140 193,140 188,135 " style="fill:#25d815; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10820&lt;/b&gt;&lt;br&gt;amidohydrolase&lt;br&gt;Location: 2543309 - 2544595&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10050&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 786&lt;br&gt;E-value: 9.28e-288" locus_tag="HWN34_RS10820" class="clusterblast-orf" id="general-11_all_11_2_7"  />
+</g>
+<g id="a11_008"  >
+<polygon points="222,140 226,135 222,130 222,140 " style="fill:#1592d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10825&lt;/b&gt;&lt;br&gt;thiazolylpeptide-type bacteriocin&lt;br&gt;Location: 2544796 - 2544972&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10055&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 85&lt;br&gt;E-value: 5.34e-22" locus_tag="HWN34_RS10825" class="clusterblast-orf" id="general-11_all_11_2_8"  />
+</g>
+<g id="a11_009"  >
+<polygon points="228,135 233,130 273,130 273,140 233,140 228,135 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10830&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 2545056 - 2547065&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1302&lt;br&gt;E-value: 0.0&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 456&lt;br&gt;E-value: 2.16e-150" locus_tag="HWN34_RS10830" class="clusterblast-orf" id="general-11_all_11_2_9"  />
+</g>
+<g id="a11_0010"  >
+<polygon points="275,135 280,130 293,130 293,140 280,140 275,135 " style="fill:#d87315; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10835&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 2547166 - 2547921&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10065&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 486&lt;br&gt;E-value: 1.1e-174" locus_tag="HWN34_RS10835" class="clusterblast-orf" id="general-11_all_11_2_10"  />
+</g>
+<g id="a11_0011"  >
+<polygon points="294,135 299,130 315,130 315,140 299,140 294,135 " style="fill:#15d834; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10840&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2547967 - 2548914&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10070&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 612&lt;br&gt;E-value: 1.55e-222" locus_tag="HWN34_RS10840" class="clusterblast-orf" id="general-11_all_11_2_11"  />
+</g>
+<g id="a11_0012"  >
+<polygon points="316,135 321,130 342,130 342,140 321,140 316,135 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10845&lt;/b&gt;&lt;br&gt;M50 family metallopeptidase&lt;br&gt;Location: 2548966 - 2550093&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10075&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 701&lt;br&gt;E-value: 1.45e-255" locus_tag="HWN34_RS10845" class="clusterblast-orf" id="general-11_all_11_2_12"  />
+</g>
+<g id="a11_0013"  >
+<polygon points="342,135 347,130 366,130 366,140 347,140 342,135 " style="fill:#d815d0; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10850&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2550090 - 2551157&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10080&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 725&lt;br&gt;E-value: 7.58e-266" locus_tag="HWN34_RS10850" class="clusterblast-orf" id="general-11_all_11_2_13"  />
+</g>
+<g id="a11_0014"  >
+<polygon points="366,135 371,130 428,130 428,140 371,140 366,135 " style="fill:#d8a215; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10855&lt;/b&gt;&lt;br&gt;lantibiotic dehydratase&lt;br&gt;Location: 2551154 - 2553889&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10085&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1776&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS10855" class="clusterblast-orf" id="general-11_all_11_2_14"  />
+</g>
+<g id="a11_0015"  >
+<polygon points="429,135 434,130 465,130 465,140 434,140 429,135 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10860&lt;/b&gt;&lt;br&gt;SagB family peptide dehydrogenase&lt;br&gt;Location: 2553916 - 2555523&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10090&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1050&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS10860" class="clusterblast-orf" id="general-11_all_11_2_15"  />
+</g>
+<g id="a11_0016"  >
+<polygon points="466,135 471,130 510,130 510,140 471,140 466,135 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10865&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 2555576 - 2557528&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 90&lt;br&gt;BLAST bit score: 447&lt;br&gt;E-value: 4.38e-147&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1280&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS10865" class="clusterblast-orf" id="general-11_all_11_2_16"  />
+</g>
+<g id="a11_0017"  >
+<polygon points="510,135 515,130 561,130 561,140 515,140 510,135 " style="fill:#1534d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10870&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 2557518 - 2559740&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10100&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1395&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS10870" class="clusterblast-orf" id="general-11_all_11_2_17"  />
+</g>
+<g id="a11_0018"  >
+<polygon points="561,135 566,130 603,130 603,140 566,140 561,135 " style="fill:#d815a2; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10875&lt;/b&gt;&lt;br&gt;AAA family ATPase&lt;br&gt;Location: 2559747 - 2561633&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10105&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1210&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS10875" class="clusterblast-orf" id="general-11_all_11_2_18"  />
+</g>
+<g id="a11_0019"  >
+<polygon points="604,135 609,130 609,130 609,140 609,140 604,135 " style="fill:#d8d015; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10880&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2561642 - 2561875&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10110&lt;/b&gt;&lt;br&gt;Percentage identity: 78&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 121&lt;br&gt;E-value: 4.39e-36" locus_tag="HWN34_RS10880" class="clusterblast-orf" id="general-11_all_11_2_19"  />
+</g>
+<g id="a11_0020"  >
+<polygon points="620,140 651,140 656,135 651,130 620,130 620,140 " style="fill:#15d892; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10885&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 2562351 - 2563943&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10115&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 976&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS10885" class="clusterblast-orf" id="general-11_all_11_2_20"  />
+</g>
+<g id="a11_0021"  >
+<polygon points="656,135 661,130 669,130 669,140 661,140 656,135 " style="fill:#2515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10890&lt;/b&gt;&lt;br&gt;TetR family transcriptional regulator&lt;br&gt;Location: 2563963 - 2564514&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10120&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 347&lt;br&gt;E-value: 3.26e-122" locus_tag="HWN34_RS10890" class="clusterblast-orf" id="general-11_all_11_2_21"  />
+</g>
+<g id="a11_0022"  >
+<polygon points="671,140 679,140 684,135 679,130 671,130 671,140 " style="fill:#d81573; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10895&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 2564633 - 2565190&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10125&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 382&lt;br&gt;E-value: 5.04e-136" locus_tag="HWN34_RS10895" class="clusterblast-orf" id="general-11_all_11_2_22"  />
+</g>
+<g id="a11_0023"  >
+<polygon points="686,135 691,130 699,130 699,140 691,140 686,135 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10900&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2565268 - 2565867&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10130&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 374&lt;br&gt;E-value: 4.73e-132" locus_tag="HWN34_RS10900" class="clusterblast-orf" id="general-11_all_11_2_23"  />
+</g>
+<g id="a11_0024"  >
+<polygon points="700,135 705,130 713,130 713,140 705,140 700,135 " style="fill:#15d8c1; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10905&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2565893 - 2566453&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10135&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 363&lt;br&gt;E-value: 2.3e-128" locus_tag="HWN34_RS10905" class="clusterblast-orf" id="general-11_all_11_2_24"  />
+</g>
+<g id="a11_0025"  >
+<polygon points="720,135 725,130 737,130 737,140 725,140 720,135 " style="fill:#5415d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10910&lt;/b&gt;&lt;br&gt;NPP1 family protein&lt;br&gt;Location: 2566778 - 2567545&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10140&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 537&lt;br&gt;E-value: 7.88e-195" locus_tag="HWN34_RS10910" class="clusterblast-orf" id="general-11_all_11_2_25"  />
+</g>
+<g id="a11_0026"  >
+<polygon points="741,140 751,140 756,135 751,130 741,130 741,140 " style="fill:#d81544; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10915&lt;/b&gt;&lt;br&gt;histidine phosphatase family protein&lt;br&gt;Location: 2567722 - 2568354&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10145&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 421&lt;br&gt;E-value: 2.74e-150" locus_tag="HWN34_RS10915" class="clusterblast-orf" id="general-11_all_11_2_26"  />
+</g>
+<g id="a11_0027"  >
+<polygon points="756,135 761,130 778,130 778,140 761,140 756,135 " style="fill:#82d815; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS10920&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2568351 - 2569319&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10150&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 665&lt;br&gt;E-value: 3.48e-243" locus_tag="HWN34_RS10920" class="clusterblast-orf" id="general-11_all_11_2_27"  />
+</g>
+<g label="NZ_CP016824" description="NZ_CP016824 (4492625-4527310): Streptomyces sampsonii strain KJ40 chromosome,... (92% of genes show similarity), LAP,RRE-containing,thiopeptide" class="clusterblast-cluster"  >
+<text x="5" y="170" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP016824&amp;start=4492625&amp;end=4527310" target="_blank">NZ_CP016824 (4492625-4527310)</a>: Streptomyces sampsonii strain KJ40 chromosome,... (92% of genes show similarity), LAP,RRE-containing,thiopeptide</text>
+<line x1="10" y1="185" x2="778.0" y2="185" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a11_000"  >
+<polygon points="1,190 7,190 12,185 7,180 1,180 1,190 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS30815&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 4527294 - 4526812&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS29710&lt;/b&gt;&lt;br&gt;Percentage identity: 88&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 244&lt;br&gt;E-value: 2.16e-82" locus_tag="BEN82_RS30815" class="clusterblast-orf" id="general-11_all_11_3_0"  />
+</g>
+<g id="a11_001"  >
+<polygon points="12,190 15,190 20,185 15,180 12,180 12,190 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19605&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4526815 - 4526483" locus_tag="BEN82_RS19605" class="clusterblast-orf" id="general-11_all_11_3_1"  />
+</g>
+<g id="a11_002"  >
+<polygon points="20,185 25,180 100,180 100,190 25,190 20,185 " style="fill:#54d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19600&lt;/b&gt;&lt;br&gt;transcription-repair coupling factor&lt;br&gt;Location: 4526457 - 4522924&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10025&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 2287&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS19600" class="clusterblast-orf" id="general-11_all_11_3_2"  />
+</g>
+<g id="a11_003"  >
+<polygon points="110,190 128,190 133,185 128,180 110,180 110,190 " style="fill:#15c1d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19595&lt;/b&gt;&lt;br&gt;LuxR C-terminal-related transcriptional regulator&lt;br&gt;Location: 4522493 - 4521489&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10030&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 633&lt;br&gt;E-value: 2.81e-230" locus_tag="BEN82_RS19595" class="clusterblast-orf" id="general-11_all_11_3_3"  />
+</g>
+<g id="a11_004"  >
+<polygon points="133,185 138,180 165,180 165,190 138,190 133,185 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19590&lt;/b&gt;&lt;br&gt;amidase&lt;br&gt;Location: 4521487 - 4520069" locus_tag="BEN82_RS19590" class="clusterblast-orf" id="general-11_all_11_3_4"  />
+</g>
+<g id="a11_005"  >
+<polygon points="169,190 177,190 182,185 177,180 169,180 169,190 " style="fill:#8215d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19585&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 4519917 - 4519303&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10040&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 384&lt;br&gt;E-value: 7.52e-136" locus_tag="BEN82_RS19585" class="clusterblast-orf" id="general-11_all_11_3_5"  />
+</g>
+<g id="a11_006"  >
+<polygon points="182,185 187,180 188,180 188,190 187,190 182,185 " style="fill:#d84415; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19580&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4519314 - 4519054&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10045&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 176&lt;br&gt;E-value: 1.79e-57" locus_tag="BEN82_RS19580" class="clusterblast-orf" id="general-11_all_11_3_6"  />
+</g>
+<g id="a11_007"  >
+<polygon points="188,185 193,180 217,180 217,190 193,190 188,185 " style="fill:#25d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19575&lt;/b&gt;&lt;br&gt;amidohydrolase&lt;br&gt;Location: 4519057 - 4517771&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10050&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 783&lt;br&gt;E-value: 2.18e-286" locus_tag="BEN82_RS19575" class="clusterblast-orf" id="general-11_all_11_3_7"  />
+</g>
+<g id="a11_008"  >
+<polygon points="222,190 226,185 222,180 222,190 " style="fill:#1592d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19570&lt;/b&gt;&lt;br&gt;thiazolylpeptide-type bacteriocin&lt;br&gt;Location: 4517570 - 4517394&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10055&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 85&lt;br&gt;E-value: 5.34e-22" locus_tag="BEN82_RS19570" class="clusterblast-orf" id="general-11_all_11_3_8"  />
+</g>
+<g id="a11_009"  >
+<polygon points="228,185 233,180 273,180 273,190 233,190 228,185 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19565&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 4517310 - 4515301&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1295&lt;br&gt;E-value: 0.0&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 454&lt;br&gt;E-value: 1.21e-149" locus_tag="BEN82_RS19565" class="clusterblast-orf" id="general-11_all_11_3_9"  />
+</g>
+<g id="a11_0010"  >
+<polygon points="275,185 280,180 293,180 293,190 280,190 275,185 " style="fill:#d87315; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19560&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 4515200 - 4514445&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10065&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 486&lt;br&gt;E-value: 1.1e-174" locus_tag="BEN82_RS19560" class="clusterblast-orf" id="general-11_all_11_3_10"  />
+</g>
+<g id="a11_0011"  >
+<polygon points="294,185 299,180 315,180 315,190 299,190 294,185 " style="fill:#15d834; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19555&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4514399 - 4513452&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10070&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 608&lt;br&gt;E-value: 3.66e-221" locus_tag="BEN82_RS19555" class="clusterblast-orf" id="general-11_all_11_3_11"  />
+</g>
+<g id="a11_0012"  >
+<polygon points="316,185 321,180 342,180 342,190 321,190 316,185 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19550&lt;/b&gt;&lt;br&gt;M50 family metallopeptidase&lt;br&gt;Location: 4513400 - 4512273&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10075&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 701&lt;br&gt;E-value: 7.17e-256" locus_tag="BEN82_RS19550" class="clusterblast-orf" id="general-11_all_11_3_12"  />
+</g>
+<g id="a11_0013"  >
+<polygon points="342,185 347,180 366,180 366,190 347,190 342,185 " style="fill:#d815d0; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19545&lt;/b&gt;&lt;br&gt;lantibiotic biosynthesis protein&lt;br&gt;Location: 4512276 - 4511209&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10080&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 726&lt;br&gt;E-value: 2.64e-266" locus_tag="BEN82_RS19545" class="clusterblast-orf" id="general-11_all_11_3_13"  />
+</g>
+<g id="a11_0014"  >
+<polygon points="366,185 371,180 428,180 428,190 371,190 366,185 " style="fill:#d8a215; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19540&lt;/b&gt;&lt;br&gt;lantibiotic dehydratase&lt;br&gt;Location: 4511212 - 4508477&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10085&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1777&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS19540" class="clusterblast-orf" id="general-11_all_11_3_14"  />
+</g>
+<g id="a11_0015"  >
+<polygon points="429,185 434,180 465,180 465,190 434,190 429,185 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19535&lt;/b&gt;&lt;br&gt;SagB family peptide dehydrogenase&lt;br&gt;Location: 4508450 - 4506843&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10090&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1048&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS19535" class="clusterblast-orf" id="general-11_all_11_3_15"  />
+</g>
+<g id="a11_0016"  >
+<polygon points="466,185 471,180 510,180 510,190 471,190 466,185 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19530&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 4506790 - 4504838&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 453&lt;br&gt;E-value: 2.48e-149&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1290&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS19530" class="clusterblast-orf" id="general-11_all_11_3_16"  />
+</g>
+<g id="a11_0017"  >
+<polygon points="510,185 515,180 561,180 561,190 515,190 510,185 " style="fill:#1534d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19525&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 4504848 - 4502626&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10100&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1392&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS19525" class="clusterblast-orf" id="general-11_all_11_3_17"  />
+</g>
+<g id="a11_0018"  >
+<polygon points="561,185 566,180 603,180 603,190 566,190 561,185 " style="fill:#d815a2; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19520&lt;/b&gt;&lt;br&gt;BTAD domain-containing putative transcriptional regulator&lt;br&gt;Location: 4502619 - 4500733&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10105&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1210&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS19520" class="clusterblast-orf" id="general-11_all_11_3_18"  />
+</g>
+<g id="a11_0019"  >
+<polygon points="604,185 609,180 609,180 609,190 609,190 604,185 " style="fill:#d8d015; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19515&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4500724 - 4500491&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10110&lt;/b&gt;&lt;br&gt;Percentage identity: 78&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 122&lt;br&gt;E-value: 1.53e-36" locus_tag="BEN82_RS19515" class="clusterblast-orf" id="general-11_all_11_3_19"  />
+</g>
+<g id="a11_0020"  >
+<polygon points="620,190 651,190 656,185 651,180 620,180 620,190 " style="fill:#15d892; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19510&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 4500015 - 4498423&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10115&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1003&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS19510" class="clusterblast-orf" id="general-11_all_11_3_20"  />
+</g>
+<g id="a11_0021"  >
+<polygon points="656,185 661,180 669,180 669,190 661,190 656,185 " style="fill:#2515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19505&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 4498403 - 4497852&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10120&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 344&lt;br&gt;E-value: 5.41e-121" locus_tag="BEN82_RS19505" class="clusterblast-orf" id="general-11_all_11_3_21"  />
+</g>
+<g id="a11_0022"  >
+<polygon points="671,190 679,190 684,185 679,180 671,180 671,190 " style="fill:#d81573; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19500&lt;/b&gt;&lt;br&gt;GNAT family protein&lt;br&gt;Location: 4497734 - 4497177&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10125&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 374&lt;br&gt;E-value: 1.14e-132" locus_tag="BEN82_RS19500" class="clusterblast-orf" id="general-11_all_11_3_22"  />
+</g>
+<g id="a11_0023"  >
+<polygon points="686,185 691,180 699,180 699,190 691,190 686,185 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19495&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4497097 - 4496498&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10130&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 372&lt;br&gt;E-value: 1.35e-131" locus_tag="BEN82_RS19495" class="clusterblast-orf" id="general-11_all_11_3_23"  />
+</g>
+<g id="a11_0024"  >
+<polygon points="700,185 705,180 713,180 713,190 705,190 700,185 " style="fill:#15d8c1; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19490&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4496472 - 4495912&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10135&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 363&lt;br&gt;E-value: 2.3e-128" locus_tag="BEN82_RS19490" class="clusterblast-orf" id="general-11_all_11_3_24"  />
+</g>
+<g id="a11_0025"  >
+<polygon points="720,185 725,180 737,180 737,190 725,190 720,185 " style="fill:#5415d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19485&lt;/b&gt;&lt;br&gt;NPP1 family protein&lt;br&gt;Location: 4495587 - 4494820&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10140&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 537&lt;br&gt;E-value: 7.88e-195" locus_tag="BEN82_RS19485" class="clusterblast-orf" id="general-11_all_11_3_25"  />
+</g>
+<g id="a11_0026"  >
+<polygon points="741,190 751,190 756,185 751,180 741,180 741,190 " style="fill:#d81544; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19480&lt;/b&gt;&lt;br&gt;histidine phosphatase family protein&lt;br&gt;Location: 4494644 - 4494012&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10145&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 419&lt;br&gt;E-value: 1.12e-149" locus_tag="BEN82_RS19480" class="clusterblast-orf" id="general-11_all_11_3_26"  />
+</g>
+<g id="a11_0027"  >
+<polygon points="756,185 761,180 778,180 778,190 761,190 756,185 " style="fill:#82d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS19475&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4494015 - 4493047&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10150&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 655&lt;br&gt;E-value: 2.26e-239" locus_tag="BEN82_RS19475" class="clusterblast-orf" id="general-11_all_11_3_27"  />
+</g>
+<g label="NZ_CP009802" description="NZ_CP009802 (2663377-2698063): Streptomyces sp. FR-008 chromosome, complete g... (92% of genes show similarity), LAP,RRE-containing,thiopeptide" class="clusterblast-cluster"  >
+<text x="5" y="220" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP009802&amp;start=2663377&amp;end=2698063" target="_blank">NZ_CP009802 (2663377-2698063)</a>: Streptomyces sp. FR-008 chromosome, complete g... (92% of genes show similarity), LAP,RRE-containing,thiopeptide</text>
+<line x1="10" y1="235" x2="778.0" y2="235" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a11_000"  >
+<polygon points="2,240 7,240 12,235 7,230 2,230 2,240 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11470&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 2663434 - 2663868&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS29710&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 268&lt;br&gt;E-value: 4.46e-92" locus_tag="SFR_RS11470" class="clusterblast-orf" id="general-11_all_11_4_0"  />
+</g>
+<g id="a11_001"  >
+<polygon points="12,240 14,240 19,235 14,230 12,230 12,240 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11475&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2663865 - 2664206" locus_tag="SFR_RS11475" class="clusterblast-orf" id="general-11_all_11_4_1"  />
+</g>
+<g id="a11_002"  >
+<polygon points="20,235 25,230 100,230 100,240 25,240 20,235 " style="fill:#54d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11480&lt;/b&gt;&lt;br&gt;transcription-repair coupling factor&lt;br&gt;Location: 2664231 - 2667764&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10025&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 2287&lt;br&gt;E-value: 0.0" locus_tag="SFR_RS11480" class="clusterblast-orf" id="general-11_all_11_4_2"  />
+</g>
+<g id="a11_003"  >
+<polygon points="110,240 127,240 132,235 127,230 110,230 110,240 " style="fill:#15c1d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11485&lt;/b&gt;&lt;br&gt;LuxR C-terminal-related transcriptional regulator&lt;br&gt;Location: 2668195 - 2669199&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10030&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 636&lt;br&gt;E-value: 2.41e-231" locus_tag="SFR_RS11485" class="clusterblast-orf" id="general-11_all_11_4_3"  />
+</g>
+<g id="a11_004"  >
+<polygon points="133,235 138,230 165,230 165,240 138,240 133,235 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11490&lt;/b&gt;&lt;br&gt;amidase&lt;br&gt;Location: 2669201 - 2670619" locus_tag="SFR_RS11490" class="clusterblast-orf" id="general-11_all_11_4_4"  />
+</g>
+<g id="a11_005"  >
+<polygon points="168,240 177,240 182,235 177,230 168,230 168,240 " style="fill:#8215d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11495&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 2670771 - 2671385&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10040&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 381&lt;br&gt;E-value: 8.77e-135" locus_tag="SFR_RS11495" class="clusterblast-orf" id="general-11_all_11_4_5"  />
+</g>
+<g id="a11_006"  >
+<polygon points="182,235 187,230 188,230 188,240 187,240 182,235 " style="fill:#d84415; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11500&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2671374 - 2671634&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10045&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 177&lt;br&gt;E-value: 4.38e-58" locus_tag="SFR_RS11500" class="clusterblast-orf" id="general-11_all_11_4_6"  />
+</g>
+<g id="a11_007"  >
+<polygon points="188,235 193,230 217,230 217,240 193,240 188,235 " style="fill:#25d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11505&lt;/b&gt;&lt;br&gt;amidohydrolase&lt;br&gt;Location: 2671631 - 2672917&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10050&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 786&lt;br&gt;E-value: 1.87e-287" locus_tag="SFR_RS11505" class="clusterblast-orf" id="general-11_all_11_4_7"  />
+</g>
+<g id="a11_008"  >
+<polygon points="221,240 225,235 221,230 221,240 " style="fill:#1592d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11510&lt;/b&gt;&lt;br&gt;thiazolylpeptide-type bacteriocin&lt;br&gt;Location: 2673118 - 2673294&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10055&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 85&lt;br&gt;E-value: 5.34e-22" locus_tag="SFR_RS11510" class="clusterblast-orf" id="general-11_all_11_4_8"  />
+</g>
+<g id="a11_009"  >
+<polygon points="227,235 232,230 273,230 273,240 232,240 227,235 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11515&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 2673378 - 2675388&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 72&lt;br&gt;BLAST bit score: 928&lt;br&gt;E-value: 0.0&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 44&lt;br&gt;Percentage coverage: 67&lt;br&gt;BLAST bit score: 293&lt;br&gt;E-value: 7.83e-88" locus_tag="SFR_RS11515" class="clusterblast-orf" id="general-11_all_11_4_9"  />
+</g>
+<g id="a11_0010"  >
+<polygon points="275,235 280,230 292,230 292,240 280,240 275,235 " style="fill:#d87315; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11520&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 2675489 - 2676244&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10065&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 486&lt;br&gt;E-value: 1.1e-174" locus_tag="SFR_RS11520" class="clusterblast-orf" id="general-11_all_11_4_10"  />
+</g>
+<g id="a11_0011"  >
+<polygon points="293,235 298,230 315,230 315,240 298,240 293,235 " style="fill:#15d834; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11525&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2676290 - 2677237&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10070&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 612&lt;br&gt;E-value: 1.55e-222" locus_tag="SFR_RS11525" class="clusterblast-orf" id="general-11_all_11_4_11"  />
+</g>
+<g id="a11_0012"  >
+<polygon points="316,235 321,230 341,230 341,240 321,240 316,235 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11530&lt;/b&gt;&lt;br&gt;M50 family metallopeptidase&lt;br&gt;Location: 2677289 - 2678416&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10075&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 702&lt;br&gt;E-value: 5.05e-256" locus_tag="SFR_RS11530" class="clusterblast-orf" id="general-11_all_11_4_12"  />
+</g>
+<g id="a11_0013"  >
+<polygon points="341,235 346,230 366,230 366,240 346,240 341,235 " style="fill:#d815d0; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11535&lt;/b&gt;&lt;br&gt;lantibiotic dehydratase C-terminal domain-containing protein&lt;br&gt;Location: 2678413 - 2679480&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10080&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 724&lt;br&gt;E-value: 2.17e-265" locus_tag="SFR_RS11535" class="clusterblast-orf" id="general-11_all_11_4_13"  />
+</g>
+<g id="a11_0014"  >
+<polygon points="365,235 370,230 427,230 427,240 370,240 365,235 " style="fill:#d8a215; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11540&lt;/b&gt;&lt;br&gt;lantibiotic dehydratase&lt;br&gt;Location: 2679477 - 2682212&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10085&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1784&lt;br&gt;E-value: 0.0" locus_tag="SFR_RS11540" class="clusterblast-orf" id="general-11_all_11_4_14"  />
+</g>
+<g id="a11_0015"  >
+<polygon points="428,235 433,230 465,230 465,240 433,240 428,235 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11545&lt;/b&gt;&lt;br&gt;SagB family peptide dehydrogenase&lt;br&gt;Location: 2682239 - 2683846&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10090&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1049&lt;br&gt;E-value: 0.0" locus_tag="SFR_RS11545" class="clusterblast-orf" id="general-11_all_11_4_15"  />
+</g>
+<g id="a11_0016"  >
+<polygon points="466,235 471,230 510,230 510,240 471,240 466,235 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11550&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 2683899 - 2685851&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 450&lt;br&gt;E-value: 3.92e-148&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1293&lt;br&gt;E-value: 0.0" locus_tag="SFR_RS11550" class="clusterblast-orf" id="general-11_all_11_4_16"  />
+</g>
+<g id="a11_0017"  >
+<polygon points="510,235 515,230 560,230 560,240 515,240 510,235 " style="fill:#1534d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11555&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 2685841 - 2688063&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10100&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1394&lt;br&gt;E-value: 0.0" locus_tag="SFR_RS11555" class="clusterblast-orf" id="general-11_all_11_4_17"  />
+</g>
+<g id="a11_0018"  >
+<polygon points="560,235 565,230 603,230 603,240 565,240 560,235 " style="fill:#d815a2; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11560&lt;/b&gt;&lt;br&gt;BTAD domain-containing putative transcriptional regulator&lt;br&gt;Location: 2688070 - 2689956&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10105&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1212&lt;br&gt;E-value: 0.0" locus_tag="SFR_RS11560" class="clusterblast-orf" id="general-11_all_11_4_18"  />
+</g>
+<g id="a11_0019"  >
+<polygon points="603,235 608,230 609,230 609,240 608,240 603,235 " style="fill:#d8d015; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11565&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2689965 - 2690198&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10110&lt;/b&gt;&lt;br&gt;Percentage identity: 78&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 122&lt;br&gt;E-value: 1.53e-36" locus_tag="SFR_RS11565" class="clusterblast-orf" id="general-11_all_11_4_19"  />
+</g>
+<g id="a11_0020"  >
+<polygon points="620,240 650,240 655,235 650,230 620,230 620,240 " style="fill:#15d892; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11570&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 2690689 - 2692263&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10115&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 964&lt;br&gt;E-value: 0.0" locus_tag="SFR_RS11570" class="clusterblast-orf" id="general-11_all_11_4_20"  />
+</g>
+<g id="a11_0021"  >
+<polygon points="656,235 661,230 668,230 668,240 661,240 656,235 " style="fill:#2515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11575&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 2692283 - 2692834&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10120&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 348&lt;br&gt;E-value: 1.14e-122" locus_tag="SFR_RS11575" class="clusterblast-orf" id="general-11_all_11_4_21"  />
+</g>
+<g id="a11_0022"  >
+<polygon points="671,240 679,240 684,235 679,230 671,230 671,240 " style="fill:#d81573; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11580&lt;/b&gt;&lt;br&gt;GNAT family protein&lt;br&gt;Location: 2692953 - 2693510&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10125&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 374&lt;br&gt;E-value: 1.14e-132" locus_tag="SFR_RS11580" class="clusterblast-orf" id="general-11_all_11_4_22"  />
+</g>
+<g id="a11_0023"  >
+<polygon points="685,235 690,230 699,230 699,240 690,240 685,235 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11585&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2693588 - 2694187&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10130&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 374&lt;br&gt;E-value: 4.73e-132" locus_tag="SFR_RS11585" class="clusterblast-orf" id="general-11_all_11_4_23"  />
+</g>
+<g id="a11_0024"  >
+<polygon points="700,235 705,230 712,230 712,240 705,240 700,235 " style="fill:#15d8c1; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11590&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2694213 - 2694773&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10135&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 363&lt;br&gt;E-value: 2.3e-128" locus_tag="SFR_RS11590" class="clusterblast-orf" id="general-11_all_11_4_24"  />
+</g>
+<g id="a11_0025"  >
+<polygon points="720,235 725,230 737,230 737,240 725,240 720,235 " style="fill:#5415d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11595&lt;/b&gt;&lt;br&gt;NPP1 family protein&lt;br&gt;Location: 2695098 - 2695865&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10140&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 541&lt;br&gt;E-value: 1.16e-196" locus_tag="SFR_RS11595" class="clusterblast-orf" id="general-11_all_11_4_25"  />
+</g>
+<g id="a11_0026"  >
+<polygon points="741,240 750,240 755,235 750,230 741,230 741,240 " style="fill:#d81544; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11600&lt;/b&gt;&lt;br&gt;histidine phosphatase family protein&lt;br&gt;Location: 2696041 - 2696673&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10145&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 419&lt;br&gt;E-value: 7.86e-150" locus_tag="SFR_RS11600" class="clusterblast-orf" id="general-11_all_11_4_26"  />
+</g>
+<g id="a11_0027"  >
+<polygon points="755,235 760,230 777,230 777,240 760,240 755,235 " style="fill:#82d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS11605&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2696670 - 2697638&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10150&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 655&lt;br&gt;E-value: 2.26e-239" locus_tag="SFR_RS11605" class="clusterblast-orf" id="general-11_all_11_4_27"  />
+</g>
+<g label="NZ_CP091820" description="NZ_CP091820 (866182-900867): Streptomyces sp. NBU3104 chromosome, complete ge... (92% of genes show similarity), LAP,RRE-containing,thiopeptide" class="clusterblast-cluster"  >
+<text x="5" y="270" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP091820&amp;start=866182&amp;end=900867" target="_blank">NZ_CP091820 (866182-900867)</a>: Streptomyces sp. NBU3104 chromosome, complete ge... (92% of genes show similarity), LAP,RRE-containing,thiopeptide</text>
+<line x1="10" y1="285" x2="778.0" y2="285" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a11_000"  >
+<polygon points="4,285 9,280 17,280 17,290 9,290 4,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04255&lt;/b&gt;&lt;br&gt;UTRA domain-containing protein&lt;br&gt;Location: 900591 - 900046" locus_tag="L2I08_RS04255" class="clusterblast-orf" id="general-11_all_11_5_0"  />
+</g>
+<g id="a11_001"  >
+<polygon points="17,285 22,280 97,280 97,290 22,290 17,285 " style="fill:#54d815; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04250&lt;/b&gt;&lt;br&gt;transcription-repair coupling factor&lt;br&gt;Location: 900014 - 896481&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10025&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 2291&lt;br&gt;E-value: 0.0" locus_tag="L2I08_RS04250" class="clusterblast-orf" id="general-11_all_11_5_1"  />
+</g>
+<g id="a11_002"  >
+<polygon points="107,290 125,290 130,285 125,280 107,280 107,290 " style="fill:#15c1d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04245&lt;/b&gt;&lt;br&gt;LuxR C-terminal-related transcriptional regulator&lt;br&gt;Location: 896050 - 895046&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10030&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 640&lt;br&gt;E-value: 5.07e-233" locus_tag="L2I08_RS04245" class="clusterblast-orf" id="general-11_all_11_5_2"  />
+</g>
+<g id="a11_003"  >
+<polygon points="130,285 135,280 162,280 162,290 135,290 130,285 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04240&lt;/b&gt;&lt;br&gt;amidase&lt;br&gt;Location: 895044 - 893626" locus_tag="L2I08_RS04240" class="clusterblast-orf" id="general-11_all_11_5_3"  />
+</g>
+<g id="a11_004"  >
+<polygon points="166,290 175,290 180,285 175,280 166,280 166,290 " style="fill:#8215d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04235&lt;/b&gt;&lt;br&gt;TetR family transcriptional regulator C-terminal domain-containing protein&lt;br&gt;Location: 893474 - 892860&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10040&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 384&lt;br&gt;E-value: 7.52e-136" locus_tag="L2I08_RS04235" class="clusterblast-orf" id="general-11_all_11_5_4"  />
+</g>
+<g id="a11_005"  >
+<polygon points="179,285 184,280 185,280 185,290 184,290 179,285 " style="fill:#d84415; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04230&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 892871 - 892611&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10045&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 177&lt;br&gt;E-value: 4.38e-58" locus_tag="L2I08_RS04230" class="clusterblast-orf" id="general-11_all_11_5_5"  />
+</g>
+<g id="a11_006"  >
+<polygon points="185,285 190,280 214,280 214,290 190,290 185,285 " style="fill:#25d815; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04225&lt;/b&gt;&lt;br&gt;amidohydrolase&lt;br&gt;Location: 892614 - 891328&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10050&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 784&lt;br&gt;E-value: 1.08e-286" locus_tag="L2I08_RS04225" class="clusterblast-orf" id="general-11_all_11_5_6"  />
+</g>
+<g id="a11_007"  >
+<polygon points="219,290 223,285 219,280 219,290 " style="fill:#1592d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04220&lt;/b&gt;&lt;br&gt;thiazolylpeptide-type bacteriocin&lt;br&gt;Location: 891127 - 890951&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10055&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 85&lt;br&gt;E-value: 5.34e-22" locus_tag="L2I08_RS04220" class="clusterblast-orf" id="general-11_all_11_5_7"  />
+</g>
+<g id="a11_008"  >
+<polygon points="225,285 230,280 270,280 270,290 230,290 225,285 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04215&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 890867 - 888858&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1300&lt;br&gt;E-value: 0.0&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 456&lt;br&gt;E-value: 2.16e-150" locus_tag="L2I08_RS04215" class="clusterblast-orf" id="general-11_all_11_5_8"  />
+</g>
+<g id="a11_009"  >
+<polygon points="273,285 278,280 290,280 290,290 278,290 273,285 " style="fill:#d87315; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04210&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 888757 - 888002&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10065&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 486&lt;br&gt;E-value: 1.1e-174" locus_tag="L2I08_RS04210" class="clusterblast-orf" id="general-11_all_11_5_9"  />
+</g>
+<g id="a11_0010"  >
+<polygon points="291,285 296,280 312,280 312,290 296,290 291,285 " style="fill:#15d834; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04205&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 887956 - 887009&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10070&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 612&lt;br&gt;E-value: 1.55e-222" locus_tag="L2I08_RS04205" class="clusterblast-orf" id="general-11_all_11_5_10"  />
+</g>
+<g id="a11_0011"  >
+<polygon points="313,285 318,280 339,280 339,290 318,290 313,285 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04200&lt;/b&gt;&lt;br&gt;M50 family metallopeptidase&lt;br&gt;Location: 886957 - 885830&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10075&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 701&lt;br&gt;E-value: 1.02e-255" locus_tag="L2I08_RS04200" class="clusterblast-orf" id="general-11_all_11_5_11"  />
+</g>
+<g id="a11_0012"  >
+<polygon points="339,285 344,280 363,280 363,290 344,290 339,285 " style="fill:#d815d0; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04195&lt;/b&gt;&lt;br&gt;lantibiotic biosynthesis protein&lt;br&gt;Location: 885833 - 884766&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10080&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 723&lt;br&gt;E-value: 4.39e-265" locus_tag="L2I08_RS04195" class="clusterblast-orf" id="general-11_all_11_5_12"  />
+</g>
+<g id="a11_0013"  >
+<polygon points="363,285 368,280 425,280 425,290 368,290 363,285 " style="fill:#d8a215; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04190&lt;/b&gt;&lt;br&gt;lantibiotic dehydratase&lt;br&gt;Location: 884769 - 882034&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10085&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1783&lt;br&gt;E-value: 0.0" locus_tag="L2I08_RS04190" class="clusterblast-orf" id="general-11_all_11_5_13"  />
+</g>
+<g id="a11_0014"  >
+<polygon points="426,285 431,280 462,280 462,290 431,290 426,285 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04185&lt;/b&gt;&lt;br&gt;SagB family peptide dehydrogenase&lt;br&gt;Location: 882007 - 880400&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10090&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1047&lt;br&gt;E-value: 0.0" locus_tag="L2I08_RS04185" class="clusterblast-orf" id="general-11_all_11_5_14"  />
+</g>
+<g id="a11_0015"  >
+<polygon points="463,285 468,280 507,280 507,290 468,290 463,285 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04180&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 880347 - 878395&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 448&lt;br&gt;E-value: 1.56e-147&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1283&lt;br&gt;E-value: 0.0" locus_tag="L2I08_RS04180" class="clusterblast-orf" id="general-11_all_11_5_15"  />
+</g>
+<g id="a11_0016"  >
+<polygon points="507,285 512,280 558,280 558,290 512,290 507,285 " style="fill:#1534d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04175&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 878405 - 876183&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10100&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1390&lt;br&gt;E-value: 0.0" locus_tag="L2I08_RS04175" class="clusterblast-orf" id="general-11_all_11_5_16"  />
+</g>
+<g id="a11_0017"  >
+<polygon points="558,285 563,280 601,280 601,290 563,290 558,285 " style="fill:#d815a2; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04170&lt;/b&gt;&lt;br&gt;BTAD domain-containing putative transcriptional regulator&lt;br&gt;Location: 876176 - 874290&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10105&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1211&lt;br&gt;E-value: 0.0" locus_tag="L2I08_RS04170" class="clusterblast-orf" id="general-11_all_11_5_17"  />
+</g>
+<g id="a11_0018"  >
+<polygon points="601,285 606,280 606,280 606,290 606,290 601,285 " style="fill:#d8d015; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04165&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 874281 - 874048&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10110&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 125&lt;br&gt;E-value: 1.86e-37" locus_tag="L2I08_RS04165" class="clusterblast-orf" id="general-11_all_11_5_18"  />
+</g>
+<g id="a11_0019"  >
+<polygon points="617,290 648,290 653,285 648,280 617,280 617,290 " style="fill:#15d892; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04160&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 873572 - 871980&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10115&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1000&lt;br&gt;E-value: 0.0" locus_tag="L2I08_RS04160" class="clusterblast-orf" id="general-11_all_11_5_19"  />
+</g>
+<g id="a11_0020"  >
+<polygon points="653,285 658,280 666,280 666,290 658,290 653,285 " style="fill:#2515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04155&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 871960 - 871409&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10120&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 347&lt;br&gt;E-value: 4.64e-122" locus_tag="L2I08_RS04155" class="clusterblast-orf" id="general-11_all_11_5_20"  />
+</g>
+<g id="a11_0021"  >
+<polygon points="668,290 676,290 681,285 676,280 668,280 668,290 " style="fill:#d81573; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04150&lt;/b&gt;&lt;br&gt;GNAT family protein&lt;br&gt;Location: 871291 - 870734&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10125&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 377&lt;br&gt;E-value: 6.89e-134" locus_tag="L2I08_RS04150" class="clusterblast-orf" id="general-11_all_11_5_21"  />
+</g>
+<g id="a11_0022"  >
+<polygon points="683,285 688,280 696,280 696,290 688,290 683,285 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04145&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 870656 - 870057&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10130&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 374&lt;br&gt;E-value: 4.73e-132" locus_tag="L2I08_RS04145" class="clusterblast-orf" id="general-11_all_11_5_22"  />
+</g>
+<g id="a11_0023"  >
+<polygon points="697,285 702,280 710,280 710,290 702,290 697,285 " style="fill:#15d8c1; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04140&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 870031 - 869471&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10135&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 363&lt;br&gt;E-value: 2.3e-128" locus_tag="L2I08_RS04140" class="clusterblast-orf" id="general-11_all_11_5_23"  />
+</g>
+<g id="a11_0024"  >
+<polygon points="717,285 722,280 735,280 735,290 722,290 717,285 " style="fill:#5415d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04135&lt;/b&gt;&lt;br&gt;NPP1 family protein&lt;br&gt;Location: 869146 - 868379&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10140&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 537&lt;br&gt;E-value: 7.88e-195" locus_tag="L2I08_RS04135" class="clusterblast-orf" id="general-11_all_11_5_24"  />
+</g>
+<g id="a11_0025"  >
+<polygon points="738,290 748,290 753,285 748,280 738,280 738,290 " style="fill:#d81544; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04130&lt;/b&gt;&lt;br&gt;histidine phosphatase family protein&lt;br&gt;Location: 868203 - 867571&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10145&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 422&lt;br&gt;E-value: 6.73e-151" locus_tag="L2I08_RS04130" class="clusterblast-orf" id="general-11_all_11_5_25"  />
+</g>
+<g id="a11_0026"  >
+<polygon points="753,285 758,280 775,280 775,290 758,290 753,285 " style="fill:#82d815; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS04125&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 867574 - 866606&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10150&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 659&lt;br&gt;E-value: 9.59e-241" locus_tag="L2I08_RS04125" class="clusterblast-orf" id="general-11_all_11_5_26"  />
+</g>
+<g label="NZ_CP014485" description="NZ_CP014485 (2653042-2687738): Streptomyces albidoflavus strain SM254 chromos... (89% of genes show similarity), LAP,RRE-containing,thiopeptide" class="clusterblast-cluster"  >
+<text x="5" y="320" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP014485&amp;start=2653042&amp;end=2687738" target="_blank">NZ_CP014485 (2653042-2687738)</a>: Streptomyces albidoflavus strain SM254 chromos... (89% of genes show similarity), LAP,RRE-containing,thiopeptide</text>
+<line x1="10" y1="335" x2="778.0" y2="335" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a11_000"  >
+<polygon points="0,340 4,340 9,335 4,330 0,330 0,340 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS31240&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 2653090 - 2653524&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS29710&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 284&lt;br&gt;E-value: 2.49e-98" locus_tag="Salbus254_RS31240" class="clusterblast-orf" id="general-11_all_11_6_0"  />
+</g>
+<g id="a11_001"  >
+<polygon points="18,335 23,330 98,330 98,340 23,340 18,335 " style="fill:#54d815; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11225&lt;/b&gt;&lt;br&gt;transcription-repair coupling factor&lt;br&gt;Location: 2653887 - 2657420&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10025&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 2290&lt;br&gt;E-value: 0.0" locus_tag="Salbus254_RS11225" class="clusterblast-orf" id="general-11_all_11_6_1"  />
+</g>
+<g id="a11_002"  >
+<polygon points="107,340 125,340 130,335 125,330 107,330 107,340 " style="fill:#15c1d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11230&lt;/b&gt;&lt;br&gt;LuxR C-terminal-related transcriptional regulator&lt;br&gt;Location: 2657851 - 2658855&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10030&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 640&lt;br&gt;E-value: 5.07e-233" locus_tag="Salbus254_RS11230" class="clusterblast-orf" id="general-11_all_11_6_2"  />
+</g>
+<g id="a11_003"  >
+<polygon points="130,335 135,330 162,330 162,340 135,340 130,335 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11235&lt;/b&gt;&lt;br&gt;amidase&lt;br&gt;Location: 2658857 - 2660275" locus_tag="Salbus254_RS11235" class="clusterblast-orf" id="general-11_all_11_6_3"  />
+</g>
+<g id="a11_004"  >
+<polygon points="166,340 175,340 180,335 175,330 166,330 166,340 " style="fill:#8215d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11240&lt;/b&gt;&lt;br&gt;TetR family transcriptional regulator C-terminal domain-containing protein&lt;br&gt;Location: 2660436 - 2661050&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10040&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 378&lt;br&gt;E-value: 1.02e-133" locus_tag="Salbus254_RS11240" class="clusterblast-orf" id="general-11_all_11_6_4"  />
+</g>
+<g id="a11_005"  >
+<polygon points="180,335 185,330 186,330 186,340 185,340 180,335 " style="fill:#d84415; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11245&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2661039 - 2661299&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10045&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 177&lt;br&gt;E-value: 4.38e-58" locus_tag="Salbus254_RS11245" class="clusterblast-orf" id="general-11_all_11_6_5"  />
+</g>
+<g id="a11_006"  >
+<polygon points="186,335 191,330 215,330 215,340 191,340 186,335 " style="fill:#25d815; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11250&lt;/b&gt;&lt;br&gt;amidohydrolase&lt;br&gt;Location: 2661296 - 2662582&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10050&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 783&lt;br&gt;E-value: 3.1e-286" locus_tag="Salbus254_RS11250" class="clusterblast-orf" id="general-11_all_11_6_6"  />
+</g>
+<g id="a11_007"  >
+<polygon points="219,340 223,335 219,330 219,340 " style="fill:#1592d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11255&lt;/b&gt;&lt;br&gt;thiazolylpeptide-type bacteriocin&lt;br&gt;Location: 2662783 - 2662959&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10055&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 85&lt;br&gt;E-value: 5.34e-22" locus_tag="Salbus254_RS11255" class="clusterblast-orf" id="general-11_all_11_6_7"  />
+</g>
+<g id="a11_008"  >
+<polygon points="225,335 230,330 268,330 268,340 230,340 225,335 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11260&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 2663043 - 2664953&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 1261&lt;br&gt;E-value: 0.0&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 455&lt;br&gt;E-value: 1.56e-150" locus_tag="Salbus254_RS11260" class="clusterblast-orf" id="general-11_all_11_6_8"  />
+</g>
+<g id="a11_009"  >
+<polygon points="268,340 271,335 268,330 268,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS33275&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2664939 - 2665064" locus_tag="Salbus254_RS33275" class="clusterblast-orf" id="general-11_all_11_6_9"  />
+</g>
+<g id="a11_0010"  >
+<polygon points="273,335 278,330 290,330 290,340 278,340 273,335 " style="fill:#d87315; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11265&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 2665152 - 2665907&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10065&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 486&lt;br&gt;E-value: 1.1e-174" locus_tag="Salbus254_RS11265" class="clusterblast-orf" id="general-11_all_11_6_10"  />
+</g>
+<g id="a11_0011"  >
+<polygon points="291,335 296,330 313,330 313,340 296,340 291,335 " style="fill:#15d834; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11270&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2665956 - 2666900&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10070&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 607&lt;br&gt;E-value: 1.05e-220" locus_tag="Salbus254_RS11270" class="clusterblast-orf" id="general-11_all_11_6_11"  />
+</g>
+<g id="a11_0012"  >
+<polygon points="314,335 319,330 340,330 340,340 319,340 314,335 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11275&lt;/b&gt;&lt;br&gt;M50 family metallopeptidase&lt;br&gt;Location: 2666952 - 2668091&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10075&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 101&lt;br&gt;BLAST bit score: 690&lt;br&gt;E-value: 3.11e-251" locus_tag="Salbus254_RS11275" class="clusterblast-orf" id="general-11_all_11_6_12"  />
+</g>
+<g id="a11_0013"  >
+<polygon points="339,335 344,330 364,330 364,340 344,340 339,335 " style="fill:#d815d0; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11280&lt;/b&gt;&lt;br&gt;lantibiotic dehydratase C-terminal domain-containing protein&lt;br&gt;Location: 2668088 - 2669155&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10080&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 726&lt;br&gt;E-value: 1.86e-266" locus_tag="Salbus254_RS11280" class="clusterblast-orf" id="general-11_all_11_6_13"  />
+</g>
+<g id="a11_0014"  >
+<polygon points="364,335 369,330 426,330 426,340 369,340 364,335 " style="fill:#d8a215; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11285&lt;/b&gt;&lt;br&gt;lantibiotic dehydratase&lt;br&gt;Location: 2669152 - 2671887&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10085&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1789&lt;br&gt;E-value: 0.0" locus_tag="Salbus254_RS11285" class="clusterblast-orf" id="general-11_all_11_6_14"  />
+</g>
+<g id="a11_0015"  >
+<polygon points="426,335 431,330 463,330 463,340 431,340 426,335 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11290&lt;/b&gt;&lt;br&gt;SagB family peptide dehydrogenase&lt;br&gt;Location: 2671914 - 2673521&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10090&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1046&lt;br&gt;E-value: 0.0" locus_tag="Salbus254_RS11290" class="clusterblast-orf" id="general-11_all_11_6_15"  />
+</g>
+<g id="a11_0016"  >
+<polygon points="464,335 469,330 508,330 508,340 469,340 464,335 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11295&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 2673574 - 2675526&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 449&lt;br&gt;E-value: 5.53e-148&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1298&lt;br&gt;E-value: 0.0" locus_tag="Salbus254_RS11295" class="clusterblast-orf" id="general-11_all_11_6_16"  />
+</g>
+<g id="a11_0017"  >
+<polygon points="508,335 513,330 558,330 558,340 513,340 508,335 " style="fill:#1534d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11300&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 2675516 - 2677738&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10100&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1392&lt;br&gt;E-value: 0.0" locus_tag="Salbus254_RS11300" class="clusterblast-orf" id="general-11_all_11_6_17"  />
+</g>
+<g id="a11_0018"  >
+<polygon points="558,335 563,330 601,330 601,340 563,340 558,335 " style="fill:#d815a2; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11305&lt;/b&gt;&lt;br&gt;BTAD domain-containing putative transcriptional regulator&lt;br&gt;Location: 2677745 - 2679631&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10105&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1209&lt;br&gt;E-value: 0.0" locus_tag="Salbus254_RS11305" class="clusterblast-orf" id="general-11_all_11_6_18"  />
+</g>
+<g id="a11_0019"  >
+<polygon points="601,335 606,330 607,330 607,340 606,340 601,335 " style="fill:#d8d015; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11310&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2679640 - 2679873&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10110&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 125&lt;br&gt;E-value: 1.86e-37" locus_tag="Salbus254_RS11310" class="clusterblast-orf" id="general-11_all_11_6_19"  />
+</g>
+<g id="a11_0020"  >
+<polygon points="617,340 648,340 653,335 648,330 617,330 617,340 " style="fill:#15d892; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11315&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 2680348 - 2681940&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10115&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1006&lt;br&gt;E-value: 0.0" locus_tag="Salbus254_RS11315" class="clusterblast-orf" id="general-11_all_11_6_20"  />
+</g>
+<g id="a11_0021"  >
+<polygon points="654,335 659,330 666,330 666,340 659,340 654,335 " style="fill:#2515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11320&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 2681960 - 2682511&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10120&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 348&lt;br&gt;E-value: 1.14e-122" locus_tag="Salbus254_RS11320" class="clusterblast-orf" id="general-11_all_11_6_21"  />
+</g>
+<g id="a11_0022"  >
+<polygon points="669,340 677,340 682,335 677,330 669,330 669,340 " style="fill:#d81573; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11325&lt;/b&gt;&lt;br&gt;GNAT family protein&lt;br&gt;Location: 2682630 - 2683187&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10125&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 376&lt;br&gt;E-value: 1.97e-133" locus_tag="Salbus254_RS11325" class="clusterblast-orf" id="general-11_all_11_6_22"  />
+</g>
+<g id="a11_0023"  >
+<polygon points="684,335 689,330 697,330 697,340 689,340 684,335 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11330&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2683265 - 2683864&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10130&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 375&lt;br&gt;E-value: 1.16e-132" locus_tag="Salbus254_RS11330" class="clusterblast-orf" id="general-11_all_11_6_23"  />
+</g>
+<g id="a11_0024"  >
+<polygon points="698,335 703,330 710,330 710,340 703,340 698,335 " style="fill:#15d8c1; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11335&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2683890 - 2684450&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10135&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 356&lt;br&gt;E-value: 1.28e-125" locus_tag="Salbus254_RS11335" class="clusterblast-orf" id="general-11_all_11_6_24"  />
+</g>
+<g id="a11_0025"  >
+<polygon points="718,335 723,330 735,330 735,340 723,340 718,335 " style="fill:#5415d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11340&lt;/b&gt;&lt;br&gt;NPP1 family protein&lt;br&gt;Location: 2684775 - 2685542&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10140&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 537&lt;br&gt;E-value: 7.88e-195" locus_tag="Salbus254_RS11340" class="clusterblast-orf" id="general-11_all_11_6_25"  />
+</g>
+<g id="a11_0026"  >
+<polygon points="739,340 743,340 748,335 743,330 739,330 739,340 " style="fill:#d81544; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11345&lt;/b&gt;&lt;br&gt;histidine phosphatase family protein&lt;br&gt;Location: 2685719 - 2686090&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10145&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 50&lt;br&gt;BLAST bit score: 216&lt;br&gt;E-value: 1.07e-70" locus_tag="Salbus254_RS11345" class="clusterblast-orf" id="general-11_all_11_6_26"  />
+</g>
+<g id="a11_0027"  >
+<polygon points="752,340 775,340 780,335 775,330 752,330 752,340 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS11350&lt;/b&gt;&lt;br&gt;IS110 family transposase&lt;br&gt;Location: 2686297 - 2687499" locus_tag="Salbus254_RS11350" class="clusterblast-orf" id="general-11_all_11_6_27"  />
+</g>
+<g label="NZ_OX371412" description="NZ_OX371412 (4409900-4444591): Streptomyces albidoflavus strain CCOS 2040 iso... (89% of genes show similarity), LAP,RRE-containing,thiopeptide" class="clusterblast-cluster"  >
+<text x="5" y="370" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_OX371412&amp;start=4409900&amp;end=4444591" target="_blank">NZ_OX371412 (4409900-4444591)</a>: Streptomyces albidoflavus strain CCOS 2040 iso... (89% of genes show similarity), LAP,RRE-containing,thiopeptide</text>
+<line x1="10" y1="385" x2="778.0" y2="385" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a11_000"  >
+<polygon points="2,390 6,390 11,385 6,380 2,380 2,390 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19725&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 4444550 - 4444116&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS29710&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 284&lt;br&gt;E-value: 2.49e-98" locus_tag="OZE77_RS19725" class="clusterblast-orf" id="general-11_all_11_7_0"  />
+</g>
+<g id="a11_001"  >
+<polygon points="11,390 14,390 19,385 14,380 11,380 11,390 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19720&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4444119 - 4443778" locus_tag="OZE77_RS19720" class="clusterblast-orf" id="general-11_all_11_7_1"  />
+</g>
+<g id="a11_002"  >
+<polygon points="20,385 25,380 100,380 100,390 25,390 20,385 " style="fill:#54d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19715&lt;/b&gt;&lt;br&gt;transcription-repair coupling factor&lt;br&gt;Location: 4443753 - 4440220&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10025&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 2292&lt;br&gt;E-value: 0.0" locus_tag="OZE77_RS19715" class="clusterblast-orf" id="general-11_all_11_7_2"  />
+</g>
+<g id="a11_003"  >
+<polygon points="110,390 127,390 132,385 127,380 110,380 110,390 " style="fill:#15c1d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19710&lt;/b&gt;&lt;br&gt;LuxR C-terminal-related transcriptional regulator&lt;br&gt;Location: 4439789 - 4438785&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10030&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 639&lt;br&gt;E-value: 1.45e-232" locus_tag="OZE77_RS19710" class="clusterblast-orf" id="general-11_all_11_7_3"  />
+</g>
+<g id="a11_004"  >
+<polygon points="132,385 137,380 165,380 165,390 137,390 132,385 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19705&lt;/b&gt;&lt;br&gt;amidase&lt;br&gt;Location: 4438783 - 4437365" locus_tag="OZE77_RS19705" class="clusterblast-orf" id="general-11_all_11_7_4"  />
+</g>
+<g id="a11_005"  >
+<polygon points="168,390 177,390 182,385 177,380 168,380 168,390 " style="fill:#8215d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19700&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 4437195 - 4436581&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10040&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 386&lt;br&gt;E-value: 9.15e-137" locus_tag="OZE77_RS19700" class="clusterblast-orf" id="general-11_all_11_7_5"  />
+</g>
+<g id="a11_006"  >
+<polygon points="182,385 187,380 188,380 188,390 187,390 182,385 " style="fill:#d84415; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19695&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4436592 - 4436332&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10045&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 175&lt;br&gt;E-value: 3.61e-57" locus_tag="OZE77_RS19695" class="clusterblast-orf" id="general-11_all_11_7_6"  />
+</g>
+<g id="a11_007"  >
+<polygon points="188,385 193,380 217,380 217,390 193,390 188,385 " style="fill:#25d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19690&lt;/b&gt;&lt;br&gt;amidohydrolase&lt;br&gt;Location: 4436335 - 4435052&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10050&lt;/b&gt;&lt;br&gt;Percentage identity: 90&lt;br&gt;Percentage coverage: 102&lt;br&gt;BLAST bit score: 704&lt;br&gt;E-value: 2.5e-255" locus_tag="OZE77_RS19690" class="clusterblast-orf" id="general-11_all_11_7_7"  />
+</g>
+<g id="a11_008"  >
+<polygon points="222,390 226,385 222,380 222,390 " style="fill:#1592d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19685&lt;/b&gt;&lt;br&gt;thiazolylpeptide-type bacteriocin&lt;br&gt;Location: 4434851 - 4434675&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10055&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 85&lt;br&gt;E-value: 5.34e-22" locus_tag="OZE77_RS19685" class="clusterblast-orf" id="general-11_all_11_7_8"  />
+</g>
+<g id="a11_009"  >
+<polygon points="227,385 232,380 273,380 273,390 232,390 227,385 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19680&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 4434591 - 4432582&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1302&lt;br&gt;E-value: 0.0&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 456&lt;br&gt;E-value: 2.16e-150" locus_tag="OZE77_RS19680" class="clusterblast-orf" id="general-11_all_11_7_9"  />
+</g>
+<g id="a11_0010"  >
+<polygon points="275,385 280,380 292,380 292,390 280,390 275,385 " style="fill:#d87315; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19675&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 4432481 - 4431726&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10065&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 486&lt;br&gt;E-value: 1.1e-174" locus_tag="OZE77_RS19675" class="clusterblast-orf" id="general-11_all_11_7_10"  />
+</g>
+<g id="a11_0011"  >
+<polygon points="293,385 298,380 315,380 315,390 298,390 293,385 " style="fill:#15d834; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19670&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4431681 - 4430734&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10070&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 612&lt;br&gt;E-value: 1.55e-222" locus_tag="OZE77_RS19670" class="clusterblast-orf" id="general-11_all_11_7_11"  />
+</g>
+<g id="a11_0012"  >
+<polygon points="316,385 321,380 342,380 342,390 321,390 316,385 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19665&lt;/b&gt;&lt;br&gt;M50 family metallopeptidase&lt;br&gt;Location: 4430682 - 4429555&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10075&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 701&lt;br&gt;E-value: 1.45e-255" locus_tag="OZE77_RS19665" class="clusterblast-orf" id="general-11_all_11_7_12"  />
+</g>
+<g id="a11_0013"  >
+<polygon points="341,385 346,380 366,380 366,390 346,390 341,385 " style="fill:#d815d0; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19660&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4429558 - 4428491&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10080&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 725&lt;br&gt;E-value: 7.58e-266" locus_tag="OZE77_RS19660" class="clusterblast-orf" id="general-11_all_11_7_13"  />
+</g>
+<g id="a11_0014"  >
+<polygon points="366,385 371,380 428,380 428,390 371,390 366,385 " style="fill:#d8a215; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19655&lt;/b&gt;&lt;br&gt;lantibiotic dehydratase&lt;br&gt;Location: 4428494 - 4425759&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10085&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1774&lt;br&gt;E-value: 0.0" locus_tag="OZE77_RS19655" class="clusterblast-orf" id="general-11_all_11_7_14"  />
+</g>
+<g id="a11_0015"  >
+<polygon points="428,385 433,380 465,380 465,390 433,390 428,385 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19650&lt;/b&gt;&lt;br&gt;SagB family peptide dehydrogenase&lt;br&gt;Location: 4425732 - 4424127&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10090&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 59&lt;br&gt;BLAST bit score: 632&lt;br&gt;E-value: 2.13e-223" locus_tag="OZE77_RS19650" class="clusterblast-orf" id="general-11_all_11_7_15"  />
+</g>
+<g id="a11_0016"  >
+<polygon points="466,385 471,380 510,380 510,390 471,390 466,385 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19645&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 4424074 - 4422122&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 450&lt;br&gt;E-value: 3.92e-148&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1287&lt;br&gt;E-value: 0.0" locus_tag="OZE77_RS19645" class="clusterblast-orf" id="general-11_all_11_7_16"  />
+</g>
+<g id="a11_0017"  >
+<polygon points="510,385 515,380 560,380 560,390 515,390 510,385 " style="fill:#1534d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19640&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 4422132 - 4419901&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10100&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 1372&lt;br&gt;E-value: 0.0" locus_tag="OZE77_RS19640" class="clusterblast-orf" id="general-11_all_11_7_17"  />
+</g>
+<g id="a11_0018"  >
+<polygon points="560,385 565,380 603,380 603,390 565,390 560,385 " style="fill:#d815a2; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19635&lt;/b&gt;&lt;br&gt;BTAD domain-containing putative transcriptional regulator&lt;br&gt;Location: 4419904 - 4418018&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10105&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1209&lt;br&gt;E-value: 0.0" locus_tag="OZE77_RS19635" class="clusterblast-orf" id="general-11_all_11_7_18"  />
+</g>
+<g id="a11_0019"  >
+<polygon points="603,385 608,380 609,380 609,390 608,390 603,385 " style="fill:#d8d015; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19630&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4418009 - 4417776&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10110&lt;/b&gt;&lt;br&gt;Percentage identity: 88&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 124&lt;br&gt;E-value: 5.34e-37" locus_tag="OZE77_RS19630" class="clusterblast-orf" id="general-11_all_11_7_19"  />
+</g>
+<g id="a11_0020"  >
+<polygon points="619,390 651,390 656,385 651,380 619,380 619,390 " style="fill:#15d892; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19625&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 4417296 - 4415704&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10115&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1006&lt;br&gt;E-value: 0.0" locus_tag="OZE77_RS19625" class="clusterblast-orf" id="general-11_all_11_7_20"  />
+</g>
+<g id="a11_0021"  >
+<polygon points="656,385 661,380 668,380 668,390 661,390 656,385 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19620&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 4415685 - 4415136" locus_tag="OZE77_RS19620" class="clusterblast-orf" id="general-11_all_11_7_21"  />
+</g>
+<g id="a11_0022"  >
+<polygon points="671,390 679,390 684,385 679,380 671,380 671,390 " style="fill:#d81573; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19615&lt;/b&gt;&lt;br&gt;GNAT family protein&lt;br&gt;Location: 4415017 - 4414460&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10125&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 377&lt;br&gt;E-value: 6.89e-134" locus_tag="OZE77_RS19615" class="clusterblast-orf" id="general-11_all_11_7_22"  />
+</g>
+<g id="a11_0023"  >
+<polygon points="686,385 691,380 699,380 699,390 691,390 686,385 " style="fill:#b1d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19610&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4414382 - 4413783&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10130&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 374&lt;br&gt;E-value: 4.73e-132" locus_tag="OZE77_RS19610" class="clusterblast-orf" id="general-11_all_11_7_23"  />
+</g>
+<g id="a11_0024"  >
+<polygon points="700,385 705,380 712,380 712,390 705,390 700,385 " style="fill:#15d8c1; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19605&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4413757 - 4413197&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10135&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 363&lt;br&gt;E-value: 2.3e-128" locus_tag="OZE77_RS19605" class="clusterblast-orf" id="general-11_all_11_7_24"  />
+</g>
+<g id="a11_0025"  >
+<polygon points="720,385 725,380 737,380 737,390 725,390 720,385 " style="fill:#5415d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19600&lt;/b&gt;&lt;br&gt;NPP1 family protein&lt;br&gt;Location: 4412872 - 4412105&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10140&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 541&lt;br&gt;E-value: 1.16e-196" locus_tag="OZE77_RS19600" class="clusterblast-orf" id="general-11_all_11_7_25"  />
+</g>
+<g id="a11_0026"  >
+<polygon points="741,390 750,390 755,385 750,380 741,380 741,390 " style="fill:#d81544; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19595&lt;/b&gt;&lt;br&gt;histidine phosphatase family protein&lt;br&gt;Location: 4411928 - 4411296&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10145&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 422&lt;br&gt;E-value: 6.73e-151" locus_tag="OZE77_RS19595" class="clusterblast-orf" id="general-11_all_11_7_26"  />
+</g>
+<g id="a11_0027"  >
+<polygon points="755,385 760,380 777,380 777,390 760,390 755,385 " style="fill:#82d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS19590&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4411299 - 4410331&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10150&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 666&lt;br&gt;E-value: 8.56e-244" locus_tag="OZE77_RS19590" class="clusterblast-orf" id="general-11_all_11_7_27"  />
+</g>
+<g label="NZ_CP047147" description="NZ_CP047147 (4546507-4581192): Streptomyces sp. GF20 chromosome, complete genome (92% of genes show similarity), LAP,RRE-containing,thiopeptide" class="clusterblast-cluster"  >
+<text x="5" y="420" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP047147&amp;start=4546507&amp;end=4581192" target="_blank">NZ_CP047147 (4546507-4581192)</a>: Streptomyces sp. GF20 chromosome, complete genome (92% of genes show similarity), LAP,RRE-containing,thiopeptide</text>
+<line x1="10" y1="435" x2="778.0" y2="435" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a11_000"  >
+<polygon points="8,440 13,440 18,435 13,430 8,430 8,440 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19935&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 4581125 - 4580691&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS29710&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 274&lt;br&gt;E-value: 1.62e-94" locus_tag="GR131_RS19935" class="clusterblast-orf" id="general-11_all_11_8_0"  />
+</g>
+<g id="a11_001"  >
+<polygon points="26,435 31,430 106,430 106,440 31,440 26,435 " style="fill:#54d815; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19925&lt;/b&gt;&lt;br&gt;transcription-repair coupling factor&lt;br&gt;Location: 4580330 - 4576797&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10025&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 2292&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS19925" class="clusterblast-orf" id="general-11_all_11_8_1"  />
+</g>
+<g id="a11_002"  >
+<polygon points="116,440 133,440 138,435 133,430 116,430 116,440 " style="fill:#15c1d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19920&lt;/b&gt;&lt;br&gt;LuxR C-terminal-related transcriptional regulator&lt;br&gt;Location: 4576366 - 4575362&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10030&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 640&lt;br&gt;E-value: 5.07e-233" locus_tag="GR131_RS19920" class="clusterblast-orf" id="general-11_all_11_8_2"  />
+</g>
+<g id="a11_003"  >
+<polygon points="138,435 143,430 171,430 171,440 143,440 138,435 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19915&lt;/b&gt;&lt;br&gt;amidase&lt;br&gt;Location: 4575360 - 4573942" locus_tag="GR131_RS19915" class="clusterblast-orf" id="general-11_all_11_8_3"  />
+</g>
+<g id="a11_004"  >
+<polygon points="174,440 183,440 188,435 183,430 174,430 174,440 " style="fill:#8215d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19910&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 4573799 - 4573185&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10040&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 386&lt;br&gt;E-value: 9.15e-137" locus_tag="GR131_RS19910" class="clusterblast-orf" id="general-11_all_11_8_4"  />
+</g>
+<g id="a11_005"  >
+<polygon points="187,435 192,430 193,430 193,440 192,440 187,435 " style="fill:#d84415; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19905&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4573196 - 4572936&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10045&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 177&lt;br&gt;E-value: 4.38e-58" locus_tag="GR131_RS19905" class="clusterblast-orf" id="general-11_all_11_8_5"  />
+</g>
+<g id="a11_006"  >
+<polygon points="193,435 198,430 222,430 222,440 198,440 193,435 " style="fill:#25d815; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19900&lt;/b&gt;&lt;br&gt;amidohydrolase&lt;br&gt;Location: 4572939 - 4571653&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10050&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 782&lt;br&gt;E-value: 4.4e-286" locus_tag="GR131_RS19900" class="clusterblast-orf" id="general-11_all_11_8_6"  />
+</g>
+<g id="a11_007"  >
+<polygon points="227,440 231,435 227,430 227,440 " style="fill:#1592d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19895&lt;/b&gt;&lt;br&gt;thiazolylpeptide-type bacteriocin&lt;br&gt;Location: 4571452 - 4571276&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10055&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 85&lt;br&gt;E-value: 5.34e-22" locus_tag="GR131_RS19895" class="clusterblast-orf" id="general-11_all_11_8_7"  />
+</g>
+<g id="a11_008"  >
+<polygon points="233,435 238,430 278,430 278,440 238,440 233,435 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19890&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 4571192 - 4569183&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1299&lt;br&gt;E-value: 0.0&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 456&lt;br&gt;E-value: 1.53e-150" locus_tag="GR131_RS19890" class="clusterblast-orf" id="general-11_all_11_8_8"  />
+</g>
+<g id="a11_009"  >
+<polygon points="281,435 286,430 298,430 298,440 286,440 281,435 " style="fill:#d87315; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19885&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 4569082 - 4568327&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10065&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 486&lt;br&gt;E-value: 1.1e-174" locus_tag="GR131_RS19885" class="clusterblast-orf" id="general-11_all_11_8_9"  />
+</g>
+<g id="a11_0010"  >
+<polygon points="299,435 304,430 320,430 320,440 304,440 299,435 " style="fill:#15d834; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19880&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4568281 - 4567334&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10070&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 610&lt;br&gt;E-value: 6.33e-222" locus_tag="GR131_RS19880" class="clusterblast-orf" id="general-11_all_11_8_10"  />
+</g>
+<g id="a11_0011"  >
+<polygon points="322,435 327,430 347,430 347,440 327,440 322,435 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19875&lt;/b&gt;&lt;br&gt;M50 family metallopeptidase&lt;br&gt;Location: 4567282 - 4566155&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10075&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 702&lt;br&gt;E-value: 5.05e-256" locus_tag="GR131_RS19875" class="clusterblast-orf" id="general-11_all_11_8_11"  />
+</g>
+<g id="a11_0012"  >
+<polygon points="347,435 352,430 371,430 371,440 352,440 347,435 " style="fill:#d815d0; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19870&lt;/b&gt;&lt;br&gt;lantibiotic biosynthesis protein&lt;br&gt;Location: 4566158 - 4565091&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10080&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 722&lt;br&gt;E-value: 1.26e-264" locus_tag="GR131_RS19870" class="clusterblast-orf" id="general-11_all_11_8_12"  />
+</g>
+<g id="a11_0013"  >
+<polygon points="371,435 376,430 434,430 434,440 376,440 371,435 " style="fill:#d8a215; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19865&lt;/b&gt;&lt;br&gt;lantibiotic dehydratase&lt;br&gt;Location: 4565094 - 4562329&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10085&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1784&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS19865" class="clusterblast-orf" id="general-11_all_11_8_13"  />
+</g>
+<g id="a11_0014"  >
+<polygon points="434,435 439,430 470,430 470,440 439,440 434,435 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19860&lt;/b&gt;&lt;br&gt;SagB family peptide dehydrogenase&lt;br&gt;Location: 4562332 - 4560725&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10090&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1051&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS19860" class="clusterblast-orf" id="general-11_all_11_8_14"  />
+</g>
+<g id="a11_0015"  >
+<polygon points="471,435 476,430 516,430 516,440 476,440 471,435 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19855&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 4560672 - 4558720&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 451&lt;br&gt;E-value: 9.87e-149&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1288&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS19855" class="clusterblast-orf" id="general-11_all_11_8_15"  />
+</g>
+<g id="a11_0016"  >
+<polygon points="515,435 520,430 566,430 566,440 520,440 515,435 " style="fill:#1534d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19850&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 4558730 - 4556508&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10100&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1395&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS19850" class="clusterblast-orf" id="general-11_all_11_8_16"  />
+</g>
+<g id="a11_0017"  >
+<polygon points="566,435 571,430 609,430 609,440 571,440 566,435 " style="fill:#d815a2; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19845&lt;/b&gt;&lt;br&gt;AfsR/SARP family transcriptional regulator&lt;br&gt;Location: 4556501 - 4554615&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10105&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1212&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS19845" class="clusterblast-orf" id="general-11_all_11_8_17"  />
+</g>
+<g id="a11_0018"  >
+<polygon points="609,435 614,430 614,430 614,440 614,440 609,435 " style="fill:#d8d015; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19840&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4554606 - 4554373&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10110&lt;/b&gt;&lt;br&gt;Percentage identity: 78&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 121&lt;br&gt;E-value: 4.39e-36" locus_tag="GR131_RS19840" class="clusterblast-orf" id="general-11_all_11_8_18"  />
+</g>
+<g id="a11_0019"  >
+<polygon points="625,440 656,440 661,435 656,430 625,430 625,440 " style="fill:#15d892; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19835&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 4553897 - 4552305&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10115&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1003&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS19835" class="clusterblast-orf" id="general-11_all_11_8_19"  />
+</g>
+<g id="a11_0020"  >
+<polygon points="661,435 666,430 674,430 674,440 666,440 661,435 " style="fill:#2515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19830&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 4552285 - 4551734&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10120&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 346&lt;br&gt;E-value: 9.36e-122" locus_tag="GR131_RS19830" class="clusterblast-orf" id="general-11_all_11_8_20"  />
+</g>
+<g id="a11_0021"  >
+<polygon points="677,440 685,440 690,435 685,430 677,430 677,440 " style="fill:#d81573; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19825&lt;/b&gt;&lt;br&gt;GNAT family protein&lt;br&gt;Location: 4551615 - 4551034&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10125&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 363&lt;br&gt;E-value: 4.01e-128" locus_tag="GR131_RS19825" class="clusterblast-orf" id="general-11_all_11_8_21"  />
+</g>
+<g id="a11_0022"  >
+<polygon points="691,435 696,430 708,430 708,440 696,440 691,435 " style="fill:#5415d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19820&lt;/b&gt;&lt;br&gt;NPP1 family protein&lt;br&gt;Location: 4550993 - 4550226&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10140&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 541&lt;br&gt;E-value: 1.16e-196" locus_tag="GR131_RS19820" class="clusterblast-orf" id="general-11_all_11_8_22"  />
+</g>
+<g id="a11_0023"  >
+<polygon points="712,440 721,440 726,435 721,430 712,430 712,440 " style="fill:#d81544; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19815&lt;/b&gt;&lt;br&gt;phosphoglycerate mutase family protein&lt;br&gt;Location: 4550050 - 4549418&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10145&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 419&lt;br&gt;E-value: 7.86e-150" locus_tag="GR131_RS19815" class="clusterblast-orf" id="general-11_all_11_8_23"  />
+</g>
+<g id="a11_0024"  >
+<polygon points="726,435 731,430 748,430 748,440 731,440 726,435 " style="fill:#82d815; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19810&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4549421 - 4548453&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10150&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 662&lt;br&gt;E-value: 2.86e-242" locus_tag="GR131_RS19810" class="clusterblast-orf" id="general-11_all_11_8_24"  />
+</g>
+<g id="a11_0025"  >
+<polygon points="752,440 766,440 771,435 766,430 752,430 752,440 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS19805&lt;/b&gt;&lt;br&gt;alpha/beta hydrolase&lt;br&gt;Location: 4548292 - 4547441" locus_tag="GR131_RS19805" class="clusterblast-orf" id="general-11_all_11_8_25"  />
+</g>
+<g label="NZ_CP063844" description="NZ_CP063844 (2571162-2605847): Streptomyces sp. A10(2020) chromosome, complet... (88% of genes show similarity), LAP,RRE-containing,thiopeptide" class="clusterblast-cluster"  >
+<text x="5" y="470" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP063844&amp;start=2571162&amp;end=2605847" target="_blank">NZ_CP063844 (2571162-2605847)</a>: Streptomyces sp. A10(2020) chromosome, complet... (88% of genes show similarity), LAP,RRE-containing,thiopeptide</text>
+<line x1="10" y1="485" x2="778.0" y2="485" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a11_000"  >
+<polygon points="8,490 12,490 17,485 12,480 8,480 8,490 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS10975&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 2571297 - 2571662&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS29710&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 84&lt;br&gt;BLAST bit score: 229&lt;br&gt;E-value: 3.66e-77" locus_tag="IPZ55_RS10975" class="clusterblast-orf" id="general-11_all_11_9_0"  />
+</g>
+<g id="a11_001"  >
+<polygon points="17,490 19,490 24,485 19,480 17,480 17,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS10980&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2571659 - 2572000" locus_tag="IPZ55_RS10980" class="clusterblast-orf" id="general-11_all_11_9_1"  />
+</g>
+<g id="a11_002"  >
+<polygon points="25,485 30,480 105,480 105,490 30,490 25,485 " style="fill:#54d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS10985&lt;/b&gt;&lt;br&gt;transcription-repair coupling factor&lt;br&gt;Location: 2572025 - 2575558&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10025&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 2292&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS10985" class="clusterblast-orf" id="general-11_all_11_9_2"  />
+</g>
+<g id="a11_003"  >
+<polygon points="115,490 133,490 138,485 133,480 115,480 115,490 " style="fill:#15c1d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS10990&lt;/b&gt;&lt;br&gt;LuxR C-terminal-related transcriptional regulator&lt;br&gt;Location: 2575989 - 2576993&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10030&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 636&lt;br&gt;E-value: 2.41e-231" locus_tag="IPZ55_RS10990" class="clusterblast-orf" id="general-11_all_11_9_3"  />
+</g>
+<g id="a11_004"  >
+<polygon points="138,485 143,480 170,480 170,490 143,490 138,485 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS10995&lt;/b&gt;&lt;br&gt;amidase&lt;br&gt;Location: 2576995 - 2578413" locus_tag="IPZ55_RS10995" class="clusterblast-orf" id="general-11_all_11_9_4"  />
+</g>
+<g id="a11_005"  >
+<polygon points="173,490 182,490 187,485 182,480 173,480 173,490 " style="fill:#8215d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11000&lt;/b&gt;&lt;br&gt;TetR family transcriptional regulator&lt;br&gt;Location: 2578556 - 2579170&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10040&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 383&lt;br&gt;E-value: 1.07e-135" locus_tag="IPZ55_RS11000" class="clusterblast-orf" id="general-11_all_11_9_5"  />
+</g>
+<g id="a11_006"  >
+<polygon points="187,485 192,480 193,480 193,490 192,490 187,485 " style="fill:#d84415; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11005&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2579159 - 2579419&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10045&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 175&lt;br&gt;E-value: 3.61e-57" locus_tag="IPZ55_RS11005" class="clusterblast-orf" id="general-11_all_11_9_6"  />
+</g>
+<g id="a11_007"  >
+<polygon points="192,485 197,480 222,480 222,490 197,490 192,485 " style="fill:#25d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11010&lt;/b&gt;&lt;br&gt;amidohydrolase&lt;br&gt;Location: 2579416 - 2580702&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10050&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 786&lt;br&gt;E-value: 1.32e-287" locus_tag="IPZ55_RS11010" class="clusterblast-orf" id="general-11_all_11_9_7"  />
+</g>
+<g id="a11_008"  >
+<polygon points="226,490 230,485 226,480 226,490 " style="fill:#1592d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11015&lt;/b&gt;&lt;br&gt;thiazolylpeptide-type bacteriocin&lt;br&gt;Location: 2580903 - 2581079&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10055&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 85&lt;br&gt;E-value: 5.34e-22" locus_tag="IPZ55_RS11015" class="clusterblast-orf" id="general-11_all_11_9_8"  />
+</g>
+<g id="a11_009"  >
+<polygon points="232,485 237,480 278,480 278,490 237,490 232,485 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11020&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 2581163 - 2583172&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1302&lt;br&gt;E-value: 0.0&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 456&lt;br&gt;E-value: 2.16e-150" locus_tag="IPZ55_RS11020" class="clusterblast-orf" id="general-11_all_11_9_9"  />
+</g>
+<g id="a11_0010"  >
+<polygon points="280,485 285,480 297,480 297,490 285,490 280,485 " style="fill:#d87315; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11025&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 2583273 - 2584028&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10065&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 486&lt;br&gt;E-value: 1.1e-174" locus_tag="IPZ55_RS11025" class="clusterblast-orf" id="general-11_all_11_9_10"  />
+</g>
+<g id="a11_0011"  >
+<polygon points="298,485 303,480 320,480 320,490 303,490 298,485 " style="fill:#15d834; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11030&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 2584074 - 2585021&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10070&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 610&lt;br&gt;E-value: 6.33e-222" locus_tag="IPZ55_RS11030" class="clusterblast-orf" id="general-11_all_11_9_11"  />
+</g>
+<g id="a11_0012"  >
+<polygon points="321,485 326,480 346,480 346,490 326,490 321,485 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11035&lt;/b&gt;&lt;br&gt;M50 family metallopeptidase&lt;br&gt;Location: 2585073 - 2586200&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10075&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 695&lt;br&gt;E-value: 1.97e-253" locus_tag="IPZ55_RS11035" class="clusterblast-orf" id="general-11_all_11_9_12"  />
+</g>
+<g id="a11_0013"  >
+<polygon points="346,485 351,480 370,480 370,490 351,490 346,485 " style="fill:#d815d0; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11040&lt;/b&gt;&lt;br&gt;lantibiotic biosynthesis protein&lt;br&gt;Location: 2586197 - 2587264&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10080&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 726&lt;br&gt;E-value: 2.64e-266" locus_tag="IPZ55_RS11040" class="clusterblast-orf" id="general-11_all_11_9_13"  />
+</g>
+<g id="a11_0014"  >
+<polygon points="370,485 375,480 432,480 432,490 375,490 370,485 " style="fill:#d8a215; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11045&lt;/b&gt;&lt;br&gt;lantibiotic dehydratase family protein&lt;br&gt;Location: 2587261 - 2589996&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10085&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1781&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS11045" class="clusterblast-orf" id="general-11_all_11_9_14"  />
+</g>
+<g id="a11_0015"  >
+<polygon points="433,485 438,480 469,480 469,490 438,490 433,485 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11050&lt;/b&gt;&lt;br&gt;SagB family peptide dehydrogenase&lt;br&gt;Location: 2590023 - 2591630&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10090&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1051&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS11050" class="clusterblast-orf" id="general-11_all_11_9_15"  />
+</g>
+<g id="a11_0016"  >
+<polygon points="471,485 476,480 515,480 515,490 476,490 471,485 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11055&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 2591683 - 2593635&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 449&lt;br&gt;E-value: 5.53e-148&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1292&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS11055" class="clusterblast-orf" id="general-11_all_11_9_16"  />
+</g>
+<g id="a11_0017"  >
+<polygon points="515,485 520,480 565,480 565,490 520,490 515,485 " style="fill:#1534d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11060&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 2593625 - 2595847&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10100&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1369&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS11060" class="clusterblast-orf" id="general-11_all_11_9_17"  />
+</g>
+<g id="a11_0018"  >
+<polygon points="565,485 570,480 608,480 608,490 570,490 565,485 " style="fill:#d815a2; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11065&lt;/b&gt;&lt;br&gt;AAA family ATPase&lt;br&gt;Location: 2595854 - 2597740&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10105&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1216&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS11065" class="clusterblast-orf" id="general-11_all_11_9_18"  />
+</g>
+<g id="a11_0019"  >
+<polygon points="608,485 613,480 613,480 613,490 613,490 608,485 " style="fill:#d8d015; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11070&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2597749 - 2597982&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10110&lt;/b&gt;&lt;br&gt;Percentage identity: 88&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 124&lt;br&gt;E-value: 5.34e-37" locus_tag="IPZ55_RS11070" class="clusterblast-orf" id="general-11_all_11_9_19"  />
+</g>
+<g id="a11_0020"  >
+<polygon points="624,490 655,490 660,485 655,480 624,480 624,490 " style="fill:#15d892; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11075&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 2598457 - 2600049&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10115&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1002&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS11075" class="clusterblast-orf" id="general-11_all_11_9_20"  />
+</g>
+<g id="a11_0021"  >
+<polygon points="661,485 666,480 673,480 673,490 666,490 661,485 " style="fill:#2515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11080&lt;/b&gt;&lt;br&gt;TetR family transcriptional regulator&lt;br&gt;Location: 2600069 - 2600620&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10120&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 348&lt;br&gt;E-value: 1.14e-122" locus_tag="IPZ55_RS11080" class="clusterblast-orf" id="general-11_all_11_9_21"  />
+</g>
+<g id="a11_0022"  >
+<polygon points="676,490 684,490 689,485 684,480 676,480 676,490 " style="fill:#d81573; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11085&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 2600739 - 2601320&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10125&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 365&lt;br&gt;E-value: 6.94e-129" locus_tag="IPZ55_RS11085" class="clusterblast-orf" id="general-11_all_11_9_22"  />
+</g>
+<g id="a11_0023"  >
+<polygon points="690,485 695,480 707,480 707,490 695,490 690,485 " style="fill:#5415d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11090&lt;/b&gt;&lt;br&gt;NPP1 family protein&lt;br&gt;Location: 2601361 - 2602128&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10140&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 537&lt;br&gt;E-value: 7.88e-195" locus_tag="IPZ55_RS11090" class="clusterblast-orf" id="general-11_all_11_9_23"  />
+</g>
+<g id="a11_0024"  >
+<polygon points="711,490 721,490 726,485 721,480 711,480 711,490 " style="fill:#d81544; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11095&lt;/b&gt;&lt;br&gt;histidine phosphatase family protein&lt;br&gt;Location: 2602305 - 2602937&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10145&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 419&lt;br&gt;E-value: 1.59e-149" locus_tag="IPZ55_RS11095" class="clusterblast-orf" id="general-11_all_11_9_24"  />
+</g>
+<g id="a11_0025"  >
+<polygon points="726,485 731,480 748,480 748,490 731,490 726,485 " style="fill:#82d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11100&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2602934 - 2603902&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10150&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 658&lt;br&gt;E-value: 1.93e-240" locus_tag="IPZ55_RS11100" class="clusterblast-orf" id="general-11_all_11_9_25"  />
+</g>
+<g id="a11_0026"  >
+<polygon points="751,490 766,490 771,485 766,480 751,480 751,490 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS11105&lt;/b&gt;&lt;br&gt;alpha/beta hydrolase&lt;br&gt;Location: 2604064 - 2604915" locus_tag="IPZ55_RS11105" class="clusterblast-orf" id="general-11_all_11_9_26"  />
+</g>
+<g label="NZ_CP079112" description="NZ_CP079112 (4455923-4490609): Streptomyces albidoflavus strain LGO-A16 chrom... (88% of genes show similarity), LAP,RRE-containing,thiopeptide" class="clusterblast-cluster"  >
+<text x="5" y="520" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP079112&amp;start=4455923&amp;end=4490609" target="_blank">NZ_CP079112 (4455923-4490609)</a>: Streptomyces albidoflavus strain LGO-A16 chrom... (88% of genes show similarity), LAP,RRE-containing,thiopeptide</text>
+<line x1="10" y1="535" x2="778.0" y2="535" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a11_000"  >
+<polygon points="8,540 12,540 17,535 12,530 8,530 8,540 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19640&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 4490476 - 4490111&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS29710&lt;/b&gt;&lt;br&gt;Percentage identity: 88&lt;br&gt;Percentage coverage: 84&lt;br&gt;BLAST bit score: 208&lt;br&gt;E-value: 1.26e-68" locus_tag="STALF2_RS19640" class="clusterblast-orf" id="general-11_all_11_10_0"  />
+</g>
+<g id="a11_001"  >
+<polygon points="17,540 19,540 24,535 19,530 17,530 17,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19635&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4490114 - 4489782" locus_tag="STALF2_RS19635" class="clusterblast-orf" id="general-11_all_11_10_1"  />
+</g>
+<g id="a11_002"  >
+<polygon points="25,535 30,530 105,530 105,540 30,540 25,535 " style="fill:#54d815; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19630&lt;/b&gt;&lt;br&gt;transcription-repair coupling factor&lt;br&gt;Location: 4489756 - 4486223&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10025&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 2291&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS19630" class="clusterblast-orf" id="general-11_all_11_10_2"  />
+</g>
+<g id="a11_003"  >
+<polygon points="115,540 132,540 137,535 132,530 115,530 115,540 " style="fill:#15c1d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19625&lt;/b&gt;&lt;br&gt;LuxR C-terminal-related transcriptional regulator&lt;br&gt;Location: 4485792 - 4484788&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10030&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 639&lt;br&gt;E-value: 2.06e-232" locus_tag="STALF2_RS19625" class="clusterblast-orf" id="general-11_all_11_10_3"  />
+</g>
+<g id="a11_004"  >
+<polygon points="137,535 142,530 170,530 170,540 142,540 137,535 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19620&lt;/b&gt;&lt;br&gt;amidase&lt;br&gt;Location: 4484786 - 4483368" locus_tag="STALF2_RS19620" class="clusterblast-orf" id="general-11_all_11_10_4"  />
+</g>
+<g id="a11_005"  >
+<polygon points="173,540 182,540 187,535 182,530 173,530 173,540 " style="fill:#8215d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19615&lt;/b&gt;&lt;br&gt;TetR family transcriptional regulator&lt;br&gt;Location: 4483216 - 4482602&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10040&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 386&lt;br&gt;E-value: 9.15e-137" locus_tag="STALF2_RS19615" class="clusterblast-orf" id="general-11_all_11_10_5"  />
+</g>
+<g id="a11_006"  >
+<polygon points="187,535 192,530 193,530 193,540 192,540 187,535 " style="fill:#d84415; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19610&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4482613 - 4482353&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10045&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 175&lt;br&gt;E-value: 3.61e-57" locus_tag="STALF2_RS19610" class="clusterblast-orf" id="general-11_all_11_10_6"  />
+</g>
+<g id="a11_007"  >
+<polygon points="192,535 197,530 222,530 222,540 197,540 192,535 " style="fill:#25d815; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19605&lt;/b&gt;&lt;br&gt;amidohydrolase&lt;br&gt;Location: 4482356 - 4481070&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10050&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 785&lt;br&gt;E-value: 3.78e-287" locus_tag="STALF2_RS19605" class="clusterblast-orf" id="general-11_all_11_10_7"  />
+</g>
+<g id="a11_008"  >
+<polygon points="226,540 230,535 226,530 226,540 " style="fill:#1592d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19600&lt;/b&gt;&lt;br&gt;thiazolylpeptide-type bacteriocin&lt;br&gt;Location: 4480869 - 4480693&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10055&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 85&lt;br&gt;E-value: 5.34e-22" locus_tag="STALF2_RS19600" class="clusterblast-orf" id="general-11_all_11_10_8"  />
+</g>
+<g id="a11_009"  >
+<polygon points="232,535 237,530 278,530 278,540 237,540 232,535 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19595&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 4480609 - 4478600&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1298&lt;br&gt;E-value: 0.0&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 453&lt;br&gt;E-value: 2.41e-149" locus_tag="STALF2_RS19595" class="clusterblast-orf" id="general-11_all_11_10_9"  />
+</g>
+<g id="a11_0010"  >
+<polygon points="280,535 285,530 297,530 297,540 285,540 280,535 " style="fill:#d87315; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19590&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 4478499 - 4477744&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10065&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 486&lt;br&gt;E-value: 1.1e-174" locus_tag="STALF2_RS19590" class="clusterblast-orf" id="general-11_all_11_10_10"  />
+</g>
+<g id="a11_0011"  >
+<polygon points="298,535 303,530 320,530 320,540 303,540 298,535 " style="fill:#15d834; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19585&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 4477697 - 4476750&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10070&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 610&lt;br&gt;E-value: 6.33e-222" locus_tag="STALF2_RS19585" class="clusterblast-orf" id="general-11_all_11_10_11"  />
+</g>
+<g id="a11_0012"  >
+<polygon points="321,535 326,530 346,530 346,540 326,540 321,535 " style="fill:#1563d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19580&lt;/b&gt;&lt;br&gt;M50 family metallopeptidase&lt;br&gt;Location: 4476698 - 4475571&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10075&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 701&lt;br&gt;E-value: 1.45e-255" locus_tag="STALF2_RS19580" class="clusterblast-orf" id="general-11_all_11_10_12"  />
+</g>
+<g id="a11_0013"  >
+<polygon points="346,535 351,530 370,530 370,540 351,540 346,535 " style="fill:#d815d0; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19575&lt;/b&gt;&lt;br&gt;lantibiotic biosynthesis protein&lt;br&gt;Location: 4475574 - 4474507&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10080&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 725&lt;br&gt;E-value: 7.58e-266" locus_tag="STALF2_RS19575" class="clusterblast-orf" id="general-11_all_11_10_13"  />
+</g>
+<g id="a11_0014"  >
+<polygon points="370,535 375,530 432,530 432,540 375,540 370,535 " style="fill:#d8a215; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19570&lt;/b&gt;&lt;br&gt;lantibiotic dehydratase family protein&lt;br&gt;Location: 4474510 - 4471775&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10085&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1784&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS19570" class="clusterblast-orf" id="general-11_all_11_10_14"  />
+</g>
+<g id="a11_0015"  >
+<polygon points="433,535 438,530 469,530 469,540 438,540 433,535 " style="fill:#15d863; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19565&lt;/b&gt;&lt;br&gt;SagB family peptide dehydrogenase&lt;br&gt;Location: 4471748 - 4470141&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10090&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1048&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS19565" class="clusterblast-orf" id="general-11_all_11_10_15"  />
+</g>
+<g id="a11_0016"  >
+<polygon points="471,535 476,530 515,530 515,540 476,540 471,535 " style="fill:#b115d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19560&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 4470088 - 4468136&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10060&lt;/b&gt;&lt;br&gt;Percentage identity: 46&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 449&lt;br&gt;E-value: 1.1e-147&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10095&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1285&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS19560" class="clusterblast-orf" id="general-11_all_11_10_16"  />
+</g>
+<g id="a11_0017"  >
+<polygon points="515,535 520,530 565,530 565,540 520,540 515,535 " style="fill:#1534d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19555&lt;/b&gt;&lt;br&gt;TOMM precursor leader peptide-binding protein&lt;br&gt;Location: 4468146 - 4465924&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10100&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1393&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS19555" class="clusterblast-orf" id="general-11_all_11_10_17"  />
+</g>
+<g id="a11_0018"  >
+<polygon points="565,535 570,530 608,530 608,540 570,540 565,535 " style="fill:#d815a2; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19550&lt;/b&gt;&lt;br&gt;AAA family ATPase&lt;br&gt;Location: 4465917 - 4464031&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10105&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1212&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS19550" class="clusterblast-orf" id="general-11_all_11_10_18"  />
+</g>
+<g id="a11_0019"  >
+<polygon points="608,535 613,530 613,530 613,540 613,540 608,535 " style="fill:#d8d015; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19545&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4464022 - 4463789&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10110&lt;/b&gt;&lt;br&gt;Percentage identity: 88&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 124&lt;br&gt;E-value: 5.34e-37" locus_tag="STALF2_RS19545" class="clusterblast-orf" id="general-11_all_11_10_19"  />
+</g>
+<g id="a11_0020"  >
+<polygon points="624,540 655,540 660,535 655,530 624,530 624,540 " style="fill:#15d892; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19540&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 4463313 - 4461721&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10115&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 973&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS19540" class="clusterblast-orf" id="general-11_all_11_10_20"  />
+</g>
+<g id="a11_0021"  >
+<polygon points="661,535 666,530 673,530 673,540 666,540 661,535 " style="fill:#2515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19535&lt;/b&gt;&lt;br&gt;TetR family transcriptional regulator&lt;br&gt;Location: 4461702 - 4461151&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10120&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 347&lt;br&gt;E-value: 4.64e-122" locus_tag="STALF2_RS19535" class="clusterblast-orf" id="general-11_all_11_10_21"  />
+</g>
+<g id="a11_0022"  >
+<polygon points="676,540 684,540 689,535 684,530 676,530 676,540 " style="fill:#d81573; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19530&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 4461032 - 4460451&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10125&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 97&lt;br&gt;BLAST bit score: 363&lt;br&gt;E-value: 1.99e-128" locus_tag="STALF2_RS19530" class="clusterblast-orf" id="general-11_all_11_10_22"  />
+</g>
+<g id="a11_0023"  >
+<polygon points="690,535 695,530 707,530 707,540 695,540 690,535 " style="fill:#5415d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19525&lt;/b&gt;&lt;br&gt;NPP1 family protein&lt;br&gt;Location: 4460410 - 4459643&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10140&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 541&lt;br&gt;E-value: 1.16e-196" locus_tag="STALF2_RS19525" class="clusterblast-orf" id="general-11_all_11_10_23"  />
+</g>
+<g id="a11_0024"  >
+<polygon points="711,540 721,540 726,535 721,530 711,530 711,540 " style="fill:#d81544; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19520&lt;/b&gt;&lt;br&gt;histidine phosphatase family protein&lt;br&gt;Location: 4459466 - 4458834&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10145&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 422&lt;br&gt;E-value: 9.56e-151" locus_tag="STALF2_RS19520" class="clusterblast-orf" id="general-11_all_11_10_24"  />
+</g>
+<g id="a11_0025"  >
+<polygon points="726,535 731,530 748,530 748,540 731,540 726,535 " style="fill:#82d815; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19515&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 4458837 - 4457868&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS10150&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 53&lt;br&gt;BLAST bit score: 357&lt;br&gt;E-value: 1.07e-121" locus_tag="STALF2_RS19515" class="clusterblast-orf" id="general-11_all_11_10_25"  />
+</g>
+<g id="a11_0026"  >
+<polygon points="751,540 766,540 771,535 766,530 751,530 751,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS19510&lt;/b&gt;&lt;br&gt;alpha/beta hydrolase&lt;br&gt;Location: 4457706 - 4456855" locus_tag="STALF2_RS19510" class="clusterblast-orf" id="general-11_all_11_10_26"  />
+</g>
+</svg>

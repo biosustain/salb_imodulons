@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>BCB17054.1</td>
+              <td>putative_zoocin_A</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002523/1">BGC0002523</a></td>
+              <td>NRP</td>
+              <td>62.0</td>
+              <td>106.0</td>
+              <td>468.0</td>
+              <td>1.07e-163</td>
+          </tr>
+    
+          <tr>
+              <td>ASZ00134.1</td>
+              <td>peptidase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001785/1">BGC0001785</a></td>
+              <td>Polyketide</td>
+              <td>65.0</td>
+              <td>104.6</td>
+              <td>446.0</td>
+              <td>5.69e-155</td>
+          </tr>
+    
+          <tr>
+              <td>SCL57515.1</td>
+              <td>LysM_domain-containing_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002387/1">BGC0002387</a></td>
+              <td>Polyketide</td>
+              <td>48.0</td>
+              <td>49.0</td>
+              <td>164.0</td>
+              <td>4.1e-48</td>
+          </tr>
+    
+          <tr>
+              <td>AWR88382.1</td>
+              <td>hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001522/1">BGC0001522</a></td>
+              <td>Polyketide</td>
+              <td>60.0</td>
+              <td>28.0</td>
+              <td>153.0</td>
+              <td>2.87e-43</td>
+          </tr>
+    
+          <tr>
+              <td>ANA09448.1</td>
+              <td>PriF</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001483/1">BGC0001483</a></td>
+              <td>Other</td>
+              <td>45.0</td>
+              <td>54.9</td>
+              <td>144.0</td>
+              <td>3.06e-40</td>
+          </tr>
+    
+          <tr>
+              <td>SCN11972.1</td>
+              <td>putative_transglycosylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001580/1">BGC0001580</a></td>
+              <td>Polyketide</td>
+              <td>51.0</td>
+              <td>54.0</td>
+              <td>139.0</td>
+              <td>3.45e-38</td>
+          </tr>
+    
+          <tr>
+              <td>CAH60132.1</td>
+              <td>putative_peptidase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000700/1">BGC0000700</a></td>
+              <td>Saccharide</td>
+              <td>54.0</td>
+              <td>28.7</td>
+              <td>129.0</td>
+              <td>1.1e-34</td>
+          </tr>
+    
+          <tr>
+              <td>ANA09447.1</td>
+              <td>PriE</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001483/1">BGC0001483</a></td>
+              <td>Other</td>
+              <td>54.0</td>
+              <td>29.4</td>
+              <td>119.0</td>
+              <td>1.06e-29</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

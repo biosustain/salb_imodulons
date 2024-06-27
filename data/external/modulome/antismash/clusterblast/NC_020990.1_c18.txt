@@ -1,0 +1,1228 @@
+ClusterBlast scores for NC_020990.1
+
+Table of genes, locations, strands and annotations of query cluster:
+XNR_RS24540	5635615	5636341	+	DsbA family oxidoreductase	
+XNR_RS24545	5636466	5637516	+	aminotransferase class V-fold PLP-dependent enzyme	
+XNR_RS24550	5637526	5638039	-	MarR family winged helix-turn-helix transcriptional regulator	
+XNR_RS24555	5638210	5639272	+	alkene reductase	
+XNR_RS24560	5639445	5640342	-	ectoine hydroxylase	
+XNR_RS24565	5640345	5640744	-	ectoine synthase	
+XNR_RS24570	5640778	5642050	-	diaminobutyrate--2-oxoglutarate transaminase	
+XNR_RS24575	5642169	5642676	-	diaminobutyrate acetyltransferase	
+XNR_RS24580	5643170	5644286	-	aminotransferase class V-fold PLP-dependent enzyme	
+XNR_RS24585	5644360	5645452	+	amidohydrolase family protein	
+
+
+Significant hits: 
+1. NC_020990	Streptomyces albidoflavus, complete sequence
+2. NZ_CP016824	Streptomyces sampsonii strain KJ40 chromosome, complete genome
+3. NZ_CP063844	Streptomyces sp. A10(2020) chromosome, complete genome
+4. NZ_CP079112	Streptomyces albidoflavus strain LGO-A16 chromosome
+5. NZ_CP091820	Streptomyces sp. NBU3104 chromosome, complete genome
+6. NZ_CP009802	Streptomyces sp. FR-008 chromosome, complete genome
+7. NZ_AP025692	Streptomyces sp. PLM4 chromosome
+8. NZ_KB890727	Streptomyces sp. LaPpAH-202 B048DRAFT_scaffold_3.4, whole genome shotgun sequence
+9. NZ_CP056773	Streptomyces violascens strain YIM 100212 chromosome, complete genome
+10. NZ_MNPQ01000010	Streptomyces albidoflavus strain OsiLf-2 Scaffold8_1, whole genome shotgun sequence
+11. NZ_OX371412	Streptomyces albidoflavus strain CCOS 2040 isolate Stup19_F108 chromosome 1
+12. NZ_CP047147	Streptomyces sp. GF20 chromosome, complete genome
+13. NZ_CP113103	Streptomyces sp. NA13 chromosome, complete genome
+14. NZ_CP014485	Streptomyces albidoflavus strain SM254 chromosome, complete genome
+15. NZ_JAHUVY010000001	Streptomyces albidoflavus strain LGO-A19 A19_AS2_SC1, whole genome shotgun sequence
+16. NZ_KN549153	Streptomyces sp. M10 Scaffold8, whole genome shotgun sequence
+17. NZ_CP064783	Streptomyces albidoflavus strain W68 chromosome, complete genome
+18. NZ_CP031742	Streptomyces koyangensis strain VK-A60T chromosome, complete genome
+19. NZ_CP049945	Streptomyces koyangensis strain SCSIO 5802 chromosome, complete genome
+20. NZ_CM002273	Streptomyces sp. PVA_94-07 strain PVA 94-07 chromosome, whole genome shotgun sequence
+21. NZ_KZ195583	Streptomyces sp. CS227 scaffold00001, whole genome shotgun sequence
+22. NZ_CP076385	Streptomyces sp. G11C(2021) chromosome
+23. NZ_CP053539	Streptomyces sp. OUCMDZ-3434 chromosome
+24. NZ_CP106650	Streptomyces sp. GBA 94-10 4N24 strain GBA 94-10 chromosome, complete genome
+25. NZ_ML123107	Streptomyces sp. ADI96-15 scaffold001, whole genome shotgun sequence
+26. NZ_CP026490	Streptomyces sp. 604F chromosome, complete genome
+27. NZ_AMPN02000002	Streptomyces sp. SM8 Scaffold_2, whole genome shotgun sequence
+28. NZ_CP040916	Streptomyces spectabilis strain NRRL 2792 chromosome, complete genome
+29. NZ_CP023690	Streptomyces spectabilis strain ATCC 27465 chromosome, complete genome
+30. NZ_CP085173	Streptomyces sp. BH-MK-02 chromosome, complete genome
+31. NZ_RHGC01000007	Streptomyces alboflavus strain 313 contig007, whole genome shotgun sequence
+32. NZ_CP021748	Streptomyces alboflavus strain MDJK44 chromosome, complete genome
+33. NZ_WPNZ01000010	Streptomyces typhae strain p1417 Scaffold10, whole genome shotgun sequence
+34. NZ_BMVR01000006	Streptomyces flavofungini strain JCM 4753 sequence06, whole genome shotgun sequence
+35. NZ_NNBL01000002	Streptomyces sp. CB01635 scaffold2, whole genome shotgun sequence
+36. NZ_CP071872	Streptomyces formicae strain 1H-GS9 chromosome, complete genome
+37. NZ_CP047140	Streptomyces sp. Tu 2975 chromosome, complete genome
+38. NZ_CP075715	Streptomyces sp. FIT100 chromosome
+39. NZ_JAMGSL010000008	Streptomyces sp. Je 1-79 Lv1-79_AS2_SC08, whole genome shotgun sequence
+40. NZ_CP070379	Streptomyces tsukubensis strain L20 chromosome
+41. NZ_JALLPQ010000001	Streptomyces sp. WAC00276 contig_2_pilon_pilon_pilon, whole genome shotgun sequence
+42. NZ_KZ819178	Streptomyces sp. CS131 scaffold00001, whole genome shotgun sequence
+43. NZ_CM000950	Streptomyces pristinaespiralis ATCC 25486 chromosome, whole genome shotgun sequence
+44. NZ_JTIY01000001	Streptomyces sp. AcH 505 scaffold00001, whole genome shotgun sequence
+45. NZ_AUBE01000021	Streptomyces flavidovirens DSM 40150 G412DRAFT_scaffold00019.19_C, whole genome shotgun sequence
+46. NZ_JAFEJA010000001	Streptomyces zhihengii strain YIM T102 assembly_1, whole genome shotgun sequence
+47. NZ_CM000913	Streptomyces clavuligerus strain ATCC 27064 chromosome, whole genome shotgun sequence
+48. NZ_CP016559	Streptomyces clavuligerus strain F613-1 chromosome, complete genome
+49. NZ_CP042266	Streptomyces qinzhouensis strain SSL-25 chromosome, complete genome
+50. NZ_CP050504	Streptomyces sp. DSM 40868 chromosome, complete genome
+
+
+Details:
+
+>>
+1. NC_020990
+Source: Streptomyces albidoflavus, complete sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5691.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	XNR_RS24540	100	476	100.0	2.32e-171
+XNR_RS24545	XNR_RS24545	100	659	100.0	3.89e-240
+XNR_RS24550	XNR_RS24550	100	336	100.0	4.57e-118
+XNR_RS24555	XNR_RS24555	100	688	100.0	2.8e-251
+XNR_RS24560	XNR_RS24560	100	608	100.0	1.97e-221
+XNR_RS24565	XNR_RS24565	100	283	100.0	2.04e-98
+XNR_RS24570	XNR_RS24570	100	851	100.0	1.56e-313
+XNR_RS24575	XNR_RS24575	100	350	100.0	8.92e-124
+XNR_RS24580	XNR_RS24580	100	707	100.0	1.91e-258
+XNR_RS24585	XNR_RS24585	100	733	100.0	6.28e-269
+
+
+
+>>
+2. NZ_CP016824
+Source: Streptomyces sampsonii strain KJ40 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5682.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	BEN82_RS05460	100	476	100.0	2.32e-171
+XNR_RS24545	BEN82_RS05455	100	659	100.0	3.89e-240
+XNR_RS24550	BEN82_RS05450	100	336	100.0	4.57e-118
+XNR_RS24555	BEN82_RS05445	99	685	100.0	4.63e-250
+XNR_RS24560	BEN82_RS05440	100	606	100.0	8.01e-221
+XNR_RS24565	BEN82_RS05435	100	283	100.0	2.04e-98
+XNR_RS24570	BEN82_RS05430	100	851	100.0	1.56e-313
+XNR_RS24575	BEN82_RS05425	100	350	100.0	8.92e-124
+XNR_RS24580	BEN82_RS05420	100	704	100.0	3.17e-257
+XNR_RS24585	BEN82_RS05415	100	732	100.0	1.8e-268
+
+
+
+>>
+3. NZ_CP063844
+Source: Streptomyces sp. A10(2020) chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5682.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	IPZ55_RS25465	100	475	100.0	9.44e-171
+XNR_RS24545	IPZ55_RS25470	100	659	100.0	3.89e-240
+XNR_RS24550	IPZ55_RS25475	99	334	100.0	1.86e-117
+XNR_RS24555	IPZ55_RS25480	100	686	100.0	1.14e-250
+XNR_RS24560	IPZ55_RS25485	100	608	100.0	1.97e-221
+XNR_RS24565	IPZ55_RS25490	100	283	100.0	2.04e-98
+XNR_RS24570	IPZ55_RS25495	100	851	100.0	1.56e-313
+XNR_RS24575	IPZ55_RS25500	100	350	100.0	8.92e-124
+XNR_RS24580	IPZ55_RS25505	100	704	100.0	3.17e-257
+XNR_RS24585	IPZ55_RS25510	100	732	100.0	1.8e-268
+
+
+
+>>
+4. NZ_CP079112
+Source: Streptomyces albidoflavus strain LGO-A16 chromosome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5679.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	STALF2_RS04865	100	474	99.5850622406639	1.91e-170
+XNR_RS24545	STALF2_RS04860	100	658	100.0	1.58e-239
+XNR_RS24550	STALF2_RS04855	99	333	100.0	5.34e-117
+XNR_RS24555	STALF2_RS04850	100	686	100.0	1.14e-250
+XNR_RS24560	STALF2_RS04845	100	606	100.0	8.01e-221
+XNR_RS24565	STALF2_RS04840	100	283	100.0	2.04e-98
+XNR_RS24570	STALF2_RS04835	100	850	100.0	3.15e-313
+XNR_RS24575	STALF2_RS04830	100	350	100.0	8.92e-124
+XNR_RS24580	STALF2_RS04825	100	706	100.0	7.79e-258
+XNR_RS24585	STALF2_RS04820	100	733	100.0	6.28e-269
+
+
+
+>>
+5. NZ_CP091820
+Source: Streptomyces sp. NBU3104 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5679.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	L2I08_RS20595	100	474	100.0	1.91e-170
+XNR_RS24545	L2I08_RS20590	100	658	100.0	1.12e-239
+XNR_RS24550	L2I08_RS20585	100	336	100.0	4.57e-118
+XNR_RS24555	L2I08_RS20580	99	684	100.0	1.33e-249
+XNR_RS24560	L2I08_RS20575	100	606	100.0	8.01e-221
+XNR_RS24565	L2I08_RS20570	100	283	100.0	2.04e-98
+XNR_RS24570	L2I08_RS20565	100	851	100.0	1.56e-313
+XNR_RS24575	L2I08_RS20560	100	350	100.0	8.92e-124
+XNR_RS24580	L2I08_RS20555	100	706	100.0	7.79e-258
+XNR_RS24585	L2I08_RS20550	100	731	100.0	5.16e-268
+
+
+
+>>
+6. NZ_CP009802
+Source: Streptomyces sp. FR-008 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5677.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	SFR_RS25960	100	476	100.0	2.32e-171
+XNR_RS24545	SFR_RS25965	100	659	100.0	3.89e-240
+XNR_RS24550	SFR_RS25970	99	333	100.0	5.34e-117
+XNR_RS24555	SFR_RS25975	99	685	100.0	4.63e-250
+XNR_RS24560	SFR_RS25980	100	606	100.0	8.01e-221
+XNR_RS24565	SFR_RS25985	100	283	100.0	2.04e-98
+XNR_RS24570	SFR_RS25990	100	850	100.0	3.15e-313
+XNR_RS24575	SFR_RS25995	100	350	100.0	8.92e-124
+XNR_RS24580	SFR_RS26000	100	704	100.0	6.4e-257
+XNR_RS24585	SFR_RS26005	100	731	100.0	5.16e-268
+
+
+
+>>
+7. NZ_AP025692
+Source: Streptomyces sp. PLM4 chromosome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5677.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	MTP06_RS05055	99	473	100.0	3.85e-170
+XNR_RS24545	MTP06_RS05050	99	655	100.0	2.63e-238
+XNR_RS24550	MTP06_RS05045	100	336	100.0	4.57e-118
+XNR_RS24555	MTP06_RS05040	100	686	100.0	1.14e-250
+XNR_RS24560	MTP06_RS05035	100	608	100.0	1.97e-221
+XNR_RS24565	MTP06_RS05030	100	283	100.0	2.04e-98
+XNR_RS24570	MTP06_RS05025	100	851	100.0	1.56e-313
+XNR_RS24575	MTP06_RS05020	100	350	100.0	8.92e-124
+XNR_RS24580	MTP06_RS05015	100	704	100.0	3.17e-257
+XNR_RS24585	MTP06_RS05010	100	731	100.0	5.16e-268
+
+
+
+>>
+8. NZ_KB890727
+Source: Streptomyces sp. LaPpAH-202 B048DRAFT_scaffold_3.4, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5673.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	B048_RS0120585	100	474	100.0	1.91e-170
+XNR_RS24545	B048_RS0120580	100	657	100.0	2.25e-239
+XNR_RS24550	B048_RS0120575	99	333	100.0	5.34e-117
+XNR_RS24555	B048_RS0120570	99	683	100.0	1.89e-249
+XNR_RS24560	B048_RS0120565	100	606	100.0	8.01e-221
+XNR_RS24565	B048_RS0120560	100	283	100.0	2.04e-98
+XNR_RS24570	B048_RS0120555	100	850	100.0	3.15e-313
+XNR_RS24575	B048_RS0120550	100	350	100.0	8.92e-124
+XNR_RS24580	B048_RS0120545	100	704	100.0	3.17e-257
+XNR_RS24585	B048_RS0120540	100	733	100.0	6.28e-269
+
+
+
+>>
+9. NZ_CP056773
+Source: Streptomyces violascens strain YIM 100212 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5671.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	HWN34_RS25020	100	474	99.5850622406639	1.91e-170
+XNR_RS24545	HWN34_RS25025	99	651	100.0	8.77e-237
+XNR_RS24550	HWN34_RS25030	99	333	100.0	5.34e-117
+XNR_RS24555	HWN34_RS25035	99	682	100.0	5.41e-249
+XNR_RS24560	HWN34_RS25040	100	608	100.0	1.97e-221
+XNR_RS24565	HWN34_RS25045	100	283	100.0	2.04e-98
+XNR_RS24570	HWN34_RS25050	100	851	100.0	1.56e-313
+XNR_RS24575	HWN34_RS25055	100	350	100.0	8.92e-124
+XNR_RS24580	HWN34_RS25060	100	706	100.0	7.79e-258
+XNR_RS24585	HWN34_RS25065	100	733	100.0	6.28e-269
+
+
+
+>>
+10. NZ_MNPQ01000010
+Source: Streptomyces albidoflavus strain OsiLf-2 Scaffold8_1, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5666.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	BGV78_RS17600	100	474	99.5850622406639	1.91e-170
+XNR_RS24545	BGV78_RS17595	99	654	100.0	5.3e-238
+XNR_RS24550	BGV78_RS17590	100	336	100.0	4.57e-118
+XNR_RS24555	BGV78_RS17585	99	682	100.0	5.41e-249
+XNR_RS24560	BGV78_RS17580	100	606	100.0	8.01e-221
+XNR_RS24565	BGV78_RS17575	100	283	100.0	2.04e-98
+XNR_RS24570	BGV78_RS17570	100	851	100.0	1.56e-313
+XNR_RS24575	BGV78_RS17565	100	350	100.0	8.92e-124
+XNR_RS24580	BGV78_RS17560	99	702	100.0	1.83e-256
+XNR_RS24585	BGV78_RS17555	99	728	100.0	6.02e-267
+
+
+
+>>
+11. NZ_OX371412
+Source: Streptomyces albidoflavus strain CCOS 2040 isolate Stup19_F108 chromosome 1
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5666.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	OZE77_RS04955	100	474	99.5850622406639	1.91e-170
+XNR_RS24545	OZE77_RS04950	99	655	100.0	1.3e-238
+XNR_RS24550	OZE77_RS04945	99	333	100.0	5.34e-117
+XNR_RS24555	OZE77_RS04940	99	683	100.0	1.89e-249
+XNR_RS24560	OZE77_RS04935	100	606	100.0	8.01e-221
+XNR_RS24565	OZE77_RS04930	100	283	100.0	2.04e-98
+XNR_RS24570	OZE77_RS04925	100	851	100.0	1.56e-313
+XNR_RS24575	OZE77_RS04920	100	350	100.0	8.92e-124
+XNR_RS24580	OZE77_RS04915	99	698	100.0	8.7e-255
+XNR_RS24585	OZE77_RS04910	100	733	100.0	6.28e-269
+
+
+
+>>
+12. NZ_CP047147
+Source: Streptomyces sp. GF20 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5665.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	GR131_RS05325	100	474	100.0	1.91e-170
+XNR_RS24545	GR131_RS05320	99	654	100.0	7.52e-238
+XNR_RS24550	GR131_RS05315	99	333	100.0	5.34e-117
+XNR_RS24555	GR131_RS05310	100	686	100.0	1.14e-250
+XNR_RS24560	GR131_RS05305	100	606	100.0	8.01e-221
+XNR_RS24565	GR131_RS05300	100	283	100.0	2.04e-98
+XNR_RS24570	GR131_RS05295	100	850	100.0	3.15e-313
+XNR_RS24575	GR131_RS05290	100	350	100.0	8.92e-124
+XNR_RS24580	GR131_RS05285	100	701	100.0	5.25e-256
+XNR_RS24585	GR131_RS05280	99	728	100.0	8.55e-267
+
+
+
+>>
+13. NZ_CP113103
+Source: Streptomyces sp. NA13 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5664.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	OSU72_RS04975	100	474	99.5850622406639	1.91e-170
+XNR_RS24545	OSU72_RS04970	99	652	100.0	3.06e-237
+XNR_RS24550	OSU72_RS04965	99	334	100.0	1.86e-117
+XNR_RS24555	OSU72_RS04960	99	685	100.0	4.63e-250
+XNR_RS24560	OSU72_RS04955	100	606	100.0	8.01e-221
+XNR_RS24565	OSU72_RS04950	100	283	100.0	2.04e-98
+XNR_RS24570	OSU72_RS04945	100	850	100.0	3.15e-313
+XNR_RS24575	OSU72_RS04940	100	350	100.0	8.92e-124
+XNR_RS24580	OSU72_RS04935	99	702	100.0	1.83e-256
+XNR_RS24585	OSU72_RS04930	99	728	100.0	8.55e-267
+
+
+
+>>
+14. NZ_CP014485
+Source: Streptomyces albidoflavus strain SM254 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5659.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	Salbus254_RS25625	100	472	99.5850622406639	1.1e-169
+XNR_RS24545	Salbus254_RS25630	99	651	100.0	8.77e-237
+XNR_RS24550	Salbus254_RS25635	99	333	100.0	5.34e-117
+XNR_RS24555	Salbus254_RS25640	99	679	100.0	1.27e-247
+XNR_RS24560	Salbus254_RS25645	100	608	100.0	1.97e-221
+XNR_RS24565	Salbus254_RS25650	100	283	100.0	2.04e-98
+XNR_RS24570	Salbus254_RS25655	100	851	100.0	1.56e-313
+XNR_RS24575	Salbus254_RS25660	100	350	100.0	8.92e-124
+XNR_RS24580	Salbus254_RS25665	99	703	100.0	1.29e-256
+XNR_RS24585	Salbus254_RS25670	99	729	100.0	2.98e-267
+
+
+
+>>
+15. NZ_JAHUVY010000001
+Source: Streptomyces albidoflavus strain LGO-A19 A19_AS2_SC1, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5657.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+STALF3_RS05050	STALF3_RS05050	1235995	1236393	+	ectoine_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	STALF3_RS05075	100	474	100.0	1.34e-170
+XNR_RS24545	STALF3_RS05070	100	657	100.0	3.2e-239
+XNR_RS24550	STALF3_RS05065	99	333	100.0	4.03e-117
+XNR_RS24555	STALF3_RS05060	99	682	100.0	1.14e-248
+XNR_RS24560	STALF3_RS05055	100	608	100.0	1.97e-221
+XNR_RS24565	STALF3_RS05050	100	283	100.0	2.04e-98
+XNR_RS24570	STALF3_RS05045	100	850	100.0	1.12e-312
+XNR_RS24575	STALF3_RS05040	100	350	100.0	8.92e-124
+XNR_RS24580	STALF3_RS05035	99	689	98.6522911051213	3.28e-251
+XNR_RS24585	STALF3_RS05030	100	731	100.0	5.16e-268
+
+
+
+>>
+16. NZ_KN549153
+Source: Streptomyces sp. M10 Scaffold8, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5603.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	D076_RS18985	99	470	99.5850622406639	9.06e-169
+XNR_RS24545	D076_RS18980	96	630	100.0	2.11e-228
+XNR_RS24550	D076_RS18975	98	325	99.41176470588235	1.21e-113
+XNR_RS24555	D076_RS18970	98	675	100.0	3e-246
+XNR_RS24560	D076_RS18965	98	602	100.0	3.81e-219
+XNR_RS24565	D076_RS18960	100	283	100.0	2.04e-98
+XNR_RS24570	D076_RS18955	99	849	100.0	1.28e-312
+XNR_RS24575	D076_RS18950	99	346	100.0	2.99e-122
+XNR_RS24580	D076_RS18945	99	697	100.0	1.76e-254
+XNR_RS24585	D076_RS18940	98	726	100.0	7.03e-266
+
+
+
+>>
+17. NZ_CP064783
+Source: Streptomyces albidoflavus strain W68 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5602.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	IT782_RS24320	99	470	99.5850622406639	9.06e-169
+XNR_RS24545	IT782_RS24325	96	629	100.0	6.05e-228
+XNR_RS24550	IT782_RS24330	98	325	99.41176470588235	1.21e-113
+XNR_RS24555	IT782_RS24335	98	675	100.0	3e-246
+XNR_RS24560	IT782_RS24340	98	602	100.0	3.81e-219
+XNR_RS24565	IT782_RS24345	100	283	100.0	2.04e-98
+XNR_RS24570	IT782_RS24350	99	849	100.0	1.28e-312
+XNR_RS24575	IT782_RS24355	99	346	100.0	2.99e-122
+XNR_RS24580	IT782_RS24360	99	697	100.0	1.76e-254
+XNR_RS24585	IT782_RS24365	98	726	100.0	7.03e-266
+
+
+
+>>
+18. NZ_CP031742
+Source: Streptomyces koyangensis strain VK-A60T chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5583.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	D0C37_RS26785	99	472	100.0	1.1e-169
+XNR_RS24545	D0C37_RS26790	96	635	100.0	1.55e-230
+XNR_RS24550	D0C37_RS26795	92	306	100.0	2.7e-106
+XNR_RS24555	D0C37_RS26800	98	671	100.0	1.53e-244
+XNR_RS24560	D0C37_RS26805	99	606	100.0	8.01e-221
+XNR_RS24565	D0C37_RS26810	100	283	100.0	2.04e-98
+XNR_RS24570	D0C37_RS26815	100	850	100.0	4.47e-313
+XNR_RS24575	D0C37_RS32645	99	346	100.0	2.99e-122
+XNR_RS24580	D0C37_RS26825	97	687	100.0	3.25e-250
+XNR_RS24585	D0C37_RS26830	98	727	100.0	2.45e-266
+
+
+
+>>
+19. NZ_CP049945
+Source: Streptomyces koyangensis strain SCSIO 5802 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5572.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	G9U55_RS04920	98	470	100.0	6.38e-169
+XNR_RS24545	G9U55_RS04915	95	631	100.0	5.19e-229
+XNR_RS24550	G9U55_RS04910	92	305	100.0	1.1e-105
+XNR_RS24555	G9U55_RS04905	98	674	100.0	9.25e-246
+XNR_RS24560	G9U55_RS04900	100	607	100.0	5.64e-221
+XNR_RS24565	G9U55_RS04895	99	283	100.0	2.89e-98
+XNR_RS24570	G9U55_RS04890	100	850	100.0	4.47e-313
+XNR_RS24575	G9U55_RS04885	98	343	100.0	4.97e-121
+XNR_RS24580	G9U55_RS04880	96	682	100.0	2.19e-248
+XNR_RS24585	G9U55_RS04875	99	727	100.0	1.73e-266
+
+
+
+>>
+20. NZ_CM002273
+Source: Streptomyces sp. PVA_94-07 strain PVA 94-07 chromosome, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5572.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	B590_RS24265	98	463	99.5850622406639	5.03e-166
+XNR_RS24545	B590_RS24270	96	627	100.0	1.73e-227
+XNR_RS24550	B590_RS24275	98	325	99.41176470588235	8.51e-114
+XNR_RS24555	B590_RS24280	97	669	100.0	1.17e-243
+XNR_RS24560	B590_RS24285	98	602	100.0	3.81e-219
+XNR_RS24565	B590_RS24290	100	283	100.0	2.04e-98
+XNR_RS24570	B590_RS24295	100	848	100.0	2.59e-312
+XNR_RS24575	B590_RS24300	99	347	100.0	1.04e-122
+XNR_RS24580	B590_RS24305	98	691	100.0	9.72e-252
+XNR_RS24585	B590_RS24310	97	717	100.0	1.12e-262
+
+
+
+>>
+21. NZ_KZ195583
+Source: Streptomyces sp. CS227 scaffold00001, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5570.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	B9W68_RS24850	98	463	99.5850622406639	5.03e-166
+XNR_RS24545	B9W68_RS24855	95	621	100.0	6.75e-225
+XNR_RS24550	B9W68_RS24860	98	325	99.41176470588235	1.21e-113
+XNR_RS24555	B9W68_RS24865	96	664	100.0	1.12e-241
+XNR_RS24560	B9W68_RS24870	98	602	100.0	3.81e-219
+XNR_RS24565	B9W68_RS24875	100	283	100.0	2.04e-98
+XNR_RS24570	B9W68_RS24880	99	847	100.0	5.22e-312
+XNR_RS24575	B9W68_RS24885	99	348	100.0	7.34e-123
+XNR_RS24580	B9W68_RS24890	98	696	100.0	1.02e-253
+XNR_RS24585	B9W68_RS24895	98	721	100.0	3.34e-264
+
+
+
+>>
+22. NZ_CP076385
+Source: Streptomyces sp. G11C(2021) chromosome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5569.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	KNZ81_RS25060	99	467	99.5850622406639	1.06e-167
+XNR_RS24545	KNZ81_RS25065	95	619	100.0	5.54e-224
+XNR_RS24550	KNZ81_RS25070	98	325	99.41176470588235	8.51e-114
+XNR_RS24555	KNZ81_RS25075	97	671	100.0	2.02e-244
+XNR_RS24560	KNZ81_RS25080	98	602	100.0	3.81e-219
+XNR_RS24565	KNZ81_RS25085	100	283	100.0	2.04e-98
+XNR_RS24570	KNZ81_RS25090	100	848	100.0	2.59e-312
+XNR_RS24575	KNZ81_RS25095	99	347	100.0	1.04e-122
+XNR_RS24580	KNZ81_RS25100	98	691	100.0	9.72e-252
+XNR_RS24585	KNZ81_RS25105	97	716	100.0	4.55e-262
+
+
+
+>>
+23. NZ_CP053539
+Source: Streptomyces sp. OUCMDZ-3434 chromosome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5568.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	HN026_RS24865	99	467	99.5850622406639	1.06e-167
+XNR_RS24545	HN026_RS24870	95	619	100.0	3.9e-224
+XNR_RS24550	HN026_RS24875	98	325	99.41176470588235	8.51e-114
+XNR_RS24555	HN026_RS24880	97	669	100.0	1.17e-243
+XNR_RS24560	HN026_RS24885	98	602	100.0	3.81e-219
+XNR_RS24565	HN026_RS24890	100	283	100.0	2.04e-98
+XNR_RS24570	HN026_RS24895	100	848	100.0	2.59e-312
+XNR_RS24575	HN026_RS24900	99	347	100.0	1.04e-122
+XNR_RS24580	HN026_RS24905	98	691	100.0	9.72e-252
+XNR_RS24585	HN026_RS24910	97	717	100.0	1.12e-262
+
+
+
+>>
+24. NZ_CP106650
+Source: Streptomyces sp. GBA 94-10 4N24 strain GBA 94-10 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5568.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	B591_RS24985	99	467	99.5850622406639	1.06e-167
+XNR_RS24545	B591_RS24990	95	619	100.0	3.9e-224
+XNR_RS24550	B591_RS24995	98	325	99.41176470588235	8.51e-114
+XNR_RS24555	B591_RS25000	97	669	100.0	1.17e-243
+XNR_RS24560	B591_RS25005	98	602	100.0	3.81e-219
+XNR_RS24565	B591_RS25010	100	283	100.0	2.04e-98
+XNR_RS24570	B591_RS25015	100	848	100.0	2.59e-312
+XNR_RS24575	B591_RS25020	99	347	100.0	1.04e-122
+XNR_RS24580	B591_RS25025	98	691	100.0	9.72e-252
+XNR_RS24585	B591_RS25030	97	717	100.0	1.12e-262
+
+
+
+>>
+25. NZ_ML123107
+Source: Streptomyces sp. ADI96-15 scaffold001, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5567.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	EES44_RS10690	99	467	99.5850622406639	1.06e-167
+XNR_RS24545	EES44_RS10695	94	617	100.0	2.25e-223
+XNR_RS24550	EES44_RS10700	98	325	99.41176470588235	8.51e-114
+XNR_RS24555	EES44_RS10705	97	671	100.0	2.02e-244
+XNR_RS24560	EES44_RS10710	98	602	100.0	3.81e-219
+XNR_RS24565	EES44_RS10715	100	283	100.0	2.04e-98
+XNR_RS24570	EES44_RS10720	100	848	100.0	2.59e-312
+XNR_RS24575	EES44_RS10725	99	347	100.0	1.04e-122
+XNR_RS24580	EES44_RS10730	98	691	100.0	9.72e-252
+XNR_RS24585	EES44_RS10735	97	716	100.0	4.55e-262
+
+
+
+>>
+26. NZ_CP026490
+Source: Streptomyces sp. 604F chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5565.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	C3K23_RS06715	99	467	99.5850622406639	1.06e-167
+XNR_RS24545	C3K23_RS06710	95	619	100.0	5.54e-224
+XNR_RS24550	C3K23_RS06705	97	322	99.41176470588235	1.41e-112
+XNR_RS24555	C3K23_RS06700	97	671	100.0	2.02e-244
+XNR_RS24560	C3K23_RS06695	98	602	100.0	3.81e-219
+XNR_RS24565	C3K23_RS06690	100	283	100.0	2.04e-98
+XNR_RS24570	C3K23_RS06685	100	848	100.0	2.59e-312
+XNR_RS24575	C3K23_RS06680	99	347	100.0	1.04e-122
+XNR_RS24580	C3K23_RS06675	97	689	100.0	2.79e-251
+XNR_RS24585	C3K23_RS06670	97	717	100.0	1.12e-262
+
+
+
+>>
+27. NZ_AMPN02000002
+Source: Streptomyces sp. SM8 Scaffold_2, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4983.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SM8_RS34030	SM8_RS34030	5619926	5620240	+	aminotransferase
+SM8_RS26090	SM8_RS26090	5627246	5628315	+	amidohydrolase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	SM8_RS26045	100	474	99.5850622406639	1.91e-170
+XNR_RS24545	SM8_RS34030	100	191	30.08595988538682	3.05e-59
+XNR_RS24550	SM8_RS26055	99	328	98.23529411764706	2.08e-114
+XNR_RS24555	SM8_RS26060	99	683	100.0	2.68e-249
+XNR_RS24560	SM8_RS26065	100	608	100.0	1.97e-221
+XNR_RS24565	SM8_RS26070	100	283	100.0	2.04e-98
+XNR_RS24570	SM8_RS26075	100	851	100.0	1.56e-313
+XNR_RS24575	SM8_RS26080	100	350	100.0	8.92e-124
+XNR_RS24580	SM8_RS26085	100	704	100.0	3.17e-257
+XNR_RS24585	SM8_RS26090	99	511	69.14600550964187	9.82e-182
+
+
+
+>>
+28. NZ_CP040916
+Source: Streptomyces spectabilis strain NRRL 2792 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4281.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	FH965_RS09775	69	320	101.65975103734439	2.55e-109
+XNR_RS24545	FH965_RS09770	61	385	101.1461318051576	2.06e-131
+XNR_RS24550	FH965_RS09765	66	186	87.6470588235294	4.95e-59
+XNR_RS24555	FH965_RS09760	74	524	100.28328611898016	1.53e-186
+XNR_RS24560	FH965_RS09755	77	482	100.33557046979867	1.39e-171
+XNR_RS24565	FH965_RS09750	85	238	98.48484848484848	1.53e-80
+XNR_RS24570	FH965_RS09745	85	733	100.23640661938533	6.67e-267
+XNR_RS24575	FH965_RS09740	76	255	98.80952380952381	5.04e-86
+XNR_RS24580	FH965_RS09735	79	549	98.92183288409704	6.58e-196
+XNR_RS24585	FH965_RS09730	82	609	99.72451790633609	7.09e-220
+
+
+
+>>
+29. NZ_CP023690
+Source: Streptomyces spectabilis strain ATCC 27465 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4280.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	CP982_RS10985	71	324	101.2448132780083	3.81e-111
+XNR_RS24545	CP982_RS10980	62	386	101.1461318051576	7.24e-132
+XNR_RS24550	CP982_RS10975	65	179	87.05882352941177	2.69e-56
+XNR_RS24555	CP982_RS10970	75	529	100.28328611898016	1.61e-188
+XNR_RS24560	CP982_RS10965	77	480	100.33557046979867	8.01e-171
+XNR_RS24565	CP982_RS10960	85	238	98.48484848484848	1.53e-80
+XNR_RS24570	CP982_RS10955	85	733	100.23640661938533	6.67e-267
+XNR_RS24575	CP982_RS10950	75	250	98.80952380952381	6.82e-84
+XNR_RS24580	CP982_RS10945	80	549	98.92183288409704	6.58e-196
+XNR_RS24585	CP982_RS10940	83	612	99.72451790633609	8.64e-221
+
+
+
+>>
+30. NZ_CP085173
+Source: Streptomyces sp. BH-MK-02 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4277.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	LGI35_RS12985	74	350	100.4149377593361	1.39e-121
+XNR_RS24545	LGI35_RS12980	64	399	99.42693409742121	3e-137
+XNR_RS24550	LGI35_RS12975	60	185	95.88235294117648	2.01e-58
+XNR_RS24555	LGI35_RS12970	68	463	100.28328611898016	2.52e-162
+XNR_RS24560	LGI35_RS12965	81	500	97.6510067114094	1.07e-178
+XNR_RS24565	LGI35_RS12960	93	262	98.48484848484848	5.35e-90
+XNR_RS24570	LGI35_RS12955	84	733	100.23640661938533	1.34e-266
+XNR_RS24575	LGI35_RS12950	68	234	97.61904761904762	5.89e-78
+XNR_RS24580	LGI35_RS12945	76	536	100.0	1.67e-190
+XNR_RS24585	LGI35_RS12940	82	615	100.0	5.63e-222
+
+
+
+>>
+31. NZ_RHGC01000007
+Source: Streptomyces alboflavus strain 313 contig007, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4267.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	EJ355_RS30070	70	334	100.8298755186722	6.85e-115
+XNR_RS24545	EJ355_RS30075	62	377	100.85959885386819	2.78e-128
+XNR_RS24550	EJ355_RS30080	68	189	84.70588235294117	4.72e-60
+XNR_RS24555	EJ355_RS30085	70	495	100.28328611898016	6.24e-175
+XNR_RS24560	EJ355_RS30090	75	473	100.33557046979867	4.41e-168
+XNR_RS24565	EJ355_RS30095	87	244	98.48484848484848	5.55e-83
+XNR_RS24570	EJ355_RS30100	87	751	100.23640661938533	6.55e-274
+XNR_RS24575	EJ355_RS30105	74	254	98.80952380952381	2.05e-85
+XNR_RS24580	EJ355_RS30110	80	540	98.6522911051213	2.85e-192
+XNR_RS24585	EJ355_RS30115	83	610	99.72451790633609	3.51e-220
+
+
+
+>>
+32. NZ_CP021748
+Source: Streptomyces alboflavus strain MDJK44 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4264.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	SMD44_RS09730	70	334	100.8298755186722	4.37e-115
+XNR_RS24545	SMD44_RS09725	62	377	100.85959885386819	2.78e-128
+XNR_RS24550	SMD44_RS09720	68	189	84.70588235294117	4.72e-60
+XNR_RS24555	SMD44_RS09715	69	494	100.28328611898016	1.78e-174
+XNR_RS24560	SMD44_RS09710	75	473	100.33557046979867	4.41e-168
+XNR_RS24565	SMD44_RS09705	87	244	98.48484848484848	5.55e-83
+XNR_RS24570	SMD44_RS09700	87	751	100.23640661938533	6.55e-274
+XNR_RS24575	SMD44_RS09695	74	252	98.80952380952381	8.32e-85
+XNR_RS24580	SMD44_RS09690	80	540	98.6522911051213	2.85e-192
+XNR_RS24585	SMD44_RS09685	83	610	99.72451790633609	4.99e-220
+
+
+
+>>
+33. NZ_WPNZ01000010
+Source: Streptomyces typhae strain p1417 Scaffold10, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4251.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+GPA10_RS19405	GPA10_RS19405	83976	84380	+	ectoine_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	GPA10_RS19430	73	342	101.2448132780083	3.95e-118
+XNR_RS24545	GPA10_RS19425	61	372	100.0	3.94e-126
+XNR_RS24550	GPA10_RS19420	67	187	84.70588235294117	2.55e-59
+XNR_RS24555	GPA10_RS19415	72	509	100.28328611898016	1.87e-180
+XNR_RS24560	GPA10_RS19410	75	479	100.33557046979867	2.29e-170
+XNR_RS24565	GPA10_RS19405	87	246	100.0	9.59e-84
+XNR_RS24570	GPA10_RS19400	86	730	98.58156028368793	1.21e-265
+XNR_RS24575	GPA10_RS19395	73	246	97.61904761904762	1.6e-82
+XNR_RS24580	GPA10_RS19390	80	540	96.7654986522911	2.21e-192
+XNR_RS24585	GPA10_RS19385	80	600	100.0	2.43e-216
+
+
+
+>>
+34. NZ_BMVR01000006
+Source: Streptomyces flavofungini strain JCM 4753 sequence06, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4243.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	IE274_RS16860	71	332	100.4149377593361	4.73e-114
+XNR_RS24545	IE274_RS16855	62	377	101.1461318051576	5.06e-128
+XNR_RS24550	IE274_RS16850	66	184	84.70588235294117	4.31e-58
+XNR_RS24555	IE274_RS16845	71	495	100.28328611898016	4.4e-175
+XNR_RS24560	IE274_RS16840	76	471	100.0	2.55e-167
+XNR_RS24565	IE274_RS16835	87	243	98.48484848484848	1.08e-82
+XNR_RS24570	IE274_RS16830	85	736	100.23640661938533	4.03e-268
+XNR_RS24575	IE274_RS16825	74	251	98.21428571428571	2.38e-84
+XNR_RS24580	IE274_RS16820	80	541	98.6522911051213	1.41e-192
+XNR_RS24585	IE274_RS16815	83	613	99.72451790633609	3.02e-221
+
+
+
+>>
+35. NZ_NNBL01000002
+Source: Streptomyces sp. CB01635 scaffold2, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4232.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	CG723_RS07610	72	342	100.4149377593361	2.18e-118
+XNR_RS24545	CG723_RS07615	57	348	99.42693409742121	4.43e-117
+XNR_RS24550	CG723_RS07620	64	182	85.88235294117646	2.32e-57
+XNR_RS24555	CG723_RS07625	67	462	100.28328611898016	7.2e-162
+XNR_RS24560	CG723_RS07630	81	503	97.98657718120806	7.68e-180
+XNR_RS24565	CG723_RS07635	96	274	99.24242424242425	9.34e-95
+XNR_RS24570	CG723_RS07640	85	735	100.23640661938533	1.15e-267
+XNR_RS24575	CG723_RS07645	70	239	97.61904761904762	6.18e-80
+XNR_RS24580	CG723_RS07650	76	534	100.0	9.63e-190
+XNR_RS24585	CG723_RS07655	82	613	100.0	1.61e-221
+
+
+
+>>
+36. NZ_CP071872
+Source: Streptomyces formicae strain 1H-GS9 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4232.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	J4032_RS25725	66	302	100.0	1.91e-102
+XNR_RS24545	J4032_RS25720	57	320	99.42693409742121	4.65e-106
+XNR_RS24550	J4032_RS25715	71	203	91.17647058823529	4.2e-65
+XNR_RS24555	J4032_RS25710	67	465	100.84985835694052	4.87e-163
+XNR_RS24560	J4032_RS25705	83	510	97.6510067114094	9.44e-183
+XNR_RS24565	J4032_RS25700	92	266	100.0	7.39e-92
+XNR_RS24570	J4032_RS25695	89	765	100.0	1.46e-279
+XNR_RS24575	J4032_RS25690	73	245	97.61904761904762	2.34e-82
+XNR_RS24580	J4032_RS25685	77	534	98.6522911051213	8.04e-190
+XNR_RS24585	J4032_RS25680	84	622	99.72451790633609	4.87e-225
+
+
+
+>>
+37. NZ_CP047140
+Source: Streptomyces sp. Tu 2975 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4204.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	GLX30_RS27110	67	297	95.850622406639	1.62e-100
+XNR_RS24545	GLX30_RS27115	55	311	98.8538681948424	1.64e-102
+XNR_RS24550	GLX30_RS27120	68	189	87.05882352941177	3.54e-60
+XNR_RS24555	GLX30_RS27125	70	478	100.56657223796034	3.18e-168
+XNR_RS24560	GLX30_RS27130	79	501	100.0	4.6e-179
+XNR_RS24565	GLX30_RS27135	95	271	99.24242424242425	7.69e-94
+XNR_RS24570	GLX30_RS27140	89	767	100.0	3.58e-280
+XNR_RS24575	GLX30_RS27145	71	230	95.23809523809523	2.93e-76
+XNR_RS24580	GLX30_RS27150	79	548	98.92183288409704	2.58e-195
+XNR_RS24585	GLX30_RS27155	83	612	99.72451790633609	4.13e-221
+
+
+
+>>
+38. NZ_CP075715
+Source: Streptomyces sp. FIT100 chromosome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4187.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	KK483_RS06990	66	300	100.8298755186722	1.85e-101
+XNR_RS24545	KK483_RS06985	52	291	104.29799426934096	1.21e-94
+XNR_RS24550	KK483_RS06980	68	204	98.82352941176471	1.62e-65
+XNR_RS24555	KK483_RS06975	66	456	100.84985835694052	2.09e-159
+XNR_RS24560	KK483_RS06970	82	506	97.6510067114094	3.15e-181
+XNR_RS24565	KK483_RS06965	92	267	100.0	3.66e-92
+XNR_RS24570	KK483_RS06960	89	763	100.0	8.41e-279
+XNR_RS24575	KK483_RS06955	71	242	97.61904761904762	5.49e-81
+XNR_RS24580	KK483_RS06950	78	534	98.6522911051213	5.66e-190
+XNR_RS24585	KK483_RS06945	85	624	99.72451790633609	8.43e-226
+
+
+
+>>
+39. NZ_JAMGSL010000008
+Source: Streptomyces sp. Je 1-79 Lv1-79_AS2_SC08, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4115.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+M5362_RS17875	M5362_RS17875	79680	80078	+	ectoine_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	M5362_RS17900	67	300	99.5850622406639	9.61e-102
+XNR_RS24545	M5362_RS17895	52	294	101.71919770773638	4.82e-96
+XNR_RS24550	M5362_RS17890	63	183	96.47058823529412	1.05e-57
+XNR_RS24555	M5362_RS17885	68	462	100.84985835694052	7.2e-162
+XNR_RS24560	M5362_RS17880	80	479	97.6510067114094	1.08e-170
+XNR_RS24565	M5362_RS17875	91	263	99.24242424242425	2.48e-90
+XNR_RS24570	M5362_RS17870	87	735	98.10874704491725	8.56e-268
+XNR_RS24575	M5362_RS17865	70	228	97.61904761904762	1.58e-75
+XNR_RS24580	M5362_RS17860	79	553	99.19137466307278	5.02e-197
+XNR_RS24585	M5362_RS17855	83	618	99.72451790633609	3.04e-223
+
+
+
+>>
+40. NZ_CP070379
+Source: Streptomyces tsukubensis strain L20 chromosome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 3982.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	JVE63_RS27980	67	285	87.96680497925311	5.06e-96
+XNR_RS24545	JVE63_RS27985	53	266	98.28080229226362	4.31e-85
+XNR_RS24550	JVE63_RS27990	66	170	82.35294117647058	4e-52
+XNR_RS24555	JVE63_RS27995	64	436	100.84985835694052	1.06e-151
+XNR_RS24560	JVE63_RS28000	78	480	97.31543624161074	9.25e-171
+XNR_RS24565	JVE63_RS28005	84	243	99.24242424242425	1.49e-82
+XNR_RS24570	JVE63_RS28010	88	748	100.0	7.36e-273
+XNR_RS24575	JVE63_RS28015	68	220	93.45238095238095	4.15e-72
+XNR_RS24580	JVE63_RS28020	78	529	99.19137466307278	5.78e-188
+XNR_RS24585	JVE63_RS28025	82	605	100.0	3.61e-218
+
+
+
+>>
+41. NZ_JALLPQ010000001
+Source: Streptomyces sp. WAC00276 contig_2_pilon_pilon_pilon, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5599.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+MWG58_RS25360	MWG58_RS25360	5617014	5617202	+	amidohydrolase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	MWG58_RS25315	99	470	99.5850622406639	9.06e-169
+XNR_RS24545	MWG58_RS25320	96	629	100.0	6.05e-228
+XNR_RS24550	MWG58_RS25325	98	325	99.41176470588235	1.21e-113
+XNR_RS24555	MWG58_RS25330	98	675	100.0	3e-246
+XNR_RS24560	MWG58_RS25335	98	602	100.0	3.81e-219
+XNR_RS24565	MWG58_RS25340	100	283	100.0	2.04e-98
+XNR_RS24570	MWG58_RS25345	99	848	100.0	1.82e-312
+XNR_RS24575	MWG58_RS25350	99	346	100.0	2.99e-122
+XNR_RS24580	MWG58_RS25355	99	697	100.0	1.76e-254
+XNR_RS24585	MWG58_RS25365	98	589	82.09366391184572	5.73e-213
+XNR_RS24585	MWG58_RS25360	100	135	17.355371900826448	5.98e-38
+
+
+
+>>
+42. NZ_KZ819178
+Source: Streptomyces sp. CS131 scaffold00001, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 3768.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+DBP20_RS06860	DBP20_RS06860	1531472	1531786	-	alkene_reductase
+DBP20_RS06865	DBP20_RS06865	1531779	1532027	+	MarR_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	DBP20_RS06875	68	305	99.5850622406639	1.65e-103
+XNR_RS24545	DBP20_RS06870	56	301	96.56160458452722	6.72e-99
+XNR_RS24550	DBP20_RS06865	67	96	42.35294117647059	3.25e-24
+XNR_RS24555	DBP20_RS06860	60	122	28.611898016997166	3.24e-32
+XNR_RS24560	DBP20_RS06850	82	513	97.98657718120806	8.4e-184
+XNR_RS24565	DBP20_RS06845	92	263	99.24242424242425	2.48e-90
+XNR_RS24570	DBP20_RS06840	88	757	100.0	2.14e-276
+XNR_RS24575	DBP20_RS06835	71	237	96.42857142857143	7.56e-79
+XNR_RS24580	DBP20_RS06830	81	553	98.6522911051213	2.05e-197
+XNR_RS24585	DBP20_RS06825	84	621	98.34710743801654	1.65e-224
+
+
+
+>>
+43. NZ_CM000950
+Source: Streptomyces pristinaespiralis ATCC 25486 chromosome, whole genome shotgun sequence
+Type: NAPAA,ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4167.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SSDG_RS39505	SSDG_RS39505	6174461	6174802	-	alanine--glyoxylate_aminotransferase_family_protein
+SSDG_RS26915	SSDG_RS26915	6194801	6195555	-	Rv2231c_family_pyridoxal_phosphate-dependent_protein_CobC
+SSDG_RS26925	SSDG_RS26925	6197341	6197994	-	cobyrinic_acid_a,c-diamide_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	SSDG_RS26800	67	302	99.5850622406639	2.43e-102
+XNR_RS24545	SSDG_RS26805	55	306	98.8538681948424	1.3e-100
+XNR_RS24550	SSDG_RS26810	69	170	77.64705882352942	7.61e-53
+XNR_RS24555	SSDG_RS26815	70	476	100.56657223796034	1.83e-167
+XNR_RS24560	SSDG_RS26820	79	501	100.0	2.28e-179
+XNR_RS24565	SSDG_RS26825	95	271	99.24242424242425	7.69e-94
+XNR_RS24570	SSDG_RS26830	90	767	100.0	3.58e-280
+XNR_RS24575	SSDG_RS26835	71	230	95.23809523809523	4.15e-76
+XNR_RS24580	SSDG_RS39510	85	399	63.61185983827493	1.74e-138
+XNR_RS24580	SSDG_RS39505	69	130	30.18867924528302	2.54e-35
+XNR_RS24585	SSDG_RS26845	83	615	99.72451790633609	2.5e-222
+
+
+
+>>
+44. NZ_JTIY01000001
+Source: Streptomyces sp. AcH 505 scaffold00001, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 4115.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+HY68_RS45355	HY68_RS45355	4528784	4528903	-	zinc-binding_dehydrogenase
+HY68_RS45360	HY68_RS45360	4536193	4536723	-	alanine--glyoxylate_aminotransferase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	HY68_RS20690	63	270	88.79668049792531	3.74e-90
+XNR_RS24545	HY68_RS20695	57	320	99.7134670487106	3.39e-106
+XNR_RS24550	HY68_RS20700	66	181	87.05882352941177	1.47e-56
+XNR_RS24555	HY68_RS20705	69	481	100.56657223796034	1.74e-169
+XNR_RS24560	HY68_RS20710	79	496	100.0	4.4e-177
+XNR_RS24565	HY68_RS20715	86	254	99.24242424242425	5.62e-87
+XNR_RS24570	HY68_RS20720	89	753	100.0	1.09e-274
+XNR_RS24575	HY68_RS20725	67	231	98.21428571428571	1.13e-76
+XNR_RS24580	HY68_RS45365	83	317	52.02156334231805	8.47e-107
+XNR_RS24580	HY68_RS45360	70	214	47.16981132075472	1.1e-66
+XNR_RS24585	HY68_RS20735	82	598	99.72451790633609	1.35e-215
+
+
+
+>>
+45. NZ_AUBE01000021
+Source: Streptomyces flavidovirens DSM 40150 G412DRAFT_scaffold00019.19_C, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3878.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24545	G412_RS0123975	57	322	97.70773638968481	4.63e-107
+XNR_RS24550	G412_RS35710	69	187	86.47058823529412	4.37e-59
+XNR_RS24555	G412_RS0123965	68	467	100.28328611898016	7.88e-164
+XNR_RS24560	G412_RS0123960	82	498	97.98657718120806	6.67e-178
+XNR_RS24565	G412_RS0123955	92	265	99.24242424242425	4.28e-91
+XNR_RS24570	G412_RS0123950	90	773	100.0	1.85e-282
+XNR_RS24575	G412_RS0123945	68	230	97.02380952380952	3.03e-76
+XNR_RS24580	G412_RS0123940	78	539	98.6522911051213	8.77e-192
+XNR_RS24585	G412_RS0123935	80	597	99.72451790633609	8.1e-215
+
+
+
+>>
+46. NZ_JAFEJA010000001
+Source: Streptomyces zhihengii strain YIM T102 assembly_1, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3801.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24545	JE024_RS26950	51	276	98.56733524355302	5.2e-89
+XNR_RS24550	JE024_RS26955	62	171	87.05882352941177	8.3e-53
+XNR_RS24555	JE024_RS26960	66	454	101.41643059490085	9.1e-159
+XNR_RS24560	JE024_RS26965	79	496	100.0	2.18e-177
+XNR_RS24565	JE024_RS26970	95	272	99.24242424242425	5.41e-94
+XNR_RS24570	JE024_RS26975	90	771	100.0	5.31e-282
+XNR_RS24575	JE024_RS26980	71	220	91.07142857142857	1.82e-72
+XNR_RS24580	JE024_RS26985	80	540	98.6522911051213	1.94e-192
+XNR_RS24585	JE024_RS26990	82	601	99.72451790633609	1.08e-216
+
+
+
+>>
+47. NZ_CM000913
+Source: Streptomyces clavuligerus strain ATCC 27064 chromosome, whole genome shotgun sequence
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3718.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24545	SCLAV_RS05155	56	300	99.7134670487106	3.71e-98
+XNR_RS24550	SCLAV_RS05150	59	166	91.17647058823529	1.16e-50
+XNR_RS24555	SCLAV_RS05145	63	429	100.56657223796034	1e-148
+XNR_RS24560	SCLAV_RS05140	75	468	98.99328859060402	3.92e-166
+XNR_RS24565	SCLAV_RS05135	86	245	95.45454545454545	2.45e-83
+XNR_RS24570	SCLAV_RS05130	86	744	100.0	3.49e-271
+XNR_RS24575	SCLAV_RS05125	64	221	101.78571428571428	4.24e-72
+XNR_RS24580	SCLAV_RS05120	78	532	98.6522911051213	3.15e-189
+XNR_RS24585	SCLAV_RS05115	83	613	99.72451790633609	1.55e-221
+
+
+
+>>
+48. NZ_CP016559
+Source: Streptomyces clavuligerus strain F613-1 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3718.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24545	BB341_RS22615	56	300	99.7134670487106	3.71e-98
+XNR_RS24550	BB341_RS22620	59	166	91.17647058823529	1.16e-50
+XNR_RS24555	BB341_RS22625	63	429	100.56657223796034	1e-148
+XNR_RS24560	BB341_RS22630	75	468	98.99328859060402	3.92e-166
+XNR_RS24565	BB341_RS22635	86	245	95.45454545454545	2.45e-83
+XNR_RS24570	BB341_RS22640	86	744	100.0	3.49e-271
+XNR_RS24575	BB341_RS22645	64	221	101.78571428571428	4.24e-72
+XNR_RS24580	BB341_RS22650	78	532	98.6522911051213	3.15e-189
+XNR_RS24585	BB341_RS22655	83	613	99.72451790633609	1.55e-221
+
+
+
+>>
+49. NZ_CP042266
+Source: Streptomyces qinzhouensis strain SSL-25 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3708.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24545	FQU76_RS06125	53	266	98.56733524355302	4.18e-85
+XNR_RS24550	FQU76_RS06120	67	172	82.94117647058825	6.99e-53
+XNR_RS24555	FQU76_RS06115	66	448	100.84985835694052	1.67e-156
+XNR_RS24560	FQU76_RS06110	78	481	97.6510067114094	2.28e-171
+XNR_RS24565	FQU76_RS06105	83	239	99.24242424242425	3.51e-81
+XNR_RS24570	FQU76_RS06100	87	743	100.0	1.42e-270
+XNR_RS24575	FQU76_RS06095	68	225	93.45238095238095	4.36e-74
+XNR_RS24580	FQU76_RS06090	78	528	99.19137466307278	1.65e-187
+XNR_RS24585	FQU76_RS06085	82	606	99.44903581267218	1.13e-218
+
+
+
+>>
+50. NZ_CP050504
+Source: Streptomyces sp. DSM 40868 chromosome, complete genome
+Type: ectoine
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 3641.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS24540	HB370_RS10605	71	332	100.4149377593361	4.12e-114
+XNR_RS24545	HB370_RS10600	64	381	97.99426934097421	3.18e-130
+XNR_RS24550	HB370_RS10595	67	178	85.29411764705883	2.11e-55
+XNR_RS24555	HB370_RS10590	75	521	100.28328611898016	2.52e-185
+XNR_RS24560	HB370_RS10585	79	500	100.0	6.3e-179
+XNR_RS24565	HB370_RS10580	85	239	98.48484848484848	3.75e-81
+XNR_RS24570	HB370_RS10575	83	723	100.23640661938533	6.09e-263
+XNR_RS24575	HB370_RS10570	71	251	100.0	2.18e-84
+XNR_RS24580	HB370_RS10565	77	516	98.6522911051213	7.72e-183
+

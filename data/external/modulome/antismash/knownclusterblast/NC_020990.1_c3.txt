@@ -1,0 +1,135 @@
+ClusterBlast scores for NC_020990.1
+
+Table of genes, locations, strands and annotations of query cluster:
+XNR_RS01255	309931	310525	+	dienelactone hydrolase family protein	
+XNR_RS01260	310511	310868	-	DUF4190 domain-containing protein	
+XNR_RS31020	311056	311281	+	hypothetical protein	
+XNR_RS01270	311284	312514	-	MBL fold metallo-hydrolase	
+XNR_RS01275	312661	313450	-	SGNH/GDSL hydrolase family protein	
+XNR_RS01280	313739	314555	+	tyrosine-protein phosphatase	
+XNR_RS29515	314564	314750	-	DUF6126 family protein	
+XNR_RS01290	314746	315364	-	XRE family transcriptional regulator	
+XNR_RS01295	315431	316856	-	aspartate aminotransferase family protein	
+XNR_RS01300	316926	317949	-	adenosyl-hopene transferase HpnH	
+XNR_RS01305	317954	318626	-	lipoprotein	
+XNR_RS01310	318625	320617	-	squalene--hopene cyclase	
+XNR_RS01315	320812	321871	-	polyprenyl synthetase family protein	
+XNR_RS01320	321952	323329	-	hydroxysqualene dehydroxylase HpnE	
+XNR_RS01325	323325	324282	-	presqualene diphosphate synthase HpnD	
+XNR_RS01330	324278	325190	-	squalene synthase HpnC	
+XNR_RS01335	325602	326400	-	ABC transporter ATP-binding protein	
+XNR_RS01340	326386	327328	-	ABC transporter permease	
+XNR_RS01345	327445	328291	-	glycosyltransferase	
+XNR_RS01350	328338	329118	-	CDP-alcohol phosphatidyltransferase family protein	
+XNR_RS01355	329095	330157	-	iron-containing alcohol dehydrogenase family protein	
+XNR_RS01360	330144	330897	-	phosphocholine cytidylyltransferase family protein	
+XNR_RS01365	330893	332693	-	DUF5941 domain-containing protein	
+XNR_RS01370	333244	334183	+	cation diffusion facilitator family transporter	
+XNR_RS01375	334497	335094	+	isopentenyl-diphosphate Delta-isomerase	
+
+
+Significant hits: 
+1. BGC0000663	hopene
+2. BGC0000807	phosphonoglycans
+3. BGC0001782	spiroindimicin A/spiroindimicin B/spiroindimicin C/spiroindimicin D/indimicin A/indimicin B/indimicin C/indimicin D/indimicin E/lynamicin A/lynamicin D/lynamicin F/lynamicin G
+
+
+Details:
+
+>>
+1. BGC0000663
+Source: hopene
+Type: Terpene
+Number of proteins with BLAST hits to this cluster: 10
+Cumulative BLAST score: 5135.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAB39692.1	CAB39692.1	1	912	+	putative_phytoene_synthase
+CAB39693.1	CAB39693.1	921	1859	+	putative_phytoene_synthase
+CAB39694.1	CAB39694.1	1859	2017	+	small_hypothetical_protein
+CAB39695.1	CAB39695.1	2014	3450	+	putative_phytoene_dehydrogenase
+CAB39696.1	CAB39696.1	3447	4583	+	putative_polyprenyl_synthatase
+CAB39697.1	CAB39697.1	4700	6742	+	putative_squalene-hopene_cyclase
+CAB39698.1	CAB39698.1	6742	7383	+	putative_lipoprotein
+CAB39699.1	CAB39699.1	7390	8412	+	conserved_hypothetical_protein
+CAB39700.1	CAB39700.1	8417	9571	+	GcpE_protein_homolog,_conserved_hypothetical_protein
+CAB39701.1	CAB39701.1	9597	11567	+	probable_transketolase
+CAB39702.1	CAB39702.1	11568	12953	+	probable_aminotransferase
+CAB39703.1	CAB39703.1	13027	13641	+	putative_DNA-binding_protein
+CAB39704.1	CAB39704.1	13638	13757	+	putative_small_hydrophobic_secreted_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS29515	CAB39704.1	56	55	59.01639344262295	4.37e-12
+XNR_RS01290	CAB39703.1	78	278	91.21951219512195	4.18e-96
+XNR_RS01295	CAB39702.1	81	744	96.41350210970464	2.2e-271
+XNR_RS01300	CAB39699.1	93	653	99.70588235294117	1.04e-239
+XNR_RS01305	CAB39698.1	74	283	94.61883408071749	1.2e-97
+XNR_RS01310	CAB39697.1	79	989	99.24585218702866	0.0
+XNR_RS01315	CAB39696.1	86	584	99.7159090909091	1.28e-211
+XNR_RS01320	CAB39695.1	77	638	97.16157205240175	1.08e-229
+XNR_RS01325	CAB39693.1	82	502	98.74213836477988	8.14e-181
+XNR_RS01330	CAB39692.1	72	409	99.66996699669967	2.22e-144
+
+
+
+>>
+2. BGC0000807
+Source: phosphonoglycans
+Type: Saccharide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 585.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01355	Snas_5680	50	342	99.43342776203966	1.93e-116
+XNR_RS01360	Snas_5681	53	243	99.6	7.67e-81
+
+
+
+>>
+3. BGC0001782
+Source: spiroindimicin A/spiroindimicin B/spiroindimicin C/spiroindimicin D/indimicin A/indimicin B/indimicin C/indimicin D/indimicin E/lynamicin A/lynamicin D/lynamicin F/lynamicin G
+Type: Other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 281.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+ARP51727.1	ARP51727.1	1051	1518	+	hypothetical_protein
+ARP51728.1	ARP51728.1	1595	2197	+	XRE_family_transcriptional_regulator
+ARP51729.1	ARP51729.1	2233	2370	+	small_hydrophobic_protein
+ARP51730.1	ARP51730.1	2438	2866	+	DUF4440_domain-containing_protein
+ARP51731.1	ARP51731.1	2868	3431	-	LacI_family_transcriptional_regulator
+ARP51732.1	ARP51732.1	3394	3861	+	beta-galactosidase
+ARP51733.1	ARP51733.1	3916	4092	+	hypothetical_protein
+ARP51734.1	ARP51734.1	4108	5295	+	sugar_hydrolase
+ARP51735.1	ARP51735.1	5409	5726	+	transcriptional_regulator
+ARP51736.1	ARP51736.1	5723	6250	+	hypothetical_protein
+ARP51737.1	ARP51737.1	6442	7434	+	thioredoxin_reductase
+ARP51738.1	ARP51738.1	7486	10047	-	silent_information_regulator_protein_Sir2
+ARP51739.1	ARP51739.1	10435	11079	+	hypothetical_protein
+ARP51740.1	ARP51740.1	11213	12256	-	hypothetical_protein
+ARP51741.1	ARP51741.1	12452	15328	-	transcriptional_activator
+ARP51742.1	ARP51742.1	15554	17203	-	ABC_transporter
+ARP51743.1	ARP51743.1	17548	19005	+	tryptophan_oxidase
+ARP51744.1	ARP51744.1	19002	22304	+	chromopyrrolic_acid_synthase
+ARP51745.1	ARP51745.1	22307	23590	+	cytochrome_P450
+ARP51746.1	ARP51746.1	23679	24269	-	flavin_reductase
+ARP51747.1	ARP51747.1	25064	26605	+	tryptophan_halogenase
+ARP51748.1	ARP51748.1	26724	28070	+	monooxygenase
+ARP51749.1	ARP51749.1	28047	28844	-	hypothetical_protein
+ARP51750.1	ARP51750.1	29047	30051	-	ATPase
+ARP51751.1	ARP51751.1	30048	30725	-	uracil-DNA_glycosylase
+ARP51752.1	ARP51752.1	30994	32355	-	NADP_oxidoreductase
+ARP51753.1	ARP51753.1	32449	33378	+	hypothetical_protein
+ARP51754.1	ARP51754.1	33323	34099	-	DUF305_domain-containing_protein
+ARP51755.1	ARP51755.1	34237	35715	+	hypothetical_protein
+ARP51756.1	ARP51756.1	35706	36323	-	TetR_family_transcriptional_regulator
+ARP51757.1	ARP51757.1	36524	37219	-	hydrolase
+ARP51758.1	ARP51758.1	37315	37800	-	hypothetical_protein
+ARP51759.1	ARP51759.1	37987	39207	+	transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS29515	ARP51729.1	50	48	65.57377049180327	2.73e-09
+XNR_RS01290	ARP51728.1	66	233	96.58536585365853	4.55e-78
+

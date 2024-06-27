@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="0,40 53,40 58,35 53,30 0,30 0,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS24540&lt;/b&gt;&lt;br&gt;DsbA family oxidoreductase&lt;br&gt;Location: 5635615 - 5636341" locus_tag="XNR_RS24540" class="clusterblast-orf" id="dummy-18_q0_0_all"  />
+<polygon points="68,40 146,40 151,35 146,30 68,30 68,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS24545&lt;/b&gt;&lt;br&gt;aminotransferase class V-fold PLP-dependent enzyme&lt;br&gt;Location: 5636466 - 5637516" locus_tag="XNR_RS24545" class="clusterblast-orf" id="dummy-18_q1_0_all"  />
+<polygon points="152,35 157,30 192,30 192,40 157,40 152,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS24550&lt;/b&gt;&lt;br&gt;MarR family winged helix-turn-helix transcriptional regulator&lt;br&gt;Location: 5637526 - 5638039" locus_tag="XNR_RS24550" class="clusterblast-orf" id="dummy-18_q2_0_all"  />
+<polygon points="206,40 285,40 290,35 285,30 206,30 206,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS24555&lt;/b&gt;&lt;br&gt;alkene reductase&lt;br&gt;Location: 5638210 - 5639272" locus_tag="XNR_RS24555" class="clusterblast-orf" id="dummy-18_q3_0_all"  />
+<polygon points="304,35 309,30 375,30 375,40 309,40 304,35 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS24560&lt;/b&gt;&lt;br&gt;ectoine hydroxylase&lt;br&gt;Location: 5639445 - 5640342" locus_tag="XNR_RS24560" class="clusterblast-orf" id="dummy-18_q4_0_all"  />
+<polygon points="375,35 380,30 407,30 407,40 380,40 375,35 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS24565&lt;/b&gt;&lt;br&gt;ectoine synthase&lt;br&gt;Location: 5640345 - 5640744" locus_tag="XNR_RS24565" class="clusterblast-orf" id="dummy-18_q5_0_all"  />
+<polygon points="410,35 415,30 511,30 511,40 415,40 410,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS24570&lt;/b&gt;&lt;br&gt;diaminobutyrate--2-oxoglutarate transaminase&lt;br&gt;Location: 5640778 - 5642050" locus_tag="XNR_RS24570" class="clusterblast-orf" id="dummy-18_q6_0_all"  />
+<polygon points="520,35 525,30 560,30 560,40 525,40 520,35 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS24575&lt;/b&gt;&lt;br&gt;diaminobutyrate acetyltransferase&lt;br&gt;Location: 5642169 - 5642676" locus_tag="XNR_RS24575" class="clusterblast-orf" id="dummy-18_q7_0_all"  />
+<polygon points="599,35 604,30 688,30 688,40 604,40 599,35 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS24580&lt;/b&gt;&lt;br&gt;aminotransferase class V-fold PLP-dependent enzyme&lt;br&gt;Location: 5643170 - 5644286" locus_tag="XNR_RS24580" class="clusterblast-orf" id="dummy-18_q8_0_all"  />
+<polygon points="694,40 775,40 780,35 775,30 694,30 694,40 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS24585&lt;/b&gt;&lt;br&gt;amidohydrolase family protein&lt;br&gt;Location: 5644360 - 5645452" locus_tag="XNR_RS24585" class="clusterblast-orf" id="dummy-18_q9_0_all"  />
+</g>
+<g label="BGC0000854" description="BGC0000854_c1: ectoine (33% of genes show similarity), Other" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://mibig.secondarymetabolites.org/go/BGC0000854/1" target="_blank">BGC0000854</a>: ectoine                                                                          (33% of genes show similarity), Other</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a18_000"  >
+<polygon points="150,85 155,80 226,80 226,90 155,90 150,85 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;AAY96769.2&lt;/b&gt;&lt;br&gt;putative ectoine hydroxylase&lt;br&gt;Location: 6879 - 5920&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS24560&lt;/b&gt;&lt;br&gt;Percentage identity: 49&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 275&lt;br&gt;E-value: 1.42e-91" locus_tag="AAY96769.2" class="clusterblast-orf" id="dummy-18_h18_6_0"  />
+</g>
+<g id="a18_001"  >
+<polygon points="255,85 260,80 369,80 369,90 260,90 255,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAY96773.1&lt;/b&gt;&lt;br&gt;aspartokinase&lt;br&gt;Location: 5559 - 4117" locus_tag="AAY96773.1" class="clusterblast-orf" id="dummy-18_h18_6_1"  />
+</g>
+<g id="a18_002"  >
+<polygon points="374,85 379,80 406,80 406,90 379,90 374,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAY96772.1&lt;/b&gt;&lt;br&gt;ectoine synthase&lt;br&gt;Location: 4056 - 3652" locus_tag="AAY96772.1" class="clusterblast-orf" id="dummy-18_h18_6_2"  />
+</g>
+<g id="a18_003"  >
+<polygon points="410,85 415,80 515,80 515,90 415,90 410,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;AAY96771.1&lt;/b&gt;&lt;br&gt;L-2,4-diaminobutyrat transaminase&lt;br&gt;Location: 3601 - 2270&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS24570&lt;/b&gt;&lt;br&gt;Percentage identity: 56&lt;br&gt;Percentage coverage: 98&lt;br&gt;BLAST bit score: 477&lt;br&gt;E-value: 2.55e-167" locus_tag="AAY96771.1" class="clusterblast-orf" id="dummy-18_h18_6_3"  />
+</g>
+<g id="a18_004"  >
+<polygon points="519,85 524,80 560,80 560,90 524,90 519,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;AAY96770.1&lt;/b&gt;&lt;br&gt;L-2,4-diaminobutyrat acetyltransferase&lt;br&gt;Location: 2227 - 1709" locus_tag="AAY96770.1" class="clusterblast-orf" id="dummy-18_h18_6_4"  />
+</g>
+<g id="a18_005"  >
+<polygon points="586,90 624,90 629,85 624,80 586,80 586,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;ACP19701.1&lt;/b&gt;&lt;br&gt;transcriptional regulator MarR family&lt;br&gt;Location: 1381 - 839" locus_tag="ACP19701.1" class="clusterblast-orf" id="dummy-18_h18_6_5"  />
+</g>
+</svg>

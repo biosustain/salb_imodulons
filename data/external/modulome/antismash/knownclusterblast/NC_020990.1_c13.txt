@@ -1,0 +1,196 @@
+ClusterBlast scores for NC_020990.1
+
+Table of genes, locations, strands and annotations of query cluster:
+XNR_RS11535	2714362	2714887	+	hypothetical protein	
+XNR_RS11540	2714907	2715633	+	futalosine hydrolase	
+XNR_RS11545	2715700	2716594	+	1,4-dihydroxy-6-naphthoate synthase	
+XNR_RS31190	2716899	2717094	-	cold-shock protein	
+XNR_RS11555	2717235	2717487	+	hypothetical protein	
+XNR_RS11560	2717762	2718500	+	response regulator transcription factor	
+XNR_RS11565	2719084	2721016	-	ABC transporter ATP-binding protein	
+XNR_RS11570	2721012	2722908	-	ABC transporter ATP-binding protein	
+XNR_RS11575	2723066	2723198	-	SapB/AmfS family lanthipeptide	
+XNR_RS11580	2723287	2725867	-	class III lanthionine synthetase LanKC	
+XNR_RS11585	2726084	2727062	-	iron-siderophore ABC transporter substrate-binding protein	
+XNR_RS11590	2727058	2727913	-	ABC transporter ATP-binding protein	
+XNR_RS11595	2727909	2729007	-	iron ABC transporter permease	
+XNR_RS11600	2729003	2730068	-	iron ABC transporter permease	
+XNR_RS11605	2730200	2730887	+	haloacid dehalogenase-like hydrolase	
+XNR_RS11610	2732125	2733190	+	YihY/virulence factor BrkB family protein	
+XNR_RS11615	2733556	2735266	+	acyl-CoA dehydrogenase	
+
+
+Significant hits: 
+1. BGC0000546	SAL-2242
+2. BGC0000496	AmfS
+3. BGC0000553	SRO15-2212
+4. BGC0000551	SapB
+5. BGC0000501	catenulipeptin
+6. BGC0000366	gobichelin A/gobichelin B
+7. BGC0000423	scabichelin
+8. BGC0002466	peucechelin
+
+
+Details:
+
+>>
+1. BGC0000546
+Source: SAL-2242
+Type: RiPP:Lanthipeptide
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 7156.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SSHG_03588	SSHG_03588	1	2712	+	serine/threonine_protein_kinase
+SSHG_03589	SSHG_03589	2763	2933	+	predicted_protein
+SSHG_03590	SSHG_03590	3164	4987	+	ABC_transporter_ATP-binding_protein
+SSHG_03592	SSHG_03592	7566	7976	-	two-component_system_response_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS11560	SSHG_03592	88	221	55.91836734693878	6.26e-74
+XNR_RS11560	SSHG_RS18005	88	221	55.91836734693878	6.26e-74
+XNR_RS11565	SSHG_RS18000	100	1109	100.0	0.0
+XNR_RS11570	SSHG_03590	100	1043	96.19651347068145	0.0
+XNR_RS11570	SSHG_RS17995	100	999	91.75911251980983	0.0
+XNR_RS11575	SSHG_RS17990	100	86	100.0	9.54e-25
+XNR_RS11575	SSHG_03589	100	86	100.0	1.28e-24
+XNR_RS11580	SSHG_RS17985	100	1696	100.0	0.0
+XNR_RS11580	SSHG_03588	100	1695	100.0	0.0
+
+
+
+>>
+2. BGC0000496
+Source: AmfS
+Type: RiPP:Lanthipeptide
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 1459.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS11560	SGR_2393	55	124	50.61224489795918	9.42e-35
+XNR_RS11570	SGR_2395	52	391	84.62757527733757	8.52e-128
+XNR_RS11575	SGR_2396	81	75	100.0	1.8e-20
+XNR_RS11580	SGR_2397	57	869	101.86263096623982	5.5e-308
+
+
+
+>>
+3. BGC0000553
+Source: SRO15-2212
+Type: RiPP:Lanthipeptide
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 1223.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SSGG_RS0133195	SSGG_RS0133195	3128	4193	+	ABC_transporter_ATP-binding_protein
+SSGG_RS34700	SSGG_RS34700	5090	6866	+	ATP-binding_cassette_domain-containing_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS11560	SSGG_RS09915	55	124	50.61224489795918	4.75e-35
+XNR_RS11565	SSGG_RS34700	46	295	73.87247278382581	3.5e-91
+XNR_RS11570	SSGG_RS0133195	47	194	50.396196513470684	6.89e-56
+XNR_RS11575	SSGG_RS09925	81	75	100.0	1.8e-20
+XNR_RS11580	SSGG_RS0133190	59	535	55.413271245634455	1.12e-181
+
+
+
+>>
+4. BGC0000551
+Source: SapB
+Type: RiPP:Lanthipeptide
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1326.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAA19960.1	CAA19960.1	1	2793	+	putative_serine/threonine_protein_kinase
+CAA19961.1	CAA19961.1	2831	2959	+	hypothetical_protein_SC5A7.32
+CAA19962.1	CAA19962.1	2995	4905	+	putative_ABC_transporter
+CAA19963.1	CAA19963.1	4902	6728	+	putative_ABC_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS11570	CAA19962.1	50	413	89.22345483359746	2.48e-136
+XNR_RS11575	CAA19961.1	63	56	95.34883720930233	5.38e-13
+XNR_RS11580	CAA19960.1	54	857	106.28637951105937	1.78e-302
+
+
+
+>>
+5. BGC0000501
+Source: catenulipeptin
+Type: RiPP:Lanthipeptide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1023.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS11570	Caci_4242	48	350	83.51822503961965	3.62e-113
+XNR_RS11580	Caci_4239	47	673	101.39697322467987	2.23e-231
+
+
+
+>>
+6. BGC0000366
+Source: gobichelin A/gobichelin B
+Type: NRP
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 601.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AGE11883.1	AGE11883.1	183	806	+	TetR_transcriptional_regulator
+AGE11884.1	AGE11884.1	1044	1874	-	NH3_dependent_NAD+_synthase
+AGE11885.1	AGE11885.1	2103	2756	-	hypothetical_protein
+AGE11886.1	AGE11886.1	2990	3457	-	acetyltransferase
+AGE11887.1	AGE11887.1	3803	4459	+	isochorismatase
+AGE11888.1	AGE11888.1	4479	4775	+	hypothetical_protein
+AGE11889.1	AGE11889.1	5111	5713	+	amidinotransferase
+AGE11890.1	AGE11890.1	5869	7338	-	salicylate_synthase
+AGE11891.1	AGE11891.1	8437	12144	-	nonribosomal_peptide_synthetase
+AGE11892.1	AGE11892.1	12184	13917	+	2,3-dihydroxybenzoate-AMP_ligase
+AGE11893.1	AGE11893.1	13945	14187	+	MbtH
+AGE11894.1	AGE11894.1	14251	15312	-	iron_siderophore_uptake_ABC_system
+AGE11895.1	AGE11895.1	15407	16243	-	ABC_transporter
+AGE11896.1	AGE11896.1	16246	17331	-	ABC_transporter
+AGE11897.1	AGE11897.1	17335	18396	+	iron_siderophore_transporter
+AGE11898.1	AGE11898.1	20174	27922	+	nonribosomal_peptide_synthetase
+AGE11899.1	AGE11899.1	27919	34965	+	nonribosomal_peptide_synthetase
+AGE11900.1	AGE11900.1	35036	36463	-	L-ornithine_5-monooxygenase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS11590	AGE11895.1	62	315	89.08450704225352	5.44e-108
+XNR_RS11600	AGE11897.1	50	286	89.26553672316385	1.24e-94
+
+
+
+>>
+7. BGC0000423
+Source: scabichelin
+Type: NRP
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 593.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS11590	SCAB_85501	67	339	89.08450704225352	2.52e-117
+XNR_RS11600	SCAB_85481	48	254	90.3954802259887	4.44e-82
+
+
+
+>>
+8. BGC0002466
+Source: peucechelin
+Type: NRP
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 588.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CGZ69_03785	CGZ69_03785	9489	9734	+	hypothetical_protein
+CGZ69_03810	CGZ69_03810	28717	29663	+	methionyl-tRNA_formyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS11590	CGZ69_03760	63	325	95.77464788732394	1.08e-111
+XNR_RS11600	CGZ69_03770	46	263	93.22033898305084	2.03e-85
+

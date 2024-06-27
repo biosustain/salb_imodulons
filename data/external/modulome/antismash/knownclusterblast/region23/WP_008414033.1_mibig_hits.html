@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>BAD38876.1</td>
+              <td>thioesterase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000111/1">BGC0000111</a></td>
+              <td>Polyketide</td>
+              <td>37.0</td>
+              <td>78.6</td>
+              <td>135.0</td>
+              <td>3.61e-38</td>
+          </tr>
+    
+          <tr>
+              <td>WP_018540599.1</td>
+              <td>alpha/beta_fold_hydrolase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001332/1">BGC0001332</a></td>
+              <td>NRP+Polyketide</td>
+              <td>36.0</td>
+              <td>82.1</td>
+              <td>134.0</td>
+              <td>1.22e-37</td>
+          </tr>
+    
+          <tr>
+              <td>AHB82061.1</td>
+              <td>Thioesterase_II</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001231/1">BGC0001231</a></td>
+              <td>NRP+Polyketide:Modular type I polyketide</td>
+              <td>36.0</td>
+              <td>86.8</td>
+              <td>134.0</td>
+              <td>1.7e-37</td>
+          </tr>
+    
+          <tr>
+              <td>ctg1_orf16</td>
+              <td></td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001329/1">BGC0001329</a></td>
+              <td>Polyketide+NRP:Cyclic depsipeptide</td>
+              <td>35.0</td>
+              <td>82.5</td>
+              <td>132.0</td>
+              <td>5.03e-37</td>
+          </tr>
+    
+          <tr>
+              <td>AAZ94405.1</td>
+              <td>thioesterase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000040/1">BGC0000040</a></td>
+              <td>Polyketide</td>
+              <td>37.0</td>
+              <td>85.0</td>
+              <td>129.0</td>
+              <td>1.21e-35</td>
+          </tr>
+    
+          <tr>
+              <td>QRI43536.1</td>
+              <td>thioesterase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002454/1">BGC0002454</a></td>
+              <td>Polyketide</td>
+              <td>38.0</td>
+              <td>77.5</td>
+              <td>126.0</td>
+              <td>1.07e-34</td>
+          </tr>
+    
+          <tr>
+              <td>CAL58678.1</td>
+              <td>type_II_thioesterase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000149/1">BGC0000149</a></td>
+              <td>Polyketide:Modular type I polyketide</td>
+              <td>35.0</td>
+              <td>80.7</td>
+              <td>125.0</td>
+              <td>3.04e-34</td>
+          </tr>
+    
+          <tr>
+              <td>QSI97716.1</td>
+              <td>type_II_thioesterase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002499/1">BGC0002499</a></td>
+              <td>Polyketide+NRP</td>
+              <td>33.0</td>
+              <td>80.4</td>
+              <td>118.0</td>
+              <td>1.44e-31</td>
+          </tr>
+    
+          <tr>
+              <td>WP_051700103.1</td>
+              <td>alpha/beta_fold_hydrolase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001368/1">BGC0001368</a></td>
+              <td>NRP</td>
+              <td>32.0</td>
+              <td>77.1</td>
+              <td>80.0</td>
+              <td>2.21e-17</td>
+          </tr>
+    
+          <tr>
+              <td>AIU36104.1</td>
+              <td>LglE</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000180/1">BGC0000180</a></td>
+              <td>Polyketide:Trans-AT type I polyketide</td>
+              <td>39.0</td>
+              <td>40.7</td>
+              <td>81.0</td>
+              <td>1.02e-16</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

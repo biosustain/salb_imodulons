@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ARD09208.1</td>
+              <td>DivU</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001576/1">BGC0001576</a></td>
+              <td>RiPP</td>
+              <td>30.0</td>
+              <td>111.2</td>
+              <td>94.0</td>
+              <td>8.38e-23</td>
+          </tr>
+    
+          <tr>
+              <td>QBQ12459.1</td>
+              <td>formylglycine-generating_enzyme_family_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002693/1">BGC0002693</a></td>
+              <td>NRP</td>
+              <td>29.0</td>
+              <td>83.2</td>
+              <td>71.0</td>
+              <td>2.48e-14</td>
+          </tr>
+    
+          <tr>
+              <td>AAY93350.1</td>
+              <td>chromophore_maturation_protein_PvdO</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000413/1">BGC0000413</a></td>
+              <td>NRP</td>
+              <td>28.0</td>
+              <td>90.9</td>
+              <td>69.0</td>
+              <td>1.26e-13</td>
+          </tr>
+    
+          <tr>
+              <td>CAY48784.1</td>
+              <td>conserved_hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001312/1">BGC0001312</a></td>
+              <td>NRP</td>
+              <td>28.0</td>
+              <td>83.2</td>
+              <td>61.0</td>
+              <td>7.95e-11</td>
+          </tr>
+    
+          <tr>
+              <td>AAY90322.1</td>
+              <td>conserved_hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002152/1">BGC0002152</a></td>
+              <td>Other</td>
+              <td>29.0</td>
+              <td>94.8</td>
+              <td>56.0</td>
+              <td>9.64e-09</td>
+          </tr>
+    
+          <tr>
+              <td>ABQ88345.1</td>
+              <td>hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000929/1">BGC0000929</a></td>
+              <td>Other</td>
+              <td>33.0</td>
+              <td>69.4</td>
+              <td>50.0</td>
+              <td>4.39e-07</td>
+          </tr>
+    
+          <tr>
+              <td>AZS52694.1</td>
+              <td>formylglycine_generating_enzyme-like_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001972/1">BGC0001972</a></td>
+              <td>Other</td>
+              <td>36.0</td>
+              <td>60.3</td>
+              <td>48.0</td>
+              <td>3.53e-06</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

@@ -1,0 +1,40 @@
+ClusterBlast scores for NC_020990.1
+
+Table of genes, locations, strands and annotations of query cluster:
+XNR_RS28610	6502041	6503097	+	iron ABC transporter permease	
+XNR_RS28615	6503219	6504056	+	ABC transporter ATP-binding protein	
+XNR_RS31665	6504124	6504259	+	streptamidine family RiPP	
+XNR_RS28620	6504401	6505247	+	hypothetical protein	
+XNR_RS28625	6505243	6506770	+	CocE/NonD family hydrolase	
+XNR_RS28630	6506766	6508134	+	YcaO-like family protein	
+XNR_RS28635	6508148	6509456	+	nitroreductase	
+XNR_RS28640	6509514	6511260	+	ABC transporter ATP-binding protein	
+XNR_RS28645	6511256	6513041	+	ABC transporter ATP-binding protein	
+
+
+Significant hits: 
+1. BGC0002115	streptamidine
+
+
+Details:
+
+>>
+1. BGC0002115
+Source: streptamidine
+Type: RiPP:Other
+Number of proteins with BLAST hits to this cluster: 9
+Cumulative BLAST score: 6743.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS28610	XNR_5770	100	637	100.0	4.32e-233
+XNR_RS28615	XNR_5771	100	540	100.0	3.9e-197
+XNR_RS31665	XNR_5772	100	92	100.0	3.66e-27
+XNR_RS28620	XNR_5773	100	554	100.0	1.6e-202
+XNR_RS28625	XNR_5774	100	1033	100.0	0.0
+XNR_RS28630	XNR_5775	100	932	100.0	0.0
+XNR_RS28635	XNR_5776	100	868	100.0	0.0
+XNR_RS28640	XNR_5777	100	1056	100.0	0.0
+XNR_RS28645	XNR_5778	100	1031	100.0	0.0
+

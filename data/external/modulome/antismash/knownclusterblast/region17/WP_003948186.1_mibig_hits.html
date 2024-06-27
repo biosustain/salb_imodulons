@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>desaA</td>
+              <td>pyridoxal_5-phosfate_(PLP)-dependen_lysine_decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001453/1">BGC0001453</a></td>
+              <td>Other</td>
+              <td>81.0</td>
+              <td>98.8</td>
+              <td>765.0</td>
+              <td>2.91e-279</td>
+          </tr>
+    
+          <tr>
+              <td>CAB87219.1</td>
+              <td>putative_pyridoxal-dependent_decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000940/1">BGC0000940</a></td>
+              <td>Other</td>
+              <td>80.0</td>
+              <td>98.8</td>
+              <td>757.0</td>
+              <td>3.23e-276</td>
+          </tr>
+    
+          <tr>
+              <td>BAG21579.1</td>
+              <td>putative_pyridoxal-dependent_decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000941/1">BGC0000941</a></td>
+              <td>Other</td>
+              <td>77.0</td>
+              <td>99.2</td>
+              <td>728.0</td>
+              <td>1.28e-264</td>
+          </tr>
+    
+          <tr>
+              <td>AVV61972.1</td>
+              <td>DesD</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001478/1">BGC0001478</a></td>
+              <td>Other</td>
+              <td>71.0</td>
+              <td>100.4</td>
+              <td>681.0</td>
+              <td>1.25e-245</td>
+          </tr>
+    
+          <tr>
+              <td>QKS42877.1</td>
+              <td>PLP_dependent_decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002305/1">BGC0002305</a></td>
+              <td>Other</td>
+              <td>69.0</td>
+              <td>100.8</td>
+              <td>660.0</td>
+              <td>2.48e-237</td>
+          </tr>
+    
+          <tr>
+              <td>RUL90630.1</td>
+              <td>aminotransferase_class_V-fold_PLP-dependent_enzyme</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002690/1">BGC0002690</a></td>
+              <td>Other</td>
+              <td>70.0</td>
+              <td>99.2</td>
+              <td>641.0</td>
+              <td>5.25e-230</td>
+          </tr>
+    
+          <tr>
+              <td>AWD37887.1</td>
+              <td>putative_pyridoxal-dependent_decarboxylase_DfoJ</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001572/1">BGC0001572</a></td>
+              <td>Other</td>
+              <td>55.0</td>
+              <td>103.7</td>
+              <td>538.0</td>
+              <td>2.53e-189</td>
+          </tr>
+    
+          <tr>
+              <td>PHM29819.1</td>
+              <td>putative_decarboxylase_involved_in_desferrioxamine_biosynthesis</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001870/1">BGC0001870</a></td>
+              <td>Other</td>
+              <td>51.0</td>
+              <td>97.9</td>
+              <td>489.0</td>
+              <td>8.85e-170</td>
+          </tr>
+    
+          <tr>
+              <td>QHG11726.1</td>
+              <td>putative_pyridoxal-dependent_decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002620/1">BGC0002620</a></td>
+              <td>Other</td>
+              <td>47.0</td>
+              <td>100.4</td>
+              <td>441.0</td>
+              <td>4.18e-151</td>
+          </tr>
+    
+          <tr>
+              <td>BAX07665.1</td>
+              <td>pyridoxal-dependent_decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001531/1">BGC0001531</a></td>
+              <td>Other</td>
+              <td>40.0</td>
+              <td>87.2</td>
+              <td>349.0</td>
+              <td>2.13e-115</td>
+          </tr>
+    
+          <tr>
+              <td>AFY40273.1</td>
+              <td>L-2,4-diaminobutyrate_decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002633/1">BGC0002633</a></td>
+              <td>Other</td>
+              <td>44.0</td>
+              <td>82.9</td>
+              <td>339.0</td>
+              <td>1.69e-111</td>
+          </tr>
+    
+          <tr>
+              <td>RUP78901.1</td>
+              <td>aminotransferase_class_V-fold_PLP-dependent_enzyme</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002073/1">BGC0002073</a></td>
+              <td>NRP</td>
+              <td>41.0</td>
+              <td>89.9</td>
+              <td>333.0</td>
+              <td>8.03e-109</td>
+          </tr>
+    
+          <tr>
+              <td>BAB72353.1</td>
+              <td>L-2,4-diaminobutyrate_decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002683/1">BGC0002683</a></td>
+              <td>Other</td>
+              <td>41.0</td>
+              <td>93.0</td>
+              <td>333.0</td>
+              <td>1.72e-108</td>
+          </tr>
+    
+          <tr>
+              <td>ACB01064.1</td>
+              <td>L-2,4-diaminobutyrate_decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002470/1">BGC0002470</a></td>
+              <td>Other</td>
+              <td>43.0</td>
+              <td>81.6</td>
+              <td>329.0</td>
+              <td>2.6e-108</td>
+          </tr>
+    
+          <tr>
+              <td>CZF84011.1</td>
+              <td>Diaminobutyrate--2-oxoglutarate_aminotransferase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002382/1">BGC0002382</a></td>
+              <td>RiPP</td>
+              <td>42.0</td>
+              <td>91.1</td>
+              <td>331.0</td>
+              <td>1.55e-103</td>
+          </tr>
+    
+          <tr>
+              <td>TCC25654.1</td>
+              <td>aminotransferase_class_V-fold_PLP-dependent_enzyme</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002692/1">BGC0002692</a></td>
+              <td>Other</td>
+              <td>41.0</td>
+              <td>87.6</td>
+              <td>273.0</td>
+              <td>6.46e-86</td>
+          </tr>
+    
+          <tr>
+              <td>AAF81243.1</td>
+              <td>amino_acid_decarboxylase-like_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000244/1">BGC0000244</a></td>
+              <td>Polyketide</td>
+              <td>37.0</td>
+              <td>88.5</td>
+              <td>219.0</td>
+              <td>7.54e-65</td>
+          </tr>
+    
+          <tr>
+              <td>CDG17988.1</td>
+              <td>Pyridoxal-dependent_decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000464/1">BGC0000464</a></td>
+              <td>NRP:Cyclic depsipeptide</td>
+              <td>29.0</td>
+              <td>86.8</td>
+              <td>159.0</td>
+              <td>1.51e-42</td>
+          </tr>
+    
+          <tr>
+              <td>CDG17983.1</td>
+              <td>Pyridoxal-dependent_decarboxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000464/1">BGC0000464</a></td>
+              <td>NRP:Cyclic depsipeptide</td>
+              <td>31.0</td>
+              <td>76.9</td>
+              <td>157.0</td>
+              <td>8.35e-42</td>
+          </tr>
+    
+          <tr>
+              <td>AAS98783.1</td>
+              <td>polyketide_synthase/nonribosomal_peptide_synthase_hybrid</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001001/1">BGC0001001</a></td>
+              <td>NRP+Polyketide</td>
+              <td>26.0</td>
+              <td>74.4</td>
+              <td>130.0</td>
+              <td>1.17e-31</td>
+          </tr>
+    
+          <tr>
+              <td>WP_030684651.1</td>
+              <td>tyrosine_decarboxylase_MfnA</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001607/1">BGC0001607</a></td>
+              <td>Other</td>
+              <td>35.0</td>
+              <td>47.6</td>
+              <td>88.0</td>
+              <td>2e-18</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

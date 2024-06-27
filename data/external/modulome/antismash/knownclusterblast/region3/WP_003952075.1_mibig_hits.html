@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>ALL53316.1</td>
+              <td>IPP_isomerase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001903/1">BGC0001903</a></td>
+              <td>Other</td>
+              <td>71.0</td>
+              <td>89.9</td>
+              <td>249.0</td>
+              <td>6.13e-85</td>
+          </tr>
+    
+          <tr>
+              <td>BBF24930.1</td>
+              <td>isopentenyl-diphosphate_Delta-isomerase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002554/1">BGC0002554</a></td>
+              <td>Alkaloid</td>
+              <td>68.0</td>
+              <td>89.9</td>
+              <td>236.0</td>
+              <td>7.56e-80</td>
+          </tr>
+    
+          <tr>
+              <td>ABW00333.1</td>
+              <td>isopentenyl-diphosphate_delta-isomerase,_type_1</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000333/1">BGC0000333</a></td>
+              <td>NRP</td>
+              <td>64.0</td>
+              <td>80.8</td>
+              <td>215.0</td>
+              <td>2.1e-71</td>
+          </tr>
+    
+          <tr>
+              <td>RKS65047.1</td>
+              <td>isopentenyl-diphosphate_delta-isomerase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002283/1">BGC0002283</a></td>
+              <td>Terpene</td>
+              <td>44.0</td>
+              <td>81.8</td>
+              <td>125.0</td>
+              <td>2.85e-36</td>
+          </tr>
+    
+          <tr>
+              <td>AGO55052.1</td>
+              <td>hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001361/1">BGC0001361</a></td>
+              <td>Terpene</td>
+              <td>44.0</td>
+              <td>82.3</td>
+              <td>125.0</td>
+              <td>4.38e-36</td>
+          </tr>
+    
+          <tr>
+              <td>AAF65591.1</td>
+              <td>isopentenyl_diphosphate_isomerase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000636/1">BGC0000636</a></td>
+              <td>Terpene</td>
+              <td>37.0</td>
+              <td>86.9</td>
+              <td>99.0</td>
+              <td>6.96e-26</td>
+          </tr>
+    
+          <tr>
+              <td>AFO85457.1</td>
+              <td>Isopentenyl-diphosphate_delta-isomerase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000391/1">BGC0000391</a></td>
+              <td>NRP</td>
+              <td>37.0</td>
+              <td>75.8</td>
+              <td>91.0</td>
+              <td>5.17e-23</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

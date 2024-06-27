@@ -1,0 +1,74 @@
+ClusterBlast scores for NC_020990.1
+
+Table of genes, locations, strands and annotations of query cluster:
+XNR_RS01695	416364	417264	+	hypothetical protein	
+XNR_RS01700	417455	419273	+	AMP-dependent synthetase/ligase	
+XNR_RS01705	419496	420003	+	GNAT family N-acetyltransferase	
+XNR_RS01710	420687	420903	+	hypothetical protein	
+XNR_RS01715	421100	421907	+	HlyD family efflux transporter periplasmic adaptor subunit	
+XNR_RS01720	421903	424201	+	NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit	
+
+
+Significant hits: 
+1. BGC0002497	hexacosalactone A
+
+
+Details:
+
+>>
+1. BGC0002497
+Source: hexacosalactone A
+Type: Other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1358.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+QQZ01610.1	QQZ01610.1	1220	2611	+	PucR_family_transcriptional_regulator
+QQZ01611.1	QQZ01611.1	2820	3626	+	methyltransferase
+QQZ01612.1	QQZ01612.1	3755	5215	-	PucR_family_transcriptional_regulator
+QQZ01613.1	QQZ01613.1	5327	6289	+	agmatinase
+QQZ01614.1	QQZ01614.1	6282	7823	+	nitrate_reductase
+QQZ01615.1	QQZ01615.1	7831	8475	+	cyclase_family_protein
+QQZ01616.1	QQZ01616.1	8502	8909	+	ketosteroid_isomerase
+QQZ01617.1	QQZ01617.1	8906	10354	+	gamma-aminobutyraldehyde_dehydrogenase
+QQZ01618.1	QQZ01618.1	10443	10949	+	GNAT_family_N-acetyltransferase
+QQZ01619.1	QQZ01619.1	11118	11900	+	SGNH_hydrolase
+QQZ01620.1	QQZ01620.1	11939	12931	+	PHB_depolymerase_family_esterase
+QQZ01621.1	QQZ01621.1	13100	14641	-	long-chain_fatty_acid--CoA_ligase
+QQZ01622.1	QQZ01622.1	14638	16179	-	amide_synthase
+QQZ01623.1	QQZ01623.1	16440	17687	+	5-aminolevulinate_synthase
+QQZ01624.1	QQZ01624.1	17881	18852	+	malonyl_transferase
+QQZ01625.1	QQZ01625.1	18849	19916	+	arylcarboxylate_reductase
+QQZ01626.1	QQZ01626.1	20214	38417	+	PKS
+QQZ01627.1	QQZ01627.1	38512	58281	+	PKS
+QQZ01628.1	QQZ01628.1	58283	69223	+	PKS
+QQZ01629.1	QQZ01629.1	69292	86676	+	PKS
+QQZ01630.1	QQZ01630.1	86799	87647	+	methyltransferase
+QQZ01631.1	QQZ01631.1	87858	88700	+	aldo/keto_reductase
+QQZ01632.1	QQZ01632.1	88834	89535	+	alpha/beta_hydrolase
+QQZ01633.1	QQZ01633.1	89610	90305	-	hypothetical_protein
+QQZ01634.1	QQZ01634.1	90758	92431	+	ABC_transporter
+QQZ01635.1	QQZ01635.1	92838	99962	+	PKS
+QQZ01636.1	QQZ01636.1	99959	104554	+	PKS
+QQZ01637.1	QQZ01637.1	104551	104901	+	acyl_carrier_protein
+QQZ01638.1	QQZ01638.1	104905	105837	+	alpha/beta_hydrolase
+QQZ01639.1	QQZ01639.1	105834	107174	+	glycosyltransferase
+QQZ01640.1	QQZ01640.1	107171	108292	+	glycosyltransferase
+QQZ01641.1	QQZ01641.1	108334	109350	+	permease
+QQZ01642.1	QQZ01642.1	109347	110120	+	TIGR03943_family_protein
+QQZ01643.1	QQZ01643.1	110186	110980	-	SDR_family_oxidoreductase
+QQZ01644.1	QQZ01644.1	111096	113600	-	glycosyl_hydrolase
+QQZ01645.1	QQZ01645.1	114092	115228	-	amidase_domain-containing_protein
+QQZ01646.1	QQZ01646.1	115356	116579	-	cytochrome_P450
+QQZ01647.1	QQZ01647.1	116752	117360	+	etR/AcrR_family_transcriptional_regulator
+QQZ01648.1	QQZ01648.1	117657	119285	+	PucR_family_transcriptional_regulator
+QQZ01649.1	QQZ01649.1	119673	120701	+	glutathionyl-hydroquinone_reductase
+QQZ01650.1	QQZ01650.1	121488	122294	+	HlyD_family_efflux_transporter
+QQZ01651.1	QQZ01651.1	122429	124573	+	ABC_transporter
+QQZ01652.1	QQZ01652.1	125365	127440	+	ABC_transporter
+QQZ01653.1	QQZ01653.1	127460	129025	-	MFS_transporter
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01715	QQZ01650.1	62	273	100.0	5.22e-92
+XNR_RS01720	QQZ01651.1	80	1085	93.72549019607843	0.0
+

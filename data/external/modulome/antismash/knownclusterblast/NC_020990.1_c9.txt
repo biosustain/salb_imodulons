@@ -1,0 +1,44 @@
+ClusterBlast scores for NC_020990.1
+
+Table of genes, locations, strands and annotations of query cluster:
+XNR_RS06370	1532213	1532891	+	SMI1/KNR4 family protein	
+XNR_RS06375	1532970	1534641	+	murein biosynthesis integral membrane protein MurJ	
+XNR_RS06380	1534676	1535462	-	hypothetical protein	
+XNR_RS06385	1535647	1536262	+	SMI1/KNR4 family protein	
+XNR_RS06390	1536286	1537099	-	MerR family transcriptional regulator	
+XNR_RS06395	1537091	1537634	-	VOC family protein	
+XNR_RS06400	1537843	1538167	+	hypothetical protein	
+XNR_RS06405	1538183	1538777	-	TetR/AcrR family transcriptional regulator	
+XNR_RS06410	1538896	1539841	+	SDR family oxidoreductase	
+XNR_RS06415	1539821	1540247	-	ATP-binding protein	
+XNR_RS06420	1540359	1541184	+	helix-turn-helix transcriptional regulator	
+XNR_RS06425	1541180	1541450	+	DUF397 domain-containing protein	
+XNR_RS30445	1541446	1541694	+	DUF397 domain-containing protein	
+XNR_RS06430	1541773	1544059	+	terpene synthase family protein	
+XNR_RS06435	1544093	1545461	-	hypothetical protein	
+XNR_RS06440	1545623	1547405	-	citramalate synthase	
+XNR_RS06445	1547682	1549047	-	MFS transporter	
+XNR_RS06450	1549152	1550232	-	agmatine deiminase family protein	
+XNR_RS06455	1550240	1552043	-	urease subunit alpha	
+XNR_RS06460	1552039	1552795	-	urease subunit gamma	
+
+
+Significant hits: 
+1. BGC0001181	geosmin
+
+
+Details:
+
+>>
+1. BGC0001181
+Source: geosmin
+Type: Terpene
+Number of proteins with BLAST hits to this cluster: 1
+Cumulative BLAST score: 945.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAB41566.1	CAB41566.1	1	2181	+	putative_cyclase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS06430	CAB41566.1	64	945	95.40078843626807	0.0
+

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>WP_026048085.1</td>
+              <td>condensation_domain-containing_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000958/1">BGC0000958</a></td>
+              <td>NRP:Cyclic depsipeptide+Polyketide:Modular type I polyketide</td>
+              <td>98.0</td>
+              <td>100.0</td>
+              <td>829.0</td>
+              <td>2.9e-306</td>
+          </tr>
+    
+          <tr>
+              <td>AKA54625.1</td>
+              <td>acyltransferase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001216/1">BGC0001216</a></td>
+              <td>NRP+Polyketide</td>
+              <td>91.0</td>
+              <td>100.0</td>
+              <td>773.0</td>
+              <td>6.5e-284</td>
+          </tr>
+    
+          <tr>
+              <td>antaB</td>
+              <td>Putative_acyltransferase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001455/1">BGC0001455</a></td>
+              <td>NRP+Polyketide</td>
+              <td>60.0</td>
+              <td>100.0</td>
+              <td>483.0</td>
+              <td>6.2e-169</td>
+          </tr>
+    
+          <tr>
+              <td>CAI94703.1</td>
+              <td>hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000141/1">BGC0000141</a></td>
+              <td>Polyketide</td>
+              <td>37.0</td>
+              <td>99.5</td>
+              <td>232.0</td>
+              <td>1.89e-71</td>
+          </tr>
+    
+          <tr>
+              <td>QOD95003.1</td>
+              <td>PldC</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002102/1">BGC0002102</a></td>
+              <td>Polyketide</td>
+              <td>35.0</td>
+              <td>94.5</td>
+              <td>196.0</td>
+              <td>7.94e-58</td>
+          </tr>
+    
+          <tr>
+              <td>BAH02273.1</td>
+              <td>putative_acyltransferase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000126/1">BGC0000126</a></td>
+              <td>Polyketide</td>
+              <td>36.0</td>
+              <td>93.1</td>
+              <td>195.0</td>
+              <td>1.22e-57</td>
+          </tr>
+    
+          <tr>
+              <td>AFL48536.1</td>
+              <td>putative_acyl_transferase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000084/1">BGC0000084</a></td>
+              <td>Polyketide</td>
+              <td>31.0</td>
+              <td>96.1</td>
+              <td>142.0</td>
+              <td>1.05e-37</td>
+          </tr>
+    
+          <tr>
+              <td>APZ78834.1</td>
+              <td>nonribosomal_peptide_synthetase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001430/1">BGC0001430</a></td>
+              <td>NRP:Cyclic depsipeptide+Polyketide:Iterative type I polyketide</td>
+              <td>26.0</td>
+              <td>50.2</td>
+              <td>54.0</td>
+              <td>4.15e-07</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

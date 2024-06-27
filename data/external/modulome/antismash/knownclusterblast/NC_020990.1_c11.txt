@@ -1,0 +1,52 @@
+ClusterBlast scores for NC_020990.1
+
+Table of genes, locations, strands and annotations of query cluster:
+XNR_RS29710	2376751	2377186	+	ATP-binding protein	
+XNR_RS10025	2377548	2381082	-	transcription-repair coupling factor	
+XNR_RS10030	2381512	2382517	+	LuxR C-terminal-related transcriptional regulator	
+XNR_RS10035	2382518	2383938	-	amidase	
+XNR_RS10040	2384080	2384695	+	TetR family transcriptional regulator C-terminal domain-containing protein	
+XNR_RS10045	2384683	2384944	-	hypothetical protein	
+XNR_RS10050	2384940	2386227	-	amidohydrolase	
+XNR_RS10055	2386427	2386604	+	thiazolylpeptide-type bacteriocin	
+XNR_RS10060	2386687	2388697	-	TOMM precursor leader peptide-binding protein	
+XNR_RS10065	2388797	2389553	-	ABC transporter permease	
+XNR_RS10070	2389597	2390545	-	ABC transporter ATP-binding protein	
+XNR_RS10075	2390596	2391724	-	M50 family metallopeptidase	
+XNR_RS10080	2391720	2392788	-	lantibiotic dehydratase C-terminal domain-containing protein	
+XNR_RS10085	2392784	2395520	-	lantibiotic dehydratase	
+XNR_RS10090	2395546	2397154	-	SagB family peptide dehydrogenase	
+XNR_RS10095	2397206	2399159	-	TOMM precursor leader peptide-binding protein	
+XNR_RS10100	2399148	2401371	-	TOMM precursor leader peptide-binding protein	
+XNR_RS10105	2401377	2403264	-	AfsR/SARP family transcriptional regulator	
+XNR_RS10110	2403272	2403506	-	hypothetical protein	
+XNR_RS10115	2403981	2405574	+	MFS transporter	
+XNR_RS10120	2405589	2406141	-	TetR/AcrR family transcriptional regulator	
+XNR_RS10125	2406259	2406817	+	GNAT family protein	
+XNR_RS10130	2406894	2407494	-	hypothetical protein	
+XNR_RS10135	2407519	2408080	-	hypothetical protein	
+XNR_RS10140	2408404	2409172	-	NPP1 family protein	
+XNR_RS10145	2409348	2409981	+	histidine phosphatase family protein	
+XNR_RS10150	2409977	2410946	-	hypothetical protein	
+
+
+Significant hits: 
+1. BGC0001596	fluostatins M-Q
+
+
+Details:
+
+>>
+1. BGC0001596
+Source: fluostatins M-Q
+Type: Polyketide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 552.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SLNWT_RS23575	SLNWT_RS23575	5176	6491	+	multicopper_oxidase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS10120	SLNWT_RS23730	78	275	100.0	8.8e-95
+XNR_RS10125	SLNWT_RS23725	73	277	98.37837837837839	3.91e-96
+

@@ -1,0 +1,323 @@
+ClusterBlast scores for NC_020990.1
+
+Table of genes, locations, strands and annotations of query cluster:
+XNR_RS20650	4731650	4732697	-	sugar ABC transporter permease	
+XNR_RS20655	4732703	4734041	-	extracellular solute-binding protein	
+XNR_RS20660	4734345	4735551	+	RNA-guided endonuclease TnpB family protein	
+XNR_RS20665	4735637	4736693	+	LacI family DNA-binding transcriptional regulator	
+XNR_RS20670	4736781	4737009	+	hypothetical protein	
+XNR_RS30890	4737049	4737220	+	hypothetical protein	
+XNR_RS20675	4737301	4737952	-	hypothetical protein	
+XNR_RS20685	4738268	4738871	-	oligoribonuclease	
+XNR_RS20690	4738976	4740197	-	helix-turn-helix domain-containing protein	
+XNR_RS20695	4740645	4740849	-	hypothetical protein	
+XNR_RS20700	4741584	4742109	+	universal stress protein	
+XNR_RS20705	4742140	4743970	-	glutamine--fructose-6-phosphate transaminase (isomerizing)	
+XNR_RS20710	4744060	4744336	-	hypothetical protein	
+XNR_RS20715	4744454	4745363	-	DUF4429 domain-containing protein	
+XNR_RS20720	4745449	4747270	-	IucA/IucC family siderophore biosynthesis protein	
+XNR_RS20725	4747266	4747872	-	GNAT family N-acetyltransferase	
+XNR_RS20730	4747868	4749179	-	lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein	
+XNR_RS20735	4749162	4750620	-	aspartate aminotransferase family protein	
+XNR_RS20740	4750953	4751820	-	siderophore-interacting protein	
+XNR_RS20745	4752142	4752796	+	hypothetical protein	
+XNR_RS20750	4752783	4753827	+	hypothetical protein	
+XNR_RS20755	4753836	4754463	-	TetR/AcrR family transcriptional regulator	
+XNR_RS20760	4754617	4755385	+	SDR family oxidoreductase	
+XNR_RS20765	4755471	4755897	+	SgcJ/EcaC family oxidoreductase	
+XNR_RS20770	4755845	4756109	-	helix-turn-helix transcriptional regulator	
+XNR_RS20775	4756108	4756717	-	hypothetical protein	
+XNR_RS20780	4756835	4757576	+	DUF6193 family natural product biosynthesis protein	
+XNR_RS20785	4757755	4758316	+	hypothetical protein	
+XNR_RS20790	4758376	4758901	+	hypothetical protein	
+XNR_RS20795	4759005	4760187	+	hypothetical protein	
+XNR_RS20800	4760234	4760804	+	hypothetical protein	
+
+
+Significant hits: 
+1. BGC0000941	desferrioxamin B
+2. BGC0000940	desferrioxamin B/desferrioxamine E
+3. BGC0002305	legonoxamine A/desferrioxamine B/legonoxamine B
+4. BGC0001453	desferrioxamine
+5. BGC0001478	desferrioxamine E
+6. BGC0002690	FW0622
+7. BGC0001572	desferrioxamine E
+8. BGC0002620	fulvivirgamide A2/fulvivirgamide B2/fulvivirgamide B3/fulvivirgamide B4
+9. BGC0001870	putrebactin/avaroferrin
+10. BGC0001531	bisucaberin B
+11. BGC0002464	alcaligin
+12. BGC0000274	tetarimycin A/tetarimycin B
+
+
+Details:
+
+>>
+1. BGC0000941
+Source: desferrioxamin B
+Type: Other
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 2796.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS20720	SGR_4747	71	821	98.84488448844884	1.74e-297
+XNR_RS20725	SGR_4748	72	249	83.5820895522388	5.54e-85
+XNR_RS20730	SGR_4749	79	687	96.3302752293578	4.43e-250
+XNR_RS20735	SGR_4750	77	728	99.17525773195877	1.28e-264
+XNR_RS20740	SGR_4751	57	311	98.26388888888889	3.75e-106
+
+
+
+>>
+2. BGC0000940
+Source: desferrioxamin B/desferrioxamine E
+Type: Other
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 2753.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAB87217.1	CAB87217.1	1	1050	+	Ferric-siderophore_lipoprotein_receptor
+CAB87218.1	CAB87218.1	1278	2123	+	Ferric-siderophore_hydrolase
+CAB87219.1	CAB87219.1	2287	3729	+	putative_pyridoxal-dependent_decarboxylase
+CAB87220.1	CAB87220.1	3752	4993	+	putative_monooxygenase
+CAB87221.1	CAB87221.1	4990	5544	+	Acyl_CoA_acyl_transferase
+CAB87222.1	CAB87222.1	5541	7328	+	ATP-dependent_siderophore_synthetase_(IucA-IucC_family)
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS20720	CAB87222.1	68	805	98.67986798679867	4.7e-291
+XNR_RS20725	CAB87221.1	65	219	82.58706467661692	3.38e-73
+XNR_RS20730	CAB87220.1	78	670	95.18348623853211	9.98e-244
+XNR_RS20735	CAB87219.1	80	757	98.76288659793815	3.23e-276
+XNR_RS20740	CAB87218.1	59	302	93.75	5.01e-103
+
+
+
+>>
+3. BGC0002305
+Source: legonoxamine A/desferrioxamine B/legonoxamine B
+Type: Other
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 2665.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+QKS42875.1	QKS42875.1	1	1038	+	ABC_transporter_substrate-binding_protein
+QKS42876.1	QKS42876.1	1046	1891	+	siderophore_interacting_protein
+QKS42877.1	QKS42877.1	2190	3707	+	PLP_dependent_decarboxylase
+QKS42878.1	QKS42878.1	3801	5099	+	FAD_dependent_amine_monooxygenase
+QKS42879.1	QKS42879.1	5096	5674	+	acyl_transferase
+QKS42880.1	QKS42880.1	5671	7452	+	LucA/LucC_family_siderophore_biosynthesis_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS20720	QKS42880.1	69	790	97.52475247524752	3.69e-285
+XNR_RS20725	QKS42879.1	69	242	83.08457711442786	4.75e-82
+XNR_RS20730	QKS42878.1	76	650	96.3302752293578	1.16e-235
+XNR_RS20735	QKS42877.1	69	660	100.82474226804123	2.48e-237
+XNR_RS20740	QKS42876.1	64	323	94.79166666666666	3.2e-111
+
+
+
+>>
+4. BGC0001453
+Source: desferrioxamine
+Type: Other
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 2603.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+desaE	desaE	1	1050	+	ABC_transporter_substrate-binding_protein
+desaF	desaF	1440	1997	+	siderophore-interacting_protein
+desaA	desaA	2172	3614	+	pyridoxal_5-phosfate_(PLP)-dependen_lysine_decarboxylase
+desaB	desaB	3598	4890	+	FAD-dependent_monooxygenase
+desaC	desaC	4887	5438	+	N-acetyltransferase
+desaD	desaD	5435	7234	+	NTP-dependent_siderophore_synthetase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS20720	desaD	67	792	98.51485148514851	5.63e-286
+XNR_RS20725	desaC	65	224	84.5771144278607	6.98e-75
+XNR_RS20730	desaB	74	634	96.10091743119266	2.66e-229
+XNR_RS20735	desaA	81	765	98.76288659793815	2.91e-279
+XNR_RS20740	desaF	55	188	65.97222222222221	1.35e-59
+
+
+
+>>
+5. BGC0001478
+Source: desferrioxamine E
+Type: Other
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2389.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AVV61969.1	AVV61969.1	101	1918	-	DesA
+AVV61970.1	AVV61970.1	1915	2484	-	DesB
+AVV61971.1	AVV61971.1	2481	3800	-	DesC
+AVV61972.1	AVV61972.1	3836	5365	-	DesD
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS20720	AVV61969.1	72	848	99.5049504950495	6.36e-308
+XNR_RS20725	AVV61970.1	67	228	82.08955223880598	1.28e-76
+XNR_RS20730	AVV61971.1	73	632	97.01834862385321	2.13e-228
+XNR_RS20735	AVV61972.1	71	681	100.41237113402062	1.25e-245
+
+
+
+>>
+6. BGC0002690
+Source: FW0622
+Type: Other
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2270.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS20720	EG812_24960	68	795	97.6897689768977	2.69e-287
+XNR_RS20725	EG812_24965	70	246	83.5820895522388	1.01e-83
+XNR_RS20730	EG812_24970	68	588	96.3302752293578	2.9e-211
+XNR_RS20735	EG812_24975	70	641	99.17525773195877	5.25e-230
+
+
+
+>>
+7. BGC0001572
+Source: desferrioxamine E
+Type: Other
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1634.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AWD37884.1	AWD37884.1	4378	5604	-	putative_siderophore_MFS_transporter_DfoS
+AWD37885.1	AWD37885.1	5682	8036	-	putative_siderophore_biosynthesis_protein_DfoC
+AWD37886.1	AWD37886.1	8038	9330	-	putative_lysine/ornithine_N-monooxygenase_DfoA
+AWD37887.1	AWD37887.1	9341	10894	-	putative_pyridoxal-dependent_decarboxylase_DfoJ
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS20720	AWD37885.1	52	605	97.1947194719472	1.02e-209
+XNR_RS20730	AWD37886.1	59	491	96.3302752293578	1.29e-172
+XNR_RS20735	AWD37887.1	55	538	103.71134020618558	2.53e-189
+
+
+
+>>
+8. BGC0002620
+Source: fulvivirgamide A2/fulvivirgamide B2/fulvivirgamide B3/fulvivirgamide B4
+Type: Other
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1522.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+QHG11726.1	QHG11726.1	1	1539	+	putative_pyridoxal-dependent_decarboxylase
+QHG11727.1	QHG11727.1	1542	2882	+	putative_monooxygenase
+QHG11728.1	QHG11728.1	2879	4054	+	putative_major_facilitator_superfamily_permease
+QHG11729.1	QHG11729.1	4071	4670	+	putative_acyl_CoA_acyltransferase
+QHG11730.1	QHG11730.1	4690	6510	+	putative_ATP-dependent_siderophore_synthetase
+QHG11731.1	QHG11731.1	6556	7797	+	acyl_transferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS20720	QHG11730.1	50	583	97.35973597359737	1.65e-203
+XNR_RS20730	QHG11727.1	57	498	96.78899082568807	2.95e-175
+XNR_RS20735	QHG11726.1	47	441	100.41237113402062	4.18e-151
+
+
+
+>>
+9. BGC0001870
+Source: putrebactin/avaroferrin
+Type: Other
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1511.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS20720	Xbud_00361	47	539	98.18481848184818	2.55e-186
+XNR_RS20730	Xbud_00369	56	483	98.1651376146789	1.91e-169
+XNR_RS20735	Xbud_00368	51	489	97.9381443298969	8.85e-170
+
+
+
+>>
+10. BGC0001531
+Source: bisucaberin B
+Type: Other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 992.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BAX07665.1	BAX07665.1	1113	2621	+	pyridoxal-dependent_decarboxylase
+BAX07666.1	BAX07666.1	2627	3949	+	lysine-6-monooxygenase
+BAX07667.1	BAX07667.1	3936	5129	+	MFS_transporter
+BAX07668.1	BAX07668.1	5133	7550	+	IucA/IucC
+BAX07669.1	BAX07669.1	7553	8143	+	acetyltransferase
+BAX07670.1	BAX07670.1	8133	9953	+	IucA/IucC
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS20720	BAX07668.1	46	515	97.52475247524752	3.25e-174
+XNR_RS20730	BAX07666.1	55	477	97.47706422018348	5.28e-167
+
+
+
+>>
+11. BGC0002464
+Source: alcaligin
+Type: Other
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 972.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS20720	EQ877_RS12500	50	572	99.66996699669967	3.01e-199
+XNR_RS20730	EQ877_RS12490	49	400	97.24770642201835	1.44e-136
+
+
+
+>>
+12. BGC0000274
+Source: tetarimycin A/tetarimycin B
+Type: Polyketide:Type II polyketide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 358.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+AFY23013.1	AFY23013.1	1	567	-	transcriptional_regulator
+AFY23014.1	AFY23014.1	603	1346	-	hypothetical_protein
+AFY23015.1	AFY23015.1	1300	2109	-	hypothetical_protein
+AFY23016.1	AFY23016.1	2184	3359	-	L-carnitine_dehydratase
+AFY23017.1	AFY23017.1	3356	4507	-	isovaleryl-CoA_dehydrogenase
+AFY23018.1	AFY23018.1	4780	5850	+	unknown
+AFY23019.1	AFY23019.1	5862	6881	+	cellulose-binding_family_protein
+AFY23020.1	AFY23020.1	6907	8376	-	betaine_aldehyde_dehydrogenase
+AFY23021.1	AFY23021.1	8421	9137	-	methyltransferase
+AFY23022.1	AFY23022.1	9305	10219	+	AraC_family_transcriptional_regulator
+AFY23023.1	AFY23023.1	10284	11435	+	hydrolase
+AFY23024.1	AFY23024.1	11770	12234	-	short-chain_dehydrogenase/reductase_SDR
+AFY23025.1	AFY23025.1	12568	13569	-	putative_N-methyltransferase
+AFY23026.1	AFY23026.1	13566	14051	-	putative_phenazine_biosynthesis_protein_EsmA1
+AFY23027.1	AFY23027.1	14073	14384	-	putative_phenazine_biosynthesis_protein_EsmH1
+AFY23028.1	AFY23028.1	14406	15026	-	phenazine_biosynthesis_protein_PhzD
+AFY23029.1	AFY23029.1	15231	15437	-	XRE_family_transcriptional_regulator
+AFY23030.1	AFY23030.1	15437	15916	-	hypothetical_protein
+AFY23032.1	AFY23032.1	16135	17955	+	TamA
+AFY23031.1	AFY23031.1	17969	18181	-	30S_ribosomal_protein_S1
+AFY23033.1	AFY23033.1	18223	19086	-	TamB
+AFY23034.1	AFY23034.1	19086	20123	-	TamC
+AFY23035.1	AFY23035.1	20209	20778	+	TamD
+AFY23036.1	AFY23036.1	20859	21479	-	TamE
+AFY23037.1	AFY23037.1	21503	22918	-	TamF
+AFY23038.1	AFY23038.1	23088	23522	-	TamG
+AFY23039.1	AFY23039.1	23564	24388	-	TamH
+AFY23040.1	AFY23040.1	24437	26308	+	TamI
+AFY23041.1	AFY23041.1	26357	26794	-	TamJ
+AFY23042.1	AFY23042.1	26791	27024	-	TamK
+AFY23043.1	AFY23043.1	27021	28247	-	TamL
+AFY23044.1	AFY23044.1	28247	29503	-	TamM
+AFY23045.1	AFY23045.1	29516	30274	-	TamN
+AFY23046.1	AFY23046.1	30258	31313	-	TamO
+AFY23047.1	AFY23047.1	31360	34431	-	TamP
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS20690	AFY23022.1	52	274	67.48768472906403	6.87e-90
+XNR_RS20770	AFY23029.1	62	84	75.86206896551724	4.34e-23
+

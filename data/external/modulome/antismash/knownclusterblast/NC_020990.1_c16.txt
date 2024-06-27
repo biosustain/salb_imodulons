@@ -1,0 +1,66 @@
+ClusterBlast scores for NC_020990.1
+
+Table of genes, locations, strands and annotations of query cluster:
+XNR_RS19470	4470114	4470591	-	DCC1-like thiol-disulfide oxidoreductase family protein	
+XNR_RS19475	4470596	4471019	-	hypothetical protein	
+XNR_RS19480	4471220	4471979	-	succinate dehydrogenase iron-sulfur subunit	
+XNR_RS19485	4471978	4473733	-	succinate dehydrogenase flavoprotein subunit	
+XNR_RS19490	4473755	4474232	-	succinate dehydrogenase hydrophobic membrane anchor subunit	
+XNR_RS19495	4474237	4474618	-	succinate dehydrogenase, cytochrome b556 subunit	
+XNR_RS19500	4474755	4475448	-	2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase	
+XNR_RS19505	4475733	4477425	+	glycoside hydrolase family 20 protein	
+XNR_RS19510	4477615	4478422	+	DUF4328 domain-containing protein	
+XNR_RS19515	4478599	4479106	+	hypothetical protein	
+XNR_RS19520	4479113	4480211	-	DUF4185 domain-containing protein	
+XNR_RS19525	4480246	4481236	-	esterase family protein	
+XNR_RS19530	4481325	4482300	-	winged helix-turn-helix domain-containing protein	
+XNR_RS19535	4482471	4483245	+	glycosyltransferase family A protein	
+XNR_RS19540	4483558	4484224	+	RNA polymerase sigma factor	
+XNR_RS19545	4484223	4485231	+	hypothetical protein	
+XNR_RS19550	4485279	4485981	-	aspartyl/asparaginyl beta-hydroxylase domain-containing protein	
+XNR_RS19555	4486018	4487296	-	ATP-grasp domain-containing protein	
+XNR_RS19560	4487292	4488597	-	ATP-grasp domain-containing protein	
+XNR_RS19565	4488721	4489480	-	SDR family oxidoreductase	
+XNR_RS19570	4489476	4493871	-	non-ribosomal peptide synthetase	
+XNR_RS19575	4493873	4494683	-	2OG-Fe(II) oxygenase	
+XNR_RS19580	4495159	4496272	+	GNAT family N-acetyltransferase	
+XNR_RS19585	4496289	4497540	+	MFS transporter	
+XNR_RS19590	4497536	4498433	-	NAD(P)-binding domain-containing protein	
+XNR_RS19595	4498715	4499615	-	L,D-transpeptidase family protein	
+XNR_RS19600	4499815	4500472	+	leucine efflux protein LeuE	
+XNR_RS19605	4500484	4501912	-	polysialyltransferase family glycosyltransferase	
+XNR_RS19610	4501908	4502928	-	glycosyltransferase family 2 protein	
+XNR_RS19615	4503126	4504491	+	hypothetical protein	
+XNR_RS19620	4504541	4505762	+	acylneuraminate cytidylyltransferase	
+XNR_RS19625	4505819	4506764	+	N-acetylneuraminate synthase family protein	
+XNR_RS19630	4506744	4507893	+	hypothetical protein	
+XNR_RS19635	4508202	4509471	+	amidohydrolase	
+XNR_RS31605	4510113	4510245	-	hypothetical protein	
+XNR_RS19645	4510321	4511041	-	hypothetical protein	
+XNR_RS19650	4511251	4512054	+	SUMF1/EgtB/PvdO family nonheme iron enzyme	
+XNR_RS19655	4512063	4513023	+	DUF389 domain-containing protein	
+
+
+Significant hits: 
+1. BGC0002359	dudomycin A
+
+
+Details:
+
+>>
+1. BGC0002359
+Source: dudomycin A
+Type: NRP
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2130.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+FM076_21110	FM076_21110	19	1329	+	acylneuraminate_cytidylyltransferase
+FM076_21190	FM076_21190	17697	18049	+	metallopeptidase_family_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS19620	FM076_21110	67	535	108.86699507389162	1.77e-190
+XNR_RS19625	FM076_21115	87	555	100.0	5.02e-202
+XNR_RS19630	FM076_21120	69	443	92.14659685863874	8.31e-156
+XNR_RS19635	FM076_21125	74	597	100.23696682464455	6.22e-215
+

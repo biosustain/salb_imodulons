@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="6,40 89,40 94,35 89,30 6,30 6,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS01695&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 416364 - 417264" locus_tag="XNR_RS01695" class="clusterblast-orf" id="dummy-4_q0_0_all"  />
+<polygon points="113,40 286,40 291,35 286,30 113,30 113,40 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS01700&lt;/b&gt;&lt;br&gt;AMP-dependent synthetase/ligase&lt;br&gt;Location: 417455 - 419273" locus_tag="XNR_RS01700" class="clusterblast-orf" id="dummy-4_q1_0_all"  />
+<polygon points="313,40 358,40 363,35 358,30 313,30 313,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS01705&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 419496 - 420003" locus_tag="XNR_RS01705" class="clusterblast-orf" id="dummy-4_q2_0_all"  />
+<polygon points="430,40 446,40 451,35 446,30 430,30 430,40 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS01710&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 420687 - 420903" locus_tag="XNR_RS01710" class="clusterblast-orf" id="dummy-4_q3_0_all"  />
+<polygon points="471,40 545,40 550,35 545,30 471,30 471,40 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS01715&lt;/b&gt;&lt;br&gt;HlyD family efflux transporter periplasmic adaptor subunit&lt;br&gt;Location: 421100 - 421907" locus_tag="XNR_RS01715" class="clusterblast-orf" id="dummy-4_q4_0_all"  />
+<polygon points="550,40 770,40 775,35 770,30 550,30 550,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS01720&lt;/b&gt;&lt;br&gt;NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit&lt;br&gt;Location: 421903 - 424201" locus_tag="XNR_RS01720" class="clusterblast-orf" id="dummy-4_q5_0_all"  />
+</g>
+<g label="NZ_CP063844" description="NZ_CP063844 (597922-608138): Streptomyces sp. A10(2020) chromosome, complete ... (100% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP063844&amp;start=597922&amp;end=608138" target="_blank">NZ_CP063844 (597922-608138)</a>: Streptomyces sp. A10(2020) chromosome, complete ... (100% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a4_000"  >
+<polygon points="0,90 83,90 88,85 83,80 0,80 0,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS02530&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 598489 - 599388&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01695&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 548&lt;br&gt;E-value: 9.02e-198" locus_tag="IPZ55_RS02530" class="clusterblast-orf" id="dummy-4_h4_7_0"  />
+</g>
+<g id="a4_001"  >
+<polygon points="117,90 291,90 296,85 291,80 117,80 117,90 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS02535&lt;/b&gt;&lt;br&gt;AMP-dependent synthetase/ligase&lt;br&gt;Location: 599691 - 601508&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01700&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1174&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS02535" class="clusterblast-orf" id="dummy-4_h4_7_1"  />
+</g>
+<g id="a4_002"  >
+<polygon points="318,90 362,90 367,85 362,80 318,80 318,90 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS02540&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 601732 - 602238&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01705&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 333&lt;br&gt;E-value: 4.59e-117" locus_tag="IPZ55_RS02540" class="clusterblast-orf" id="dummy-4_h4_7_2"  />
+</g>
+<g id="a4_003"  >
+<polygon points="435,90 451,90 456,85 451,80 435,80 435,90 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS02545&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 602923 - 603138&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01710&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 130&lt;br&gt;E-value: 8.94e-40" locus_tag="IPZ55_RS02545" class="clusterblast-orf" id="dummy-4_h4_7_3"  />
+</g>
+<g id="a4_004"  >
+<polygon points="475,90 549,90 554,85 549,80 475,80 475,90 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS02550&lt;/b&gt;&lt;br&gt;HlyD family efflux transporter periplasmic adaptor subunit&lt;br&gt;Location: 603336 - 604142&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01715&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 445&lt;br&gt;E-value: 4.05e-158" locus_tag="IPZ55_RS02550" class="clusterblast-orf" id="dummy-4_h4_7_4"  />
+</g>
+<g id="a4_005"  >
+<polygon points="554,90 775,90 780,85 775,80 554,80 554,90 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS02555&lt;/b&gt;&lt;br&gt;NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit&lt;br&gt;Location: 604139 - 606436&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01720&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1397&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS02555" class="clusterblast-orf" id="dummy-4_h4_7_5"  />
+</g>
+</svg>

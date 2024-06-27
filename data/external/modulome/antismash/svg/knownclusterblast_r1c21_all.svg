@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="100" width="800" viewBox="0 0 800 100" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="93,40 145,40 150,35 145,30 93,30 93,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28610&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 6502041 - 6503097" locus_tag="XNR_RS28610" class="clusterblast-orf" id="knownclusterblast-21_q0_0_all"  />
+<polygon points="157,40 197,40 202,35 197,30 157,30 157,40 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28615&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 6503219 - 6504056" locus_tag="XNR_RS28615" class="clusterblast-orf" id="knownclusterblast-21_q1_0_all"  />
+<polygon points="205,40 208,40 213,35 208,30 205,30 205,40 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS31665&lt;/b&gt;&lt;br&gt;streptamidine family RiPP&lt;br&gt;Location: 6504124 - 6504259" locus_tag="XNR_RS31665" class="clusterblast-orf" id="knownclusterblast-21_q2_0_all"  />
+<polygon points="220,40 261,40 266,35 261,30 220,30 220,40 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28620&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6504401 - 6505247" locus_tag="XNR_RS28620" class="clusterblast-orf" id="knownclusterblast-21_q3_0_all"  />
+<polygon points="266,40 343,40 348,35 343,30 266,30 266,40 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28625&lt;/b&gt;&lt;br&gt;CocE/NonD family hydrolase&lt;br&gt;Location: 6505243 - 6506770" locus_tag="XNR_RS28625" class="clusterblast-orf" id="knownclusterblast-21_q4_0_all"  />
+<polygon points="348,40 417,40 422,35 417,30 348,30 348,40 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28630&lt;/b&gt;&lt;br&gt;YcaO-like family protein&lt;br&gt;Location: 6506766 - 6508134" locus_tag="XNR_RS28630" class="clusterblast-orf" id="knownclusterblast-21_q5_0_all"  />
+<polygon points="423,40 488,40 493,35 488,30 423,30 423,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28635&lt;/b&gt;&lt;br&gt;nitroreductase&lt;br&gt;Location: 6508148 - 6509456" locus_tag="XNR_RS28635" class="clusterblast-orf" id="knownclusterblast-21_q6_0_all"  />
+<polygon points="497,40 586,40 591,35 586,30 497,30 497,40 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28640&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 6509514 - 6511260" locus_tag="XNR_RS28640" class="clusterblast-orf" id="knownclusterblast-21_q7_0_all"  />
+<polygon points="591,40 682,40 687,35 682,30 591,30 591,40 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28645&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 6511256 - 6513041" locus_tag="XNR_RS28645" class="clusterblast-orf" id="knownclusterblast-21_q8_0_all"  />
+</g>
+<g label="BGC0002115" description="BGC0002115_c1: streptamidine (75% of genes show similarity), RiPP:Other" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://mibig.secondarymetabolites.org/go/BGC0002115/1" target="_blank">BGC0002115</a>: streptamidine                                                                    (75% of genes show similarity), RiPP:Other</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a21_000"  >
+<polygon points="0,85 5,80 67,80 67,90 5,90 0,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_5767&lt;/b&gt;&lt;br&gt;Oxidoreductase&lt;br&gt;Location: 1 - 1254" locus_tag="XNR_5767" class="clusterblast-orf" id="knownclusterblast-21_all_21_1_0"  />
+</g>
+<g id="a21_001"  >
+<polygon points="76,90 125,90 130,85 125,80 76,80 76,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_5768&lt;/b&gt;&lt;br&gt;ABC Fe(3+) transporter&lt;br&gt;Location: 1423 - 2412" locus_tag="XNR_5768" class="clusterblast-orf" id="knownclusterblast-21_all_21_1_1"  />
+</g>
+<g id="a21_002"  >
+<polygon points="130,90 180,90 185,85 180,80 130,80 130,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_5769&lt;/b&gt;&lt;br&gt;iron ABC transporter&lt;br&gt;Location: 2409 - 3443" locus_tag="XNR_5769" class="clusterblast-orf" id="knownclusterblast-21_all_21_1_2"  />
+</g>
+<g id="a21_003"  >
+<polygon points="185,90 237,90 242,85 237,80 185,80 185,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_5770&lt;/b&gt;&lt;br&gt;Iron ABC transporter&lt;br&gt;Location: 3440 - 4495&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28610&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 637&lt;br&gt;E-value: 4.32e-233" locus_tag="XNR_5770" class="clusterblast-orf" id="knownclusterblast-21_all_21_1_3"  />
+</g>
+<g id="a21_004"  >
+<polygon points="249,90 289,90 294,85 289,80 249,80 249,90 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_5771&lt;/b&gt;&lt;br&gt;Iron(III) dicitrate transport system permease&lt;br&gt;Location: 4618 - 5454&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28615&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 540&lt;br&gt;E-value: 3.9e-197" locus_tag="XNR_5771" class="clusterblast-orf" id="knownclusterblast-21_all_21_1_4"  />
+</g>
+<g id="a21_005"  >
+<polygon points="298,90 300,90 305,85 300,80 298,80 298,90 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_5772&lt;/b&gt;&lt;br&gt;RiPP Precursor peptide&lt;br&gt;Location: 5523 - 5657&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS31665&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 92&lt;br&gt;E-value: 3.66e-27" locus_tag="XNR_5772" class="clusterblast-orf" id="knownclusterblast-21_all_21_1_5"  />
+</g>
+<g id="a21_006"  >
+<polygon points="313,90 353,90 358,85 353,80 313,80 313,90 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_5773&lt;/b&gt;&lt;br&gt;E1-like protein&lt;br&gt;Location: 5800 - 6645&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28620&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 554&lt;br&gt;E-value: 1.6e-202" locus_tag="XNR_5773" class="clusterblast-orf" id="knownclusterblast-21_all_21_1_6"  />
+</g>
+<g id="a21_007"  >
+<polygon points="358,90 436,90 441,85 436,80 358,80 358,90 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_5774&lt;/b&gt;&lt;br&gt;Hydrolase CocE/NonD family protein&lt;br&gt;Location: 6642 - 8168&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28625&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1033&lt;br&gt;E-value: 0.0" locus_tag="XNR_5774" class="clusterblast-orf" id="knownclusterblast-21_all_21_1_7"  />
+</g>
+<g id="a21_008"  >
+<polygon points="441,90 509,90 514,85 509,80 441,80 441,90 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_5775&lt;/b&gt;&lt;br&gt;YcaO-domain protein&lt;br&gt;Location: 8165 - 9532&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28630&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 932&lt;br&gt;E-value: 0.0" locus_tag="XNR_5775" class="clusterblast-orf" id="knownclusterblast-21_all_21_1_8"  />
+</g>
+<g id="a21_009"  >
+<polygon points="515,90 581,90 586,85 581,80 515,80 515,90 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_5776&lt;/b&gt;&lt;br&gt;dehydrogenase&lt;br&gt;Location: 9547 - 10854&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28635&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 868&lt;br&gt;E-value: 0.0" locus_tag="XNR_5776" class="clusterblast-orf" id="knownclusterblast-21_all_21_1_9"  />
+</g>
+<g id="a21_0010"  >
+<polygon points="589,90 678,90 683,85 678,80 589,80 589,90 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_5777&lt;/b&gt;&lt;br&gt;HlyB/MsbA family ABC transporter&lt;br&gt;Location: 10913 - 12658&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28640&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1056&lt;br&gt;E-value: 0.0" locus_tag="XNR_5777" class="clusterblast-orf" id="knownclusterblast-21_all_21_1_10"  />
+</g>
+<g id="a21_0011"  >
+<polygon points="683,90 775,90 780,85 775,80 683,80 683,90 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_5778&lt;/b&gt;&lt;br&gt;ABC efflux pump&lt;br&gt;Location: 12655 - 14439&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28645&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1031&lt;br&gt;E-value: 0.0" locus_tag="XNR_5778" class="clusterblast-orf" id="knownclusterblast-21_all_21_1_11"  />
+</g>
+</svg>

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>QES95460.1</td>
+              <td>ATP-dependent_helicase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002453/1">BGC0002453</a></td>
+              <td>Polyketide</td>
+              <td>62.0</td>
+              <td>95.2</td>
+              <td>986.0</td>
+              <td>0.0</td>
+          </tr>
+    
+          <tr>
+              <td>AFJ52712.1</td>
+              <td>SNF2/RAD54_family_helicase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001073/1">BGC0001073</a></td>
+              <td>NRP+Polyketide</td>
+              <td>57.0</td>
+              <td>98.1</td>
+              <td>951.0</td>
+              <td>0.0</td>
+          </tr>
+    
+          <tr>
+              <td>QLQ36610.1</td>
+              <td>ATP-dependent_helicase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002097/1">BGC0002097</a></td>
+              <td>NRP+Polyketide:Type II polyketide+Saccharide:Hybrid/tailoring saccharide</td>
+              <td>57.0</td>
+              <td>98.1</td>
+              <td>947.0</td>
+              <td>0.0</td>
+          </tr>
+    
+          <tr>
+              <td>ABL09965.1</td>
+              <td>helicase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000197/1">BGC0000197</a></td>
+              <td>Polyketide:Type II polyketide+Saccharide:Hybrid/tailoring saccharide</td>
+              <td>40.0</td>
+              <td>97.6</td>
+              <td>459.0</td>
+              <td>1.29e-145</td>
+          </tr>
+    
+          <tr>
+              <td>CAJ42330.1</td>
+              <td>SNF2_related_domain</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000273/1">BGC0000273</a></td>
+              <td>Polyketide:Type II polyketide+Saccharide:Hybrid/tailoring saccharide</td>
+              <td>49.0</td>
+              <td>48.4</td>
+              <td>375.0</td>
+              <td>3.13e-118</td>
+          </tr>
+    
+          <tr>
+              <td>QJU69510.1</td>
+              <td>superfamily_II_DNA_or_RNA_helicase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002460/1">BGC0002460</a></td>
+              <td>Alkaloid</td>
+              <td>47.0</td>
+              <td>51.7</td>
+              <td>374.0</td>
+              <td>8.4e-118</td>
+          </tr>
+    
+          <tr>
+              <td>AHA81988.1</td>
+              <td>MarR_family_transcriptional__regulator</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000199/1">BGC0000199</a></td>
+              <td>Polyketide:Type II polyketide+Saccharide:Hybrid/tailoring saccharide</td>
+              <td>47.0</td>
+              <td>49.6</td>
+              <td>373.0</td>
+              <td>3.73e-117</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

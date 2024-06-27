@@ -1,0 +1,680 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="550" width="800" viewBox="0 0 800 550" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="7,40 27,40 32,35 27,30 7,30 7,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06370&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 1532213 - 1532891" locus_tag="XNR_RS06370" class="clusterblast-orf" id="general-9_q0_0_all"  />
+<polygon points="35,40 92,40 97,35 92,30 35,30 35,40 " style="fill:#56d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06375&lt;/b&gt;&lt;br&gt;murein biosynthesis integral membrane protein MurJ&lt;br&gt;Location: 1532970 - 1534641" locus_tag="XNR_RS06375" class="clusterblast-orf" id="general-9_q1_0_all"  />
+<polygon points="98,35 103,30 128,30 128,40 103,40 98,35 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06380&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1534676 - 1535462" locus_tag="XNR_RS06380" class="clusterblast-orf" id="general-9_q2_0_all"  />
+<polygon points="135,40 152,40 157,35 152,30 135,30 135,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06385&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 1535647 - 1536262" locus_tag="XNR_RS06385" class="clusterblast-orf" id="general-9_q3_0_all"  />
+<polygon points="158,35 163,30 189,30 189,40 163,40 158,35 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06390&lt;/b&gt;&lt;br&gt;MerR family transcriptional regulator&lt;br&gt;Location: 1536286 - 1537099" locus_tag="XNR_RS06390" class="clusterblast-orf" id="general-9_q4_0_all"  />
+<polygon points="188,35 193,30 209,30 209,40 193,40 188,35 " style="fill:#d85615; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06395&lt;/b&gt;&lt;br&gt;VOC family protein&lt;br&gt;Location: 1537091 - 1537634" locus_tag="XNR_RS06395" class="clusterblast-orf" id="general-9_q5_0_all"  />
+<polygon points="216,40 223,40 228,35 223,30 216,30 216,40 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06400&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1537843 - 1538167" locus_tag="XNR_RS06400" class="clusterblast-orf" id="general-9_q6_0_all"  />
+<polygon points="229,35 234,30 251,30 251,40 234,40 229,35 " style="fill:#1556d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06405&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 1538183 - 1538777" locus_tag="XNR_RS06405" class="clusterblast-orf" id="general-9_q7_0_all"  />
+<polygon points="256,40 286,40 291,35 286,30 256,30 256,40 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06410&lt;/b&gt;&lt;br&gt;SDR family oxidoreductase&lt;br&gt;Location: 1538896 - 1539841" locus_tag="XNR_RS06410" class="clusterblast-orf" id="general-9_q8_0_all"  />
+<polygon points="290,35 295,30 306,30 306,40 295,40 290,35 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06415&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 1539821 - 1540247" locus_tag="XNR_RS06415" class="clusterblast-orf" id="general-9_q9_0_all"  />
+<polygon points="310,40 336,40 341,35 336,30 310,30 310,40 " style="fill:#15d856; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06420&lt;/b&gt;&lt;br&gt;helix-turn-helix transcriptional regulator&lt;br&gt;Location: 1540359 - 1541184" locus_tag="XNR_RS06420" class="clusterblast-orf" id="general-9_q10_0_all"  />
+<polygon points="341,40 346,40 351,35 346,30 341,30 341,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06425&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 1541180 - 1541450" locus_tag="XNR_RS06425" class="clusterblast-orf" id="general-9_q11_0_all"  />
+<polygon points="350,40 355,40 360,35 355,30 350,30 350,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS30445&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 1541446 - 1541694" locus_tag="XNR_RS30445" class="clusterblast-orf" id="general-9_q12_0_all"  />
+<polygon points="363,40 443,40 448,35 443,30 363,30 363,40 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06430&lt;/b&gt;&lt;br&gt;terpene synthase family protein&lt;br&gt;Location: 1541773 - 1544059" locus_tag="XNR_RS06430" class="clusterblast-orf" id="general-9_q13_0_all"  />
+<polygon points="449,35 454,30 500,30 500,40 454,40 449,35 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06435&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1544093 - 1545461" locus_tag="XNR_RS06435" class="clusterblast-orf" id="general-9_q14_0_all"  />
+<polygon points="506,35 511,30 572,30 572,40 511,40 506,35 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06440&lt;/b&gt;&lt;br&gt;citramalate synthase&lt;br&gt;Location: 1545623 - 1547405" locus_tag="XNR_RS06440" class="clusterblast-orf" id="general-9_q15_0_all"  />
+<polygon points="583,35 588,30 633,30 633,40 588,40 583,35 " style="fill:#5615d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06445&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 1547682 - 1549047" locus_tag="XNR_RS06445" class="clusterblast-orf" id="general-9_q16_0_all"  />
+<polygon points="637,35 642,30 678,30 678,40 642,40 637,35 " style="fill:#d81556; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06450&lt;/b&gt;&lt;br&gt;agmatine deiminase family protein&lt;br&gt;Location: 1549152 - 1550232" locus_tag="XNR_RS06450" class="clusterblast-orf" id="general-9_q17_0_all"  />
+<polygon points="678,35 683,30 745,30 745,40 683,40 678,35 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06455&lt;/b&gt;&lt;br&gt;urease subunit alpha&lt;br&gt;Location: 1550240 - 1552043" locus_tag="XNR_RS06455" class="clusterblast-orf" id="general-9_q18_0_all"  />
+<polygon points="745,35 750,30 773,30 773,40 750,40 745,35 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS06460&lt;/b&gt;&lt;br&gt;urease subunit gamma&lt;br&gt;Location: 1552039 - 1552795" locus_tag="XNR_RS06460" class="clusterblast-orf" id="general-9_q19_0_all"  />
+</g>
+<g label="NZ_CP113103" description="NZ_CP113103 (5211223-5233509): Streptomyces sp. NA13 chromosome, complete genome (95% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP113103&amp;start=5211223&amp;end=5233509" target="_blank">NZ_CP113103 (5211223-5233509)</a>: Streptomyces sp. NA13 chromosome, complete genome (95% of genes show similarity), terpene</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a9_000"  >
+<polygon points="0,90 12,90 17,85 12,80 0,80 0,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22975&lt;/b&gt;&lt;br&gt;SRPBCC family protein&lt;br&gt;Location: 5233454 - 5232972" locus_tag="OSU72_RS22975" class="clusterblast-orf" id="general-9_all_9_1_0"  />
+</g>
+<g id="a9_001"  >
+<polygon points="23,90 43,90 48,85 43,80 23,80 23,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22970&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 5232820 - 5232143&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 465&lt;br&gt;E-value: 2.53e-167&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 60&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 205&lt;br&gt;E-value: 6.01e-65" locus_tag="OSU72_RS22970" class="clusterblast-orf" id="general-9_all_9_1_1"  />
+</g>
+<g id="a9_002"  >
+<polygon points="51,90 108,90 113,85 108,80 51,80 51,90 " style="fill:#56d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22965&lt;/b&gt;&lt;br&gt;murein biosynthesis integral membrane protein MurJ&lt;br&gt;Location: 5232063 - 5230393&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06375&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1012&lt;br&gt;E-value: 0.0" locus_tag="OSU72_RS22965" class="clusterblast-orf" id="general-9_all_9_1_2"  />
+</g>
+<g id="a9_003"  >
+<polygon points="115,85 120,80 144,80 144,90 120,90 115,85 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22960&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5230357 - 5229575&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06380&lt;/b&gt;&lt;br&gt;Percentage identity: 79&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 400&lt;br&gt;E-value: 2.16e-140" locus_tag="OSU72_RS22960" class="clusterblast-orf" id="general-9_all_9_1_3"  />
+</g>
+<g id="a9_004"  >
+<polygon points="151,90 169,90 174,85 169,80 151,80 151,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22955&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 5229389 - 5228775&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 56&lt;br&gt;Percentage coverage: 89&lt;br&gt;BLAST bit score: 204&lt;br&gt;E-value: 1.33e-64&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 402&lt;br&gt;E-value: 5.13e-143" locus_tag="OSU72_RS22955" class="clusterblast-orf" id="general-9_all_9_1_4"  />
+</g>
+<g id="a9_005"  >
+<polygon points="175,85 180,80 205,80 205,90 180,90 175,85 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22950&lt;/b&gt;&lt;br&gt;MerR family transcriptional regulator&lt;br&gt;Location: 5228749 - 5227937&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06390&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 534&lt;br&gt;E-value: 2.95e-193" locus_tag="OSU72_RS22950" class="clusterblast-orf" id="general-9_all_9_1_5"  />
+</g>
+<g id="a9_006"  >
+<polygon points="205,85 210,80 225,80 225,90 210,90 205,85 " style="fill:#d85615; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22945&lt;/b&gt;&lt;br&gt;VOC family protein&lt;br&gt;Location: 5227944 - 5227402&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06395&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 366&lt;br&gt;E-value: 8.76e-130" locus_tag="OSU72_RS22945" class="clusterblast-orf" id="general-9_all_9_1_6"  />
+</g>
+<g id="a9_007"  >
+<polygon points="233,90 240,90 245,85 240,80 233,80 233,90 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22940&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5227192 - 5226869&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06400&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 224&lt;br&gt;E-value: 9.9e-76" locus_tag="OSU72_RS22940" class="clusterblast-orf" id="general-9_all_9_1_7"  />
+</g>
+<g id="a9_008"  >
+<polygon points="245,85 250,80 267,80 267,90 250,90 245,85 " style="fill:#1556d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22935&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 5226852 - 5226259&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06405&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 380&lt;br&gt;E-value: 7.31e-135" locus_tag="OSU72_RS22935" class="clusterblast-orf" id="general-9_all_9_1_8"  />
+</g>
+<g id="a9_009"  >
+<polygon points="272,90 302,90 307,85 302,80 272,80 272,90 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22930&lt;/b&gt;&lt;br&gt;SDR family oxidoreductase&lt;br&gt;Location: 5226139 - 5225195&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06410&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 597&lt;br&gt;E-value: 1.27e-216" locus_tag="OSU72_RS22930" class="clusterblast-orf" id="general-9_all_9_1_9"  />
+</g>
+<g id="a9_0010"  >
+<polygon points="306,85 311,80 322,80 322,90 311,90 306,85 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22925&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 5225214 - 5224789&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06415&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 285&lt;br&gt;E-value: 4.87e-99" locus_tag="OSU72_RS22925" class="clusterblast-orf" id="general-9_all_9_1_10"  />
+</g>
+<g id="a9_0011"  >
+<polygon points="326,90 352,90 357,85 352,80 326,80 326,90 " style="fill:#15d856; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22920&lt;/b&gt;&lt;br&gt;helix-turn-helix transcriptional regulator&lt;br&gt;Location: 5224676 - 5223852&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06420&lt;/b&gt;&lt;br&gt;Percentage identity: 86&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 454&lt;br&gt;E-value: 2e-161" locus_tag="OSU72_RS22920" class="clusterblast-orf" id="general-9_all_9_1_11"  />
+</g>
+<g id="a9_0012"  >
+<polygon points="357,90 362,90 367,85 362,80 357,80 357,90 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22915&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 5223855 - 5223589&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 84&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 110&lt;br&gt;E-value: 3.67e-31&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS30445&lt;/b&gt;&lt;br&gt;Percentage identity: 69&lt;br&gt;Percentage coverage: 65&lt;br&gt;BLAST bit score: 44&lt;br&gt;E-value: 4.94e-06" locus_tag="OSU72_RS22915" class="clusterblast-orf" id="general-9_all_9_1_12"  />
+</g>
+<g id="a9_0013"  >
+<polygon points="370,90 450,90 455,85 450,80 370,80 370,90 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22910&lt;/b&gt;&lt;br&gt;germacradienol/geosmin synthase&lt;br&gt;Location: 5223509 - 5221224&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06430&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1538&lt;br&gt;E-value: 0.0" locus_tag="OSU72_RS22910" class="clusterblast-orf" id="general-9_all_9_1_13"  />
+</g>
+<g id="a9_0014"  >
+<polygon points="456,85 461,80 507,80 507,90 461,90 456,85 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22905&lt;/b&gt;&lt;br&gt;heme exporter protein CcmD&lt;br&gt;Location: 5221189 - 5219822&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06435&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 701&lt;br&gt;E-value: 6.79e-253" locus_tag="OSU72_RS22905" class="clusterblast-orf" id="general-9_all_9_1_14"  />
+</g>
+<g id="a9_0015"  >
+<polygon points="513,85 518,80 579,80 579,90 518,90 513,85 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22900&lt;/b&gt;&lt;br&gt;citramalate synthase&lt;br&gt;Location: 5219662 - 5217893&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06440&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1106&lt;br&gt;E-value: 0.0" locus_tag="OSU72_RS22900" class="clusterblast-orf" id="general-9_all_9_1_15"  />
+</g>
+<g id="a9_0016"  >
+<polygon points="589,85 594,80 640,80 640,90 594,90 589,85 " style="fill:#5615d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22895&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 5217615 - 5216251&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06445&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 852&lt;br&gt;E-value: 6.17e-313" locus_tag="OSU72_RS22895" class="clusterblast-orf" id="general-9_all_9_1_16"  />
+</g>
+<g id="a9_0017"  >
+<polygon points="644,85 649,80 684,80 684,90 649,90 644,85 " style="fill:#d81556; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22890&lt;/b&gt;&lt;br&gt;agmatine deiminase family protein&lt;br&gt;Location: 5216145 - 5215066&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06450&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 726&lt;br&gt;E-value: 2.55e-266" locus_tag="OSU72_RS22890" class="clusterblast-orf" id="general-9_all_9_1_17"  />
+</g>
+<g id="a9_0018"  >
+<polygon points="684,85 689,80 752,80 752,90 689,90 684,85 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22885&lt;/b&gt;&lt;br&gt;urease subunit alpha&lt;br&gt;Location: 5215057 - 5213255&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06455&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1167&lt;br&gt;E-value: 0.0" locus_tag="OSU72_RS22885" class="clusterblast-orf" id="general-9_all_9_1_18"  />
+</g>
+<g id="a9_0019"  >
+<polygon points="751,85 756,80 780,80 780,90 756,90 751,85 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS22880&lt;/b&gt;&lt;br&gt;urease subunit gamma&lt;br&gt;Location: 5213258 - 5212503&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06460&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 456&lt;br&gt;E-value: 8.53e-163" locus_tag="OSU72_RS22880" class="clusterblast-orf" id="general-9_all_9_1_19"  />
+</g>
+<g label="NZ_CP079112" description="NZ_CP079112 (5323353-5345639): Streptomyces albidoflavus strain LGO-A16 chrom... (100% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="120" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP079112&amp;start=5323353&amp;end=5345639" target="_blank">NZ_CP079112 (5323353-5345639)</a>: Streptomyces albidoflavus strain LGO-A16 chrom... (100% of genes show similarity), terpene</text>
+<line x1="10" y1="135" x2="778.0" y2="135" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a9_000"  >
+<polygon points="6,140 27,140 32,135 27,130 6,130 6,140 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23365&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 5345200 - 5344523&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 478&lt;br&gt;E-value: 1.16e-172&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 202&lt;br&gt;E-value: 4.88e-64" locus_tag="STALF2_RS23365" class="clusterblast-orf" id="general-9_all_9_2_0"  />
+</g>
+<g id="a9_001"  >
+<polygon points="35,140 92,140 97,135 92,130 35,130 35,140 " style="fill:#56d815; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23360&lt;/b&gt;&lt;br&gt;murein biosynthesis integral membrane protein MurJ&lt;br&gt;Location: 5344443 - 5342773&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06375&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1040&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS23360" class="clusterblast-orf" id="general-9_all_9_2_1"  />
+</g>
+<g id="a9_002"  >
+<polygon points="98,135 103,130 127,130 127,140 103,140 98,135 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23355&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5342737 - 5341952&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06380&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 514&lt;br&gt;E-value: 1.24e-185" locus_tag="STALF2_RS23355" class="clusterblast-orf" id="general-9_all_9_2_2"  />
+</g>
+<g id="a9_003"  >
+<polygon points="134,140 152,140 157,135 152,130 134,130 134,140 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23350&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 5341766 - 5341152&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 85&lt;br&gt;BLAST bit score: 208&lt;br&gt;E-value: 4.07e-66&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 416&lt;br&gt;E-value: 8.23e-149" locus_tag="STALF2_RS23350" class="clusterblast-orf" id="general-9_all_9_2_3"  />
+</g>
+<g id="a9_004"  >
+<polygon points="158,135 163,130 188,130 188,140 163,140 158,135 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23345&lt;/b&gt;&lt;br&gt;MerR family transcriptional regulator&lt;br&gt;Location: 5341127 - 5340315&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06390&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 544&lt;br&gt;E-value: 4.55e-197" locus_tag="STALF2_RS23345" class="clusterblast-orf" id="general-9_all_9_2_4"  />
+</g>
+<g id="a9_005"  >
+<polygon points="188,135 193,130 208,130 208,140 193,140 188,135 " style="fill:#d85615; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23340&lt;/b&gt;&lt;br&gt;VOC family protein&lt;br&gt;Location: 5340322 - 5339780&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06395&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 365&lt;br&gt;E-value: 2.51e-129" locus_tag="STALF2_RS23340" class="clusterblast-orf" id="general-9_all_9_2_5"  />
+</g>
+<g id="a9_006"  >
+<polygon points="214,140 223,140 228,135 223,130 214,130 214,140 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23335&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5339618 - 5339247&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06400&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 224&lt;br&gt;E-value: 8.26e-76" locus_tag="STALF2_RS23335" class="clusterblast-orf" id="general-9_all_9_2_6"  />
+</g>
+<g id="a9_007"  >
+<polygon points="229,135 234,130 251,130 251,140 234,140 229,135 " style="fill:#1556d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23330&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 5339230 - 5338637&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06405&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 380&lt;br&gt;E-value: 7.31e-135" locus_tag="STALF2_RS23330" class="clusterblast-orf" id="general-9_all_9_2_7"  />
+</g>
+<g id="a9_008"  >
+<polygon points="255,140 285,140 290,135 285,130 255,130 255,140 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23325&lt;/b&gt;&lt;br&gt;SDR family oxidoreductase&lt;br&gt;Location: 5338517 - 5337573&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06410&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 607&lt;br&gt;E-value: 1.38e-220" locus_tag="STALF2_RS23325" class="clusterblast-orf" id="general-9_all_9_2_8"  />
+</g>
+<g id="a9_009"  >
+<polygon points="290,135 295,130 305,130 305,140 295,140 290,135 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23320&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 5337592 - 5337167&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06415&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 293&lt;br&gt;E-value: 6.16e-102" locus_tag="STALF2_RS23320" class="clusterblast-orf" id="general-9_all_9_2_9"  />
+</g>
+<g id="a9_0010"  >
+<polygon points="310,140 335,140 340,135 335,130 310,130 310,140 " style="fill:#15d856; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23315&lt;/b&gt;&lt;br&gt;helix-turn-helix transcriptional regulator&lt;br&gt;Location: 5337054 - 5336230&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06420&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 529&lt;br&gt;E-value: 5.47e-191" locus_tag="STALF2_RS23315" class="clusterblast-orf" id="general-9_all_9_2_10"  />
+</g>
+<g id="a9_0011"  >
+<polygon points="340,140 345,140 350,135 345,130 340,130 340,140 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23310&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 5336233 - 5335964&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 142&lt;br&gt;E-value: 4.17e-44&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS30445&lt;/b&gt;&lt;br&gt;Percentage identity: 82&lt;br&gt;Percentage coverage: 55&lt;br&gt;BLAST bit score: 45&lt;br&gt;E-value: 3.56e-06" locus_tag="STALF2_RS23310" class="clusterblast-orf" id="general-9_all_9_2_11"  />
+</g>
+<g id="a9_0012"  >
+<polygon points="350,140 354,140 359,135 354,130 350,130 350,140 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23305&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 5335967 - 5335719&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 91&lt;br&gt;BLAST bit score: 99&lt;br&gt;E-value: 8.11e-27&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS30445&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 65&lt;br&gt;BLAST bit score: 57&lt;br&gt;E-value: 3e-11" locus_tag="STALF2_RS23305" class="clusterblast-orf" id="general-9_all_9_2_12"  />
+</g>
+<g id="a9_0013"  >
+<polygon points="362,140 442,140 447,135 442,130 362,130 362,140 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23300&lt;/b&gt;&lt;br&gt;germacradienol/geosmin synthase&lt;br&gt;Location: 5335639 - 5333354&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06430&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1534&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS23300" class="clusterblast-orf" id="general-9_all_9_2_13"  />
+</g>
+<g id="a9_0014"  >
+<polygon points="449,135 454,130 500,130 500,140 454,140 449,135 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23295&lt;/b&gt;&lt;br&gt;heme exporter protein CcmD&lt;br&gt;Location: 5333319 - 5331952&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06435&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 713&lt;br&gt;E-value: 9.14e-258" locus_tag="STALF2_RS23295" class="clusterblast-orf" id="general-9_all_9_2_14"  />
+</g>
+<g id="a9_0015"  >
+<polygon points="506,135 511,130 572,130 572,140 511,140 506,135 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23290&lt;/b&gt;&lt;br&gt;citramalate synthase&lt;br&gt;Location: 5331789 - 5330008&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06440&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1107&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS23290" class="clusterblast-orf" id="general-9_all_9_2_15"  />
+</g>
+<g id="a9_0016"  >
+<polygon points="582,135 587,130 633,130 633,140 587,140 582,135 " style="fill:#5615d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23285&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 5329730 - 5328366&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06445&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 855&lt;br&gt;E-value: 3.73e-314" locus_tag="STALF2_RS23285" class="clusterblast-orf" id="general-9_all_9_2_16"  />
+</g>
+<g id="a9_0017"  >
+<polygon points="637,135 642,130 677,130 677,140 642,140 637,135 " style="fill:#d81556; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23280&lt;/b&gt;&lt;br&gt;agmatine deiminase family protein&lt;br&gt;Location: 5328260 - 5327181&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06450&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 731&lt;br&gt;E-value: 3.77e-268" locus_tag="STALF2_RS23280" class="clusterblast-orf" id="general-9_all_9_2_17"  />
+</g>
+<g id="a9_0018"  >
+<polygon points="678,135 683,130 745,130 745,140 683,140 678,135 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23275&lt;/b&gt;&lt;br&gt;urease subunit alpha&lt;br&gt;Location: 5327172 - 5325370&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06455&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1174&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS23275" class="clusterblast-orf" id="general-9_all_9_2_18"  />
+</g>
+<g id="a9_0019"  >
+<polygon points="745,135 750,130 773,130 773,140 750,140 745,135 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS23270&lt;/b&gt;&lt;br&gt;urease subunit gamma&lt;br&gt;Location: 5325373 - 5324618&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06460&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 455&lt;br&gt;E-value: 1.72e-162" locus_tag="STALF2_RS23270" class="clusterblast-orf" id="general-9_all_9_2_19"  />
+</g>
+<g label="NZ_CP056773" description="NZ_CP056773 (1683265-1705551): Streptomyces violascens strain YIM 100212 chro... (100% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="170" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP056773&amp;start=1683265&amp;end=1705551" target="_blank">NZ_CP056773 (1683265-1705551)</a>: Streptomyces violascens strain YIM 100212 chro... (100% of genes show similarity), terpene</text>
+<line x1="10" y1="185" x2="778.0" y2="185" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a9_000"  >
+<polygon points="6,190 27,190 32,185 27,180 6,180 6,190 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07095&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 1683704 - 1684381&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 478&lt;br&gt;E-value: 1.16e-172&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 202&lt;br&gt;E-value: 4.88e-64" locus_tag="HWN34_RS07095" class="clusterblast-orf" id="general-9_all_9_3_0"  />
+</g>
+<g id="a9_001"  >
+<polygon points="35,190 92,190 97,185 92,180 35,180 35,190 " style="fill:#56d815; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07100&lt;/b&gt;&lt;br&gt;murein biosynthesis integral membrane protein MurJ&lt;br&gt;Location: 1684462 - 1686132&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06375&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1017&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS07100" class="clusterblast-orf" id="general-9_all_9_3_1"  />
+</g>
+<g id="a9_002"  >
+<polygon points="98,185 103,180 127,180 127,190 103,190 98,185 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07105&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1686168 - 1686953&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06380&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 514&lt;br&gt;E-value: 1.24e-185" locus_tag="HWN34_RS07105" class="clusterblast-orf" id="general-9_all_9_3_2"  />
+</g>
+<g id="a9_003"  >
+<polygon points="134,190 152,190 157,185 152,180 134,180 134,190 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07110&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 1687139 - 1687753&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 85&lt;br&gt;BLAST bit score: 208&lt;br&gt;E-value: 4.07e-66&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 416&lt;br&gt;E-value: 8.23e-149" locus_tag="HWN34_RS07110" class="clusterblast-orf" id="general-9_all_9_3_3"  />
+</g>
+<g id="a9_004"  >
+<polygon points="158,185 163,180 188,180 188,190 163,190 158,185 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07115&lt;/b&gt;&lt;br&gt;MerR family transcriptional regulator&lt;br&gt;Location: 1687778 - 1688590&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06390&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 544&lt;br&gt;E-value: 4.55e-197" locus_tag="HWN34_RS07115" class="clusterblast-orf" id="general-9_all_9_3_4"  />
+</g>
+<g id="a9_005"  >
+<polygon points="188,185 193,180 208,180 208,190 193,190 188,185 " style="fill:#d85615; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07120&lt;/b&gt;&lt;br&gt;VOC family protein&lt;br&gt;Location: 1688583 - 1689125&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06395&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 365&lt;br&gt;E-value: 2.51e-129" locus_tag="HWN34_RS07120" class="clusterblast-orf" id="general-9_all_9_3_5"  />
+</g>
+<g id="a9_006"  >
+<polygon points="214,190 223,190 228,185 223,180 214,180 214,190 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07125&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1689287 - 1689658&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06400&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 224&lt;br&gt;E-value: 8.26e-76" locus_tag="HWN34_RS07125" class="clusterblast-orf" id="general-9_all_9_3_6"  />
+</g>
+<g id="a9_007"  >
+<polygon points="229,185 234,180 251,180 251,190 234,190 229,185 " style="fill:#1556d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07130&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 1689675 - 1690268&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06405&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 380&lt;br&gt;E-value: 7.31e-135" locus_tag="HWN34_RS07130" class="clusterblast-orf" id="general-9_all_9_3_7"  />
+</g>
+<g id="a9_008"  >
+<polygon points="255,190 285,190 290,185 285,180 255,180 255,190 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07135&lt;/b&gt;&lt;br&gt;SDR family oxidoreductase&lt;br&gt;Location: 1690388 - 1691332&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06410&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 609&lt;br&gt;E-value: 2.38e-221" locus_tag="HWN34_RS07135" class="clusterblast-orf" id="general-9_all_9_3_8"  />
+</g>
+<g id="a9_009"  >
+<polygon points="290,185 295,180 305,180 305,190 295,190 290,185 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07140&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 1691313 - 1691738&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06415&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 295&lt;br&gt;E-value: 1.06e-102" locus_tag="HWN34_RS07140" class="clusterblast-orf" id="general-9_all_9_3_9"  />
+</g>
+<g id="a9_0010"  >
+<polygon points="310,190 335,190 340,185 335,180 310,180 310,190 " style="fill:#15d856; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07145&lt;/b&gt;&lt;br&gt;helix-turn-helix transcriptional regulator&lt;br&gt;Location: 1691851 - 1692675&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06420&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 529&lt;br&gt;E-value: 5.47e-191" locus_tag="HWN34_RS07145" class="clusterblast-orf" id="general-9_all_9_3_10"  />
+</g>
+<g id="a9_0011"  >
+<polygon points="340,190 345,190 350,185 345,180 340,180 340,190 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07150&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 1692672 - 1692941&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 142&lt;br&gt;E-value: 4.17e-44&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS30445&lt;/b&gt;&lt;br&gt;Percentage identity: 82&lt;br&gt;Percentage coverage: 55&lt;br&gt;BLAST bit score: 45&lt;br&gt;E-value: 3.56e-06" locus_tag="HWN34_RS07150" class="clusterblast-orf" id="general-9_all_9_3_11"  />
+</g>
+<g id="a9_0012"  >
+<polygon points="350,190 354,190 359,185 354,180 350,180 350,190 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07155&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 1692938 - 1693186&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 91&lt;br&gt;BLAST bit score: 99&lt;br&gt;E-value: 8.11e-27&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS30445&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 65&lt;br&gt;BLAST bit score: 57&lt;br&gt;E-value: 3e-11" locus_tag="HWN34_RS07155" class="clusterblast-orf" id="general-9_all_9_3_12"  />
+</g>
+<g id="a9_0013"  >
+<polygon points="362,190 442,190 447,185 442,180 362,180 362,190 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07160&lt;/b&gt;&lt;br&gt;germacradienol/geosmin synthase&lt;br&gt;Location: 1693266 - 1695551&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06430&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1536&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS07160" class="clusterblast-orf" id="general-9_all_9_3_13"  />
+</g>
+<g id="a9_0014"  >
+<polygon points="449,185 454,180 500,180 500,190 454,190 449,185 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07165&lt;/b&gt;&lt;br&gt;heme exporter protein CcmD&lt;br&gt;Location: 1695586 - 1696953&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06435&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 713&lt;br&gt;E-value: 9.14e-258" locus_tag="HWN34_RS07165" class="clusterblast-orf" id="general-9_all_9_3_14"  />
+</g>
+<g id="a9_0015"  >
+<polygon points="506,185 511,180 572,180 572,190 511,190 506,185 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07170&lt;/b&gt;&lt;br&gt;citramalate synthase&lt;br&gt;Location: 1697116 - 1698897&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06440&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1107&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS07170" class="clusterblast-orf" id="general-9_all_9_3_15"  />
+</g>
+<g id="a9_0016"  >
+<polygon points="582,185 587,180 633,180 633,190 587,190 582,185 " style="fill:#5615d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07175&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 1699175 - 1700539&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06445&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 855&lt;br&gt;E-value: 3.73e-314" locus_tag="HWN34_RS07175" class="clusterblast-orf" id="general-9_all_9_3_16"  />
+</g>
+<g id="a9_0017"  >
+<polygon points="637,185 642,180 677,180 677,190 642,190 637,185 " style="fill:#d81556; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07180&lt;/b&gt;&lt;br&gt;agmatine deiminase family protein&lt;br&gt;Location: 1700645 - 1701724&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06450&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 731&lt;br&gt;E-value: 3.77e-268" locus_tag="HWN34_RS07180" class="clusterblast-orf" id="general-9_all_9_3_17"  />
+</g>
+<g id="a9_0018"  >
+<polygon points="678,185 683,180 745,180 745,190 683,190 678,185 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07185&lt;/b&gt;&lt;br&gt;urease subunit alpha&lt;br&gt;Location: 1701733 - 1703535&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06455&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1178&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS07185" class="clusterblast-orf" id="general-9_all_9_3_18"  />
+</g>
+<g id="a9_0019"  >
+<polygon points="745,185 750,180 773,180 773,190 750,190 745,185 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS07190&lt;/b&gt;&lt;br&gt;urease subunit gamma&lt;br&gt;Location: 1703532 - 1704287&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06460&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 457&lt;br&gt;E-value: 2.09e-163" locus_tag="HWN34_RS07190" class="clusterblast-orf" id="general-9_all_9_3_19"  />
+</g>
+<g label="NZ_CP063844" description="NZ_CP063844 (1715969-1738255): Streptomyces sp. A10(2020) chromosome, complet... (100% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="220" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP063844&amp;start=1715969&amp;end=1738255" target="_blank">NZ_CP063844 (1715969-1738255)</a>: Streptomyces sp. A10(2020) chromosome, complet... (100% of genes show similarity), terpene</text>
+<line x1="10" y1="235" x2="778.0" y2="235" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a9_000"  >
+<polygon points="5,240 25,240 30,235 25,230 5,230 5,240 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07230&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 1716314 - 1716991&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 476&lt;br&gt;E-value: 1.36e-171&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 202&lt;br&gt;E-value: 4.88e-64" locus_tag="IPZ55_RS07230" class="clusterblast-orf" id="general-9_all_9_4_0"  />
+</g>
+<g id="a9_001"  >
+<polygon points="40,240 94,240 99,235 94,230 40,230 40,240 " style="fill:#56d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07235&lt;/b&gt;&lt;br&gt;murein biosynthesis integral membrane protein MurJ&lt;br&gt;Location: 1717259 - 1718836&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06375&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 94&lt;br&gt;BLAST bit score: 967&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS07235" class="clusterblast-orf" id="general-9_all_9_4_1"  />
+</g>
+<g id="a9_002"  >
+<polygon points="100,235 105,230 129,230 129,240 105,240 100,235 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07240&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1718872 - 1719657&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06380&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 514&lt;br&gt;E-value: 1.24e-185" locus_tag="IPZ55_RS07240" class="clusterblast-orf" id="general-9_all_9_4_2"  />
+</g>
+<g id="a9_003"  >
+<polygon points="136,240 154,240 159,235 154,230 136,230 136,240 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07245&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 1719843 - 1720457&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 85&lt;br&gt;BLAST bit score: 208&lt;br&gt;E-value: 4.07e-66&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 416&lt;br&gt;E-value: 8.23e-149" locus_tag="IPZ55_RS07245" class="clusterblast-orf" id="general-9_all_9_4_3"  />
+</g>
+<g id="a9_004"  >
+<polygon points="160,235 165,230 190,230 190,240 165,240 160,235 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07250&lt;/b&gt;&lt;br&gt;MerR family transcriptional regulator&lt;br&gt;Location: 1720482 - 1721294&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06390&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 544&lt;br&gt;E-value: 4.55e-197" locus_tag="IPZ55_RS07250" class="clusterblast-orf" id="general-9_all_9_4_4"  />
+</g>
+<g id="a9_005"  >
+<polygon points="190,235 195,230 210,230 210,240 195,240 190,235 " style="fill:#d85615; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07255&lt;/b&gt;&lt;br&gt;VOC family protein&lt;br&gt;Location: 1721287 - 1721829&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06395&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 365&lt;br&gt;E-value: 2.51e-129" locus_tag="IPZ55_RS07255" class="clusterblast-orf" id="general-9_all_9_4_5"  />
+</g>
+<g id="a9_006"  >
+<polygon points="216,240 225,240 230,235 225,230 216,230 216,240 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07260&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1721991 - 1722362&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06400&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 224&lt;br&gt;E-value: 8.26e-76" locus_tag="IPZ55_RS07260" class="clusterblast-orf" id="general-9_all_9_4_6"  />
+</g>
+<g id="a9_007"  >
+<polygon points="230,235 235,230 253,230 253,240 235,240 230,235 " style="fill:#1556d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07265&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 1722379 - 1722972&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06405&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 380&lt;br&gt;E-value: 7.31e-135" locus_tag="IPZ55_RS07265" class="clusterblast-orf" id="general-9_all_9_4_7"  />
+</g>
+<g id="a9_008"  >
+<polygon points="257,240 287,240 292,235 287,230 257,230 257,240 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07270&lt;/b&gt;&lt;br&gt;SDR family oxidoreductase&lt;br&gt;Location: 1723092 - 1724036&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06410&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 605&lt;br&gt;E-value: 1.13e-219" locus_tag="IPZ55_RS07270" class="clusterblast-orf" id="general-9_all_9_4_8"  />
+</g>
+<g id="a9_009"  >
+<polygon points="291,235 296,230 307,230 307,240 296,240 291,235 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07275&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 1724017 - 1724442&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06415&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 295&lt;br&gt;E-value: 1.06e-102" locus_tag="IPZ55_RS07275" class="clusterblast-orf" id="general-9_all_9_4_9"  />
+</g>
+<g id="a9_0010"  >
+<polygon points="311,240 337,240 342,235 337,230 311,230 311,240 " style="fill:#15d856; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07280&lt;/b&gt;&lt;br&gt;helix-turn-helix transcriptional regulator&lt;br&gt;Location: 1724555 - 1725379&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06420&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 529&lt;br&gt;E-value: 5.47e-191" locus_tag="IPZ55_RS07280" class="clusterblast-orf" id="general-9_all_9_4_10"  />
+</g>
+<g id="a9_0011"  >
+<polygon points="342,240 347,240 352,235 347,230 342,230 342,240 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07285&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 1725376 - 1725645&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 142&lt;br&gt;E-value: 4.17e-44&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS30445&lt;/b&gt;&lt;br&gt;Percentage identity: 82&lt;br&gt;Percentage coverage: 55&lt;br&gt;BLAST bit score: 45&lt;br&gt;E-value: 3.56e-06" locus_tag="IPZ55_RS07285" class="clusterblast-orf" id="general-9_all_9_4_11"  />
+</g>
+<g id="a9_0012"  >
+<polygon points="352,240 356,240 361,235 356,230 352,230 352,240 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07290&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 1725642 - 1725890&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 91&lt;br&gt;BLAST bit score: 99&lt;br&gt;E-value: 8.11e-27&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS30445&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 65&lt;br&gt;BLAST bit score: 57&lt;br&gt;E-value: 3e-11" locus_tag="IPZ55_RS07290" class="clusterblast-orf" id="general-9_all_9_4_12"  />
+</g>
+<g id="a9_0013"  >
+<polygon points="364,240 444,240 449,235 444,230 364,230 364,240 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07295&lt;/b&gt;&lt;br&gt;germacradienol/geosmin synthase&lt;br&gt;Location: 1725970 - 1728255&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06430&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1545&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS07295" class="clusterblast-orf" id="general-9_all_9_4_13"  />
+</g>
+<g id="a9_0014"  >
+<polygon points="451,235 456,230 501,230 501,240 456,240 451,235 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07300&lt;/b&gt;&lt;br&gt;heme exporter protein CcmD&lt;br&gt;Location: 1728290 - 1729657&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06435&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 715&lt;br&gt;E-value: 1.59e-258" locus_tag="IPZ55_RS07300" class="clusterblast-orf" id="general-9_all_9_4_14"  />
+</g>
+<g id="a9_0015"  >
+<polygon points="507,235 512,230 574,230 574,240 512,240 507,235 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07305&lt;/b&gt;&lt;br&gt;citramalate synthase&lt;br&gt;Location: 1729817 - 1731598&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06440&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1110&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS07305" class="clusterblast-orf" id="general-9_all_9_4_15"  />
+</g>
+<g id="a9_0016"  >
+<polygon points="584,235 589,230 635,230 635,240 589,240 584,235 " style="fill:#5615d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07310&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 1731876 - 1733240&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06445&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 855&lt;br&gt;E-value: 3.73e-314" locus_tag="IPZ55_RS07310" class="clusterblast-orf" id="general-9_all_9_4_16"  />
+</g>
+<g id="a9_0017"  >
+<polygon points="639,235 644,230 679,230 679,240 644,240 639,235 " style="fill:#d81556; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07315&lt;/b&gt;&lt;br&gt;agmatine deiminase family protein&lt;br&gt;Location: 1733346 - 1734425&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06450&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 731&lt;br&gt;E-value: 3.77e-268" locus_tag="IPZ55_RS07315" class="clusterblast-orf" id="general-9_all_9_4_17"  />
+</g>
+<g id="a9_0018"  >
+<polygon points="679,235 684,230 746,230 746,240 684,240 679,235 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07320&lt;/b&gt;&lt;br&gt;urease subunit alpha&lt;br&gt;Location: 1734434 - 1736236&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06455&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1175&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS07320" class="clusterblast-orf" id="general-9_all_9_4_18"  />
+</g>
+<g id="a9_0019"  >
+<polygon points="746,235 751,230 774,230 774,240 751,240 746,235 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS07325&lt;/b&gt;&lt;br&gt;urease subunit gamma&lt;br&gt;Location: 1736233 - 1736988&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06460&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 453&lt;br&gt;E-value: 7e-162" locus_tag="IPZ55_RS07325" class="clusterblast-orf" id="general-9_all_9_4_19"  />
+</g>
+<g label="NZ_AMPN02000002" description="NZ_AMPN02000002 (1595379-1617665): Streptomyces sp. SM8 Scaffold 2, whole gen... (100% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="270" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_AMPN02000002&amp;start=1595379&amp;end=1617665" target="_blank">NZ_AMPN02000002 (1595379-1617665)</a>: Streptomyces sp. SM8 Scaffold 2, whole gen... (100% of genes show similarity), terpene</text>
+<line x1="10" y1="285" x2="778.0" y2="285" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a9_000"  >
+<polygon points="4,290 25,290 30,285 25,280 4,280 4,290 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07505&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 1595818 - 1596495&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 478&lt;br&gt;E-value: 1.16e-172&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 202&lt;br&gt;E-value: 4.88e-64" locus_tag="SM8_RS07505" class="clusterblast-orf" id="general-9_all_9_5_0"  />
+</g>
+<g id="a9_001"  >
+<polygon points="33,290 90,290 95,285 90,280 33,280 33,290 " style="fill:#56d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07510&lt;/b&gt;&lt;br&gt;murein biosynthesis integral membrane protein MurJ&lt;br&gt;Location: 1596576 - 1598246&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06375&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1027&lt;br&gt;E-value: 0.0" locus_tag="SM8_RS07510" class="clusterblast-orf" id="general-9_all_9_5_1"  />
+</g>
+<g id="a9_002"  >
+<polygon points="96,285 101,280 125,280 125,290 101,290 96,285 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07515&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1598282 - 1599067&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06380&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 514&lt;br&gt;E-value: 1.24e-185" locus_tag="SM8_RS07515" class="clusterblast-orf" id="general-9_all_9_5_2"  />
+</g>
+<g id="a9_003"  >
+<polygon points="132,290 150,290 155,285 150,280 132,280 132,290 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07520&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 1599253 - 1599867&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 85&lt;br&gt;BLAST bit score: 208&lt;br&gt;E-value: 4.07e-66&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 416&lt;br&gt;E-value: 8.23e-149" locus_tag="SM8_RS07520" class="clusterblast-orf" id="general-9_all_9_5_3"  />
+</g>
+<g id="a9_004"  >
+<polygon points="156,285 161,280 186,280 186,290 161,290 156,285 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07525&lt;/b&gt;&lt;br&gt;MerR family transcriptional regulator&lt;br&gt;Location: 1599892 - 1600704&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06390&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 544&lt;br&gt;E-value: 4.55e-197" locus_tag="SM8_RS07525" class="clusterblast-orf" id="general-9_all_9_5_4"  />
+</g>
+<g id="a9_005"  >
+<polygon points="186,285 191,280 206,280 206,290 191,290 186,285 " style="fill:#d85615; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07530&lt;/b&gt;&lt;br&gt;VOC family protein&lt;br&gt;Location: 1600697 - 1601239&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06395&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 365&lt;br&gt;E-value: 2.51e-129" locus_tag="SM8_RS07530" class="clusterblast-orf" id="general-9_all_9_5_5"  />
+</g>
+<g id="a9_006"  >
+<polygon points="211,290 221,290 226,285 221,280 211,280 211,290 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07535&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1601377 - 1601772&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06400&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 224&lt;br&gt;E-value: 1.08e-75" locus_tag="SM8_RS07535" class="clusterblast-orf" id="general-9_all_9_5_6"  />
+</g>
+<g id="a9_007"  >
+<polygon points="227,285 232,280 249,280 249,290 232,290 227,285 " style="fill:#1556d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07540&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 1601789 - 1602382&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06405&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 378&lt;br&gt;E-value: 8.53e-134" locus_tag="SM8_RS07540" class="clusterblast-orf" id="general-9_all_9_5_7"  />
+</g>
+<g id="a9_008"  >
+<polygon points="253,290 283,290 288,285 283,280 253,280 253,290 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07545&lt;/b&gt;&lt;br&gt;SDR family oxidoreductase&lt;br&gt;Location: 1602502 - 1603446&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06410&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 607&lt;br&gt;E-value: 9.7e-221" locus_tag="SM8_RS07545" class="clusterblast-orf" id="general-9_all_9_5_8"  />
+</g>
+<g id="a9_009"  >
+<polygon points="288,285 293,280 304,280 304,290 293,290 288,285 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07550&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 1603427 - 1603852&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06415&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 295&lt;br&gt;E-value: 1.06e-102" locus_tag="SM8_RS07550" class="clusterblast-orf" id="general-9_all_9_5_9"  />
+</g>
+<g id="a9_0010"  >
+<polygon points="308,290 333,290 338,285 333,280 308,280 308,290 " style="fill:#15d856; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07555&lt;/b&gt;&lt;br&gt;helix-turn-helix transcriptional regulator&lt;br&gt;Location: 1603965 - 1604789&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06420&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 529&lt;br&gt;E-value: 5.47e-191" locus_tag="SM8_RS07555" class="clusterblast-orf" id="general-9_all_9_5_10"  />
+</g>
+<g id="a9_0011"  >
+<polygon points="338,290 343,290 348,285 343,280 338,280 338,290 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07560&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 1604786 - 1605055&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 142&lt;br&gt;E-value: 4.17e-44&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS30445&lt;/b&gt;&lt;br&gt;Percentage identity: 82&lt;br&gt;Percentage coverage: 55&lt;br&gt;BLAST bit score: 45&lt;br&gt;E-value: 3.56e-06" locus_tag="SM8_RS07560" class="clusterblast-orf" id="general-9_all_9_5_11"  />
+</g>
+<g id="a9_0012"  >
+<polygon points="348,290 353,290 358,285 353,280 348,280 348,290 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07565&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 1605052 - 1605300&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 91&lt;br&gt;BLAST bit score: 99&lt;br&gt;E-value: 8.11e-27&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS30445&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 65&lt;br&gt;BLAST bit score: 57&lt;br&gt;E-value: 3e-11" locus_tag="SM8_RS07565" class="clusterblast-orf" id="general-9_all_9_5_12"  />
+</g>
+<g id="a9_0013"  >
+<polygon points="360,290 441,290 446,285 441,280 360,280 360,290 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07570&lt;/b&gt;&lt;br&gt;terpene synthase family protein&lt;br&gt;Location: 1605380 - 1607665&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06430&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1548&lt;br&gt;E-value: 0.0" locus_tag="SM8_RS07570" class="clusterblast-orf" id="general-9_all_9_5_13"  />
+</g>
+<g id="a9_0014"  >
+<polygon points="447,285 452,280 498,280 498,290 452,290 447,285 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07575&lt;/b&gt;&lt;br&gt;heme exporter protein CcmD&lt;br&gt;Location: 1607700 - 1609067&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06435&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 716&lt;br&gt;E-value: 7.86e-259" locus_tag="SM8_RS07575" class="clusterblast-orf" id="general-9_all_9_5_14"  />
+</g>
+<g id="a9_0015"  >
+<polygon points="504,285 509,280 570,280 570,290 509,290 504,285 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07580&lt;/b&gt;&lt;br&gt;citramalate synthase&lt;br&gt;Location: 1609230 - 1611011&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06440&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1102&lt;br&gt;E-value: 0.0" locus_tag="SM8_RS07580" class="clusterblast-orf" id="general-9_all_9_5_15"  />
+</g>
+<g id="a9_0016"  >
+<polygon points="580,285 585,280 631,280 631,290 585,290 580,285 " style="fill:#5615d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07590&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 1611289 - 1612653&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06445&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 855&lt;br&gt;E-value: 3.73e-314" locus_tag="SM8_RS07590" class="clusterblast-orf" id="general-9_all_9_5_16"  />
+</g>
+<g id="a9_0017"  >
+<polygon points="635,285 640,280 675,280 675,290 640,290 635,285 " style="fill:#d81556; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07595&lt;/b&gt;&lt;br&gt;agmatine deiminase family protein&lt;br&gt;Location: 1612759 - 1613838&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06450&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 728&lt;br&gt;E-value: 4.4e-267" locus_tag="SM8_RS07595" class="clusterblast-orf" id="general-9_all_9_5_17"  />
+</g>
+<g id="a9_0018"  >
+<polygon points="676,285 681,280 739,280 739,290 681,290 676,285 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07600&lt;/b&gt;&lt;br&gt;urease subunit alpha&lt;br&gt;Location: 1613847 - 1615547&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06455&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 94&lt;br&gt;BLAST bit score: 1103&lt;br&gt;E-value: 0.0" locus_tag="SM8_RS07600" class="clusterblast-orf" id="general-9_all_9_5_18"  />
+</g>
+<g id="a9_0019"  >
+<polygon points="746,285 751,280 775,280 775,290 751,290 746,285 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SM8_RS07605&lt;/b&gt;&lt;br&gt;urease subunit gamma&lt;br&gt;Location: 1615746 - 1616501&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06460&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 455&lt;br&gt;E-value: 1.72e-162" locus_tag="SM8_RS07605" class="clusterblast-orf" id="general-9_all_9_5_19"  />
+</g>
+<g label="NZ_OX371412" description="NZ_OX371412 (5337900-5360186): Streptomyces albidoflavus strain CCOS 2040 iso... (100% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="320" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_OX371412&amp;start=5337900&amp;end=5360186" target="_blank">NZ_OX371412 (5337900-5360186)</a>: Streptomyces albidoflavus strain CCOS 2040 iso... (100% of genes show similarity), terpene</text>
+<line x1="10" y1="335" x2="778.0" y2="335" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a9_000"  >
+<polygon points="7,340 27,340 32,335 27,330 7,330 7,340 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23690&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 5359748 - 5359071&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 478&lt;br&gt;E-value: 1.16e-172&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 202&lt;br&gt;E-value: 4.88e-64" locus_tag="OZE77_RS23690" class="clusterblast-orf" id="general-9_all_9_6_0"  />
+</g>
+<g id="a9_001"  >
+<polygon points="35,340 92,340 97,335 92,330 35,330 35,340 " style="fill:#56d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23685&lt;/b&gt;&lt;br&gt;murein biosynthesis integral membrane protein MurJ&lt;br&gt;Location: 5358990 - 5357320&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06375&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1027&lt;br&gt;E-value: 0.0" locus_tag="OZE77_RS23685" class="clusterblast-orf" id="general-9_all_9_6_1"  />
+</g>
+<g id="a9_002"  >
+<polygon points="98,335 103,330 128,330 128,340 103,340 98,335 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23680&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5357284 - 5356499&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06380&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 509&lt;br&gt;E-value: 1.69e-183" locus_tag="OZE77_RS23680" class="clusterblast-orf" id="general-9_all_9_6_2"  />
+</g>
+<g id="a9_003"  >
+<polygon points="134,340 152,340 157,335 152,330 134,330 134,340 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23675&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 5356313 - 5355699&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 85&lt;br&gt;BLAST bit score: 206&lt;br&gt;E-value: 2.33e-65&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 405&lt;br&gt;E-value: 3.09e-144" locus_tag="OZE77_RS23675" class="clusterblast-orf" id="general-9_all_9_6_3"  />
+</g>
+<g id="a9_004"  >
+<polygon points="158,335 163,330 188,330 188,340 163,340 158,335 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23670&lt;/b&gt;&lt;br&gt;MerR family transcriptional regulator&lt;br&gt;Location: 5355674 - 5354862&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06390&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 535&lt;br&gt;E-value: 1.46e-193" locus_tag="OZE77_RS23670" class="clusterblast-orf" id="general-9_all_9_6_4"  />
+</g>
+<g id="a9_005"  >
+<polygon points="188,335 193,330 208,330 208,340 193,340 188,335 " style="fill:#d85615; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23665&lt;/b&gt;&lt;br&gt;VOC family protein&lt;br&gt;Location: 5354869 - 5354327&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06395&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 367&lt;br&gt;E-value: 6.16e-130" locus_tag="OZE77_RS23665" class="clusterblast-orf" id="general-9_all_9_6_5"  />
+</g>
+<g id="a9_006"  >
+<polygon points="216,340 223,340 228,335 223,330 216,330 216,340 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23660&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5354117 - 5353794&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06400&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 224&lt;br&gt;E-value: 4.9e-76" locus_tag="OZE77_RS23660" class="clusterblast-orf" id="general-9_all_9_6_6"  />
+</g>
+<g id="a9_007"  >
+<polygon points="229,335 234,330 251,330 251,340 234,340 229,335 " style="fill:#1556d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23655&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 5353777 - 5353184&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06405&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 380&lt;br&gt;E-value: 7.31e-135" locus_tag="OZE77_RS23655" class="clusterblast-orf" id="general-9_all_9_6_7"  />
+</g>
+<g id="a9_008"  >
+<polygon points="255,340 286,340 291,335 286,330 255,330 255,340 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23650&lt;/b&gt;&lt;br&gt;SDR family oxidoreductase&lt;br&gt;Location: 5353064 - 5352120&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06410&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 607&lt;br&gt;E-value: 1.38e-220" locus_tag="OZE77_RS23650" class="clusterblast-orf" id="general-9_all_9_6_8"  />
+</g>
+<g id="a9_009"  >
+<polygon points="290,335 295,330 306,330 306,340 295,340 290,335 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23645&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 5352139 - 5351714&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06415&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 295&lt;br&gt;E-value: 1.06e-102" locus_tag="OZE77_RS23645" class="clusterblast-orf" id="general-9_all_9_6_9"  />
+</g>
+<g id="a9_0010"  >
+<polygon points="310,340 336,340 341,335 336,330 310,330 310,340 " style="fill:#15d856; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23640&lt;/b&gt;&lt;br&gt;helix-turn-helix transcriptional regulator&lt;br&gt;Location: 5351601 - 5350777&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06420&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 529&lt;br&gt;E-value: 5.47e-191" locus_tag="OZE77_RS23640" class="clusterblast-orf" id="general-9_all_9_6_10"  />
+</g>
+<g id="a9_0011"  >
+<polygon points="340,340 345,340 350,335 345,330 340,330 340,340 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23635&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 5350780 - 5350511&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 142&lt;br&gt;E-value: 4.17e-44&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS30445&lt;/b&gt;&lt;br&gt;Percentage identity: 82&lt;br&gt;Percentage coverage: 55&lt;br&gt;BLAST bit score: 45&lt;br&gt;E-value: 3.56e-06" locus_tag="OZE77_RS23635" class="clusterblast-orf" id="general-9_all_9_6_11"  />
+</g>
+<g id="a9_0012"  >
+<polygon points="350,340 355,340 360,335 355,330 350,330 350,340 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23630&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 5350514 - 5350266&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 91&lt;br&gt;BLAST bit score: 99&lt;br&gt;E-value: 8.11e-27&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS30445&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 65&lt;br&gt;BLAST bit score: 57&lt;br&gt;E-value: 3e-11" locus_tag="OZE77_RS23630" class="clusterblast-orf" id="general-9_all_9_6_12"  />
+</g>
+<g id="a9_0013"  >
+<polygon points="363,340 443,340 448,335 443,330 363,330 363,340 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23625&lt;/b&gt;&lt;br&gt;germacradienol/geosmin synthase&lt;br&gt;Location: 5350186 - 5347901&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06430&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1540&lt;br&gt;E-value: 0.0" locus_tag="OZE77_RS23625" class="clusterblast-orf" id="general-9_all_9_6_13"  />
+</g>
+<g id="a9_0014"  >
+<polygon points="449,335 454,330 500,330 500,340 454,340 449,335 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23620&lt;/b&gt;&lt;br&gt;heme exporter protein CcmD&lt;br&gt;Location: 5347866 - 5346499&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06435&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 716&lt;br&gt;E-value: 7.86e-259" locus_tag="OZE77_RS23620" class="clusterblast-orf" id="general-9_all_9_6_14"  />
+</g>
+<g id="a9_0015"  >
+<polygon points="506,335 511,330 572,330 572,340 511,340 506,335 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23615&lt;/b&gt;&lt;br&gt;citramalate synthase&lt;br&gt;Location: 5346336 - 5344567&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06440&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1106&lt;br&gt;E-value: 0.0" locus_tag="OZE77_RS23615" class="clusterblast-orf" id="general-9_all_9_6_15"  />
+</g>
+<g id="a9_0016"  >
+<polygon points="582,335 587,330 633,330 633,340 587,340 582,335 " style="fill:#5615d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23610&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 5344289 - 5342925&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06445&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 852&lt;br&gt;E-value: 6.17e-313" locus_tag="OZE77_RS23610" class="clusterblast-orf" id="general-9_all_9_6_16"  />
+</g>
+<g id="a9_0017"  >
+<polygon points="637,335 642,330 677,330 677,340 642,340 637,335 " style="fill:#d81556; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23605&lt;/b&gt;&lt;br&gt;agmatine deiminase family protein&lt;br&gt;Location: 5342819 - 5341740&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06450&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 730&lt;br&gt;E-value: 1.08e-267" locus_tag="OZE77_RS23605" class="clusterblast-orf" id="general-9_all_9_6_17"  />
+</g>
+<g id="a9_0018"  >
+<polygon points="677,335 682,330 742,330 742,340 682,340 677,335 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23600&lt;/b&gt;&lt;br&gt;urease subunit alpha&lt;br&gt;Location: 5341731 - 5339995&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06455&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 1128&lt;br&gt;E-value: 0.0" locus_tag="OZE77_RS23600" class="clusterblast-orf" id="general-9_all_9_6_18"  />
+</g>
+<g id="a9_0019"  >
+<polygon points="738,335 743,330 772,330 772,340 743,340 738,335 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS23595&lt;/b&gt;&lt;br&gt;urease subunit gamma&lt;br&gt;Location: 5340113 - 5339178&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06460&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 443&lt;br&gt;E-value: 5.55e-157" locus_tag="OZE77_RS23595" class="clusterblast-orf" id="general-9_all_9_6_19"  />
+</g>
+<g label="NZ_CP014485" description="NZ_CP014485 (1808638-1830924): Streptomyces albidoflavus strain SM254 chromos... (100% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="370" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP014485&amp;start=1808638&amp;end=1830924" target="_blank">NZ_CP014485 (1808638-1830924)</a>: Streptomyces albidoflavus strain SM254 chromos... (100% of genes show similarity), terpene</text>
+<line x1="10" y1="385" x2="778.0" y2="385" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a9_000"  >
+<polygon points="7,390 27,390 32,385 27,380 7,380 7,390 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07575&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 1809080 - 1809757&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 464&lt;br&gt;E-value: 7.26e-167&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 60&lt;br&gt;Percentage coverage: 92&lt;br&gt;BLAST bit score: 206&lt;br&gt;E-value: 2.99e-65" locus_tag="Salbus254_RS07575" class="clusterblast-orf" id="general-9_all_9_7_0"  />
+</g>
+<g id="a9_001"  >
+<polygon points="35,390 92,390 97,385 92,380 35,380 35,390 " style="fill:#56d815; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07580&lt;/b&gt;&lt;br&gt;murein biosynthesis integral membrane protein MurJ&lt;br&gt;Location: 1809838 - 1811508&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06375&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1035&lt;br&gt;E-value: 0.0" locus_tag="Salbus254_RS07580" class="clusterblast-orf" id="general-9_all_9_7_1"  />
+</g>
+<g id="a9_002"  >
+<polygon points="98,385 103,380 127,380 127,390 103,390 98,385 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07585&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1811544 - 1812326&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06380&lt;/b&gt;&lt;br&gt;Percentage identity: 79&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 398&lt;br&gt;E-value: 1.25e-139" locus_tag="Salbus254_RS07585" class="clusterblast-orf" id="general-9_all_9_7_2"  />
+</g>
+<g id="a9_003"  >
+<polygon points="134,390 152,390 157,385 152,380 134,380 134,390 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07590&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 1812512 - 1813126&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 85&lt;br&gt;BLAST bit score: 208&lt;br&gt;E-value: 4.07e-66&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 407&lt;br&gt;E-value: 5.34e-145" locus_tag="Salbus254_RS07590" class="clusterblast-orf" id="general-9_all_9_7_3"  />
+</g>
+<g id="a9_004"  >
+<polygon points="158,385 163,380 188,380 188,390 163,390 158,385 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07595&lt;/b&gt;&lt;br&gt;MerR family transcriptional regulator&lt;br&gt;Location: 1813151 - 1813963&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06390&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 529&lt;br&gt;E-value: 2.83e-191" locus_tag="Salbus254_RS07595" class="clusterblast-orf" id="general-9_all_9_7_4"  />
+</g>
+<g id="a9_005"  >
+<polygon points="188,385 193,380 208,380 208,390 193,390 188,385 " style="fill:#d85615; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07600&lt;/b&gt;&lt;br&gt;VOC family protein&lt;br&gt;Location: 1813956 - 1814498&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06395&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 370&lt;br&gt;E-value: 3.71e-131" locus_tag="Salbus254_RS07600" class="clusterblast-orf" id="general-9_all_9_7_5"  />
+</g>
+<g id="a9_006"  >
+<polygon points="216,390 223,390 228,385 223,380 216,380 216,390 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07605&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 1814708 - 1815031&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06400&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 232&lt;br&gt;E-value: 6.18e-79" locus_tag="Salbus254_RS07605" class="clusterblast-orf" id="general-9_all_9_7_6"  />
+</g>
+<g id="a9_007"  >
+<polygon points="229,385 234,380 251,380 251,390 234,390 229,385 " style="fill:#1556d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07610&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 1815048 - 1815641&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06405&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 379&lt;br&gt;E-value: 2.1e-134" locus_tag="Salbus254_RS07610" class="clusterblast-orf" id="general-9_all_9_7_7"  />
+</g>
+<g id="a9_008"  >
+<polygon points="255,390 285,390 290,385 285,380 255,380 255,390 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07615&lt;/b&gt;&lt;br&gt;SDR family oxidoreductase&lt;br&gt;Location: 1815761 - 1816705&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06410&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 607&lt;br&gt;E-value: 1.38e-220" locus_tag="Salbus254_RS07615" class="clusterblast-orf" id="general-9_all_9_7_8"  />
+</g>
+<g id="a9_009"  >
+<polygon points="290,385 295,380 306,380 306,390 295,390 290,385 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07620&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 1816686 - 1817111&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06415&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 291&lt;br&gt;E-value: 3.57e-101" locus_tag="Salbus254_RS07620" class="clusterblast-orf" id="general-9_all_9_7_9"  />
+</g>
+<g id="a9_0010"  >
+<polygon points="310,390 335,390 340,385 335,380 310,380 310,390 " style="fill:#15d856; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07625&lt;/b&gt;&lt;br&gt;helix-turn-helix transcriptional regulator&lt;br&gt;Location: 1817224 - 1818048&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06420&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 529&lt;br&gt;E-value: 5.47e-191" locus_tag="Salbus254_RS07625" class="clusterblast-orf" id="general-9_all_9_7_10"  />
+</g>
+<g id="a9_0011"  >
+<polygon points="340,390 345,390 350,385 345,380 340,380 340,390 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07630&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 1818045 - 1818314&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 142&lt;br&gt;E-value: 4.17e-44&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS30445&lt;/b&gt;&lt;br&gt;Percentage identity: 82&lt;br&gt;Percentage coverage: 55&lt;br&gt;BLAST bit score: 45&lt;br&gt;E-value: 3.56e-06" locus_tag="Salbus254_RS07630" class="clusterblast-orf" id="general-9_all_9_7_11"  />
+</g>
+<g id="a9_0012"  >
+<polygon points="350,390 354,390 359,385 354,380 350,380 350,390 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07635&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 1818311 - 1818559&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 91&lt;br&gt;BLAST bit score: 99&lt;br&gt;E-value: 8.11e-27&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS30445&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 65&lt;br&gt;BLAST bit score: 57&lt;br&gt;E-value: 3e-11" locus_tag="Salbus254_RS07635" class="clusterblast-orf" id="general-9_all_9_7_12"  />
+</g>
+<g id="a9_0013"  >
+<polygon points="362,390 443,390 448,385 443,380 362,380 362,390 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07640&lt;/b&gt;&lt;br&gt;germacradienol/geosmin synthase&lt;br&gt;Location: 1818639 - 1820924&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06430&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1537&lt;br&gt;E-value: 0.0" locus_tag="Salbus254_RS07640" class="clusterblast-orf" id="general-9_all_9_7_13"  />
+</g>
+<g id="a9_0014"  >
+<polygon points="449,385 454,380 500,380 500,390 454,390 449,385 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07645&lt;/b&gt;&lt;br&gt;heme exporter protein CcmD&lt;br&gt;Location: 1820959 - 1822326&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06435&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 716&lt;br&gt;E-value: 7.86e-259" locus_tag="Salbus254_RS07645" class="clusterblast-orf" id="general-9_all_9_7_14"  />
+</g>
+<g id="a9_0015"  >
+<polygon points="506,385 511,380 572,380 572,390 511,390 506,385 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07650&lt;/b&gt;&lt;br&gt;citramalate synthase&lt;br&gt;Location: 1822486 - 1824255&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06440&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1103&lt;br&gt;E-value: 0.0" locus_tag="Salbus254_RS07650" class="clusterblast-orf" id="general-9_all_9_7_15"  />
+</g>
+<g id="a9_0016"  >
+<polygon points="582,385 587,380 633,380 633,390 587,390 582,385 " style="fill:#5615d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07655&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 1824533 - 1825897&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06445&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 851&lt;br&gt;E-value: 2.51e-312" locus_tag="Salbus254_RS07655" class="clusterblast-orf" id="general-9_all_9_7_16"  />
+</g>
+<g id="a9_0017"  >
+<polygon points="637,385 642,380 677,380 677,390 642,390 637,385 " style="fill:#d81556; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07660&lt;/b&gt;&lt;br&gt;agmatine deiminase family protein&lt;br&gt;Location: 1826003 - 1827082&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06450&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 730&lt;br&gt;E-value: 1.08e-267" locus_tag="Salbus254_RS07660" class="clusterblast-orf" id="general-9_all_9_7_17"  />
+</g>
+<g id="a9_0018"  >
+<polygon points="677,385 682,380 744,380 744,390 682,390 677,385 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07665&lt;/b&gt;&lt;br&gt;urease subunit alpha&lt;br&gt;Location: 1827091 - 1828899&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06455&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1163&lt;br&gt;E-value: 0.0" locus_tag="Salbus254_RS07665" class="clusterblast-orf" id="general-9_all_9_7_18"  />
+</g>
+<g id="a9_0019"  >
+<polygon points="744,385 749,380 772,380 772,390 749,390 744,385 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;Salbus254_RS07670&lt;/b&gt;&lt;br&gt;urease subunit gamma&lt;br&gt;Location: 1828896 - 1829651&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06460&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 457&lt;br&gt;E-value: 2.09e-163" locus_tag="Salbus254_RS07670" class="clusterblast-orf" id="general-9_all_9_7_19"  />
+</g>
+<g label="NZ_AP025692" description="NZ_AP025692 (5318593-5340879): Streptomyces sp. PLM4 chromosome (90% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="420" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_AP025692&amp;start=5318593&amp;end=5340879" target="_blank">NZ_AP025692 (5318593-5340879)</a>: Streptomyces sp. PLM4 chromosome (90% of genes show similarity), terpene</text>
+<line x1="10" y1="435" x2="778.0" y2="435" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a9_000"  >
+<polygon points="5,440 18,440 23,435 18,430 5,430 5,440 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23375&lt;/b&gt;&lt;br&gt;SRPBCC family protein&lt;br&gt;Location: 5340526 - 5340044" locus_tag="MTP06_RS23375" class="clusterblast-orf" id="general-9_all_9_8_0"  />
+</g>
+<g id="a9_001"  >
+<polygon points="28,440 49,440 54,435 49,430 28,430 28,440 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23370&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 5339892 - 5339215&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 476&lt;br&gt;E-value: 9.56e-172&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 202&lt;br&gt;E-value: 6.91e-64" locus_tag="MTP06_RS23370" class="clusterblast-orf" id="general-9_all_9_8_1"  />
+</g>
+<g id="a9_002"  >
+<polygon points="54,435 59,430 69,430 69,440 59,440 54,435 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23365&lt;/b&gt;&lt;br&gt;VOC family protein&lt;br&gt;Location: 5339195 - 5338809" locus_tag="MTP06_RS23365" class="clusterblast-orf" id="general-9_all_9_8_2"  />
+</g>
+<g id="a9_003"  >
+<polygon points="70,440 93,440 98,435 93,430 70,430 70,440 " style="fill:#56d815; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23360&lt;/b&gt;&lt;br&gt;murein biosynthesis integral membrane protein MurJ&lt;br&gt;Location: 5338768 - 5338010&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06375&lt;/b&gt;&lt;br&gt;Percentage identity: 74&lt;br&gt;Percentage coverage: 60&lt;br&gt;BLAST bit score: 426&lt;br&gt;E-value: 3.45e-146" locus_tag="MTP06_RS23360" class="clusterblast-orf" id="general-9_all_9_8_3"  />
+</g>
+<g id="a9_004"  >
+<polygon points="100,435 105,430 129,430 129,440 105,440 100,435 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23355&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5337974 - 5337192&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06380&lt;/b&gt;&lt;br&gt;Percentage identity: 79&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 397&lt;br&gt;E-value: 1.77e-139" locus_tag="MTP06_RS23355" class="clusterblast-orf" id="general-9_all_9_8_4"  />
+</g>
+<g id="a9_005"  >
+<polygon points="136,440 154,440 159,435 154,430 136,430 136,440 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23350&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 5337006 - 5336392&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 57&lt;br&gt;Percentage coverage: 85&lt;br&gt;BLAST bit score: 205&lt;br&gt;E-value: 6.63e-65&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 402&lt;br&gt;E-value: 5.13e-143" locus_tag="MTP06_RS23350" class="clusterblast-orf" id="general-9_all_9_8_5"  />
+</g>
+<g id="a9_006"  >
+<polygon points="160,435 165,430 190,430 190,440 165,440 160,435 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23345&lt;/b&gt;&lt;br&gt;MerR family transcriptional regulator&lt;br&gt;Location: 5336367 - 5335555&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06390&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 536&lt;br&gt;E-value: 5.09e-194" locus_tag="MTP06_RS23345" class="clusterblast-orf" id="general-9_all_9_8_6"  />
+</g>
+<g id="a9_007"  >
+<polygon points="190,435 195,430 210,430 210,440 195,440 190,435 " style="fill:#d85615; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23340&lt;/b&gt;&lt;br&gt;VOC family protein&lt;br&gt;Location: 5335562 - 5335020&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06395&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 368&lt;br&gt;E-value: 2.15e-130" locus_tag="MTP06_RS23340" class="clusterblast-orf" id="general-9_all_9_8_7"  />
+</g>
+<g id="a9_008"  >
+<polygon points="218,440 225,440 230,435 225,430 218,430 218,440 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23335&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5334810 - 5334487&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06400&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 227&lt;br&gt;E-value: 4.19e-77" locus_tag="MTP06_RS23335" class="clusterblast-orf" id="general-9_all_9_8_8"  />
+</g>
+<g id="a9_009"  >
+<polygon points="230,435 235,430 252,430 252,440 235,440 230,435 " style="fill:#1556d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23330&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 5334470 - 5333877&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06405&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 379&lt;br&gt;E-value: 2.98e-134" locus_tag="MTP06_RS23330" class="clusterblast-orf" id="general-9_all_9_8_9"  />
+</g>
+<g id="a9_0010"  >
+<polygon points="257,440 287,440 292,435 287,430 257,430 257,440 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23325&lt;/b&gt;&lt;br&gt;SDR family oxidoreductase&lt;br&gt;Location: 5333757 - 5332813&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06410&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 606&lt;br&gt;E-value: 3.95e-220" locus_tag="MTP06_RS23325" class="clusterblast-orf" id="general-9_all_9_8_10"  />
+</g>
+<g id="a9_0011"  >
+<polygon points="291,435 296,430 307,430 307,440 296,440 291,435 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23320&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 5332832 - 5332407&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06415&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 291&lt;br&gt;E-value: 3.57e-101" locus_tag="MTP06_RS23320" class="clusterblast-orf" id="general-9_all_9_8_11"  />
+</g>
+<g id="a9_0012"  >
+<polygon points="311,440 337,440 342,435 337,430 311,430 311,440 " style="fill:#15d856; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23315&lt;/b&gt;&lt;br&gt;helix-turn-helix transcriptional regulator&lt;br&gt;Location: 5332294 - 5331470&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06420&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 529&lt;br&gt;E-value: 5.47e-191" locus_tag="MTP06_RS23315" class="clusterblast-orf" id="general-9_all_9_8_12"  />
+</g>
+<g id="a9_0013"  >
+<polygon points="342,440 347,440 352,435 347,430 342,430 342,440 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23310&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 5331473 - 5331204&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 142&lt;br&gt;E-value: 4.17e-44&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS30445&lt;/b&gt;&lt;br&gt;Percentage identity: 82&lt;br&gt;Percentage coverage: 55&lt;br&gt;BLAST bit score: 45&lt;br&gt;E-value: 3.56e-06" locus_tag="MTP06_RS23310" class="clusterblast-orf" id="general-9_all_9_8_13"  />
+</g>
+<g id="a9_0014"  >
+<polygon points="352,440 356,440 361,435 356,430 352,430 352,440 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23305&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 5331207 - 5330959&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 91&lt;br&gt;BLAST bit score: 99&lt;br&gt;E-value: 8.11e-27&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS30445&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 65&lt;br&gt;BLAST bit score: 57&lt;br&gt;E-value: 3e-11" locus_tag="MTP06_RS23305" class="clusterblast-orf" id="general-9_all_9_8_14"  />
+</g>
+<g id="a9_0015"  >
+<polygon points="364,440 444,440 449,435 444,430 364,430 364,440 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23300&lt;/b&gt;&lt;br&gt;geosmin synthase&lt;br&gt;Location: 5330879 - 5328594&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06430&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1538&lt;br&gt;E-value: 0.0" locus_tag="MTP06_RS23300" class="clusterblast-orf" id="general-9_all_9_8_15"  />
+</g>
+<g id="a9_0016"  >
+<polygon points="450,435 455,430 501,430 501,440 455,440 450,435 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23295&lt;/b&gt;&lt;br&gt;heme exporter protein CcmD&lt;br&gt;Location: 5328559 - 5327192&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06435&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 714&lt;br&gt;E-value: 4.54e-258" locus_tag="MTP06_RS23295" class="clusterblast-orf" id="general-9_all_9_8_16"  />
+</g>
+<g id="a9_0017"  >
+<polygon points="507,435 512,430 574,430 574,440 512,440 507,435 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23290&lt;/b&gt;&lt;br&gt;citramalate synthase&lt;br&gt;Location: 5327032 - 5325251&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06440&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1103&lt;br&gt;E-value: 0.0" locus_tag="MTP06_RS23290" class="clusterblast-orf" id="general-9_all_9_8_17"  />
+</g>
+<g id="a9_0018"  >
+<polygon points="584,435 589,430 635,430 635,440 589,440 584,435 " style="fill:#5615d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23285&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 5324973 - 5323609&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06445&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 851&lt;br&gt;E-value: 2.51e-312" locus_tag="MTP06_RS23285" class="clusterblast-orf" id="general-9_all_9_8_18"  />
+</g>
+<g id="a9_0019"  >
+<polygon points="639,435 644,430 679,430 679,440 644,440 639,435 " style="fill:#d81556; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23280&lt;/b&gt;&lt;br&gt;agmatine deiminase family protein&lt;br&gt;Location: 5323503 - 5322424&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06450&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 731&lt;br&gt;E-value: 3.77e-268" locus_tag="MTP06_RS23280" class="clusterblast-orf" id="general-9_all_9_8_19"  />
+</g>
+<g id="a9_0020"  >
+<polygon points="679,435 684,430 746,430 746,440 684,440 679,435 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23275&lt;/b&gt;&lt;br&gt;urease subunit alpha&lt;br&gt;Location: 5322415 - 5320613&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06455&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1169&lt;br&gt;E-value: 0.0" locus_tag="MTP06_RS23275" class="clusterblast-orf" id="general-9_all_9_8_20"  />
+</g>
+<g id="a9_0021"  >
+<polygon points="746,435 751,430 774,430 774,440 751,440 746,435 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS23270&lt;/b&gt;&lt;br&gt;urease subunit gamma&lt;br&gt;Location: 5320616 - 5319861&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06460&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 454&lt;br&gt;E-value: 4.93e-162" locus_tag="MTP06_RS23270" class="clusterblast-orf" id="general-9_all_9_8_21"  />
+</g>
+<g label="NZ_CP016824" description="NZ_CP016824 (5345518-5367693): Streptomyces sampsonii strain KJ40 chromosome,... (100% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="470" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP016824&amp;start=5345518&amp;end=5367693" target="_blank">NZ_CP016824 (5345518-5367693)</a>: Streptomyces sampsonii strain KJ40 chromosome,... (100% of genes show similarity), terpene</text>
+<line x1="10" y1="485" x2="778.0" y2="485" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a9_000"  >
+<polygon points="11,490 31,490 36,485 31,480 11,480 11,490 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23220&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 5367118 - 5366441&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 478&lt;br&gt;E-value: 1.16e-172&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 202&lt;br&gt;E-value: 4.88e-64" locus_tag="BEN82_RS23220" class="clusterblast-orf" id="general-9_all_9_9_0"  />
+</g>
+<g id="a9_001"  >
+<polygon points="39,490 96,490 101,485 96,480 39,480 39,490 " style="fill:#56d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23215&lt;/b&gt;&lt;br&gt;murein biosynthesis integral membrane protein MurJ&lt;br&gt;Location: 5366360 - 5364690&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06375&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1015&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS23215" class="clusterblast-orf" id="general-9_all_9_9_1"  />
+</g>
+<g id="a9_002"  >
+<polygon points="103,485 108,480 132,480 132,490 108,490 103,485 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23210&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5364654 - 5363869&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06380&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 514&lt;br&gt;E-value: 1.24e-185" locus_tag="BEN82_RS23210" class="clusterblast-orf" id="general-9_all_9_9_2"  />
+</g>
+<g id="a9_003"  >
+<polygon points="139,490 157,490 162,485 157,480 139,480 139,490 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23205&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 5363683 - 5363069&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 85&lt;br&gt;BLAST bit score: 208&lt;br&gt;E-value: 4.07e-66&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 416&lt;br&gt;E-value: 8.23e-149" locus_tag="BEN82_RS23205" class="clusterblast-orf" id="general-9_all_9_9_3"  />
+</g>
+<g id="a9_004"  >
+<polygon points="163,485 168,480 193,480 193,490 168,490 163,485 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23200&lt;/b&gt;&lt;br&gt;MerR family transcriptional regulator&lt;br&gt;Location: 5363044 - 5362232&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06390&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 540&lt;br&gt;E-value: 2.16e-195" locus_tag="BEN82_RS23200" class="clusterblast-orf" id="general-9_all_9_9_4"  />
+</g>
+<g id="a9_005"  >
+<polygon points="193,485 198,480 213,480 213,490 198,490 193,485 " style="fill:#d85615; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23195&lt;/b&gt;&lt;br&gt;VOC family protein&lt;br&gt;Location: 5362239 - 5361697&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06395&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 363&lt;br&gt;E-value: 1.02e-128" locus_tag="BEN82_RS23195" class="clusterblast-orf" id="general-9_all_9_9_5"  />
+</g>
+<g id="a9_006"  >
+<polygon points="219,490 228,490 233,485 228,480 219,480 219,490 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23190&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5361535 - 5361164&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06400&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 224&lt;br&gt;E-value: 8.26e-76" locus_tag="BEN82_RS23190" class="clusterblast-orf" id="general-9_all_9_9_6"  />
+</g>
+<g id="a9_007"  >
+<polygon points="233,485 238,480 255,480 255,490 238,490 233,485 " style="fill:#1556d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23185&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 5361147 - 5360554&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06405&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 380&lt;br&gt;E-value: 7.31e-135" locus_tag="BEN82_RS23185" class="clusterblast-orf" id="general-9_all_9_9_7"  />
+</g>
+<g id="a9_008"  >
+<polygon points="260,490 290,490 295,485 290,480 260,480 260,490 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23180&lt;/b&gt;&lt;br&gt;SDR family oxidoreductase&lt;br&gt;Location: 5360434 - 5359490&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06410&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 605&lt;br&gt;E-value: 1.13e-219" locus_tag="BEN82_RS23180" class="clusterblast-orf" id="general-9_all_9_9_8"  />
+</g>
+<g id="a9_009"  >
+<polygon points="294,485 299,480 310,480 310,490 299,490 294,485 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23175&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 5359509 - 5359084&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06415&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 293&lt;br&gt;E-value: 6.16e-102" locus_tag="BEN82_RS23175" class="clusterblast-orf" id="general-9_all_9_9_9"  />
+</g>
+<g id="a9_0010"  >
+<polygon points="314,490 340,490 345,485 340,480 314,480 314,490 " style="fill:#15d856; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23170&lt;/b&gt;&lt;br&gt;helix-turn-helix transcriptional regulator&lt;br&gt;Location: 5358971 - 5358147&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06420&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 447&lt;br&gt;E-value: 1.11e-158" locus_tag="BEN82_RS23170" class="clusterblast-orf" id="general-9_all_9_9_10"  />
+</g>
+<g id="a9_0011"  >
+<polygon points="345,490 350,490 355,485 350,480 345,480 345,490 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23165&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 5358150 - 5357884&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 84&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 111&lt;br&gt;E-value: 9.03e-32" locus_tag="BEN82_RS23165" class="clusterblast-orf" id="general-9_all_9_9_11"  />
+</g>
+<g id="a9_0012"  >
+<polygon points="362,490 438,490 443,485 438,480 362,480 362,490 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23160&lt;/b&gt;&lt;br&gt;Geosmin synthase&lt;br&gt;Location: 5357693 - 5355519&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06430&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 95&lt;br&gt;BLAST bit score: 1451&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS23160" class="clusterblast-orf" id="general-9_all_9_9_12"  />
+</g>
+<g id="a9_0013"  >
+<polygon points="444,485 449,480 495,480 495,490 449,490 444,485 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23155&lt;/b&gt;&lt;br&gt;heme exporter protein CcmD&lt;br&gt;Location: 5355484 - 5354117&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06435&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 716&lt;br&gt;E-value: 7.86e-259" locus_tag="BEN82_RS23155" class="clusterblast-orf" id="general-9_all_9_9_13"  />
+</g>
+<g id="a9_0014"  >
+<polygon points="501,485 506,480 567,480 567,490 506,490 501,485 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23150&lt;/b&gt;&lt;br&gt;citramalate synthase&lt;br&gt;Location: 5353959 - 5352178&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06440&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1110&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS23150" class="clusterblast-orf" id="general-9_all_9_9_14"  />
+</g>
+<g id="a9_0015"  >
+<polygon points="578,485 583,480 628,480 628,490 583,490 578,485 " style="fill:#5615d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23145&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 5351900 - 5350536&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06445&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 855&lt;br&gt;E-value: 3.73e-314" locus_tag="BEN82_RS23145" class="clusterblast-orf" id="general-9_all_9_9_15"  />
+</g>
+<g id="a9_0016"  >
+<polygon points="632,485 637,480 673,480 673,490 637,490 632,485 " style="fill:#d81556; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23140&lt;/b&gt;&lt;br&gt;agmatine deiminase family protein&lt;br&gt;Location: 5350430 - 5349351&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06450&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 729&lt;br&gt;E-value: 2.18e-267" locus_tag="BEN82_RS23140" class="clusterblast-orf" id="general-9_all_9_9_16"  />
+</g>
+<g id="a9_0017"  >
+<polygon points="673,485 678,480 740,480 740,490 678,490 673,485 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23135&lt;/b&gt;&lt;br&gt;urease subunit alpha&lt;br&gt;Location: 5349342 - 5347540&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06455&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1175&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS23135" class="clusterblast-orf" id="general-9_all_9_9_17"  />
+</g>
+<g id="a9_0018"  >
+<polygon points="740,485 745,480 768,480 768,490 745,490 740,485 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS23130&lt;/b&gt;&lt;br&gt;urease subunit gamma&lt;br&gt;Location: 5347543 - 5346788&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06460&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 452&lt;br&gt;E-value: 2.01e-161" locus_tag="BEN82_RS23130" class="clusterblast-orf" id="general-9_all_9_9_18"  />
+</g>
+<g label="NZ_CP047147" description="NZ_CP047147 (5406978-5429264): Streptomyces sp. GF20 chromosome, complete genome (95% of genes show similarity), terpene" class="clusterblast-cluster"  >
+<text x="5" y="520" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP047147&amp;start=5406978&amp;end=5429264" target="_blank">NZ_CP047147 (5406978-5429264)</a>: Streptomyces sp. GF20 chromosome, complete genome (95% of genes show similarity), terpene</text>
+<line x1="10" y1="535" x2="778.0" y2="535" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a9_000"  >
+<polygon points="0,540 13,540 18,535 13,530 0,530 0,540 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23595&lt;/b&gt;&lt;br&gt;SRPBCC family protein&lt;br&gt;Location: 5429191 - 5428709" locus_tag="GR131_RS23595" class="clusterblast-orf" id="general-9_all_9_10_0"  />
+</g>
+<g id="a9_001"  >
+<polygon points="23,540 44,540 49,535 44,530 23,530 23,540 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23590&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 5428557 - 5427880&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 478&lt;br&gt;E-value: 1.16e-172&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 58&lt;br&gt;Percentage coverage: 93&lt;br&gt;BLAST bit score: 202&lt;br&gt;E-value: 4.88e-64" locus_tag="GR131_RS23590" class="clusterblast-orf" id="general-9_all_9_10_1"  />
+</g>
+<g id="a9_002"  >
+<polygon points="52,540 109,540 114,535 109,530 52,530 52,540 " style="fill:#56d815; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23585&lt;/b&gt;&lt;br&gt;murein biosynthesis integral membrane protein MurJ&lt;br&gt;Location: 5427799 - 5426129&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06375&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1017&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS23585" class="clusterblast-orf" id="general-9_all_9_10_2"  />
+</g>
+<g id="a9_003"  >
+<polygon points="114,535 119,530 144,530 144,540 119,540 114,535 " style="fill:#1597d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23580&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5426114 - 5425332&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06380&lt;/b&gt;&lt;br&gt;Percentage identity: 79&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 398&lt;br&gt;E-value: 1.25e-139" locus_tag="GR131_RS23580" class="clusterblast-orf" id="general-9_all_9_10_3"  />
+</g>
+<g id="a9_004"  >
+<polygon points="150,540 168,540 173,535 168,530 150,530 150,540 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23570&lt;/b&gt;&lt;br&gt;SMI1/KNR4 family protein&lt;br&gt;Location: 5425146 - 5424529&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06370&lt;/b&gt;&lt;br&gt;Percentage identity: 56&lt;br&gt;Percentage coverage: 90&lt;br&gt;BLAST bit score: 209&lt;br&gt;E-value: 2.09e-66&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06385&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 397&lt;br&gt;E-value: 3.59e-141" locus_tag="GR131_RS23570" class="clusterblast-orf" id="general-9_all_9_10_4"  />
+</g>
+<g id="a9_005"  >
+<polygon points="174,535 179,530 205,530 205,540 179,540 174,535 " style="fill:#9715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23565&lt;/b&gt;&lt;br&gt;MerR family transcriptional regulator&lt;br&gt;Location: 5424504 - 5423692&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06390&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 537&lt;br&gt;E-value: 2.52e-194" locus_tag="GR131_RS23565" class="clusterblast-orf" id="general-9_all_9_10_5"  />
+</g>
+<g id="a9_006"  >
+<polygon points="204,535 209,530 224,530 224,540 209,540 204,535 " style="fill:#d85615; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23560&lt;/b&gt;&lt;br&gt;VOC family protein&lt;br&gt;Location: 5423699 - 5423157&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06395&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 364&lt;br&gt;E-value: 7.2e-129" locus_tag="GR131_RS23560" class="clusterblast-orf" id="general-9_all_9_10_6"  />
+</g>
+<g id="a9_007"  >
+<polygon points="231,540 239,540 244,535 239,530 231,530 231,540 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23555&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 5422995 - 5422624&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06400&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 224&lt;br&gt;E-value: 1.17e-75" locus_tag="GR131_RS23555" class="clusterblast-orf" id="general-9_all_9_10_7"  />
+</g>
+<g id="a9_008"  >
+<polygon points="245,535 250,530 267,530 267,540 250,540 245,535 " style="fill:#1556d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23550&lt;/b&gt;&lt;br&gt;TetR/AcrR family transcriptional regulator&lt;br&gt;Location: 5422607 - 5422014&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06405&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 379&lt;br&gt;E-value: 2.98e-134" locus_tag="GR131_RS23550" class="clusterblast-orf" id="general-9_all_9_10_8"  />
+</g>
+<g id="a9_009"  >
+<polygon points="272,540 302,540 307,535 302,530 272,530 272,540 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23545&lt;/b&gt;&lt;br&gt;SDR family oxidoreductase&lt;br&gt;Location: 5421894 - 5420950&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06410&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 606&lt;br&gt;E-value: 3.95e-220" locus_tag="GR131_RS23545" class="clusterblast-orf" id="general-9_all_9_10_9"  />
+</g>
+<g id="a9_0010"  >
+<polygon points="306,535 311,530 322,530 322,540 311,540 306,535 " style="fill:#d89715; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23540&lt;/b&gt;&lt;br&gt;ATP-binding protein&lt;br&gt;Location: 5420969 - 5420544&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06415&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 289&lt;br&gt;E-value: 1.45e-100" locus_tag="GR131_RS23540" class="clusterblast-orf" id="general-9_all_9_10_10"  />
+</g>
+<g id="a9_0011"  >
+<polygon points="326,540 352,540 357,535 352,530 326,530 326,540 " style="fill:#15d856; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23535&lt;/b&gt;&lt;br&gt;helix-turn-helix transcriptional regulator&lt;br&gt;Location: 5420431 - 5419607&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06420&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 447&lt;br&gt;E-value: 1.11e-158" locus_tag="GR131_RS23535" class="clusterblast-orf" id="general-9_all_9_10_11"  />
+</g>
+<g id="a9_0012"  >
+<polygon points="357,540 361,540 366,535 361,530 357,530 357,540 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23530&lt;/b&gt;&lt;br&gt;DUF397 domain-containing protein&lt;br&gt;Location: 5419610 - 5419344&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06425&lt;/b&gt;&lt;br&gt;Percentage identity: 83&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 111&lt;br&gt;E-value: 1.28e-31" locus_tag="GR131_RS23530" class="clusterblast-orf" id="general-9_all_9_10_12"  />
+</g>
+<g id="a9_0013"  >
+<polygon points="369,540 449,540 454,535 449,530 369,530 369,540 " style="fill:#d81597; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23525&lt;/b&gt;&lt;br&gt;germacradienol/geosmin synthase&lt;br&gt;Location: 5419264 - 5416979&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06430&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1540&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS23525" class="clusterblast-orf" id="general-9_all_9_10_13"  />
+</g>
+<g id="a9_0014"  >
+<polygon points="456,535 461,530 507,530 507,540 461,540 456,535 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23520&lt;/b&gt;&lt;br&gt;heme exporter protein CcmD&lt;br&gt;Location: 5416944 - 5415577&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06435&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 96&lt;br&gt;BLAST bit score: 715&lt;br&gt;E-value: 1.12e-258" locus_tag="GR131_RS23520" class="clusterblast-orf" id="general-9_all_9_10_14"  />
+</g>
+<g id="a9_0015"  >
+<polygon points="513,535 518,530 578,530 578,540 518,540 513,535 " style="fill:#15d897; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23515&lt;/b&gt;&lt;br&gt;citramalate synthase&lt;br&gt;Location: 5415418 - 5413649&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06440&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1106&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS23515" class="clusterblast-orf" id="general-9_all_9_10_15"  />
+</g>
+<g id="a9_0016"  >
+<polygon points="589,535 594,530 640,530 640,540 594,540 589,535 " style="fill:#5615d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23510&lt;/b&gt;&lt;br&gt;MFS transporter&lt;br&gt;Location: 5413371 - 5412007&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06445&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 855&lt;br&gt;E-value: 3.73e-314" locus_tag="GR131_RS23510" class="clusterblast-orf" id="general-9_all_9_10_16"  />
+</g>
+<g id="a9_0017"  >
+<polygon points="644,535 649,530 684,530 684,540 649,540 644,535 " style="fill:#d81556; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23505&lt;/b&gt;&lt;br&gt;agmatine deiminase family protein&lt;br&gt;Location: 5411901 - 5410822&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06450&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 721&lt;br&gt;E-value: 4.93e-264" locus_tag="GR131_RS23505" class="clusterblast-orf" id="general-9_all_9_10_17"  />
+</g>
+<g id="a9_0018"  >
+<polygon points="684,535 689,530 751,530 751,540 689,540 684,535 " style="fill:#97d815; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23500&lt;/b&gt;&lt;br&gt;urease subunit alpha&lt;br&gt;Location: 5410813 - 5409011&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06455&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1175&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS23500" class="clusterblast-orf" id="general-9_all_9_10_18"  />
+</g>
+<g id="a9_0019"  >
+<polygon points="751,535 756,530 779,530 779,540 756,540 751,535 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS23495&lt;/b&gt;&lt;br&gt;urease subunit gamma&lt;br&gt;Location: 5409014 - 5408259&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS06460&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 453&lt;br&gt;E-value: 7e-162" locus_tag="GR131_RS23495" class="clusterblast-orf" id="general-9_all_9_10_19"  />
+</g>
+</svg>

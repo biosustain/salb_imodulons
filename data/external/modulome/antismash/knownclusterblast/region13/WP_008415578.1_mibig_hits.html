@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>WP_008415578.1</td>
+              <td>SapB/AmfS_family_lanthipeptide</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000546/1">BGC0000546</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>100.0</td>
+              <td>100.0</td>
+              <td>86.0</td>
+              <td>9.54e-25</td>
+          </tr>
+    
+          <tr>
+              <td>SSHG_03589</td>
+              <td>predicted_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000546/1">BGC0000546</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>100.0</td>
+              <td>100.0</td>
+              <td>86.0</td>
+              <td>1.28e-24</td>
+          </tr>
+    
+          <tr>
+              <td>BAG19225.1</td>
+              <td>AmfS_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000496/1">BGC0000496</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>81.0</td>
+              <td>100.0</td>
+              <td>75.0</td>
+              <td>1.8e-20</td>
+          </tr>
+    
+          <tr>
+              <td>WP_003966507.1</td>
+              <td>SapB/AmfS_family_lanthipeptide</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000553/1">BGC0000553</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>81.0</td>
+              <td>100.0</td>
+              <td>75.0</td>
+              <td>1.8e-20</td>
+          </tr>
+    
+          <tr>
+              <td>CAA19961.1</td>
+              <td>hypothetical_protein_SC5A7.32</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000551/1">BGC0000551</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>63.0</td>
+              <td>95.3</td>
+              <td>56.0</td>
+              <td>5.38e-13</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

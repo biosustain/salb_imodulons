@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="230" width="800" viewBox="0 0 800 230" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="302,40 314,40 319,35 314,30 302,30 302,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28610&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 6502041 - 6503097" locus_tag="XNR_RS28610" class="clusterblast-orf" id="dummy-21_q0_0_all"  />
+<polygon points="321,40 329,40 334,35 329,30 321,30 321,40 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28615&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 6503219 - 6504056" locus_tag="XNR_RS28615" class="clusterblast-orf" id="dummy-21_q1_0_all"  />
+<polygon points="335,40 338,35 335,30 335,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS31665&lt;/b&gt;&lt;br&gt;streptamidine family RiPP&lt;br&gt;Location: 6504124 - 6504259" locus_tag="XNR_RS31665" class="clusterblast-orf" id="dummy-21_q2_0_all"  />
+<polygon points="340,40 348,40 353,35 348,30 340,30 340,40 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28620&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6504401 - 6505247" locus_tag="XNR_RS28620" class="clusterblast-orf" id="dummy-21_q3_0_all"  />
+<polygon points="353,40 372,40 377,35 372,30 353,30 353,40 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28625&lt;/b&gt;&lt;br&gt;CocE/NonD family hydrolase&lt;br&gt;Location: 6505243 - 6506770" locus_tag="XNR_RS28625" class="clusterblast-orf" id="dummy-21_q4_0_all"  />
+<polygon points="377,40 394,40 399,35 394,30 377,30 377,40 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28630&lt;/b&gt;&lt;br&gt;YcaO-like family protein&lt;br&gt;Location: 6506766 - 6508134" locus_tag="XNR_RS28630" class="clusterblast-orf" id="dummy-21_q5_0_all"  />
+<polygon points="399,40 415,40 420,35 415,30 399,30 399,40 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28635&lt;/b&gt;&lt;br&gt;nitroreductase&lt;br&gt;Location: 6508148 - 6509456" locus_tag="XNR_RS28635" class="clusterblast-orf" id="dummy-21_q6_0_all"  />
+<polygon points="421,40 444,40 449,35 444,30 421,30 421,40 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28640&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 6509514 - 6511260" locus_tag="XNR_RS28640" class="clusterblast-orf" id="dummy-21_q7_0_all"  />
+<polygon points="449,40 472,40 477,35 472,30 449,30 449,40 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS28645&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 6511256 - 6513041" locus_tag="XNR_RS28645" class="clusterblast-orf" id="dummy-21_q8_0_all"  />
+</g>
+<g label="NZ_CP079112" description="NZ_CP079112 (276327-326699): Streptomyces albidoflavus strain LGO-A16 chromosome (18% of genes show similarity), RiPP-like,T3PKS" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP079112&amp;start=276327&amp;end=326699" target="_blank">NZ_CP079112 (276327-326699)</a>: Streptomyces albidoflavus strain LGO-A16 chromosome (18% of genes show similarity), RiPP-like,T3PKS</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a21_000"  >
+<polygon points="0,90 11,90 16,85 11,80 0,80 0,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00780&lt;/b&gt;&lt;br&gt;iron ABC transporter permease&lt;br&gt;Location: 326423 - 325368&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28610&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 635&lt;br&gt;E-value: 1.81e-230" locus_tag="STALF2_RS00780" class="clusterblast-orf" id="dummy-21_h21_3_0"  />
+</g>
+<g id="a21_001"  >
+<polygon points="18,90 26,90 31,85 26,80 18,80 18,90 " style="fill:#77d815; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00775&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 325245 - 324409&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28615&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 526&lt;br&gt;E-value: 6.12e-190" locus_tag="STALF2_RS00775" class="clusterblast-orf" id="dummy-21_h21_3_1"  />
+</g>
+<g id="a21_002"  >
+<polygon points="33,90 35,85 33,80 33,90 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS30545&lt;/b&gt;&lt;br&gt;streptamidine family RiPP&lt;br&gt;Location: 324340 - 324206&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS31665&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 91&lt;br&gt;E-value: 7.63e-25" locus_tag="STALF2_RS30545" class="clusterblast-orf" id="dummy-21_h21_3_2"  />
+</g>
+<g id="a21_003"  >
+<polygon points="37,90 45,90 50,85 45,80 37,80 37,90 " style="fill:#7715d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00770&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 324064 - 323219&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28620&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 546&lt;br&gt;E-value: 9.14e-198" locus_tag="STALF2_RS00770" class="clusterblast-orf" id="dummy-21_h21_3_3"  />
+</g>
+<g id="a21_004"  >
+<polygon points="50,90 70,90 75,85 70,80 50,80 50,90 " style="fill:#d8a715; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00765&lt;/b&gt;&lt;br&gt;CocE/NonD family hydrolase&lt;br&gt;Location: 323222 - 321696&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28625&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1002&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS00765" class="clusterblast-orf" id="dummy-21_h21_3_4"  />
+</g>
+<g id="a21_005"  >
+<polygon points="74,90 91,90 96,85 91,80 74,80 74,90 " style="fill:#15d846; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00760&lt;/b&gt;&lt;br&gt;YcaO-like family protein&lt;br&gt;Location: 321699 - 320332&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28630&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 926&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS00760" class="clusterblast-orf" id="dummy-21_h21_3_5"  />
+</g>
+<g id="a21_006"  >
+<polygon points="96,90 112,90 117,85 112,80 96,80 96,90 " style="fill:#1546d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00755&lt;/b&gt;&lt;br&gt;nitroreductase&lt;br&gt;Location: 320319 - 319012&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28635&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 864&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS00755" class="clusterblast-orf" id="dummy-21_h21_3_6"  />
+</g>
+<g id="a21_007"  >
+<polygon points="118,90 141,90 146,85 141,80 118,80 118,90 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00750&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 318953 - 317208&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28640&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1041&lt;br&gt;E-value: 0.0&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28645&lt;/b&gt;&lt;br&gt;Percentage identity: 37&lt;br&gt;Percentage coverage: 88&lt;br&gt;BLAST bit score: 210&lt;br&gt;E-value: 4.33e-58" locus_tag="STALF2_RS00750" class="clusterblast-orf" id="dummy-21_h21_3_7"  />
+</g>
+<g id="a21_008"  >
+<polygon points="146,90 169,90 174,85 169,80 146,80 146,90 " style="fill:#d815a7; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00745&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein/permease&lt;br&gt;Location: 317211 - 315427&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS28645&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1020&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS00745" class="clusterblast-orf" id="dummy-21_h21_3_8"  />
+</g>
+<g id="a21_009"  >
+<polygon points="176,85 181,80 184,80 184,90 181,90 176,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00740&lt;/b&gt;&lt;br&gt;peptide-methionine (S)-S-oxide reductase MsrA&lt;br&gt;Location: 315327 - 314812" locus_tag="STALF2_RS00740" class="clusterblast-orf" id="dummy-21_h21_3_9"  />
+</g>
+<g id="a21_0010"  >
+<polygon points="187,90 190,90 195,85 190,80 187,80 187,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00735&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 314586 - 314113" locus_tag="STALF2_RS00735" class="clusterblast-orf" id="dummy-21_h21_3_10"  />
+</g>
+<g id="a21_0011"  >
+<polygon points="197,90 201,90 206,85 201,80 197,80 197,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00730&lt;/b&gt;&lt;br&gt;sugar O-acetyltransferase&lt;br&gt;Location: 313955 - 313395" locus_tag="STALF2_RS00730" class="clusterblast-orf" id="dummy-21_h21_3_11"  />
+</g>
+<g id="a21_0012"  >
+<polygon points="208,85 213,80 225,80 225,90 213,90 208,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00725&lt;/b&gt;&lt;br&gt;AI-2E family transporter&lt;br&gt;Location: 313313 - 312204" locus_tag="STALF2_RS00725" class="clusterblast-orf" id="dummy-21_h21_3_12"  />
+</g>
+<g id="a21_0013"  >
+<polygon points="227,85 232,80 237,80 237,90 232,90 227,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00720&lt;/b&gt;&lt;br&gt;helix-turn-helix domain-containing protein&lt;br&gt;Location: 312067 - 311483" locus_tag="STALF2_RS00720" class="clusterblast-orf" id="dummy-21_h21_3_13"  />
+</g>
+<g id="a21_0014"  >
+<polygon points="239,90 244,90 249,85 244,80 239,80 239,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00715&lt;/b&gt;&lt;br&gt;peptide deformylase&lt;br&gt;Location: 311309 - 310689" locus_tag="STALF2_RS00715" class="clusterblast-orf" id="dummy-21_h21_3_14"  />
+</g>
+<g id="a21_0015"  >
+<polygon points="250,85 255,80 257,80 257,90 255,90 250,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00710&lt;/b&gt;&lt;br&gt;NUDIX domain-containing protein&lt;br&gt;Location: 310655 - 310191" locus_tag="STALF2_RS00710" class="clusterblast-orf" id="dummy-21_h21_3_15"  />
+</g>
+<g id="a21_0016"  >
+<polygon points="258,85 263,80 291,80 291,90 263,90 258,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00705&lt;/b&gt;&lt;br&gt;SpoIIE family protein phosphatase&lt;br&gt;Location: 310109 - 308058" locus_tag="STALF2_RS00705" class="clusterblast-orf" id="dummy-21_h21_3_16"  />
+</g>
+<g id="a21_0017"  >
+<polygon points="296,90 303,90 308,85 303,80 296,80 296,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00700&lt;/b&gt;&lt;br&gt;DUF1345 domain-containing protein&lt;br&gt;Location: 307721 - 307005" locus_tag="STALF2_RS00700" class="clusterblast-orf" id="dummy-21_h21_3_17"  />
+</g>
+<g id="a21_0018"  >
+<polygon points="314,85 319,80 326,80 326,90 319,90 314,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00695&lt;/b&gt;&lt;br&gt;DeoR/GlpR family DNA-binding transcription regulator&lt;br&gt;Location: 306624 - 305830" locus_tag="STALF2_RS00695" class="clusterblast-orf" id="dummy-21_h21_3_18"  />
+</g>
+<g id="a21_0019"  >
+<polygon points="328,85 333,80 349,80 349,90 333,90 328,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00690&lt;/b&gt;&lt;br&gt;gluconate:H+ symporter&lt;br&gt;Location: 305734 - 304376" locus_tag="STALF2_RS00690" class="clusterblast-orf" id="dummy-21_h21_3_19"  />
+</g>
+<g id="a21_0020"  >
+<polygon points="349,85 354,80 372,80 372,90 354,90 349,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00685&lt;/b&gt;&lt;br&gt;homoserine dehydrogenase&lt;br&gt;Location: 304379 - 302976" locus_tag="STALF2_RS00685" class="clusterblast-orf" id="dummy-21_h21_3_20"  />
+</g>
+<g id="a21_0021"  >
+<polygon points="375,90 390,90 395,85 390,80 375,80 375,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00680&lt;/b&gt;&lt;br&gt;four-carbon acid sugar kinase family protein&lt;br&gt;Location: 302744 - 301476" locus_tag="STALF2_RS00680" class="clusterblast-orf" id="dummy-21_h21_3_21"  />
+</g>
+<g id="a21_0022"  >
+<polygon points="395,90 400,90 405,85 400,80 395,80 395,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00675&lt;/b&gt;&lt;br&gt;class II aldolase/adducin family protein&lt;br&gt;Location: 301479 - 300841" locus_tag="STALF2_RS00675" class="clusterblast-orf" id="dummy-21_h21_3_22"  />
+</g>
+<g id="a21_0023"  >
+<polygon points="406,85 408,80 408,90 406,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS30540&lt;/b&gt;&lt;br&gt;cupin&lt;br&gt;Location: 300815 - 300663" locus_tag="STALF2_RS30540" class="clusterblast-orf" id="dummy-21_h21_3_23"  />
+</g>
+<g id="a21_0024"  >
+<polygon points="412,90 416,85 412,80 412,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS30535&lt;/b&gt;&lt;br&gt;Rrf2 family transcriptional regulator&lt;br&gt;Location: 300430 - 300188" locus_tag="STALF2_RS30535" class="clusterblast-orf" id="dummy-21_h21_3_24"  />
+</g>
+<g id="a21_0025"  >
+<polygon points="419,85 424,80 432,80 432,90 424,90 419,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00660&lt;/b&gt;&lt;br&gt;helix-turn-helix transcriptional regulator&lt;br&gt;Location: 299998 - 299153" locus_tag="STALF2_RS00660" class="clusterblast-orf" id="dummy-21_h21_3_25"  />
+</g>
+<g id="a21_0026"  >
+<polygon points="433,85 438,80 445,80 445,90 438,90 433,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00655&lt;/b&gt;&lt;br&gt;SDR family oxidoreductase&lt;br&gt;Location: 299090 - 298335" locus_tag="STALF2_RS00655" class="clusterblast-orf" id="dummy-21_h21_3_26"  />
+</g>
+<g id="a21_0027"  >
+<polygon points="449,85 454,80 457,80 457,90 454,90 449,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00650&lt;/b&gt;&lt;br&gt;pyridoxamine 5'-phosphate oxidase family protein&lt;br&gt;Location: 298128 - 297610" locus_tag="STALF2_RS00650" class="clusterblast-orf" id="dummy-21_h21_3_27"  />
+</g>
+<g id="a21_0028"  >
+<polygon points="460,85 465,80 477,80 477,90 465,90 460,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00645&lt;/b&gt;&lt;br&gt;type III polyketide synthase&lt;br&gt;Location: 297425 - 296328" locus_tag="STALF2_RS00645" class="clusterblast-orf" id="dummy-21_h21_3_28"  />
+</g>
+<g id="a21_0029"  >
+<polygon points="479,85 484,80 498,80 498,90 484,90 479,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00640&lt;/b&gt;&lt;br&gt;cytochrome P450&lt;br&gt;Location: 296239 - 295007" locus_tag="STALF2_RS00640" class="clusterblast-orf" id="dummy-21_h21_3_29"  />
+</g>
+<g id="a21_0030"  >
+<polygon points="504,90 510,90 515,85 510,80 504,80 504,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00635&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 294644 - 293961" locus_tag="STALF2_RS00635" class="clusterblast-orf" id="dummy-21_h21_3_30"  />
+</g>
+<g id="a21_0031"  >
+<polygon points="515,90 520,90 525,85 520,80 515,80 515,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00630&lt;/b&gt;&lt;br&gt;ABC transporter permease subunit&lt;br&gt;Location: 293964 - 293293" locus_tag="STALF2_RS00630" class="clusterblast-orf" id="dummy-21_h21_3_31"  />
+</g>
+<g id="a21_0032"  >
+<polygon points="525,90 535,90 540,85 535,80 525,80 525,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00625&lt;/b&gt;&lt;br&gt;ABC transporter substrate-binding protein&lt;br&gt;Location: 293293 - 292349" locus_tag="STALF2_RS00625" class="clusterblast-orf" id="dummy-21_h21_3_32"  />
+</g>
+<g id="a21_0033"  >
+<polygon points="540,85 545,80 559,80 559,90 545,90 540,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00620&lt;/b&gt;&lt;br&gt;betaine/proline/choline family ABC transporter ATP-binding protein&lt;br&gt;Location: 292345 - 291182" locus_tag="STALF2_RS00620" class="clusterblast-orf" id="dummy-21_h21_3_33"  />
+</g>
+<g id="a21_0034"  >
+<polygon points="561,90 577,90 582,85 577,80 561,80 561,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00615&lt;/b&gt;&lt;br&gt;alpha/beta fold hydrolase&lt;br&gt;Location: 291050 - 289737" locus_tag="STALF2_RS00615" class="clusterblast-orf" id="dummy-21_h21_3_34"  />
+</g>
+<g id="a21_0035"  >
+<polygon points="583,90 589,90 594,85 589,80 583,80 583,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00610&lt;/b&gt;&lt;br&gt;PIG-L family deacetylase&lt;br&gt;Location: 289684 - 288953" locus_tag="STALF2_RS00610" class="clusterblast-orf" id="dummy-21_h21_3_35"  />
+</g>
+<g id="a21_0036"  >
+<polygon points="595,90 600,90 605,85 600,80 595,80 595,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00605&lt;/b&gt;&lt;br&gt;XRE family transcriptional regulator&lt;br&gt;Location: 288885 - 288250" locus_tag="STALF2_RS00605" class="clusterblast-orf" id="dummy-21_h21_3_36"  />
+</g>
+<g id="a21_0037"  >
+<polygon points="607,90 618,90 623,85 618,80 607,80 607,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00600&lt;/b&gt;&lt;br&gt;NADPH:quinone oxidoreductase family protein&lt;br&gt;Location: 288124 - 287156" locus_tag="STALF2_RS00600" class="clusterblast-orf" id="dummy-21_h21_3_37"  />
+</g>
+<g id="a21_0038"  >
+<polygon points="623,90 636,90 641,85 636,80 623,80 623,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00595&lt;/b&gt;&lt;br&gt;acyl-CoA dehydrogenase family protein&lt;br&gt;Location: 287159 - 285975" locus_tag="STALF2_RS00595" class="clusterblast-orf" id="dummy-21_h21_3_38"  />
+</g>
+<g id="a21_0039"  >
+<polygon points="641,90 654,90 659,85 654,80 641,80 641,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00590&lt;/b&gt;&lt;br&gt;acyl-CoA/acyl-ACP dehydrogenase&lt;br&gt;Location: 285978 - 284857" locus_tag="STALF2_RS00590" class="clusterblast-orf" id="dummy-21_h21_3_39"  />
+</g>
+<g id="a21_0040"  >
+<polygon points="662,90 682,90 687,85 682,80 662,80 662,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00585&lt;/b&gt;&lt;br&gt;ABC transporter substrate-binding protein&lt;br&gt;Location: 284699 - 283092" locus_tag="STALF2_RS00585" class="clusterblast-orf" id="dummy-21_h21_3_40"  />
+</g>
+<g id="a21_0041"  >
+<polygon points="688,90 698,90 703,85 698,80 688,80 688,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00580&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 283059 - 282094" locus_tag="STALF2_RS00580" class="clusterblast-orf" id="dummy-21_h21_3_41"  />
+</g>
+<g id="a21_0042"  >
+<polygon points="703,90 712,90 717,85 712,80 703,80 703,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00575&lt;/b&gt;&lt;br&gt;ABC transporter permease&lt;br&gt;Location: 282101 - 281232" locus_tag="STALF2_RS00575" class="clusterblast-orf" id="dummy-21_h21_3_42"  />
+</g>
+<g id="a21_0043"  >
+<polygon points="717,90 728,90 733,85 728,80 717,80 717,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00570&lt;/b&gt;&lt;br&gt;ABC transporter ATP-binding protein&lt;br&gt;Location: 281235 - 280234" locus_tag="STALF2_RS00570" class="clusterblast-orf" id="dummy-21_h21_3_43"  />
+</g>
+<g id="a21_0044"  >
+<polygon points="732,90 739,90 744,85 739,80 732,80 732,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00565&lt;/b&gt;&lt;br&gt;ATP-binding cassette domain-containing protein&lt;br&gt;Location: 280241 - 279528" locus_tag="STALF2_RS00565" class="clusterblast-orf" id="dummy-21_h21_3_44"  />
+</g>
+<g id="a21_0045"  >
+<polygon points="746,90 749,85 746,80 746,90 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00560&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 279407 - 279213" locus_tag="STALF2_RS00560" class="clusterblast-orf" id="dummy-21_h21_3_45"  />
+</g>
+<g id="a21_0046"  >
+<polygon points="748,85 753,80 764,80 764,90 753,90 748,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00555&lt;/b&gt;&lt;br&gt;phosphotransferase&lt;br&gt;Location: 279232 - 278276" locus_tag="STALF2_RS00555" class="clusterblast-orf" id="dummy-21_h21_3_46"  />
+</g>
+<g id="a21_0047"  >
+<polygon points="765,85 770,80 773,80 773,90 770,90 765,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00550&lt;/b&gt;&lt;br&gt;DinB family protein&lt;br&gt;Location: 278207 - 277707" locus_tag="STALF2_RS00550" class="clusterblast-orf" id="dummy-21_h21_3_47"  />
+</g>
+<g id="a21_0048"  >
+<polygon points="773,85 778,80 779,80 779,90 778,90 773,85 " style="fill:white; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS00545&lt;/b&gt;&lt;br&gt;SRPBCC family protein&lt;br&gt;Location: 277653 - 277273" locus_tag="STALF2_RS00545" class="clusterblast-orf" id="dummy-21_h21_3_48"  />
+</g>
+</svg>

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>BCN13454.1</td>
+              <td>ATP-grasp_enzyme</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002457/1">BGC0002457</a></td>
+              <td>NRP</td>
+              <td>42.0</td>
+              <td>94.5</td>
+              <td>247.0</td>
+              <td>2.9e-77</td>
+          </tr>
+    
+          <tr>
+              <td>ctg1_orf12</td>
+              <td></td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000846/1">BGC0000846</a></td>
+              <td>Other</td>
+              <td>34.0</td>
+              <td>94.0</td>
+              <td>184.0</td>
+              <td>3.39e-53</td>
+          </tr>
+    
+          <tr>
+              <td>QBF29335.1</td>
+              <td>ATP-dependent_N-fumaramoyl-DAP-amino_acid_ligase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002294/1">BGC0002294</a></td>
+              <td>Other</td>
+              <td>33.0</td>
+              <td>96.3</td>
+              <td>159.0</td>
+              <td>9.22e-44</td>
+          </tr>
+    
+          <tr>
+              <td>KMO93432.1</td>
+              <td>Cysteine_synthase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002095/1">BGC0002095</a></td>
+              <td>NRP</td>
+              <td>34.0</td>
+              <td>66.8</td>
+              <td>102.0</td>
+              <td>8.53e-23</td>
+          </tr>
+    
+          <tr>
+              <td>ARU08088.1</td>
+              <td>mlcS</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001448/1">BGC0001448</a></td>
+              <td>NRP:Lipopeptide:Ca+-dependent lipopeptide</td>
+              <td>30.0</td>
+              <td>70.3</td>
+              <td>75.0</td>
+              <td>6.28e-14</td>
+          </tr>
+    
+          <tr>
+              <td>QCX41955.1</td>
+              <td>Amc18</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001957/1">BGC0001957</a></td>
+              <td>Polyketide</td>
+              <td>28.0</td>
+              <td>72.4</td>
+              <td>57.0</td>
+              <td>2.39e-08</td>
+          </tr>
+    
+          <tr>
+              <td>QHW08545.1</td>
+              <td>ATP-grasp_domain-containing_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002054/1">BGC0002054</a></td>
+              <td>Polyketide+NRP+Saccharide</td>
+              <td>28.0</td>
+              <td>72.4</td>
+              <td>57.0</td>
+              <td>2.39e-08</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

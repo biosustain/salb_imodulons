@@ -1,0 +1,102 @@
+ClusterBlast scores for NC_020990.1
+
+Table of genes, locations, strands and annotations of query cluster:
+XNR_RS28690	6520740	6521457	+	DUF1345 domain-containing protein	
+XNR_RS28695	6521836	6522631	-	DeoR/GlpR family DNA-binding transcription regulator	
+XNR_RS28700	6522726	6524085	-	gluconate:H+ symporter	
+XNR_RS28705	6524081	6525485	-	homoserine dehydrogenase	
+XNR_RS28710	6525714	6526983	+	four-carbon acid sugar kinase family protein	
+XNR_RS28715	6526979	6527618	+	class II aldolase/adducin family protein	
+XNR_RS28720	6527643	6528147	-	cupin domain-containing protein	
+XNR_RS28725	6528290	6528725	+	Rrf2 family transcriptional regulator	
+XNR_RS28730	6528721	6529654	+	DsbA family protein	
+XNR_RS28735	6530145	6531690	+	ABC transporter substrate-binding protein	
+XNR_RS28740	6531715	6532741	+	ABC transporter permease	
+XNR_RS28745	6532744	6533635	+	ABC transporter permease	
+XNR_RS28750	6533631	6534531	+	ABC transporter ATP-binding protein	
+XNR_RS28755	6534527	6535400	+	ABC transporter ATP-binding protein	
+XNR_RS28760	6535424	6536765	+	LLM class flavin-dependent oxidoreductase	
+XNR_RS28765	6536862	6537621	+	TAP domain protein	
+XNR_RS28770	6537798	6538643	-	helix-turn-helix transcriptional regulator	
+XNR_RS28775	6538705	6539461	-	SDR family oxidoreductase	
+XNR_RS28780	6539668	6540187	-	pyridoxamine 5'-phosphate oxidase family protein	
+XNR_RS28785	6540373	6541471	-	type III polyketide synthase	
+XNR_RS28790	6541559	6542792	-	cytochrome P450	
+XNR_RS28795	6543154	6543838	+	ABC transporter permease	
+XNR_RS28800	6543834	6544506	+	ABC transporter permease subunit	
+XNR_RS28805	6544505	6545450	+	ABC transporter substrate-binding protein	
+XNR_RS28810	6545453	6546617	-	betaine/proline/choline family ABC transporter ATP-binding protein	
+XNR_RS28815	6546740	6548054	+	alpha/beta fold hydrolase	
+XNR_RS28820	6548106	6548838	+	PIG-L deacetylase family protein	
+XNR_RS28825	6548905	6549541	+	XRE family transcriptional regulator	
+XNR_RS28830	6549666	6550635	+	NADPH:quinone oxidoreductase family protein	
+XNR_RS28835	6550631	6551816	+	acyl-CoA dehydrogenase family protein	
+XNR_RS28840	6551812	6552934	+	acyl-CoA dehydrogenase family protein	
+XNR_RS28845	6553091	6554699	+	ABC transporter substrate-binding protein	
+XNR_RS28850	6554731	6555697	+	ABC transporter permease	
+XNR_RS28855	6555689	6556559	+	ABC transporter permease	
+XNR_RS28860	6556555	6557557	+	ABC transporter ATP-binding protein	
+XNR_RS28865	6557549	6558263	+	ATP-binding cassette domain-containing protein	
+XNR_RS28870	6558383	6558578	+	hypothetical protein	
+XNR_RS28875	6558558	6559515	-	aminoglycoside phosphotransferase family protein	
+XNR_RS28880	6559583	6560084	-	DinB family protein	
+XNR_RS28885	6560137	6560518	-	SRPBCC family protein	
+
+
+Significant hits: 
+1. BGC0001846	valinomycin/montanastatin
+2. BGC0001310	naringenin
+3. BGC0001792	surugamide A/surugamide D
+
+
+Details:
+
+>>
+1. BGC0001846
+Source: valinomycin/montanastatin
+Type: NRP+Saccharide:Hybrid/tailoring saccharide
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 3558.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS28735	STAN_6707	81	791	91.24513618677042	2.95e-288
+XNR_RS28740	STAN_6708	75	471	100.29325513196481	1.25e-167
+XNR_RS28745	STAN_6709	83	459	99.66216216216216	1.12e-164
+XNR_RS28750	STAN_6710	78	399	90.63545150501672	1.09e-140
+XNR_RS28755	STAN_6711	70	375	99.3103448275862	1.4e-131
+XNR_RS28760	STAN_6712	87	805	98.87892376681614	1.77e-296
+XNR_RS28765	STAN_6714	59	258	100.79365079365078	1.05e-86
+
+
+
+>>
+2. BGC0001310
+Source: naringenin
+Type: Polyketide:Type III polyketide
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 1044.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS28785	SCLAV_5492	72	513	95.8904109589041	8.1e-184
+XNR_RS28790	SCLAV_5491	69	531	95.85365853658536	1.83e-188
+
+
+
+>>
+3. BGC0001792
+Source: surugamide A/surugamide D
+Type: NRP
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 847.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS28795	XNR_3438	66	259	95.15418502202643	1.14e-87
+XNR_RS28800	XNR_3439	60	238	99.55156950672645	5.37e-79
+XNR_RS28805	XNR_3440	61	350	99.68152866242038	7.22e-121
+

@@ -1,0 +1,65 @@
+ClusterBlast scores for NC_020990.1
+
+Table of genes, locations, strands and annotations of query cluster:
+XNR_RS07815	1865969	1866758	+	GntR family transcriptional regulator	
+XNR_RS07820	1867258	1869493	+	carbon starvation CstA family protein	
+XNR_RS07825	1869489	1869732	+	YbdD/YjiX family protein	
+XNR_RS07830	1870362	1872738	+	ribonucleoside-diphosphate reductase subunit alpha	
+XNR_RS07835	1872737	1873790	+	ribonucleotide-diphosphate reductase subunit beta	
+XNR_RS07840	1873876	1875244	-	cytochrome P450	
+XNR_RS07845	1875240	1876215	-	multidrug MFS transporter	
+XNR_RS07850	1876603	1877260	-	peptide deformylase	
+XNR_RS07855	1877352	1878345	-	hypothetical protein	
+XNR_RS07860	1878579	1878888	-	mycothiol system anti-sigma-R factor	
+XNR_RS07865	1878884	1879559	-	sigma-70 family RNA polymerase sigma factor	
+XNR_RS07870	1879938	1880619	-	hydrolase	
+XNR_RS07875	1880895	1881768	-	SOS response-associated peptidase	
+XNR_RS07880	1881857	1882580	+	M50 family metallopeptidase	
+XNR_RS07885	1882622	1883975	+	3-phosphoshikimate 1-carboxyvinyltransferase	
+XNR_RS07890	1883992	1885009	+	ribosome small subunit-dependent GTPase A	
+XNR_RS07895	1885136	1885460	+	multidrug efflux SMR transporter	
+XNR_RS07900	1885425	1886043	-	TetR/AcrR family transcriptional regulator	
+
+
+Significant hits: 
+1. BGC0002012	julichrome Q3-3/julichrome Q3-5
+2. BGC0000660	albaflavenone
+
+
+Details:
+
+>>
+1. BGC0002012
+Source: julichrome Q3-3/julichrome Q3-5
+Type: Polyketide
+Number of proteins with BLAST hits to this cluster: 7
+Cumulative BLAST score: 2729.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS07870	STAFG_RS30730	73	289	90.2654867256637	1.07e-99
+XNR_RS07875	STAFG_RS30725	73	443	100.0	8.58e-159
+XNR_RS07880	STAFG_RS30630	74	340	97.5	4.14e-119
+XNR_RS07885	STAFG_RS30625	83	744	98.88888888888889	3.63e-272
+XNR_RS07890	STAFG_RS30620	84	569	100.0	1.37e-206
+XNR_RS07895	STAFG_RS30615	88	185	100.0	3.5e-62
+XNR_RS07900	STAFG_RS30610	52	159	91.70731707317074	6e-49
+
+
+
+>>
+2. BGC0000660
+Source: albaflavenone
+Type: Terpene
+Number of proteins with BLAST hits to this cluster: 2
+Cumulative BLAST score: 907.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+CAB94607.1	CAB94607.1	1	1086	+	putative_lyase
+CAB94608.1	CAB94608.1	1083	2468	+	putative_cytochrome_P450
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS07840	CAB94608.1	56	501	101.53846153846153	8.72e-176
+XNR_RS07845	CAB94607.1	62	406	98.4567901234568	3.07e-142
+

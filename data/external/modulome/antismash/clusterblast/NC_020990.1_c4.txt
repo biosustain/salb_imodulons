@@ -1,0 +1,999 @@
+ClusterBlast scores for NC_020990.1
+
+Table of genes, locations, strands and annotations of query cluster:
+XNR_RS01695	416364	417264	+	hypothetical protein	
+XNR_RS01700	417455	419273	+	AMP-dependent synthetase/ligase	
+XNR_RS01705	419496	420003	+	GNAT family N-acetyltransferase	
+XNR_RS01710	420687	420903	+	hypothetical protein	
+XNR_RS01715	421100	421907	+	HlyD family efflux transporter periplasmic adaptor subunit	
+XNR_RS01720	421903	424201	+	NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit	
+
+
+Significant hits: 
+1. NC_020990	Streptomyces albidoflavus, complete sequence
+2. NZ_CP079112	Streptomyces albidoflavus strain LGO-A16 chromosome
+3. NZ_CP047147	Streptomyces sp. GF20 chromosome, complete genome
+4. NZ_CP091820	Streptomyces sp. NBU3104 chromosome, complete genome
+5. NZ_CP016824	Streptomyces sampsonii strain KJ40 chromosome, complete genome
+6. NZ_CP009802	Streptomyces sp. FR-008 chromosome, complete genome
+7. NZ_AP025692	Streptomyces sp. PLM4 chromosome
+8. NZ_CP063844	Streptomyces sp. A10(2020) chromosome, complete genome
+9. NZ_CP056773	Streptomyces violascens strain YIM 100212 chromosome, complete genome
+10. NZ_OX371412	Streptomyces albidoflavus strain CCOS 2040 isolate Stup19_F108 chromosome 1
+11. NZ_CP113103	Streptomyces sp. NA13 chromosome, complete genome
+12. NZ_KB890705	Streptomyces sp. LaPpAH-202 B048DRAFT_scaffold_1.2, whole genome shotgun sequence
+13. NZ_CP014485	Streptomyces albidoflavus strain SM254 chromosome, complete genome
+14. NZ_JAHUVY010000001	Streptomyces albidoflavus strain LGO-A19 A19_AS2_SC1, whole genome shotgun sequence
+15. NZ_CP026490	Streptomyces sp. 604F chromosome, complete genome
+16. NZ_CM002273	Streptomyces sp. PVA_94-07 strain PVA 94-07 chromosome, whole genome shotgun sequence
+17. NZ_CP106650	Streptomyces sp. GBA 94-10 4N24 strain GBA 94-10 chromosome, complete genome
+18. NZ_ML123109	Streptomyces sp. ADI96-15 scaffold003, whole genome shotgun sequence
+19. NZ_CP045704	Streptomyces rutgersensis strain NBH77 chromosome, complete genome
+20. NZ_ML123127	Streptomyces sp. ADI98-12 scaffold002, whole genome shotgun sequence
+21. NZ_BMSB01000002	Streptomyces diastaticus subsp. diastaticus strain JCM 4128 sequence002, whole genome shotgun sequence
+22. NZ_JACVQE020000001	Streptomyces sp. BRB081 Scaffold_1, whole genome shotgun sequence
+23. NZ_MNPQ01000007	Streptomyces albidoflavus strain OsiLf-2 Scaffold5_1, whole genome shotgun sequence
+24. NZ_AMPN02000002	Streptomyces sp. SM8 Scaffold_2, whole genome shotgun sequence
+25. NZ_JALLPQ010000001	Streptomyces sp. WAC00276 contig_2_pilon_pilon_pilon, whole genome shotgun sequence
+26. NZ_KZ195583	Streptomyces sp. CS227 scaffold00001, whole genome shotgun sequence
+27. NZ_CP064783	Streptomyces albidoflavus strain W68 chromosome, complete genome
+28. NZ_CP053539	Streptomyces sp. OUCMDZ-3434 chromosome
+29. NZ_CP076385	Streptomyces sp. G11C(2021) chromosome
+30. NZ_CP031742	Streptomyces koyangensis strain VK-A60T chromosome, complete genome
+31. NZ_CP049945	Streptomyces koyangensis strain SCSIO 5802 chromosome, complete genome
+32. NZ_CP011799	Streptomyces sp. PBH53 chromosome
+33. NZ_NBCN01000022	Streptomyces sp. CB03238 scaffold22, whole genome shotgun sequence
+34. NZ_CP065959	Streptomyces alfalfae strain Men-myco-93-63 chromosome, complete genome
+35. NZ_CP060742	Streptomyces alfalfae strain XN-04 chromosome, complete genome
+36. NZ_CP015588	Streptomyces alfalfae strain ACCC40021 chromosome, complete genome
+37. NZ_BNCA01000002	Streptomyces glebosus strain JCM 4954 sequence02, whole genome shotgun sequence
+38. NZ_CP023691	Streptomyces platensis strain ATCC 23948 chromosome, complete genome
+39. NZ_CP050976	Streptomyces sp. RPA4-5 chromosome
+40. NZ_CP098437	Streptomyces lydicamycinicus strain MMS22-DDSA8 chromosome, complete genome
+41. NZ_CP077658	Streptomyces sp. GMY02 chromosome, complete genome
+42. NZ_CP053189	Streptomyces sp. Jing01 chromosome, complete genome
+43. NZ_BMRM01000008	Streptomyces cinerochromogenes strain JCM 3385 sequence08, whole genome shotgun sequence
+44. NZ_CP084203	Streptomyces sp. Go40/10 strain Go 40/10 chromosome, complete genome
+45. NZ_AP024135	Streptomyces sp. EAS-AB2608 strain NBRC 114648 chromosome
+46. NC_017765	Streptomyces hygroscopicus subsp. jinggangensis 5008, complete sequence
+47. NZ_CP013219	Streptomyces hygroscopicus subsp. limoneus strain KCTC 1717 chromosome I
+48. NZ_KQ948353	Streptomyces corchorusii strain DSM 40340 PRJNA299223_s003, whole genome shotgun sequence
+49. NZ_CP033073	Streptomyces dangxiongensis strain Z022 chromosome, complete genome
+50. NZ_BMUE01000004	Streptomyces lucensis JCM 4490 sequence04, whole genome shotgun sequence
+
+
+Details:
+
+>>
+1. NC_020990
+Source: Streptomyces albidoflavus, complete sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 4059.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	XNR_RS01695	100	560	100.0	1.2e-202
+XNR_RS01700	XNR_RS01700	100	1188	100.0	0.0
+XNR_RS01705	XNR_RS01705	100	336	100.0	2.76e-118
+XNR_RS01710	XNR_RS01710	100	130	100.0	8.94e-40
+XNR_RS01715	XNR_RS01715	100	445	100.0	4.05e-158
+XNR_RS01720	XNR_RS01720	100	1400	100.0	0.0
+
+
+
+>>
+2. NZ_CP079112
+Source: Streptomyces albidoflavus strain LGO-A16 chromosome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 4040.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	STALF2_RS27975	99	553	100.0	1.34e-199
+XNR_RS01700	STALF2_RS27970	100	1184	100.0	0.0
+XNR_RS01705	STALF2_RS27965	100	336	100.0	2.76e-118
+XNR_RS01710	STALF2_RS27960	100	130	100.0	8.94e-40
+XNR_RS01715	STALF2_RS27955	100	445	100.0	4.05e-158
+XNR_RS01720	STALF2_RS27950	100	1392	100.0	0.0
+
+
+
+>>
+3. NZ_CP047147
+Source: Streptomyces sp. GF20 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 4037.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	GR131_RS28990	97	557	100.0	2.82e-201
+XNR_RS01700	GR131_RS28985	99	1177	100.0	0.0
+XNR_RS01705	GR131_RS28980	99	333	99.40476190476191	4.59e-117
+XNR_RS01710	GR131_RS28975	100	130	100.0	8.94e-40
+XNR_RS01715	GR131_RS28970	97	440	100.0	3.87e-156
+XNR_RS01720	GR131_RS28965	100	1400	100.0	0.0
+
+
+
+>>
+4. NZ_CP091820
+Source: Streptomyces sp. NBU3104 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 4033.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	L2I08_RS12720	99	553	100.0	9.42e-200
+XNR_RS01700	L2I08_RS12715	99	1176	100.0	0.0
+XNR_RS01705	L2I08_RS12710	99	332	99.40476190476191	1.87e-116
+XNR_RS01710	L2I08_RS12705	100	130	100.0	8.94e-40
+XNR_RS01715	L2I08_RS12700	100	445	100.0	4.05e-158
+XNR_RS01720	L2I08_RS12695	100	1397	100.0	0.0
+
+
+
+>>
+5. NZ_CP016824
+Source: Streptomyces sampsonii strain KJ40 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 4030.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	BEN82_RS27750	97	554	100.0	4.67e-200
+XNR_RS01700	BEN82_RS27745	99	1177	100.0	0.0
+XNR_RS01705	BEN82_RS27740	98	330	99.40476190476191	5.36e-116
+XNR_RS01710	BEN82_RS27735	100	130	100.0	8.94e-40
+XNR_RS01715	BEN82_RS27730	98	443	100.0	2.34e-157
+XNR_RS01720	BEN82_RS27725	100	1396	100.0	0.0
+
+
+
+>>
+6. NZ_CP009802
+Source: Streptomyces sp. FR-008 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 4029.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	SFR_RS02905	98	548	100.0	9.02e-198
+XNR_RS01700	SFR_RS02910	99	1177	100.0	0.0
+XNR_RS01705	SFR_RS02915	99	333	99.40476190476191	4.59e-117
+XNR_RS01710	SFR_RS02920	99	129	100.0	2.56e-39
+XNR_RS01715	SFR_RS02925	98	445	100.0	4.05e-158
+XNR_RS01720	SFR_RS02930	100	1397	100.0	0.0
+
+
+
+>>
+7. NZ_AP025692
+Source: Streptomyces sp. PLM4 chromosome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 4027.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	MTP06_RS27875	97	554	100.0	3.29e-200
+XNR_RS01700	MTP06_RS27870	99	1177	100.0	0.0
+XNR_RS01705	MTP06_RS27865	98	327	99.40476190476191	8.89e-115
+XNR_RS01710	MTP06_RS27860	100	130	100.0	8.94e-40
+XNR_RS01715	MTP06_RS27855	100	445	100.0	4.05e-158
+XNR_RS01720	MTP06_RS27850	99	1394	100.0	0.0
+
+
+
+>>
+8. NZ_CP063844
+Source: Streptomyces sp. A10(2020) chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 4027.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	IPZ55_RS02530	98	548	100.0	9.02e-198
+XNR_RS01700	IPZ55_RS02535	99	1174	100.0	0.0
+XNR_RS01705	IPZ55_RS02540	99	333	99.40476190476191	4.59e-117
+XNR_RS01710	IPZ55_RS02545	100	130	100.0	8.94e-40
+XNR_RS01715	IPZ55_RS02550	100	445	100.0	4.05e-158
+XNR_RS01720	IPZ55_RS02555	100	1397	100.0	0.0
+
+
+
+>>
+9. NZ_CP056773
+Source: Streptomyces violascens strain YIM 100212 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 4023.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	HWN34_RS02615	98	553	100.0	1.34e-199
+XNR_RS01700	HWN34_RS02620	99	1174	100.0	0.0
+XNR_RS01705	HWN34_RS02625	99	333	99.40476190476191	4.59e-117
+XNR_RS01710	HWN34_RS02630	100	130	100.0	8.94e-40
+XNR_RS01715	HWN34_RS02635	99	439	100.0	1.11e-155
+XNR_RS01720	HWN34_RS02640	99	1394	100.0	0.0
+
+
+
+>>
+10. NZ_OX371412
+Source: Streptomyces albidoflavus strain CCOS 2040 isolate Stup19_F108 chromosome 1
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 4023.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	OZE77_RS28205	99	553	100.0	1.34e-199
+XNR_RS01700	OZE77_RS28200	99	1174	100.0	0.0
+XNR_RS01705	OZE77_RS28195	99	333	99.40476190476191	4.59e-117
+XNR_RS01710	OZE77_RS28190	100	130	100.0	8.94e-40
+XNR_RS01715	OZE77_RS28185	99	439	100.0	1.11e-155
+XNR_RS01720	OZE77_RS28180	99	1394	100.0	0.0
+
+
+
+>>
+11. NZ_CP113103
+Source: Streptomyces sp. NA13 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 4008.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	OSU72_RS27455	96	547	100.0	1.82e-197
+XNR_RS01700	OSU72_RS27450	99	1174	100.0	0.0
+XNR_RS01705	OSU72_RS27445	98	327	99.40476190476191	8.89e-115
+XNR_RS01710	OSU72_RS27440	100	130	100.0	8.94e-40
+XNR_RS01715	OSU72_RS27435	100	445	100.0	4.05e-158
+XNR_RS01720	OSU72_RS27430	99	1385	100.0	0.0
+
+
+
+>>
+12. NZ_KB890705
+Source: Streptomyces sp. LaPpAH-202 B048DRAFT_scaffold_1.2, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 4001.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	B048_RS0107715	93	521	100.0	2.55e-187
+XNR_RS01700	B048_RS0107720	99	1175	100.0	0.0
+XNR_RS01705	B048_RS0107725	99	330	99.40476190476191	7.61e-116
+XNR_RS01710	B048_RS0107730	100	130	100.0	8.94e-40
+XNR_RS01715	B048_RS0107735	100	445	100.0	4.05e-158
+XNR_RS01720	B048_RS0107740	100	1400	100.0	0.0
+
+
+
+>>
+13. NZ_CP014485
+Source: Streptomyces albidoflavus strain SM254 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3981.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	Salbus254_RS02980	100	560	100.0	1.2e-202
+XNR_RS01700	Salbus254_RS02985	100	1181	100.0	0.0
+XNR_RS01705	Salbus254_RS02990	99	333	99.40476190476191	4.59e-117
+XNR_RS01710	Salbus254_RS02995	99	129	100.0	2.56e-39
+XNR_RS01715	Salbus254_RS03000	100	442	100.0	4.72e-157
+XNR_RS01720	Salbus254_RS03005	100	1336	92.6797385620915	0.0
+
+
+
+>>
+14. NZ_JAHUVY010000001
+Source: Streptomyces albidoflavus strain LGO-A19 A19_AS2_SC1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3941.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	STALF3_RS27545	100	559	100.0	4.87e-202
+XNR_RS01700	STALF3_RS27540	99	1163	98.67768595041322	0.0
+XNR_RS01705	STALF3_RS27535	98	327	99.40476190476191	1.26e-114
+XNR_RS01710	STALF3_RS27530	99	129	100.0	2.56e-39
+XNR_RS01715	STALF3_RS27525	98	369	85.82089552238806	2.1e-128
+XNR_RS01720	STALF3_RS27520	99	1394	100.0	0.0
+
+
+
+>>
+15. NZ_CP026490
+Source: Streptomyces sp. 604F chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3917.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	C3K23_RS28435	92	530	100.0	1.31e-190
+XNR_RS01700	C3K23_RS28430	96	1137	100.0	0.0
+XNR_RS01705	C3K23_RS28425	91	307	99.40476190476191	1.07e-106
+XNR_RS01710	C3K23_RS28420	100	130	100.0	8.94e-40
+XNR_RS01715	C3K23_RS28415	97	428	100.0	2.9e-151
+XNR_RS01720	C3K23_RS28410	99	1385	100.0	0.0
+
+
+
+>>
+16. NZ_CM002273
+Source: Streptomyces sp. PVA_94-07 strain PVA 94-07 chromosome, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3901.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	B590_RS02815	91	520	100.66889632107024	1.83e-186
+XNR_RS01700	B590_RS02820	96	1137	100.0	0.0
+XNR_RS01705	B590_RS02825	92	308	99.40476190476191	2.63e-107
+XNR_RS01710	B590_RS02830	100	130	100.0	8.94e-40
+XNR_RS01715	B590_RS02835	97	428	100.0	2.9e-151
+XNR_RS01720	B590_RS02840	98	1378	100.0	0.0
+
+
+
+>>
+17. NZ_CP106650
+Source: Streptomyces sp. GBA 94-10 4N24 strain GBA 94-10 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3901.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	B591_RS02780	91	520	100.66889632107024	1.83e-186
+XNR_RS01700	B591_RS02785	96	1137	100.0	0.0
+XNR_RS01705	B591_RS02790	92	308	99.40476190476191	2.63e-107
+XNR_RS01710	B591_RS02795	100	130	100.0	8.94e-40
+XNR_RS01715	B591_RS02800	97	428	100.0	2.9e-151
+XNR_RS01720	B591_RS02805	98	1378	100.0	0.0
+
+
+
+>>
+18. NZ_ML123109
+Source: Streptomyces sp. ADI96-15 scaffold003, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3895.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	EES44_RS17580	92	524	100.0	3.34e-188
+XNR_RS01700	EES44_RS17575	97	1140	100.0	0.0
+XNR_RS01705	EES44_RS17570	91	307	99.40476190476191	1.07e-106
+XNR_RS01710	EES44_RS17565	100	130	100.0	8.94e-40
+XNR_RS01715	EES44_RS17560	97	429	100.0	1.01e-151
+XNR_RS01720	EES44_RS17555	98	1365	100.0	0.0
+
+
+
+>>
+19. NZ_CP045704
+Source: Streptomyces rutgersensis strain NBH77 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3651.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	F0345_RS25480	84	472	96.98996655518395	1.69e-167
+XNR_RS01700	F0345_RS25475	88	1035	100.0	0.0
+XNR_RS01705	F0345_RS25470	82	280	99.40476190476191	3.54e-96
+XNR_RS01710	F0345_RS25465	89	117	100.0	9.72e-35
+XNR_RS01715	F0345_RS25460	92	407	100.0	4.84e-143
+XNR_RS01720	F0345_RS25455	96	1340	100.13071895424837	0.0
+
+
+
+>>
+20. NZ_ML123127
+Source: Streptomyces sp. ADI98-12 scaffold002, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3651.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	EES47_RS16780	84	472	96.98996655518395	1.69e-167
+XNR_RS01700	EES47_RS16785	88	1035	100.0	0.0
+XNR_RS01705	EES47_RS16790	82	280	99.40476190476191	3.54e-96
+XNR_RS01710	EES47_RS16795	89	117	100.0	9.72e-35
+XNR_RS01715	EES47_RS16800	92	407	100.0	4.84e-143
+XNR_RS01720	EES47_RS16805	96	1340	100.13071895424837	0.0
+
+
+
+>>
+21. NZ_BMSB01000002
+Source: Streptomyces diastaticus subsp. diastaticus strain JCM 4128 sequence002, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3648.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	IE098_RS04330	84	472	96.98996655518395	1.69e-167
+XNR_RS01700	IE098_RS04325	88	1031	100.0	0.0
+XNR_RS01705	IE098_RS04320	82	281	99.40476190476191	1.75e-96
+XNR_RS01710	IE098_RS04315	89	117	100.0	9.72e-35
+XNR_RS01715	IE098_RS04310	92	407	100.0	4.84e-143
+XNR_RS01720	IE098_RS04305	96	1340	100.13071895424837	0.0
+
+
+
+>>
+22. NZ_JACVQE020000001
+Source: Streptomyces sp. BRB081 Scaffold_1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 6
+Cumulative BLAST score: 3570.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	ICN76_RS02720	83	470	96.98996655518395	6.88e-167
+XNR_RS01700	ICN76_RS02725	87	1020	98.67768595041322	0.0
+XNR_RS01705	ICN76_RS02730	82	281	99.40476190476191	1.75e-96
+XNR_RS01710	ICN76_RS02735	89	117	100.0	9.72e-35
+XNR_RS01715	ICN76_RS02740	92	341	85.82089552238806	1.34e-117
+XNR_RS01720	ICN76_RS02745	96	1341	100.13071895424837	0.0
+
+
+
+>>
+23. NZ_MNPQ01000007
+Source: Streptomyces albidoflavus strain OsiLf-2 Scaffold5_1, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 3681.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BGV78_RS12460	BGV78_RS12460	180425	180929	+	GNAT_family_N-acetyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	BGV78_RS12450	97	543	100.0	8.63e-196
+XNR_RS01700	BGV78_RS12455	99	1171	100.0	0.0
+XNR_RS01710	BGV78_RS12465	100	130	100.0	8.94e-40
+XNR_RS01715	BGV78_RS12470	100	445	100.0	4.05e-158
+XNR_RS01720	BGV78_RS12475	100	1392	100.0	0.0
+
+
+
+>>
+24. NZ_AMPN02000002
+Source: Streptomyces sp. SM8 Scaffold_2, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 5
+Cumulative BLAST score: 2570.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+SM8_RS02990	SM8_RS02990	564865	566633	+	AMP-dependent_synthetase/ligase
+SM8_RS33260	SM8_RS33260	571106	571994	+	NHLP_bacteriocin_export_ABC_transporter_permease/ATPase_subunit
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01695	SM8_RS02985	94	529	100.0	2.2e-190
+XNR_RS01705	SM8_RS02995	99	332	99.40476190476191	1.87e-116
+XNR_RS01710	SM8_RS03000	100	130	100.0	8.94e-40
+XNR_RS01715	SM8_RS03005	99	399	92.91044776119402	8.54e-132
+XNR_RS01720	SM8_RS03005	100	1180	82.61437908496731	0.0
+
+
+
+>>
+25. NZ_JALLPQ010000001
+Source: Streptomyces sp. WAC00276 contig_2_pilon_pilon_pilon, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2258.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01705	MWG58_RS02500	92	305	99.40476190476191	6.21e-106
+XNR_RS01710	MWG58_RS02505	100	130	100.0	8.94e-40
+XNR_RS01715	MWG58_RS02510	99	442	100.0	9.52e-157
+XNR_RS01720	MWG58_RS02515	99	1381	100.0	0.0
+
+
+
+>>
+26. NZ_KZ195583
+Source: Streptomyces sp. CS227 scaffold00001, whole genome shotgun sequence
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2255.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01705	B9W68_RS02905	91	303	99.40476190476191	5.1e-105
+XNR_RS01710	B9W68_RS02910	100	130	100.0	8.94e-40
+XNR_RS01715	B9W68_RS02915	99	438	100.0	2.24e-155
+XNR_RS01720	B9W68_RS02920	97	1384	100.0	0.0
+
+
+
+>>
+27. NZ_CP064783
+Source: Streptomyces albidoflavus strain W68 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2254.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01705	IT782_RS02435	93	306	99.40476190476191	2.16e-106
+XNR_RS01710	IT782_RS02440	100	130	100.0	8.94e-40
+XNR_RS01715	IT782_RS02445	99	439	100.0	7.81e-156
+XNR_RS01720	IT782_RS02450	98	1379	100.0	0.0
+
+
+
+>>
+28. NZ_CP053539
+Source: Streptomyces sp. OUCMDZ-3434 chromosome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2232.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01705	HN026_RS02450	87	291	99.40476190476191	1.91e-100
+XNR_RS01710	HN026_RS02455	100	130	100.0	8.94e-40
+XNR_RS01715	HN026_RS02460	97	428	100.0	2.9e-151
+XNR_RS01720	HN026_RS02465	99	1383	100.0	0.0
+
+
+
+>>
+29. NZ_CP076385
+Source: Streptomyces sp. G11C(2021) chromosome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2199.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01705	KNZ81_RS03015	86	261	91.66666666666666	1.3e-88
+XNR_RS01710	KNZ81_RS03020	100	130	100.0	8.94e-40
+XNR_RS01715	KNZ81_RS03025	95	426	100.0	1.18e-150
+XNR_RS01720	KNZ81_RS03030	99	1382	100.0	0.0
+
+
+
+>>
+30. NZ_CP031742
+Source: Streptomyces koyangensis strain VK-A60T chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2075.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+D0C37_RS03265	D0C37_RS03265	802028	802228	+	GNAT_family_N-acetyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01705	D0C37_RS03265	88	117	38.095238095238095	4.68e-33
+XNR_RS01710	D0C37_RS03270	99	129	100.0	2.56e-39
+XNR_RS01715	D0C37_RS03275	97	438	100.0	3.17e-155
+XNR_RS01720	D0C37_RS03280	99	1391	100.0	0.0
+
+
+
+>>
+31. NZ_CP049945
+Source: Streptomyces koyangensis strain SCSIO 5802 chromosome, complete genome
+Type: RiPP-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2066.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+G9U55_RS27490	G9U55_RS27490	6249217	6249402	-	GNAT_family_N-acetyltransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01705	G9U55_RS27490	86	108	35.11904761904761	8.84e-30
+XNR_RS01710	G9U55_RS27485	99	129	100.0	2.56e-39
+XNR_RS01715	G9U55_RS27480	97	438	100.0	3.17e-155
+XNR_RS01720	G9U55_RS27475	99	1391	100.0	0.0
+
+
+
+>>
+32. NZ_CP011799
+Source: Streptomyces sp. PBH53 chromosome
+Type: NRPS,RiPP-like
+Number of proteins with BLAST hits to this cluster: 4
+Cumulative BLAST score: 2255.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+QR97_RS36105	QR97_RS36105	8187295	8188117	-	serine/threonine-protein_phosphatase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01700	QR97_RS36195	54	616	100.99173553719008	2.63e-214
+XNR_RS01710	QR97_RS36090	58	74	101.40845070422534	1.7e-17
+XNR_RS01715	QR97_RS36085	55	266	100.0	1.43e-87
+XNR_RS01720	QR97_RS36080	81	1090	93.72549019607843	0.0
+XNR_RS01720	QR97_RS36075	33	209	83.66013071895425	1.24e-54
+
+
+
+>>
+33. NZ_NBCN01000022
+Source: Streptomyces sp. CB03238 scaffold22, whole genome shotgun sequence
+Type: RiPP-like,T1PKS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1687.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+BKD26_RS31015	BKD26_RS31015	90302	90412	-	LacI_family_DNA-binding_transcriptional_regulator
+BKD26_RS41685	BKD26_RS41685	91088	91264	+	IS5/IS1182_family_transposase
+BKD26_RS41690	BKD26_RS41690	91278	91745	-	IS5/IS1182_family_transposase
+BKD26_RS31025	BKD26_RS31025	91722	92690	-	WYL_domain-containing_protein
+BKD26_RS31045	BKD26_RS31045	96216	97127	-	alkaline_phosphatase_family_protein
+BKD26_RS31115	BKD26_RS31115	120915	121270	+	helix-turn-helix_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	BKD26_RS30995	52	64	100.0	1.58e-13
+XNR_RS01715	BKD26_RS31000	58	283	100.37313432835822	6.33e-94
+XNR_RS01720	BKD26_RS31005	83	1132	94.90196078431372	0.0
+XNR_RS01720	BKD26_RS31010	33	208	80.7843137254902	3.56e-54
+
+
+
+>>
+34. NZ_CP065959
+Source: Streptomyces alfalfae strain Men-myco-93-63 chromosome, complete genome
+Type: NRPS,RiPP-like,T1PKS,indole,other,terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1685.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+I8755_RS03135	I8755_RS03135	750210	750377	-	AraC_family_transcriptional_regulator
+I8755_RS38400	I8755_RS38400	791743	792138	+	alpha-amylase_family_glycosyl_hydrolase
+I8755_RS38415	I8755_RS38415	794920	795744	-	PAS_domain_S-box_protein
+I8755_RS03385	I8755_RS03385	803235	804356	+	family_2_encapsulin_nanocompartment_cargo_protein_terpene_cyclase
+I8755_RS03500	I8755_RS03500	833919	835058	+	S1_family_peptidase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	I8755_RS03415	60	84	105.63380281690141	2.01e-21
+XNR_RS01715	I8755_RS03410	59	288	100.0	6.31e-96
+XNR_RS01720	I8755_RS03405	82	1104	93.59477124183006	0.0
+XNR_RS01720	I8755_RS03400	32	209	80.65359477124183	1.02e-54
+
+
+
+>>
+35. NZ_CP060742
+Source: Streptomyces alfalfae strain XN-04 chromosome, complete genome
+Type: NRPS,RiPP-like,T1PKS,indole,other,terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1683.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+H9W91_RS03030	H9W91_RS03030	719205	719372	-	AraC_family_transcriptional_regulator
+H9W91_RS03225	H9W91_RS03225	760378	760806	-	Secreted_glycosyl_hydrolase
+H9W91_RS03230	H9W91_RS03230	760833	761009	+	ABC_transporter_permease_subunit
+H9W91_RS03235	H9W91_RS03235	761006	762086	+	alpha-amylase_family_glycosyl_hydrolase
+H9W91_RS03285	H9W91_RS03285	772816	773937	+	2-methylisoborneol_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	H9W91_RS03315	60	84	105.63380281690141	2.01e-21
+XNR_RS01715	H9W91_RS03310	59	288	100.0	6.31e-96
+XNR_RS01720	H9W91_RS03305	81	1102	93.59477124183006	0.0
+XNR_RS01720	H9W91_RS03300	32	209	80.65359477124183	1.02e-54
+
+
+
+>>
+36. NZ_CP015588
+Source: Streptomyces alfalfae strain ACCC40021 chromosome, complete genome
+Type: NRPS,RiPP-like,T1PKS,indole,other,terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1682.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+A7J05_RS34090	A7J05_RS34090	7788419	7789413	-	non-homologous_end-joining_DNA_ligase
+A7J05_RS34210	A7J05_RS34210	7815369	7816885	+	MFS_transporter
+A7J05_RS34315	A7J05_RS34315	7844071	7845192	-	family_2_encapsulin_nanocompartment_cargo_protein_terpene_cyclase
+A7J05_RS34365	A7J05_RS34365	7855922	7857002	-	alpha-amylase_family_glycosyl_hydrolase
+A7J05_RS38380	A7J05_RS38380	7856999	7857175	-	ABC_transporter_permease_subunit
+A7J05_RS34370	A7J05_RS34370	7857202	7857630	+	Secreted_glycosyl_hydrolase
+A7J05_RS34565	A7J05_RS34565	7898650	7898817	+	AraC_family_transcriptional_regulator
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	A7J05_RS34285	60	84	105.63380281690141	2.01e-21
+XNR_RS01715	A7J05_RS34290	59	285	100.0	5.13e-95
+XNR_RS01720	A7J05_RS34295	81	1103	93.59477124183006	0.0
+XNR_RS01720	A7J05_RS34300	32	210	80.65359477124183	7.54e-55
+
+
+
+>>
+37. NZ_BNCA01000002
+Source: Streptomyces glebosus strain JCM 4954 sequence02, whole genome shotgun sequence
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1670.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	IE314_RS03485	67	63	60.56338028169014	4.76e-13
+XNR_RS01715	IE314_RS03480	59	290	100.0	8.02e-97
+XNR_RS01720	IE314_RS03475	83	1131	93.72549019607843	0.0
+XNR_RS01720	IE314_RS03470	31	186	80.26143790849673	5.73e-47
+
+
+
+>>
+38. NZ_CP023691
+Source: Streptomyces platensis strain ATCC 23948 chromosome, complete genome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1670.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	CP981_RS03780	67	63	60.56338028169014	4.76e-13
+XNR_RS01715	CP981_RS03775	59	289	100.0	2.29e-96
+XNR_RS01720	CP981_RS03770	84	1131	93.72549019607843	0.0
+XNR_RS01720	CP981_RS03765	31	187	80.26143790849673	4.26e-47
+
+
+
+>>
+39. NZ_CP050976
+Source: Streptomyces sp. RPA4-5 chromosome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1669.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	HEP86_RS05285	65	62	60.56338028169014	1.36e-12
+XNR_RS01715	HEP86_RS05280	59	291	100.0	3.99e-97
+XNR_RS01720	HEP86_RS05275	83	1130	93.72549019607843	0.0
+XNR_RS01720	HEP86_RS05270	31	186	80.26143790849673	1.03e-46
+
+
+
+>>
+40. NZ_CP098437
+Source: Streptomyces lydicamycinicus strain MMS22-DDSA8 chromosome, complete genome
+Type: RiPP-like,terpene
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1660.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+NCG97_RS34005	NCG97_RS34005	7562013	7562102	-	deaminase
+NCG97_RS34030	NCG97_RS34030	7566608	7567850	-	MFS_transporter
+NCG97_RS34040	NCG97_RS34040	7569148	7569306	+	ABC_transporter_ATP-binding_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	NCG97_RS33980	66	48	45.07042253521127	4.37e-07
+XNR_RS01715	NCG97_RS33985	59	291	100.0	2.81e-97
+XNR_RS01720	NCG97_RS33990	84	1132	93.72549019607843	0.0
+XNR_RS01720	NCG97_RS33995	31	189	80.13071895424837	9.85e-48
+
+
+
+>>
+41. NZ_CP077658
+Source: Streptomyces sp. GMY02 chromosome, complete genome
+Type: RiPP-like,T3PKS
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1654.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+KQY30_RS05005	KQY30_RS05005	1209557	1210351	+	enoyl-CoA_hydratase-related_protein
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	KQY30_RS04970	54	56	60.56338028169014	4.96e-10
+XNR_RS01715	KQY30_RS04965	58	290	100.0	8.02e-97
+XNR_RS01720	KQY30_RS04960	83	1109	92.54901960784314	0.0
+XNR_RS01720	KQY30_RS04955	33	199	72.94117647058823	2.87e-51
+
+
+
+>>
+42. NZ_CP053189
+Source: Streptomyces sp. Jing01 chromosome, complete genome
+Type: NRPS,RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1650.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	HKX69_RS02590	56	70	101.40845070422534	1.14e-15
+XNR_RS01715	HKX69_RS02595	56	271	100.0	3.07e-89
+XNR_RS01720	HKX69_RS02600	81	1095	93.72549019607843	0.0
+XNR_RS01720	HKX69_RS02605	33	214	83.66013071895425	3.28e-56
+
+
+
+>>
+43. NZ_BMRM01000008
+Source: Streptomyces cinerochromogenes strain JCM 3385 sequence08, whole genome shotgun sequence
+Type: NRPS,RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1649.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+IEZ20_RS39720	IEZ20_RS39720	11749	11934	-	phosphotransferase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	IEZ20_RS16980	54	72	101.40845070422534	1.39e-16
+XNR_RS01715	IEZ20_RS16985	57	277	100.0	1.15e-91
+XNR_RS01720	IEZ20_RS16990	81	1093	93.72549019607843	0.0
+XNR_RS01720	IEZ20_RS16995	32	207	83.52941176470588	4.14e-54
+
+
+
+>>
+44. NZ_CP084203
+Source: Streptomyces sp. Go40/10 strain Go 40/10 chromosome, complete genome
+Type: NRPS,RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1649.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+KBP30_RS05385	KBP30_RS05385	1254230	1254391	-	phosphotransferase
+KBP30_RS05490	KBP30_RS05490	1316133	1316493	+	PaaI_family_thioesterase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	KBP30_RS05495	54	72	101.40845070422534	1.39e-16
+XNR_RS01715	KBP30_RS05500	57	277	100.0	1.15e-91
+XNR_RS01720	KBP30_RS05505	81	1093	93.72549019607843	0.0
+XNR_RS01720	KBP30_RS05510	32	207	83.52941176470588	4.14e-54
+
+
+
+>>
+45. NZ_AP024135
+Source: Streptomyces sp. EAS-AB2608 strain NBRC 114648 chromosome
+Type: NRPS,RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1640.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+K6K39_RS03560	K6K39_RS03560	888475	889753	+	SpoIIE_family_protein_phosphatase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	K6K39_RS03575	58	74	101.40845070422534	1.7e-17
+XNR_RS01715	K6K39_RS03580	55	268	100.0	5.01e-88
+XNR_RS01720	K6K39_RS03585	81	1090	93.72549019607843	0.0
+XNR_RS01720	K6K39_RS03590	33	208	83.66013071895425	2.27e-54
+
+
+
+>>
+46. NC_017765
+Source: Streptomyces hygroscopicus subsp. jinggangensis 5008, complete sequence
+Type: NRPS,RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1640.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	SHJG_RS40700	56	70	101.40845070422534	1.14e-15
+XNR_RS01715	SHJG_RS40695	55	266	100.0	2.87e-87
+XNR_RS01720	SHJG_RS40690	81	1090	93.72549019607843	0.0
+XNR_RS01720	SHJG_RS40685	33	214	83.79084967320262	3.28e-56
+
+
+
+>>
+47. NZ_CP013219
+Source: Streptomyces hygroscopicus subsp. limoneus strain KCTC 1717 chromosome I
+Type: NRPS,RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1640.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	SHL15_RS34695	56	70	101.40845070422534	1.14e-15
+XNR_RS01715	SHL15_RS34690	55	266	100.0	2.87e-87
+XNR_RS01720	SHL15_RS34685	81	1090	93.72549019607843	0.0
+XNR_RS01720	SHL15_RS34680	33	214	83.52941176470588	2.42e-56
+
+
+
+>>
+48. NZ_KQ948353
+Source: Streptomyces corchorusii strain DSM 40340 PRJNA299223_s003, whole genome shotgun sequence
+Type: NRPS,RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1640.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	AQJ11_RS09210	56	70	101.40845070422534	1.14e-15
+XNR_RS01715	AQJ11_RS09215	55	266	100.0	2.87e-87
+XNR_RS01720	AQJ11_RS09220	81	1090	93.72549019607843	0.0
+XNR_RS01720	AQJ11_RS09225	33	214	83.92156862745098	3.28e-56
+
+
+
+>>
+49. NZ_CP033073
+Source: Streptomyces dangxiongensis strain Z022 chromosome, complete genome
+Type: NRPS,RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1639.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+D9753_RS02820	D9753_RS02820	591350	592397	+	galactosyldiacylglycerol_synthase
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	D9753_RS02795	58	77	100.0	1.42e-18
+XNR_RS01715	D9753_RS02800	53	264	100.0	1.64e-86
+XNR_RS01720	D9753_RS02805	81	1089	94.24836601307189	0.0
+XNR_RS01720	D9753_RS02810	33	209	83.66013071895425	9.16e-55
+
+
+
+>>
+50. NZ_BMUE01000004
+Source: Streptomyces lucensis JCM 4490 sequence04, whole genome shotgun sequence
+Type: NRPS,RiPP-like
+Number of proteins with BLAST hits to this cluster: 3
+Cumulative BLAST score: 1637.0
+
+Table of genes, locations, strands and annotations of subject cluster:
+
+Table of Blast hits (query gene, subject gene, %identity, blast score, %coverage, e-value):
+XNR_RS01710	IE177_RS11485	58	76	100.0	4.08e-18
+XNR_RS01715	IE177_RS11490	54	258	100.0	2.17e-84
+XNR_RS01720	IE177_RS11495	80	1079	94.24836601307189	0.0
+XNR_RS01720	IE177_RS11500	34	224	80.65359477124183	1.17e-59
+

@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>EFL36751.1</td>
+              <td>regulatory_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000518/1">BGC0000518</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>36.0</td>
+              <td>98.4</td>
+              <td>323.0</td>
+              <td>8.36e-99</td>
+          </tr>
+    
+          <tr>
+              <td>EFL36747.1</td>
+              <td>magnesium_or_manganese-dependent_protein_phosphatase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000518/1">BGC0000518</a></td>
+              <td>RiPP:Lanthipeptide</td>
+              <td>39.0</td>
+              <td>63.4</td>
+              <td>238.0</td>
+              <td>2.11e-68</td>
+          </tr>
+    
+          <tr>
+              <td>SCN11967.1</td>
+              <td>putative_serine_phosphatase_RsbU,_regulator_of_sigma_subunit</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001580/1">BGC0001580</a></td>
+              <td>Polyketide</td>
+              <td>37.0</td>
+              <td>57.5</td>
+              <td>217.0</td>
+              <td>3.5e-60</td>
+          </tr>
+    
+          <tr>
+              <td>ADM46380.1</td>
+              <td>magnesium_or_manganese-dependent_protein_phosphatase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000106/1">BGC0000106</a></td>
+              <td>Polyketide</td>
+              <td>34.0</td>
+              <td>67.3</td>
+              <td>213.0</td>
+              <td>1.1e-58</td>
+          </tr>
+    
+          <tr>
+              <td>AAS79440.1</td>
+              <td>conserved_hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000035/1">BGC0000035</a></td>
+              <td>Polyketide</td>
+              <td>38.0</td>
+              <td>40.8</td>
+              <td>164.0</td>
+              <td>1.15e-45</td>
+          </tr>
+    
+          <tr>
+              <td>TXD00044.1</td>
+              <td>SpoIIE_family_protein_phosphatase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001877/1">BGC0001877</a></td>
+              <td>Polyketide</td>
+              <td>34.0</td>
+              <td>60.8</td>
+              <td>165.0</td>
+              <td>1.28e-42</td>
+          </tr>
+    
+          <tr>
+              <td>APR73645.1</td>
+              <td>PAS_sensor_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001625/1">BGC0001625</a></td>
+              <td>Polyketide</td>
+              <td>32.0</td>
+              <td>60.5</td>
+              <td>159.0</td>
+              <td>1.13e-40</td>
+          </tr>
+    
+          <tr>
+              <td>BBA21053.1</td>
+              <td>putative_signal_transduction_histidine_kinase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001740/1">BGC0001740</a></td>
+              <td>NRP+Polyketide</td>
+              <td>34.0</td>
+              <td>43.1</td>
+              <td>152.0</td>
+              <td>2.56e-38</td>
+          </tr>
+    
+          <tr>
+              <td>ABD65941.1</td>
+              <td>PAS_protein_phosphatase_2C-like_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000341/1">BGC0000341</a></td>
+              <td>NRP</td>
+              <td>36.0</td>
+              <td>44.1</td>
+              <td>128.0</td>
+              <td>1.38e-30</td>
+          </tr>
+    
+          <tr>
+              <td>WP_018891764.1</td>
+              <td>SpoIIE_family_protein_phosphatase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001558/1">BGC0001558</a></td>
+              <td>Polyketide</td>
+              <td>39.0</td>
+              <td>34.5</td>
+              <td>118.0</td>
+              <td>3.1e-27</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

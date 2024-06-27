@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>AAQ82550.2</td>
+              <td>PabC</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000034/1">BGC0000034</a></td>
+              <td>NRP+Polyketide</td>
+              <td>99.0</td>
+              <td>100.0</td>
+              <td>504.0</td>
+              <td>1.65e-183</td>
+          </tr>
+    
+          <tr>
+              <td>BBD17755.1</td>
+              <td>aminotranferase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001918/1">BGC0001918</a></td>
+              <td>NRP+Polyketide</td>
+              <td>55.0</td>
+              <td>100.4</td>
+              <td>266.0</td>
+              <td>9.46e-90</td>
+          </tr>
+    
+          <tr>
+              <td>AEF16040.1</td>
+              <td>PabC</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000953/1">BGC0000953</a></td>
+              <td>Saccharide:Aminoglycoside</td>
+              <td>49.0</td>
+              <td>101.2</td>
+              <td>224.0</td>
+              <td>3.68e-73</td>
+          </tr>
+    
+          <tr>
+              <td>D3C59_17835</td>
+              <td>aminotransferase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002652/1">BGC0002652</a></td>
+              <td>Other+Saccharide</td>
+              <td>50.0</td>
+              <td>89.1</td>
+              <td>202.0</td>
+              <td>1.86e-64</td>
+          </tr>
+    
+          <tr>
+              <td>QIQ28655.1</td>
+              <td>Nbc59</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002541/1">BGC0002541</a></td>
+              <td>Other</td>
+              <td>47.0</td>
+              <td>98.8</td>
+              <td>201.0</td>
+              <td>7.33e-64</td>
+          </tr>
+    
+          <tr>
+              <td>OJF16261.1</td>
+              <td>PabC</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001491/1">BGC0001491</a></td>
+              <td>Polyketide</td>
+              <td>48.0</td>
+              <td>94.9</td>
+              <td>195.0</td>
+              <td>7.31e-62</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

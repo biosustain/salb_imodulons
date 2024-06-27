@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>AGI87385.1</td>
+              <td>oxygenase_(secreted_protein)</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002358/1">BGC0002358</a></td>
+              <td>Polyketide</td>
+              <td>100.0</td>
+              <td>100.0</td>
+              <td>644.0</td>
+              <td>7.9e-237</td>
+          </tr>
+    
+          <tr>
+              <td>AAU34208.1</td>
+              <td>predicted_non-heme_iron_hydroxylase_MppO</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000388/1">BGC0000388</a></td>
+              <td>NRP</td>
+              <td>40.0</td>
+              <td>99.4</td>
+              <td>225.0</td>
+              <td>1.98e-71</td>
+          </tr>
+    
+          <tr>
+              <td>AGD80617.1</td>
+              <td>non-heme_iron_hydroxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000394/1">BGC0000394</a></td>
+              <td>NRP</td>
+              <td>43.0</td>
+              <td>101.8</td>
+              <td>214.0</td>
+              <td>5.05e-67</td>
+          </tr>
+    
+          <tr>
+              <td>QEO74896.1</td>
+              <td>Dioxygenase_TauD/TfdA</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002588/1">BGC0002588</a></td>
+              <td>Other</td>
+              <td>38.0</td>
+              <td>104.9</td>
+              <td>210.0</td>
+              <td>1.97e-65</td>
+          </tr>
+    
+          <tr>
+              <td>AAG02347.1</td>
+              <td>clavaminic_acid_synthase-like_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000963/1">BGC0000963</a></td>
+              <td>NRP:Glycopeptide+Polyketide:Modular type I polyketide+Saccharide:Hybrid/tailoring saccharide</td>
+              <td>40.0</td>
+              <td>100.3</td>
+              <td>203.0</td>
+              <td>8.46e-63</td>
+          </tr>
+    
+          <tr>
+              <td>BAO84867.1</td>
+              <td>putative_dioxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000414/1">BGC0000414</a></td>
+              <td>NRP</td>
+              <td>38.0</td>
+              <td>97.2</td>
+              <td>203.0</td>
+              <td>1.03e-62</td>
+          </tr>
+    
+          <tr>
+              <td>QTT72107.1</td>
+              <td>TauD/TfdA_family_dioxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002350/1">BGC0002350</a></td>
+              <td>NRP+Polyketide+Saccharide</td>
+              <td>40.0</td>
+              <td>100.3</td>
+              <td>202.0</td>
+              <td>1.68e-62</td>
+          </tr>
+    
+          <tr>
+              <td>ABR67746.1</td>
+              <td>CmnC</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000316/1">BGC0000316</a></td>
+              <td>NRP</td>
+              <td>41.0</td>
+              <td>102.1</td>
+              <td>199.0</td>
+              <td>1.92e-61</td>
+          </tr>
+    
+          <tr>
+              <td>QYX30484.1</td>
+              <td>L-enduracididine_beta-hydroxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002148/1">BGC0002148</a></td>
+              <td>Alkaloid</td>
+              <td>34.0</td>
+              <td>102.8</td>
+              <td>184.0</td>
+              <td>3.1e-55</td>
+          </tr>
+    
+          <tr>
+              <td>SPE99795.1</td>
+              <td>L-asparagine_oxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002567/1">BGC0002567</a></td>
+              <td>Other</td>
+              <td>36.0</td>
+              <td>93.6</td>
+              <td>159.0</td>
+              <td>5.77e-46</td>
+          </tr>
+    
+          <tr>
+              <td>CBG67726.1</td>
+              <td>putative_oxygenase_(putative_secreted_protein)</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002568/1">BGC0002568</a></td>
+              <td>Other</td>
+              <td>37.0</td>
+              <td>94.5</td>
+              <td>157.0</td>
+              <td>4.41e-45</td>
+          </tr>
+    
+          <tr>
+              <td>CAB38880.1</td>
+              <td>Asparagine_oxygenase_(AsnO)</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000315/1">BGC0000315</a></td>
+              <td>NRP:Lipopeptide:Ca+-dependent lipopeptide</td>
+              <td>37.0</td>
+              <td>104.0</td>
+              <td>134.0</td>
+              <td>2.84e-36</td>
+          </tr>
+    
+          <tr>
+              <td>ALV82360.1</td>
+              <td>oxygenase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001370/1">BGC0001370</a></td>
+              <td>NRP</td>
+              <td>37.0</td>
+              <td>91.1</td>
+              <td>118.0</td>
+              <td>2.27e-30</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>AAN85484.1</td>
+              <td>RNA_polymerase_ECF-type_sigma_factor</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001101/1">BGC0001101</a></td>
+              <td>NRP+Polyketide:Modular type I polyketide+Polyketide:Trans-AT type I polyketide</td>
+              <td>50.0</td>
+              <td>96.1</td>
+              <td>240.0</td>
+              <td>6.39e-78</td>
+          </tr>
+    
+          <tr>
+              <td>ARU08062.1</td>
+              <td>hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001448/1">BGC0001448</a></td>
+              <td>NRP:Lipopeptide:Ca+-dependent lipopeptide</td>
+              <td>44.0</td>
+              <td>96.7</td>
+              <td>171.0</td>
+              <td>6.5e-51</td>
+          </tr>
+    
+          <tr>
+              <td>ACJ24851.1</td>
+              <td>putative_ECF-family_RNA_polymerase_sigma_factor</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000119/1">BGC0000119</a></td>
+              <td>Polyketide:Iterative type I polyketide+Saccharide:Hybrid/tailoring saccharide</td>
+              <td>40.0</td>
+              <td>89.5</td>
+              <td>151.0</td>
+              <td>1.87e-41</td>
+          </tr>
+    
+          <tr>
+              <td>PHM31512.1</td>
+              <td>RNA_polymerase_sigma_factor</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001868/1">BGC0001868</a></td>
+              <td>Other:Phenazine</td>
+              <td>34.0</td>
+              <td>95.1</td>
+              <td>140.0</td>
+              <td>2.2e-39</td>
+          </tr>
+    
+          <tr>
+              <td>WP_040253470.1</td>
+              <td>sigma-70_family_RNA_polymerase_sigma_factor</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001596/1">BGC0001596</a></td>
+              <td>Polyketide</td>
+              <td>35.0</td>
+              <td>95.1</td>
+              <td>135.0</td>
+              <td>1.98e-37</td>
+          </tr>
+    
+          <tr>
+              <td>AIT42114.1</td>
+              <td>putative_sigma_factor</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001221/1">BGC0001221</a></td>
+              <td>Other:Phenazine</td>
+              <td>37.0</td>
+              <td>76.6</td>
+              <td>112.0</td>
+              <td>1.82e-28</td>
+          </tr>
+    
+          <tr>
+              <td>ATV95614.1</td>
+              <td>RNA_polymerase_sigma-70_factor</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001503/1">BGC0001503</a></td>
+              <td>Polyketide</td>
+              <td>32.0</td>
+              <td>72.7</td>
+              <td>58.0</td>
+              <td>4.71e-09</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>

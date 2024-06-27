@@ -1,0 +1,243 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" height="550" width="800" viewBox="0 0 800 550" preserveAspectRatio="none"  >
+<g label="Query sequence" class="clusterblast-cluster"  >
+<text x="5" y="20" class="clusterblast-acc"  >
+Query sequence</text>
+<line x1="10" y1="35" x2="778.0" y2="35" style="stroke-width:1; stroke:grey; "  />
+<polygon points="6,40 89,40 94,35 89,30 6,30 6,40 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS01695&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 416364 - 417264" locus_tag="XNR_RS01695" class="clusterblast-orf" id="general-4_q0_0_all"  />
+<polygon points="113,40 286,40 291,35 286,30 113,30 113,40 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS01700&lt;/b&gt;&lt;br&gt;AMP-dependent synthetase/ligase&lt;br&gt;Location: 417455 - 419273" locus_tag="XNR_RS01700" class="clusterblast-orf" id="general-4_q1_0_all"  />
+<polygon points="313,40 358,40 363,35 358,30 313,30 313,40 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS01705&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 419496 - 420003" locus_tag="XNR_RS01705" class="clusterblast-orf" id="general-4_q2_0_all"  />
+<polygon points="430,40 446,40 451,35 446,30 430,30 430,40 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS01710&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 420687 - 420903" locus_tag="XNR_RS01710" class="clusterblast-orf" id="general-4_q3_0_all"  />
+<polygon points="471,40 545,40 550,35 545,30 471,30 471,40 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS01715&lt;/b&gt;&lt;br&gt;HlyD family efflux transporter periplasmic adaptor subunit&lt;br&gt;Location: 421100 - 421907" locus_tag="XNR_RS01715" class="clusterblast-orf" id="general-4_q4_0_all"  />
+<polygon points="550,40 770,40 775,35 770,30 550,30 550,40 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;XNR_RS01720&lt;/b&gt;&lt;br&gt;NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit&lt;br&gt;Location: 421903 - 424201" locus_tag="XNR_RS01720" class="clusterblast-orf" id="general-4_q5_0_all"  />
+</g>
+<g label="NZ_CP079112" description="NZ_CP079112 (6442223-6452439): Streptomyces albidoflavus strain LGO-A16 chrom... (100% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="70" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP079112&amp;start=6442223&amp;end=6452439" target="_blank">NZ_CP079112 (6442223-6452439)</a>: Streptomyces albidoflavus strain LGO-A16 chrom... (100% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="85" x2="778.0" y2="85" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a4_000"  >
+<polygon points="5,90 88,90 93,85 88,80 5,80 5,90 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS27975&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6451761 - 6450862&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01695&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 553&lt;br&gt;E-value: 1.34e-199" locus_tag="STALF2_RS27975" class="clusterblast-orf" id="general-4_all_4_1_0"  />
+</g>
+<g id="a4_001"  >
+<polygon points="112,90 285,90 290,85 285,80 112,80 112,90 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS27970&lt;/b&gt;&lt;br&gt;AMP-dependent synthetase/ligase&lt;br&gt;Location: 6450671 - 6448854&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01700&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1184&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS27970" class="clusterblast-orf" id="general-4_all_4_1_1"  />
+</g>
+<g id="a4_002"  >
+<polygon points="312,90 357,90 362,85 357,80 312,80 312,90 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS27965&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 6448630 - 6448124&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01705&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 336&lt;br&gt;E-value: 2.76e-118" locus_tag="STALF2_RS27965" class="clusterblast-orf" id="general-4_all_4_1_2"  />
+</g>
+<g id="a4_003"  >
+<polygon points="429,90 445,90 450,85 445,80 429,80 429,90 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS27960&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6447439 - 6447224&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01710&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 130&lt;br&gt;E-value: 8.94e-40" locus_tag="STALF2_RS27960" class="clusterblast-orf" id="general-4_all_4_1_3"  />
+</g>
+<g id="a4_004"  >
+<polygon points="470,90 544,90 549,85 544,80 470,80 470,90 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS27955&lt;/b&gt;&lt;br&gt;HlyD family efflux transporter periplasmic adaptor subunit&lt;br&gt;Location: 6447026 - 6446220&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01715&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 445&lt;br&gt;E-value: 4.05e-158" locus_tag="STALF2_RS27955" class="clusterblast-orf" id="general-4_all_4_1_4"  />
+</g>
+<g id="a4_005"  >
+<polygon points="549,90 769,90 774,85 769,80 549,80 549,90 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;STALF2_RS27950&lt;/b&gt;&lt;br&gt;NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit&lt;br&gt;Location: 6446223 - 6443926&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01720&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1392&lt;br&gt;E-value: 0.0" locus_tag="STALF2_RS27950" class="clusterblast-orf" id="general-4_all_4_1_5"  />
+</g>
+<g label="NZ_CP047147" description="NZ_CP047147 (6675808-6686024): Streptomyces sp. GF20 chromosome, complete genome (100% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="120" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP047147&amp;start=6675808&amp;end=6686024" target="_blank">NZ_CP047147 (6675808-6686024)</a>: Streptomyces sp. GF20 chromosome, complete genome (100% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="135" x2="778.0" y2="135" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a4_000"  >
+<polygon points="5,140 88,140 93,135 88,130 5,130 5,140 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS28990&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6685347 - 6684448&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01695&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 557&lt;br&gt;E-value: 2.82e-201" locus_tag="GR131_RS28990" class="clusterblast-orf" id="general-4_all_4_2_0"  />
+</g>
+<g id="a4_001"  >
+<polygon points="112,140 285,140 290,135 285,130 112,130 112,140 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS28985&lt;/b&gt;&lt;br&gt;AMP-dependent synthetase/ligase&lt;br&gt;Location: 6684257 - 6682440&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01700&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1177&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS28985" class="clusterblast-orf" id="general-4_all_4_2_1"  />
+</g>
+<g id="a4_002"  >
+<polygon points="312,140 357,140 362,135 357,130 312,130 312,140 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS28980&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 6682215 - 6681709&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01705&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 333&lt;br&gt;E-value: 4.59e-117" locus_tag="GR131_RS28980" class="clusterblast-orf" id="general-4_all_4_2_2"  />
+</g>
+<g id="a4_003"  >
+<polygon points="429,140 445,140 450,135 445,130 429,130 429,140 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS28975&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6681024 - 6680809&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01710&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 130&lt;br&gt;E-value: 8.94e-40" locus_tag="GR131_RS28975" class="clusterblast-orf" id="general-4_all_4_2_3"  />
+</g>
+<g id="a4_004"  >
+<polygon points="470,140 544,140 549,135 544,130 470,130 470,140 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS28970&lt;/b&gt;&lt;br&gt;HlyD family efflux transporter periplasmic adaptor subunit&lt;br&gt;Location: 6680611 - 6679805&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01715&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 440&lt;br&gt;E-value: 3.87e-156" locus_tag="GR131_RS28970" class="clusterblast-orf" id="general-4_all_4_2_4"  />
+</g>
+<g id="a4_005"  >
+<polygon points="549,140 769,140 774,135 769,130 549,130 549,140 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;GR131_RS28965&lt;/b&gt;&lt;br&gt;NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit&lt;br&gt;Location: 6679808 - 6677511&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01720&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1400&lt;br&gt;E-value: 0.0" locus_tag="GR131_RS28965" class="clusterblast-orf" id="general-4_all_4_2_5"  />
+</g>
+<g label="NZ_CP091820" description="NZ_CP091820 (2860883-2871099): Streptomyces sp. NBU3104 chromosome, complete ... (100% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="170" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP091820&amp;start=2860883&amp;end=2871099" target="_blank">NZ_CP091820 (2860883-2871099)</a>: Streptomyces sp. NBU3104 chromosome, complete ... (100% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="185" x2="778.0" y2="185" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a4_000"  >
+<polygon points="5,190 88,190 93,185 88,180 5,180 5,190 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS12720&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2870422 - 2869523&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01695&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 553&lt;br&gt;E-value: 9.42e-200" locus_tag="L2I08_RS12720" class="clusterblast-orf" id="general-4_all_4_3_0"  />
+</g>
+<g id="a4_001"  >
+<polygon points="112,190 285,190 290,185 285,180 112,180 112,190 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS12715&lt;/b&gt;&lt;br&gt;AMP-dependent synthetase/ligase&lt;br&gt;Location: 2869332 - 2867515&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01700&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1176&lt;br&gt;E-value: 0.0" locus_tag="L2I08_RS12715" class="clusterblast-orf" id="general-4_all_4_3_1"  />
+</g>
+<g id="a4_002"  >
+<polygon points="312,190 357,190 362,185 357,180 312,180 312,190 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS12710&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 2867290 - 2866784&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01705&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 332&lt;br&gt;E-value: 1.87e-116" locus_tag="L2I08_RS12710" class="clusterblast-orf" id="general-4_all_4_3_2"  />
+</g>
+<g id="a4_003"  >
+<polygon points="429,190 445,190 450,185 445,180 429,180 429,190 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS12705&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 2866099 - 2865884&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01710&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 130&lt;br&gt;E-value: 8.94e-40" locus_tag="L2I08_RS12705" class="clusterblast-orf" id="general-4_all_4_3_3"  />
+</g>
+<g id="a4_004"  >
+<polygon points="470,190 544,190 549,185 544,180 470,180 470,190 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS12700&lt;/b&gt;&lt;br&gt;HlyD family efflux transporter periplasmic adaptor subunit&lt;br&gt;Location: 2865687 - 2864881&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01715&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 445&lt;br&gt;E-value: 4.05e-158" locus_tag="L2I08_RS12700" class="clusterblast-orf" id="general-4_all_4_3_4"  />
+</g>
+<g id="a4_005"  >
+<polygon points="549,190 769,190 774,185 769,180 549,180 549,190 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;L2I08_RS12695&lt;/b&gt;&lt;br&gt;NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit&lt;br&gt;Location: 2864884 - 2862587&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01720&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1397&lt;br&gt;E-value: 0.0" locus_tag="L2I08_RS12695" class="clusterblast-orf" id="general-4_all_4_3_5"  />
+</g>
+<g label="NZ_CP016824" description="NZ_CP016824 (6437754-6447970): Streptomyces sampsonii strain KJ40 chromosome,... (100% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="220" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP016824&amp;start=6437754&amp;end=6447970" target="_blank">NZ_CP016824 (6437754-6447970)</a>: Streptomyces sampsonii strain KJ40 chromosome,... (100% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="235" x2="778.0" y2="235" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a4_000"  >
+<polygon points="5,240 88,240 93,235 88,230 5,230 5,240 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS27750&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6447292 - 6446393&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01695&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 554&lt;br&gt;E-value: 4.67e-200" locus_tag="BEN82_RS27750" class="clusterblast-orf" id="general-4_all_4_4_0"  />
+</g>
+<g id="a4_001"  >
+<polygon points="112,240 285,240 290,235 285,230 112,230 112,240 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS27745&lt;/b&gt;&lt;br&gt;AMP-dependent synthetase/ligase&lt;br&gt;Location: 6446202 - 6444385&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01700&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1177&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS27745" class="clusterblast-orf" id="general-4_all_4_4_1"  />
+</g>
+<g id="a4_002"  >
+<polygon points="312,240 357,240 362,235 357,230 312,230 312,240 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS27740&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 6444160 - 6443654&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01705&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 330&lt;br&gt;E-value: 5.36e-116" locus_tag="BEN82_RS27740" class="clusterblast-orf" id="general-4_all_4_4_2"  />
+</g>
+<g id="a4_003"  >
+<polygon points="429,240 445,240 450,235 445,230 429,230 429,240 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS27735&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6442970 - 6442755&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01710&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 130&lt;br&gt;E-value: 8.94e-40" locus_tag="BEN82_RS27735" class="clusterblast-orf" id="general-4_all_4_4_3"  />
+</g>
+<g id="a4_004"  >
+<polygon points="470,240 544,240 549,235 544,230 470,230 470,240 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS27730&lt;/b&gt;&lt;br&gt;HlyD family efflux transporter periplasmic adaptor subunit&lt;br&gt;Location: 6442557 - 6441751&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01715&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 443&lt;br&gt;E-value: 2.34e-157" locus_tag="BEN82_RS27730" class="clusterblast-orf" id="general-4_all_4_4_4"  />
+</g>
+<g id="a4_005"  >
+<polygon points="549,240 769,240 774,235 769,230 549,230 549,240 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;BEN82_RS27725&lt;/b&gt;&lt;br&gt;NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit&lt;br&gt;Location: 6441754 - 6439457&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01720&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1396&lt;br&gt;E-value: 0.0" locus_tag="BEN82_RS27725" class="clusterblast-orf" id="general-4_all_4_4_5"  />
+</g>
+<g label="NZ_CP009802" description="NZ_CP009802 (675668-685884): Streptomyces sp. FR-008 chromosome, complete genome (100% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="270" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP009802&amp;start=675668&amp;end=685884" target="_blank">NZ_CP009802 (675668-685884)</a>: Streptomyces sp. FR-008 chromosome, complete genome (100% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="285" x2="778.0" y2="285" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a4_000"  >
+<polygon points="5,290 88,290 93,285 88,280 5,280 5,290 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS02905&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 676347 - 677246&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01695&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 548&lt;br&gt;E-value: 9.02e-198" locus_tag="SFR_RS02905" class="clusterblast-orf" id="general-4_all_4_5_0"  />
+</g>
+<g id="a4_001"  >
+<polygon points="112,290 285,290 290,285 285,280 112,280 112,290 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS02910&lt;/b&gt;&lt;br&gt;AMP-dependent synthetase/ligase&lt;br&gt;Location: 677437 - 679254&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01700&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1177&lt;br&gt;E-value: 0.0" locus_tag="SFR_RS02910" class="clusterblast-orf" id="general-4_all_4_5_1"  />
+</g>
+<g id="a4_002"  >
+<polygon points="312,290 357,290 362,285 357,280 312,280 312,290 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS02915&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 679478 - 679984&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01705&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 333&lt;br&gt;E-value: 4.59e-117" locus_tag="SFR_RS02915" class="clusterblast-orf" id="general-4_all_4_5_2"  />
+</g>
+<g id="a4_003"  >
+<polygon points="429,290 445,290 450,285 445,280 429,280 429,290 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS02920&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 680669 - 680884&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01710&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 129&lt;br&gt;E-value: 2.56e-39" locus_tag="SFR_RS02920" class="clusterblast-orf" id="general-4_all_4_5_3"  />
+</g>
+<g id="a4_004"  >
+<polygon points="470,290 544,290 549,285 544,280 470,280 470,290 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS02925&lt;/b&gt;&lt;br&gt;HlyD family efflux transporter periplasmic adaptor subunit&lt;br&gt;Location: 681082 - 681888&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01715&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 445&lt;br&gt;E-value: 4.05e-158" locus_tag="SFR_RS02925" class="clusterblast-orf" id="general-4_all_4_5_4"  />
+</g>
+<g id="a4_005"  >
+<polygon points="549,290 769,290 774,285 769,280 549,280 549,290 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;SFR_RS02930&lt;/b&gt;&lt;br&gt;NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit&lt;br&gt;Location: 681885 - 684182&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01720&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1397&lt;br&gt;E-value: 0.0" locus_tag="SFR_RS02930" class="clusterblast-orf" id="general-4_all_4_5_5"  />
+</g>
+<g label="NZ_AP025692" description="NZ_AP025692 (6409397-6419613): Streptomyces sp. PLM4 chromosome (100% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="320" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_AP025692&amp;start=6409397&amp;end=6419613" target="_blank">NZ_AP025692 (6409397-6419613)</a>: Streptomyces sp. PLM4 chromosome (100% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="335" x2="778.0" y2="335" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a4_000"  >
+<polygon points="5,340 88,340 93,335 88,330 5,330 5,340 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS27875&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6418934 - 6418035&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01695&lt;/b&gt;&lt;br&gt;Percentage identity: 97&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 554&lt;br&gt;E-value: 3.29e-200" locus_tag="MTP06_RS27875" class="clusterblast-orf" id="general-4_all_4_6_0"  />
+</g>
+<g id="a4_001"  >
+<polygon points="112,340 285,340 290,335 285,330 112,330 112,340 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS27870&lt;/b&gt;&lt;br&gt;AMP-dependent synthetase/ligase&lt;br&gt;Location: 6417844 - 6416027&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01700&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1177&lt;br&gt;E-value: 0.0" locus_tag="MTP06_RS27870" class="clusterblast-orf" id="general-4_all_4_6_1"  />
+</g>
+<g id="a4_002"  >
+<polygon points="312,340 357,340 362,335 357,330 312,330 312,340 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS27865&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 6415802 - 6415296&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01705&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 327&lt;br&gt;E-value: 8.89e-115" locus_tag="MTP06_RS27865" class="clusterblast-orf" id="general-4_all_4_6_2"  />
+</g>
+<g id="a4_003"  >
+<polygon points="429,340 445,340 450,335 445,330 429,330 429,340 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS27860&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6414613 - 6414398&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01710&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 130&lt;br&gt;E-value: 8.94e-40" locus_tag="MTP06_RS27860" class="clusterblast-orf" id="general-4_all_4_6_3"  />
+</g>
+<g id="a4_004"  >
+<polygon points="470,340 544,340 549,335 544,330 470,330 470,340 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS27855&lt;/b&gt;&lt;br&gt;HlyD family efflux transporter periplasmic adaptor subunit&lt;br&gt;Location: 6414200 - 6413394&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01715&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 445&lt;br&gt;E-value: 4.05e-158" locus_tag="MTP06_RS27855" class="clusterblast-orf" id="general-4_all_4_6_4"  />
+</g>
+<g id="a4_005"  >
+<polygon points="548,340 769,340 774,335 769,330 548,330 548,340 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;MTP06_RS27850&lt;/b&gt;&lt;br&gt;NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit&lt;br&gt;Location: 6413397 - 6411100&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01720&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1394&lt;br&gt;E-value: 0.0" locus_tag="MTP06_RS27850" class="clusterblast-orf" id="general-4_all_4_6_5"  />
+</g>
+<g label="NZ_CP063844" description="NZ_CP063844 (597922-608138): Streptomyces sp. A10(2020) chromosome, complete ... (100% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="370" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP063844&amp;start=597922&amp;end=608138" target="_blank">NZ_CP063844 (597922-608138)</a>: Streptomyces sp. A10(2020) chromosome, complete ... (100% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="385" x2="778.0" y2="385" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a4_000"  >
+<polygon points="0,390 83,390 88,385 83,380 0,380 0,390 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS02530&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 598489 - 599388&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01695&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 548&lt;br&gt;E-value: 9.02e-198" locus_tag="IPZ55_RS02530" class="clusterblast-orf" id="general-4_all_4_7_0"  />
+</g>
+<g id="a4_001"  >
+<polygon points="117,390 291,390 296,385 291,380 117,380 117,390 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS02535&lt;/b&gt;&lt;br&gt;AMP-dependent synthetase/ligase&lt;br&gt;Location: 599691 - 601508&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01700&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1174&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS02535" class="clusterblast-orf" id="general-4_all_4_7_1"  />
+</g>
+<g id="a4_002"  >
+<polygon points="318,390 362,390 367,385 362,380 318,380 318,390 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS02540&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 601732 - 602238&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01705&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 333&lt;br&gt;E-value: 4.59e-117" locus_tag="IPZ55_RS02540" class="clusterblast-orf" id="general-4_all_4_7_2"  />
+</g>
+<g id="a4_003"  >
+<polygon points="435,390 451,390 456,385 451,380 435,380 435,390 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS02545&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 602923 - 603138&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01710&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 130&lt;br&gt;E-value: 8.94e-40" locus_tag="IPZ55_RS02545" class="clusterblast-orf" id="general-4_all_4_7_3"  />
+</g>
+<g id="a4_004"  >
+<polygon points="475,390 549,390 554,385 549,380 475,380 475,390 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS02550&lt;/b&gt;&lt;br&gt;HlyD family efflux transporter periplasmic adaptor subunit&lt;br&gt;Location: 603336 - 604142&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01715&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 445&lt;br&gt;E-value: 4.05e-158" locus_tag="IPZ55_RS02550" class="clusterblast-orf" id="general-4_all_4_7_4"  />
+</g>
+<g id="a4_005"  >
+<polygon points="554,390 775,390 780,385 775,380 554,380 554,390 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;IPZ55_RS02555&lt;/b&gt;&lt;br&gt;NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit&lt;br&gt;Location: 604139 - 606436&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01720&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1397&lt;br&gt;E-value: 0.0" locus_tag="IPZ55_RS02555" class="clusterblast-orf" id="general-4_all_4_7_5"  />
+</g>
+<g label="NZ_CP056773" description="NZ_CP056773 (613541-623757): Streptomyces violascens strain YIM 100212 chromo... (100% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="420" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP056773&amp;start=613541&amp;end=623757" target="_blank">NZ_CP056773 (613541-623757)</a>: Streptomyces violascens strain YIM 100212 chromo... (100% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="435" x2="778.0" y2="435" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a4_000"  >
+<polygon points="5,440 88,440 93,435 88,430 5,430 5,440 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS02615&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 614220 - 615119&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01695&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 553&lt;br&gt;E-value: 1.34e-199" locus_tag="HWN34_RS02615" class="clusterblast-orf" id="general-4_all_4_8_0"  />
+</g>
+<g id="a4_001"  >
+<polygon points="112,440 285,440 290,435 285,430 112,430 112,440 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS02620&lt;/b&gt;&lt;br&gt;AMP-dependent synthetase/ligase&lt;br&gt;Location: 615310 - 617127&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01700&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1174&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS02620" class="clusterblast-orf" id="general-4_all_4_8_1"  />
+</g>
+<g id="a4_002"  >
+<polygon points="312,440 357,440 362,435 357,430 312,430 312,440 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS02625&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 617351 - 617857&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01705&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 333&lt;br&gt;E-value: 4.59e-117" locus_tag="HWN34_RS02625" class="clusterblast-orf" id="general-4_all_4_8_2"  />
+</g>
+<g id="a4_003"  >
+<polygon points="429,440 445,440 450,435 445,430 429,430 429,440 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS02630&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 618542 - 618757&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01710&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 130&lt;br&gt;E-value: 8.94e-40" locus_tag="HWN34_RS02630" class="clusterblast-orf" id="general-4_all_4_8_3"  />
+</g>
+<g id="a4_004"  >
+<polygon points="470,440 544,440 549,435 544,430 470,430 470,440 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS02635&lt;/b&gt;&lt;br&gt;HlyD family efflux transporter periplasmic adaptor subunit&lt;br&gt;Location: 618955 - 619761&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01715&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 439&lt;br&gt;E-value: 1.11e-155" locus_tag="HWN34_RS02635" class="clusterblast-orf" id="general-4_all_4_8_4"  />
+</g>
+<g id="a4_005"  >
+<polygon points="549,440 769,440 774,435 769,430 549,430 549,440 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;HWN34_RS02640&lt;/b&gt;&lt;br&gt;NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit&lt;br&gt;Location: 619758 - 622055&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01720&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1394&lt;br&gt;E-value: 0.0" locus_tag="HWN34_RS02640" class="clusterblast-orf" id="general-4_all_4_8_5"  />
+</g>
+<g label="NZ_OX371412" description="NZ_OX371412 (6411376-6421592): Streptomyces albidoflavus strain CCOS 2040 iso... (100% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="470" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_OX371412&amp;start=6411376&amp;end=6421592" target="_blank">NZ_OX371412 (6411376-6421592)</a>: Streptomyces albidoflavus strain CCOS 2040 iso... (100% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="485" x2="778.0" y2="485" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a4_000"  >
+<polygon points="5,490 88,490 93,485 88,480 5,480 5,490 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS28205&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6420912 - 6420013&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01695&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 553&lt;br&gt;E-value: 1.34e-199" locus_tag="OZE77_RS28205" class="clusterblast-orf" id="general-4_all_4_9_0"  />
+</g>
+<g id="a4_001"  >
+<polygon points="112,490 286,490 291,485 286,480 112,480 112,490 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS28200&lt;/b&gt;&lt;br&gt;AMP-dependent synthetase/ligase&lt;br&gt;Location: 6419821 - 6418004&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01700&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1174&lt;br&gt;E-value: 0.0" locus_tag="OZE77_RS28200" class="clusterblast-orf" id="general-4_all_4_9_1"  />
+</g>
+<g id="a4_002"  >
+<polygon points="312,490 357,490 362,485 357,480 312,480 312,490 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS28195&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 6417783 - 6417277&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01705&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 333&lt;br&gt;E-value: 4.59e-117" locus_tag="OZE77_RS28195" class="clusterblast-orf" id="general-4_all_4_9_2"  />
+</g>
+<g id="a4_003"  >
+<polygon points="429,490 445,490 450,485 445,480 429,480 429,490 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS28190&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6416592 - 6416377&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01710&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 130&lt;br&gt;E-value: 8.94e-40" locus_tag="OZE77_RS28190" class="clusterblast-orf" id="general-4_all_4_9_3"  />
+</g>
+<g id="a4_004"  >
+<polygon points="470,490 544,490 549,485 544,480 470,480 470,490 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS28185&lt;/b&gt;&lt;br&gt;HlyD family efflux transporter periplasmic adaptor subunit&lt;br&gt;Location: 6416179 - 6415373&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01715&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 439&lt;br&gt;E-value: 1.11e-155" locus_tag="OZE77_RS28185" class="clusterblast-orf" id="general-4_all_4_9_4"  />
+</g>
+<g id="a4_005"  >
+<polygon points="548,490 769,490 774,485 769,480 548,480 548,490 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OZE77_RS28180&lt;/b&gt;&lt;br&gt;NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit&lt;br&gt;Location: 6415376 - 6413079&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01720&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1394&lt;br&gt;E-value: 0.0" locus_tag="OZE77_RS28180" class="clusterblast-orf" id="general-4_all_4_9_5"  />
+</g>
+<g label="NZ_CP113103" description="NZ_CP113103 (6292501-6302717): Streptomyces sp. NA13 chromosome, complete genome (100% of genes show similarity), RiPP-like" class="clusterblast-cluster"  >
+<text x="5" y="520" class="clusterblast-acc"  >
+<a xlink:href="https://antismash-db.secondarymetabolites.org/area?record=NZ_CP113103&amp;start=6292501&amp;end=6302717" target="_blank">NZ_CP113103 (6292501-6302717)</a>: Streptomyces sp. NA13 chromosome, complete genome (100% of genes show similarity), RiPP-like</text>
+<line x1="10" y1="535" x2="778.0" y2="535" style="stroke-width:1; stroke:grey; "  />
+</g>
+<g id="a4_000"  >
+<polygon points="6,540 89,540 94,535 89,530 6,530 6,540 " style="fill:#d81515; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS27455&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6302035 - 6301136&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01695&lt;/b&gt;&lt;br&gt;Percentage identity: 96&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 547&lt;br&gt;E-value: 1.82e-197" locus_tag="OSU72_RS27455" class="clusterblast-orf" id="general-4_all_4_10_0"  />
+</g>
+<g id="a4_001"  >
+<polygon points="113,540 286,540 291,535 286,530 113,530 113,540 " style="fill:#15d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS27450&lt;/b&gt;&lt;br&gt;AMP-dependent synthetase/ligase&lt;br&gt;Location: 6300944 - 6299127&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01700&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1174&lt;br&gt;E-value: 0.0" locus_tag="OSU72_RS27450" class="clusterblast-orf" id="general-4_all_4_10_1"  />
+</g>
+<g id="a4_002"  >
+<polygon points="313,540 358,540 363,535 358,530 313,530 313,540 " style="fill:#1515d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS27445&lt;/b&gt;&lt;br&gt;GNAT family N-acetyltransferase&lt;br&gt;Location: 6298903 - 6298397&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01705&lt;/b&gt;&lt;br&gt;Percentage identity: 98&lt;br&gt;Percentage coverage: 99&lt;br&gt;BLAST bit score: 327&lt;br&gt;E-value: 8.89e-115" locus_tag="OSU72_RS27445" class="clusterblast-orf" id="general-4_all_4_10_2"  />
+</g>
+<g id="a4_003"  >
+<polygon points="430,540 446,540 451,535 446,530 430,530 430,540 " style="fill:#d815d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS27440&lt;/b&gt;&lt;br&gt;hypothetical protein&lt;br&gt;Location: 6297717 - 6297502&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01710&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 130&lt;br&gt;E-value: 8.94e-40" locus_tag="OSU72_RS27440" class="clusterblast-orf" id="general-4_all_4_10_3"  />
+</g>
+<g id="a4_004"  >
+<polygon points="470,540 544,540 549,535 544,530 470,530 470,540 " style="fill:#d8d815; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS27435&lt;/b&gt;&lt;br&gt;HlyD family efflux transporter periplasmic adaptor subunit&lt;br&gt;Location: 6297304 - 6296498&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01715&lt;/b&gt;&lt;br&gt;Percentage identity: 100&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 445&lt;br&gt;E-value: 4.05e-158" locus_tag="OSU72_RS27435" class="clusterblast-orf" id="general-4_all_4_10_4"  />
+</g>
+<g id="a4_005"  >
+<polygon points="549,540 768,540 773,535 768,530 549,530 549,540 " style="fill:#15d8d8; stroke-width:1; stroke:black; " description="&lt;b&gt;OSU72_RS27430&lt;/b&gt;&lt;br&gt;NHLP family bacteriocin export ABC transporter peptidase/permease/ATPase subunit&lt;br&gt;Location: 6296501 - 6294216&lt;br&gt;&lt;br&gt;&lt;b&gt;BlastP hit with XNR_RS01720&lt;/b&gt;&lt;br&gt;Percentage identity: 99&lt;br&gt;Percentage coverage: 100&lt;br&gt;BLAST bit score: 1385&lt;br&gt;E-value: 0.0" locus_tag="OSU72_RS27430" class="clusterblast-orf" id="general-4_all_4_10_5"  />
+</g>
+</svg>

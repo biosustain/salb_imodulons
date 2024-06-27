@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="../../css/style.css">
+
+<script type="text/javascript" src="../../js/jquery.js"></script>
+<script type="text/javascript" src="../../js/jquery.tablesorter.min.js"></script>
+
+<script type="text/javascript" >
+var counter = 1;
+function addInput(divName){
+     var newdiv = document.createElement('div');
+     newdiv.innerHTML = "<b>Locus " + (counter + 1) + "</b><br> GenBank accession: <input type='text' required name='myInputs[]'> Start nt: <input type='number' name='myStartCoords[]' placeholder='N/A'> End nt: <input type='number' name='myEndCoords[]' placeholder='N/A'> <br><br>";
+     document.getElementById(divName).appendChild(newdiv);
+     counter++;
+}
+</script>
+
+<script>
+$(document).ready(function()
+    {
+        $("#myTable").tablesorter();
+    }
+);
+
+</script>
+<style>
+table {
+    border-width: thin;
+    border-spacing: 2px;
+    border-style: none;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+    <table id="myTable" class="tablesorter" border=1>
+    <thead>
+    <tr>
+        <th>MIBiG Protein</th>
+        <th>Description</th>
+        <th>MIBiG Cluster</th>
+        <th>MiBiG Product</th>
+        <th>% ID</th>
+        <th>% Coverage</th>
+        <th>BLAST Score</th>
+        <th>E-value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+          <tr>
+              <td>QNS30806.1</td>
+              <td>fatty_acid_hydroxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002509/1">BGC0002509</a></td>
+              <td>NRP</td>
+              <td>76.0</td>
+              <td>88.2</td>
+              <td>419.0</td>
+              <td>1.4e-148</td>
+          </tr>
+    
+          <tr>
+              <td>BAG17644.1</td>
+              <td>hypothetical_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001043/1">BGC0001043</a></td>
+              <td>NRP+Polyketide</td>
+              <td>74.0</td>
+              <td>89.8</td>
+              <td>416.0</td>
+              <td>4.39e-147</td>
+          </tr>
+    
+          <tr>
+              <td>EFL02192.1</td>
+              <td>frontalamide_hydroxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000996/1">BGC0000996</a></td>
+              <td>NRP+Polyketide:Iterative type I polyketide</td>
+              <td>72.0</td>
+              <td>90.8</td>
+              <td>414.0</td>
+              <td>5.27e-146</td>
+          </tr>
+    
+          <tr>
+              <td>QGU18618.1</td>
+              <td>fatty_acid_hydroxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002365/1">BGC0002365</a></td>
+              <td>Other+Polyketide</td>
+              <td>74.0</td>
+              <td>91.1</td>
+              <td>414.0</td>
+              <td>8.04e-146</td>
+          </tr>
+    
+          <tr>
+              <td>AUD08662.1</td>
+              <td>C25_hydroxylase</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001553/1">BGC0001553</a></td>
+              <td>NRP+Polyketide</td>
+              <td>67.0</td>
+              <td>89.5</td>
+              <td>363.0</td>
+              <td>3.59e-126</td>
+          </tr>
+    
+          <tr>
+              <td>QWM97861.1</td>
+              <td>fatty_acid_hydroxylase_family_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0002434/1">BGC0002434</a></td>
+              <td>Polyketide+NRP</td>
+              <td>66.0</td>
+              <td>89.2</td>
+              <td>360.0</td>
+              <td>2.3e-125</td>
+          </tr>
+    
+          <tr>
+              <td>AWO77087.1</td>
+              <td>sterol_desaturase_family_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001556/1">BGC0001556</a></td>
+              <td>NRP+Polyketide</td>
+              <td>64.0</td>
+              <td>85.0</td>
+              <td>353.0</td>
+              <td>1.05e-122</td>
+          </tr>
+    
+          <tr>
+              <td>APD26278.1</td>
+              <td>PtmD</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0001726/1">BGC0001726</a></td>
+              <td>NRP+Polyketide</td>
+              <td>59.0</td>
+              <td>93.9</td>
+              <td>343.0</td>
+              <td>2.13e-118</td>
+          </tr>
+    
+          <tr>
+              <td>ABL86392.1</td>
+              <td>sterol_desaturase-like_protein</td>
+              <td><a href="https://mibig.secondarymetabolites.org/go/BGC0000999/1">BGC0000999</a></td>
+              <td>NRP+Polyketide</td>
+              <td>60.0</td>
+              <td>86.0</td>
+              <td>309.0</td>
+              <td>3.69e-104</td>
+          </tr>
+    
+    </tbody>
+  </table>
+</body>
