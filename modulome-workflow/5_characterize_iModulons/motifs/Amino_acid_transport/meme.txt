@@ -1,0 +1,1623 @@
+********************************************************************************
+MEME - Motif discovery tool
+********************************************************************************
+MEME version 5.5.5 (Release date: Thu Sep 14 08:48:04 2023 +1000)
+
+For further information on how to interpret these results please access https://meme-suite.org/meme.
+To get a copy of the MEME Suite software please access https://meme-suite.org.
+
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey and Charles Elkan,
+"Fitting a mixture model by expectation maximization to
+discover motifs in biopolymers",
+Proceedings of the Second International Conference on Intelligent Systems
+for Molecular Biology, pp. 28-36, AAAI Press, Menlo Park, California, 1994.
+********************************************************************************
+
+
+********************************************************************************
+TRAINING SET
+********************************************************************************
+PRIMARY SEQUENCES= motifs/Amino_acid_transport.fasta
+CONTROL SEQUENCES= --none--
+ALPHABET= ACGT
+Sequence name            Weight Length  Sequence name            Weight Length  
+-------------            ------ ------  -------------            ------ ------  
+Op1035                   1.0000    600  Op109                    1.0000    600  
+Op1100                   1.0000    600  Op1244                   1.0000    600  
+Op1335                   1.0000    600  Op1452                   1.0000    600  
+Op1493                   1.0000    600  Op1502                   1.0000    600  
+Op157                    1.0000    600  Op1618                   1.0000    600  
+Op1779                   1.0000    600  Op1816                   1.0000    600  
+Op1828                   1.0000    600  Op1852                   1.0000    600  
+Op1864                   1.0000    600  Op1888                   1.0000    600  
+Op19                     1.0000    600  Op1915                   1.0000    600  
+Op1922                   1.0000    600  Op1943                   1.0000    600  
+Op195                    1.0000    600  Op1959                   1.0000    600  
+Op1977                   1.0000    600  Op2002                   1.0000    600  
+Op2022                   1.0000    600  Op2069                   1.0000    600  
+Op2076                   1.0000    600  Op2127                   1.0000    600  
+Op2135                   1.0000    600  Op216                    1.0000    600  
+Op2175                   1.0000    600  Op2326                   1.0000    600  
+Op2359                   1.0000    600  Op2387                   1.0000    600  
+Op2446                   1.0000    600  Op2576                   1.0000    600  
+Op260                    1.0000    600  Op261                    1.0000    600  
+Op2641                   1.0000    600  Op2691                   1.0000    600  
+Op2850                   1.0000    600  Op2904                   1.0000    600  
+Op2905                   1.0000    600  Op2906                   1.0000    600  
+Op2976                   1.0000    600  Op3012                   1.0000    600  
+Op303                    1.0000    600  Op3032                   1.0000    600  
+Op3071                   1.0000    600  Op3108                   1.0000    600  
+Op3130                   1.0000    600  Op3150                   1.0000    600  
+Op3151                   1.0000    600  Op3152                   1.0000    600  
+Op3177                   1.0000    600  Op3180                   1.0000    600  
+Op3189                   1.0000    600  Op3191                   1.0000    600  
+Op3353                   1.0000    600  Op3427                   1.0000    600  
+Op3428                   1.0000    600  Op3441                   1.0000    600  
+Op3472                   1.0000    600  Op3473                   1.0000    600  
+Op3496                   1.0000    600  Op3629                   1.0000    600  
+Op37                     1.0000    600  Op3708                   1.0000    600  
+Op374                    1.0000    600  Op3740                   1.0000    600  
+Op3815                   1.0000    600  Op3900                   1.0000    600  
+Op3938                   1.0000    600  Op3953                   1.0000    600  
+Op3987                   1.0000    600  Op4039                   1.0000    600  
+Op407                    1.0000    600  Op4129                   1.0000    600  
+Op4136                   1.0000    600  Op4143                   1.0000    600  
+Op4153                   1.0000    600  Op417                    1.0000    600  
+Op4173                   1.0000    600  Op4189                   1.0000    600  
+Op4222                   1.0000    600  Op4271                   1.0000    600  
+Op444                    1.0000    600  Op447                    1.0000    600  
+Op448                    1.0000    600  Op481                    1.0000    600  
+Op488                    1.0000    600  Op505                    1.0000    600  
+Op562                    1.0000    600  Op563                    1.0000    600  
+Op583                    1.0000    600  Op620                    1.0000    600  
+Op655                    1.0000    600  Op67                     1.0000    600  
+Op737                    1.0000    600  Op75                     1.0000    600  
+Op794                    1.0000    600  Op795                    1.0000    600  
+Op796                    1.0000    600  Op805                    1.0000    600  
+Op871                    1.0000    600  Op931                    1.0000    600  
+Op970                    1.0000    600  
+********************************************************************************
+
+********************************************************************************
+COMMAND LINE SUMMARY
+********************************************************************************
+This information can also be useful in the event you wish to report a
+problem with the MEME software.
+
+command: meme motifs/Amino_acid_transport.fasta -oc motifs/Amino_acid_transport -dna -mod zoops -p 8 -nmotifs 5 -evt 0.001 -minw 6 -maxw 40 -allw -minsites 35 
+
+model:  mod=         zoops    nmotifs=      1000    evt=         0.001
+objective function:           em=       E-value of product of p-values
+                              starts=   E-value of product of p-values
+strands: +
+width:  minw=            6    maxw=           40
+nsites: minsites=       35    maxsites=      107    wnsites=       0.8
+theta:  spmap=         uni    spfuzz=        0.5
+em:     prior=   dirichlet    b=            0.01    maxiter=        50
+        distance=    1e-05
+trim:   wg=             11    ws=              1    endgaps=       yes
+data:   n=           64200    N=             107
+sample: seed=            0    hsfrac=          0
+        searchsize=  64200    norand=         no    csites=       1000
+Letter frequencies in dataset:
+A 0.143 C 0.36 G 0.36 T 0.137 
+Background letter frequencies (from file dataset with add-one prior applied):
+A 0.143 C 0.36 G 0.36 T 0.137 
+Background model order: 0
+********************************************************************************
+
+
+********************************************************************************
+MOTIF HSSNSGHSVNGGMSGHSCDGSWSGBCSDSGMCSWSGHCSW MEME-1	width =  40  sites = 107  llr = 1189  E-value = 3.0e-107
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif HSSNSGHSVNGGMSGHSCDGSWSGBCSDSGMCSWSGHCSW MEME-1 Description
+--------------------------------------------------------------------------------
+Simplified        A  2112::2:23124:14:13:14:11:12113:14:24:25
+pos.-specific     C  36436236423:3513461231622851524731612731
+probability       G  145237144268146153375135324357136136124:
+matrix            T  4::3::4::31:2:23::3114:241:4::2::4:13113
+
+         bits    2.9                                         
+                 2.6                                         
+                 2.3                                         
+                 2.0                                         
+Relative         1.7                                         
+Entropy          1.4                                         
+(16.0 bits)      1.1                                        *
+                 0.9            *         *           *     *
+                 0.6 *    *     **  *  ** *   * * * * *  *  *
+                 0.3 ** ***************** ** ************** *
+                 0.0 ----------------------------------------
+
+Multilevel           TCGTCGTCCAGGACGAGCAGGTCGTCCTCGCCGACGACGA
+consensus            CGCCGCCGGTC CG TCGT CAGCG GGG AGCTG TGCT
+sequence             A  G  A AG     C  G     C  A        C   
+                        A                                    
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif HSSNSGHSVNGGMSGHSCDGSWSGBCSDSGMCSWSGHCSW MEME-1 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value                              Site                
+-------------             ----- ---------            ----------------------------------------
+Op3953                      235  4.85e-14 CTCTACGGCT TCCTGGTCAACGAGGCCCAGCTCTTCCAGGAGGACGTCAA CGAGGGCTGG
+Op4222                      506  1.20e-11 GCCGTCTGCC TGTCGGTCCTGGACGAGCTGGACGGCCTGGAGATCGACCA CCCCGACGCG
+Op871                       364  3.23e-11 GCGGGCTCCT TCGACCTGATGGTGGAGATCGTCTGCGAGGACGACGACCA CCTGCTGGAG
+Op2641                      238  4.18e-10 CTGACCTTCC TGCTCGGCATGGCGTTCCAGCTGGTGCTGGCCGAGTTCAA CGACCGGGTC
+Op3353                      549  1.59e-09 GGCCCCCGTC AGCTCGTCCAGGACGTGGTGAAGGCCGAGGAGGTCGGCTT CGACTTCTCC
+Op2127                      493  2.18e-09 GTCGCGGGGC TGGTGGAGATGGGGAAGATGATCTCCGGGGACCACGTCGA GGTGCGGCTG
+Op3177                      101  4.76e-09 CTGTGCGTCC TGCGCGCCGAGACCTACGAGGAGGGCCTCGCCCTCATCAA CGCCTCCCCG
+Op3740                      304  6.44e-09 GCCCCGGGCT TCGTCGACACGGACATGACCAAGGTCCTCACCGACGAGCA GCGCGCCGGG
+Op2691                      214  6.44e-09 CTCCGCAAGG ACCGCGACCAGGCCTCGGTGAACGTGGTGGCCAAGGTCGA CCGCACCAAG
+Op2002                      235  8.68e-09 AGCAAGGCCG ACGACGAGGACGACGTCCCGGAGTGGGTGGACCAGGTCAT GGCCACCGTG
+Op1864                      487  8.68e-09 CAGCGTGTAC TCCTGGTCGGCGAGGTGCGGCAGGTCGTCGACCGGCTCGT GGAGGACGGC
+Op195                       257  1.16e-08 GGTGAGGTCC TCGACGCCCGCGCCGCGCAGGTCGGCGAGGAGGGCGTCGA CCTGGGCCAT
+Op794                       121  1.35e-08 GATCGCGGAG AGGGCGCCCGCGACGTGGTTGTCGTCCTCGACAAGTAGCA GTCTCACGGC
+Op620                       319  2.07e-08 AGTGGGGCGG TCGACGCGACGGACGCGCGCATCCTGCTGGCGCTCGACGA GGAACCACGG
+Op2850                       61  4.14e-08 GGCCGGTCAG TGGCGGTGGCGGCGGTGGTGGCGGTCGTGGTGGTGGTCAT GAGGTGGGCT
+Op2976                      521  4.74e-08 GCCCTCGGCG AGGTCGAGAAGGCCGCCGAGACGGTCCGCGCCGACGCCGA CCTCACCTCC
+Op796                       274  6.20e-08 GGCTCCGCCC TCAAGGACAAGATCAACAAGGCGCTCGAGAAGATGGTCGA GGACGGCAGC
+Op1493                      501  7.08e-08 GAGTACGCGA TGACCCCCAAGACCGAGCTGGCCACCCTCGCCGACGAGAT CCTGGAGCTG
+Op795                       110  1.05e-07 ACCTCCGCGC TCGACCCGGAGATGATCAACGAGGTGCTGGAGGTCATGCA GCAGCTCGCC
+Op75                        499  1.05e-07 ACCCTGCGGT CCTTCGTCCGGGCCGAGCGGTCCGGCGTCGACCTGATCGA ACTCGACCTG
+Op3938                      474  1.05e-07 TACACGGCGG AGGACGTGGCGGACGACGCGGTCGCCGTCATGGACGCCCT GGGCTGGCCG
+Op19                        493  1.54e-07 CTGGCTCATG AGAGCGGCCGGGTGGACGTGCTCTCCCTCGCCGACGAGTT CCAGGTGACG
+Op3032                      555  1.74e-07 TACGAGACCC TGCGGGCGCTCAACGCCCAGGACGGCGGCGAGGAGGCCCA GCGCCG    
+Op3473                      271  1.98e-07 GCCGAAACCC TGGGCGAGCACGTCTACGACTTCTTCCTCCGCAACAAGAA GCAGGAGTGG
+Op3472                       30  1.98e-07 GAGGTCGCAG AAGCGGACGTCAACGAACTTGACGTCCTCGTCGGCGATGA ACTTCTTCGC
+Op261                       317  1.98e-07 GGCATGTGTC ACCACGAGGACGTCGATATGGTCGCCGGAGCCCTCGATGA GTGCCTCCAC
+Op260                       457  1.98e-07 GGCATGTGTC ACCACGAGGACGTCGATATGGTCGCCGGAGCCCTCGATGA GTGCCTCCAC
+Op1452                      541  1.98e-07 ACGGCCGTGC TCGCCGCCATCGCGGAGCTGAACTACGTGCCCAACTCGGT CGCGCGGGGG
+Op2906                       44  2.24e-07 GAGGCCGTCG CGCTCGCCAACGACACCGAGTACGGCCTGGCCGGCGCCGT CTGGACCACC
+Op1335                      254  2.24e-07 GGCGGGAACC GCGTACCGGTGATCGCGCAGCTGGTCCAGGCCGACGAGGA CACGATGCGG
+Op3151                      475  2.53e-07 ACCGCGCCGG AGGCCGTCCTCGACTCGCTCATCGCGGGCCACATCGACTT CGCCCTCGAC
+Op2135                      461  2.53e-07 GGCGGCGACC GCGTTGACCTGGACGACCAGGACGTTCTTGAGGGCGTTGA TCCGCTGGAG
+Op1100                      441  2.53e-07 CTGCTGCTGG CGGTGGTGAGCGCGGGGCTGCTCCTCATCACGCTCGACAA CTCGATCCTG
+Op562                       561  3.23e-07 GTCGAGGCGA TGGCGGGGATCGAGTGGGTGGAGGTGGTGGCGGAGAACGT           
+Op2904                      534  3.64e-07 ACCCGGCTGC GCTTCGTCCAGGACTCCGACGAGGTCCTCGCCGCCTTGGA GCGCACCCTC
+Op417                       165  4.62e-07 GAGCCCGGGA TGCTGCCGCAGGACGTCCAGGCCGGTCAGGCCGATCACCA CGGCGACCGC
+Op1816                       45  4.62e-07 GGGGTGGCCG CCTTTGTCCTGGTCTTCGGCTTCTTCGGCGTGGTCATCGT CGGGCTCGGT
+Op805                       191  5.20e-07 GACGGGGACG CCGCCGGGCAGAACGGGCAGCAGTCCGAGGCCGAGGAGGA CGGCGGCCGC
+Op4153                      307  5.85e-07 AGCGCCTTCG TCCGGGCCGAGGAGGCGCGGATCGCCGGCACCGGCGAGGT GGTCGAGGAG
+Op4173                      344  6.57e-07 ATCATCGTCG TCAGCCTGCTGGTCGCCGGGTTCTTCCTGGCCTACGCGAT CATCATCCTC
+Op407                       402  7.37e-07 GCCAGCCCGG CGGTCGCCACGGAGGTCCTGGAGATCGCCCACCACGGCTT CACCGACTGA
+Op3152                      561  9.26e-07 GCCCGCCTCT TCGCCGAGCGGGGCTTCCACGGGGTCGGCGTGGACGAGAT           
+Op4189                      498  1.04e-06 GCTGGAGGGG TCATGGCCGAGTTCACCATGGAGCTCAACGACGAGCAGAA AGAGGTGCGG
+Op3987                      558  1.04e-06 GCCCGCGTCA AGCGCGGCATGGCCGAGCAGCTCAAGGGCGGCGTGATCAT GGA       
+Op3629                       39  1.04e-06 CGCGGCCCGC ACGACCTCATCGCCTACGCCAACGCCGGCGCCGACGCCGT CCTGGTCGGC
+Op2076                       28  1.04e-06 TGCGAGGAGC TGCGGGACGAAGAGGTGCAGGCCCGCCGGAAGTTCGACCA CTCCCGGGCG
+Op1888                      510  1.30e-06 ATGGCCATCA CCGTCTCCCTGGCCGTACTCCTCGGCCTCGCCCTCTTCCT CCTCGTCCGT
+Op3708                       45  1.45e-06 CCAGATGGCT GCCCCGTCCTCGACGCCCGGGTGGTCCAGGCGCAAATCCT CTGGCATTTC
+Op1828                      561  1.62e-06 GCGGGGCACG TCCAGGGCGTGATCGTGCGGAAGCACACCGAGGACGTGGA           
+Op67                        481  1.80e-06 GAACCGGGGG TGACGGTGGAGACGGAGCGGCGGGTCCGCGAGGCGATCGA CGCCCTCGGC
+Op3900                      353  2.01e-06 AGCGGCCGGG TCCGGGCGATGGAGCGCGACCTGGGCCTCGCGCTGGTCGA CCGCTCACCG
+Op374                       550  2.01e-06 GGAGCCACGG ACGACGGCCCGGAGGAGCAGTTCGTCCAGCACGGCGAACC GCGCCGCCCA
+Op2326                      207  2.24e-06 ACCAGCGAGC TGGCCCTGCCGACGGTGCTCGTCGCGGTCGCCGTGGTCTC GCTCGCCGGA
+Op481                       558  2.49e-06 GACGCGGCGG TCGCCGCCGAGGGCCTGCGCTCCGTCCTCGCCGTCCCCGT CGT       
+Op1922                      539  2.49e-06 CCCGAACTGG TCCGCGCCCAGGACCAGCTGGGGGCCGAGGCGTACCAGGT CGTGGGGTCG
+Op1852                      522  2.49e-06 GACGCACAGC CCGCCGCCCAGGACGAGGGCGGGCACGACATCAACGACAT CACCCGCCGG
+Op4136                       27  2.76e-06 GTGGACCGTG AGCCGGTGCCGGTGGTCCGGCTCCCCGTAGACGACGACGG TGCTGCCGGG
+Op3815                      221  2.76e-06 CGCCGGATGC CGGACTTCAATGTGGCGCAGAGCTGCCGGGCCGTCAAGAT GCGGAGAGAG
+Op1915                      370  2.76e-06 GTCGACTGCG ACTCCTGCGAGGAGTTCCGGCAGGGCGAGGCGGAGGCCAA CGCCGAGCGG
+Op4271                      194  3.07e-06 GCTGGTGAGC AGCCCCTCGTGGCGGCGCAGCTCGCGAGGGTCCACGGCGA GGCGGAGGGT
+Op488                       514  3.41e-06 GCGCAGCCCG TAGGGGGCGTGGTCGTCGGCGAGTTCGAGGACGTCGACCG GGATGGTCGG
+Op2576                      528  3.41e-06 CAGGTGGCCG CCGTCGCGGGGGTGACCGTGCGCACCCTGCACCACTACGA CGCCATCGGC
+Op1943                       58  4.19e-06 GAACAGGCGC CCGGCGAGCGGGAGTTCGGCGTGAGCGAGGTGCACGTGTA CCGGCGCGAC
+Op1035                      266  4.19e-06 CTCGGCCGGG ACGCGGTCCTGGACCAGCGGCTCGACCTCGCGGGTGATCC GGCGCTCCAC
+Op583                        52  4.64e-06 GATGTTCGCG CCGTCCTCCGTGCGGAGCAGGTTCTCCAGCAGCACCTTCA GGCTGTAAGG
+Op3150                      551  5.13e-06 CGAGAGTTCG TCGCAGCCCATGGCGTGCAGGGCGGTGGCGACCTGGACCA CCTGGGCCTC
+Op737                       197  5.68e-06 TGTGAAGCAG GCCACCTCGCGGAGGCGCCGGACGACAAAGGCGTCGACCA ACTCCCGCTC
+Op444                       477  6.27e-06 CGAAGAAGTT CACTACTACTGGGGGTGCATCTCATGCAGGCCGAGAACAA GACAGCCGGG
+Op3180                      255  6.27e-06 GGCGACGCGA CCGGGGCCAAGGACCTCCTCCACCGCCACATCGGCTCCAT CCTGCGCCGC
+Op2022                      482  6.27e-06 TGAGGAAGTA CGCATGAAAGGACGGTCCATGACCTCCTCCACCTCCACCA TCAACCCCCA
+Op1244                      550  6.27e-06 GATACGGGCG TCCGCCTCCTTGATCAGCTTCTTGCGGGCGCCGTCGTCCA GCTCGCCGAC
+Op109                       405  6.27e-06 GGCCAACGGA CCATGGCGGTCGACGCGCTGGACACCCGCATCCTGACGCT CCTGCTGGAG
+Op4039                        5  7.65e-06       CGGA TCGCGGCGGCTGAGCACCCGTACGTCCTGCCCGTCCTCGC GGAGCCGCGC
+Op2905                      549  7.65e-06 CGGGAGATCA TCGACCCGGCGGACGCCAAGCCGTTCGCGGTGGTCGCCGA GGGCGGCACC
+Op4129                      516  8.43e-06 ATCGGCGAGA TGCTCGCCGCCACGGTCCCCATGGTGCGGACCCTCGACCT CACCTTCGGC
+Op3012                      121  8.43e-06 GCTGCCGCGG AGGAGCCCGGGGAGTACCGGTTCGCCCTGCAGCCGATGCA TCAGCGGCCG
+Op1618                      526  8.43e-06 GTGCCGGCTC CGGCGGAGATCGCCGCCCGGCTCGGTATCGCCGAGGGCGA GCTGTGCGTC
+Op3496                      434  9.29e-06 GCACCAGGTG CCGTCGGGGGAGACGGCGAGGTCGGCGGGGTCGAGGACGC GGCGGGTCGC
+Op3441                      245  9.29e-06 GCGACCCGCG CCGGCCTCAGCGCCGCCCCGGTCACCCGGGCCCTGGAGCA CCCCTCGCTG
+Op303                        76  1.24e-05 TCATCGATCG TGCGGGTGATGGAGTCGAGTGACATCAGGCTCCTCTGGGA ACGCGTGGGG
+Op4143                      113  1.64e-05 GGTCACGTGG TGCGCCTCCAGGATCTGCGGGGTGGCCGCCACCAGGTCGT GGAAGGGTTT
+Op563                       429  1.80e-05 CGCGTGCCGG GGGCCGTGGACGCCGTGCGGGACTTTGCGGACATGCCCTA GGGCTGTCAT
+Op37                        173  2.16e-05 GGAGAGTTCA CCGTCGGCGAAGCGGCTCACCAGCGCCTCGTCGATGCCGA AACCGGCGGG
+Op2446                      483  2.16e-05 GGGGACGGCA TGACGGACGGGACGCACATGGACACCGACACCGGCACCGA CGCGGGCACG
+Op3108                        9  2.36e-05   GGAGCGCG CCGCGCACCAGGTCGCGCTGGAGCACGTCCTGCGGCACCT GCCGGGCGTT
+Op3071                      283  2.36e-05 GAGGCCGCGC TCGCCCGCCGTGTCGAGCAGTTCGACCGCCGCGCCGATGA TGCGCTCCCG
+Op505                       474  2.58e-05 GCGTGCGGGC GACACGTCCACGGGAAGGTGGTCCTCGTGCCCCAGCACCC GCCCGGCCAG
+Op157                       305  2.58e-05 CCGTCGCGAC ACGGCGTGGCGGAGCAGCCGGACAGCCGCAGGCTGCTCGT CCACGGCGAC
+Op448                       391  2.82e-05 TGGCCCGGCC ACCTCCACCGGAAGAAGCGTCACCTCCGAGACGCCGCCCC TCCCATTCGA
+Op447                       271  2.82e-05 TGGCCCGGCC ACCTCCACCGGAAGAAGCGTCACCTCCGAGACGCCGCCCC TCCCATTCGA
+Op216                       315  2.82e-05 CGGCAGGGGC TCCCCGAACGGGTCGACCGGGGCCTCCAGGAGCCCTGCGA GGCGCTGACC
+Op931                       511  3.36e-05 CCGATGTAGG TGAAGGTGCCGGTGACGTAGTTGTTCAGGCAGGTGCTCTT GCCGAAGTCG
+Op2387                      558  4.00e-05 CTCGCCTGGG CCCTGGGCCGCGAGCCGCTGCCCGCCCTCGCCACCCTCGA TCT       
+Op2069                      335  4.36e-05 TTGACCAGCT CGGAGGTGGGCGCGTTCCAGGACACGGCGGTGAACGCCTT CTCCTGCGCC
+Op3427                      350  5.16e-05 CCAGAGGCCG CCCACCACCGAGAGTCCCAGCACGGTGACCATGTTGACGA CACCGGTCGC
+Op3428                      486  6.10e-05 GCGTGCGGTG GCGTGGCCTCGTGCTCCGTGCTGGTCCTGGTCATGGACAA CTCACCCCGT
+Op3130                      282  6.63e-05 GGCGGCGGGG TCCGGGCCGGAGACGTGGGGGACGGGCACGAGGGGCTCCC AGGGTGGGCG
+Op1959                      400  7.80e-05 CTCGCGGAAG CCGTCGCCAACGGTGAGCGGGACTGGAGCAAGGCGACCGA CTGTCGCGTA
+Op970                       108  8.46e-05 CACAGCCCAC TACCCGTCAGAAAGATCGCCTCGCCCCACACCGAGATCAT CGCGATGCCG
+Op1977                      536  8.46e-05 GCGATCTGCC TGCGACTGGCGGCCGAGGGGCACGATGTGGCCGTGGGGTA CCGGTCGGAT
+Op1779                      116  8.46e-05 CCGGGCCCCC TCCAGGACGGCGCTGAGCCGGTCGGCGGTCTCGACGTTGC ACCGCCCGAG
+Op2359                      488  9.92e-05 ACGGCCACGC TGGCCGGCGCCGTCGCCGCGCTCCTCGTCGGCCTCACCGC GTGCGGTGCG
+Op2175                       71  9.92e-05 CTGCTGGCCG CCCTCGTCGCGGGCTGGCTGCTGCGCCGGGGCGACCTCGC CCTCTTCCGG
+Op3191                       69  1.16e-04 CGAGGCGGGC AGGGCGGGCAGGCCGAGCAGCAGCAGGGAGGCGGTGACCA GGGCGGTCGC
+Op3189                      498  1.36e-04 AGGGAGTTGT ACGTGTCGAAGAAGAAGCTGTGGCTGCGCGCCGCCGCCTC CGCCGCTGTG
+Op1502                      519  1.58e-04 GGCGCTGCCC CAGTCGTGCTGGCTCAGCTTGTCGCGCAGCCCGGCGGGGT AGCCCTCCCA
+Op655                         3  3.05e-04         AG TACCCCTCGACGGCCTTCTTCAGTTCCCGGTGCTGTCCCT GGCGGGGGTA
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif HSSNSGHSVNGGMSGHSCDGSWSGBCSDSGMCSWSGHCSW MEME-1 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Op3953                            4.8e-14  234_[+1]_326
+Op4222                            1.2e-11  505_[+1]_55
+Op871                             3.2e-11  363_[+1]_197
+Op2641                            4.2e-10  237_[+1]_323
+Op3353                            1.6e-09  548_[+1]_12
+Op2127                            2.2e-09  492_[+1]_68
+Op3177                            4.8e-09  100_[+1]_460
+Op3740                            6.4e-09  303_[+1]_257
+Op2691                            6.4e-09  213_[+1]_347
+Op2002                            8.7e-09  234_[+1]_326
+Op1864                            8.7e-09  486_[+1]_74
+Op195                             1.2e-08  256_[+1]_304
+Op794                             1.3e-08  120_[+1]_440
+Op620                             2.1e-08  318_[+1]_242
+Op2850                            4.1e-08  60_[+1]_500
+Op2976                            4.7e-08  520_[+1]_40
+Op796                             6.2e-08  273_[+1]_287
+Op1493                            7.1e-08  500_[+1]_60
+Op795                               1e-07  109_[+1]_451
+Op75                                1e-07  498_[+1]_62
+Op3938                              1e-07  473_[+1]_87
+Op19                              1.5e-07  492_[+1]_68
+Op3032                            1.7e-07  554_[+1]_6
+Op3473                              2e-07  270_[+1]_290
+Op3472                              2e-07  29_[+1]_531
+Op261                               2e-07  316_[+1]_244
+Op260                               2e-07  456_[+1]_104
+Op1452                              2e-07  540_[+1]_20
+Op2906                            2.2e-07  43_[+1]_517
+Op1335                            2.2e-07  253_[+1]_307
+Op3151                            2.5e-07  474_[+1]_86
+Op2135                            2.5e-07  460_[+1]_100
+Op1100                            2.5e-07  440_[+1]_120
+Op562                             3.2e-07  560_[+1]
+Op2904                            3.6e-07  533_[+1]_27
+Op417                             4.6e-07  164_[+1]_396
+Op1816                            4.6e-07  44_[+1]_516
+Op805                             5.2e-07  190_[+1]_370
+Op4153                            5.8e-07  306_[+1]_254
+Op4173                            6.6e-07  343_[+1]_217
+Op407                             7.4e-07  401_[+1]_159
+Op3152                            9.3e-07  560_[+1]
+Op4189                              1e-06  497_[+1]_63
+Op3987                              1e-06  557_[+1]_3
+Op3629                              1e-06  38_[+1]_522
+Op2076                              1e-06  27_[+1]_533
+Op1888                            1.3e-06  509_[+1]_51
+Op3708                            1.4e-06  44_[+1]_516
+Op1828                            1.6e-06  560_[+1]
+Op67                              1.8e-06  480_[+1]_80
+Op3900                              2e-06  352_[+1]_208
+Op374                               2e-06  549_[+1]_11
+Op2326                            2.2e-06  206_[+1]_354
+Op481                             2.5e-06  557_[+1]_3
+Op1922                            2.5e-06  538_[+1]_22
+Op1852                            2.5e-06  521_[+1]_39
+Op4136                            2.8e-06  26_[+1]_534
+Op3815                            2.8e-06  220_[+1]_340
+Op1915                            2.8e-06  369_[+1]_191
+Op4271                            3.1e-06  193_[+1]_367
+Op488                             3.4e-06  513_[+1]_47
+Op2576                            3.4e-06  527_[+1]_33
+Op1943                            4.2e-06  57_[+1]_503
+Op1035                            4.2e-06  265_[+1]_295
+Op583                             4.6e-06  51_[+1]_509
+Op3150                            5.1e-06  550_[+1]_10
+Op737                             5.7e-06  196_[+1]_364
+Op444                             6.3e-06  476_[+1]_84
+Op3180                            6.3e-06  254_[+1]_306
+Op2022                            6.3e-06  481_[+1]_79
+Op1244                            6.3e-06  549_[+1]_11
+Op109                             6.3e-06  404_[+1]_156
+Op4039                            7.6e-06  4_[+1]_556
+Op2905                            7.6e-06  548_[+1]_12
+Op4129                            8.4e-06  515_[+1]_45
+Op3012                            8.4e-06  120_[+1]_440
+Op1618                            8.4e-06  525_[+1]_35
+Op3496                            9.3e-06  433_[+1]_127
+Op3441                            9.3e-06  244_[+1]_316
+Op303                             1.2e-05  75_[+1]_485
+Op4143                            1.6e-05  112_[+1]_448
+Op563                             1.8e-05  428_[+1]_132
+Op37                              2.2e-05  172_[+1]_388
+Op2446                            2.2e-05  482_[+1]_78
+Op3108                            2.4e-05  8_[+1]_552
+Op3071                            2.4e-05  282_[+1]_278
+Op505                             2.6e-05  473_[+1]_87
+Op157                             2.6e-05  304_[+1]_256
+Op448                             2.8e-05  390_[+1]_170
+Op447                             2.8e-05  270_[+1]_290
+Op216                             2.8e-05  314_[+1]_246
+Op931                             3.4e-05  510_[+1]_50
+Op2387                              4e-05  557_[+1]_3
+Op2069                            4.4e-05  334_[+1]_226
+Op3427                            5.2e-05  349_[+1]_211
+Op3428                            6.1e-05  485_[+1]_75
+Op3130                            6.6e-05  281_[+1]_279
+Op1959                            7.8e-05  399_[+1]_161
+Op970                             8.5e-05  107_[+1]_453
+Op1977                            8.5e-05  535_[+1]_25
+Op1779                            8.5e-05  115_[+1]_445
+Op2359                            9.9e-05  487_[+1]_73
+Op2175                            9.9e-05  70_[+1]_490
+Op3191                            0.00012  68_[+1]_492
+Op3189                            0.00014  497_[+1]_63
+Op1502                            0.00016  518_[+1]_42
+Op655                             0.00031  2_[+1]_558
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif HSSNSGHSVNGGMSGHSCDGSWSGBCSDSGMCSWSGHCSW MEME-1 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF HSSNSGHSVNGGMSGHSCDGSWSGBCSDSGMCSWSGHCSW width=40 seqs=107
+Op3953                   (  235) TCCTGGTCAACGAGGCCCAGCTCTTCCAGGAGGACGTCAA  1 
+Op4222                   (  506) TGTCGGTCCTGGACGAGCTGGACGGCCTGGAGATCGACCA  1 
+Op871                    (  364) TCGACCTGATGGTGGAGATCGTCTGCGAGGACGACGACCA  1 
+Op2641                   (  238) TGCTCGGCATGGCGTTCCAGCTGGTGCTGGCCGAGTTCAA  1 
+Op3353                   (  549) AGCTCGTCCAGGACGTGGTGAAGGCCGAGGAGGTCGGCTT  1 
+Op2127                   (  493) TGGTGGAGATGGGGAAGATGATCTCCGGGGACCACGTCGA  1 
+Op3177                   (  101) TGCGCGCCGAGACCTACGAGGAGGGCCTCGCCCTCATCAA  1 
+Op3740                   (  304) TCGTCGACACGGACATGACCAAGGTCCTCACCGACGAGCA  1 
+Op2691                   (  214) ACCGCGACCAGGCCTCGGTGAACGTGGTGGCCAAGGTCGA  1 
+Op2002                   (  235) ACGACGAGGACGACGTCCCGGAGTGGGTGGACCAGGTCAT  1 
+Op1864                   (  487) TCCTGGTCGGCGAGGTGCGGCAGGTCGTCGACCGGCTCGT  1 
+Op195                    (  257) TCGACGCCCGCGCCGCGCAGGTCGGCGAGGAGGGCGTCGA  1 
+Op794                    (  121) AGGGCGCCCGCGACGTGGTTGTCGTCCTCGACAAGTAGCA  1 
+Op620                    (  319) TCGACGCGACGGACGCGCGCATCCTGCTGGCGCTCGACGA  1 
+Op2850                   (   61) TGGCGGTGGCGGCGGTGGTGGCGGTCGTGGTGGTGGTCAT  1 
+Op2976                   (  521) AGGTCGAGAAGGCCGCCGAGACGGTCCGCGCCGACGCCGA  1 
+Op796                    (  274) TCAAGGACAAGATCAACAAGGCGCTCGAGAAGATGGTCGA  1 
+Op1493                   (  501) TGACCCCCAAGACCGAGCTGGCCACCCTCGCCGACGAGAT  1 
+Op795                    (  110) TCGACCCGGAGATGATCAACGAGGTGCTGGAGGTCATGCA  1 
+Op75                     (  499) CCTTCGTCCGGGCCGAGCGGTCCGGCGTCGACCTGATCGA  1 
+Op3938                   (  474) AGGACGTGGCGGACGACGCGGTCGCCGTCATGGACGCCCT  1 
+Op19                     (  493) AGAGCGGCCGGGTGGACGTGCTCTCCCTCGCCGACGAGTT  1 
+Op3032                   (  555) TGCGGGCGCTCAACGCCCAGGACGGCGGCGAGGAGGCCCA  1 
+Op3473                   (  271) TGGGCGAGCACGTCTACGACTTCTTCCTCCGCAACAAGAA  1 
+Op3472                   (   30) AAGCGGACGTCAACGAACTTGACGTCCTCGTCGGCGATGA  1 
+Op261                    (  317) ACCACGAGGACGTCGATATGGTCGCCGGAGCCCTCGATGA  1 
+Op260                    (  457) ACCACGAGGACGTCGATATGGTCGCCGGAGCCCTCGATGA  1 
+Op1452                   (  541) TCGCCGCCATCGCGGAGCTGAACTACGTGCCCAACTCGGT  1 
+Op2906                   (   44) CGCTCGCCAACGACACCGAGTACGGCCTGGCCGGCGCCGT  1 
+Op1335                   (  254) GCGTACCGGTGATCGCGCAGCTGGTCCAGGCCGACGAGGA  1 
+Op3151                   (  475) AGGCCGTCCTCGACTCGCTCATCGCGGGCCACATCGACTT  1 
+Op2135                   (  461) GCGTTGACCTGGACGACCAGGACGTTCTTGAGGGCGTTGA  1 
+Op1100                   (  441) CGGTGGTGAGCGCGGGGCTGCTCCTCATCACGCTCGACAA  1 
+Op562                    (  561) TGGCGGGGATCGAGTGGGTGGAGGTGGTGGCGGAGAACGT  1 
+Op2904                   (  534) GCTTCGTCCAGGACTCCGACGAGGTCCTCGCCGCCTTGGA  1 
+Op417                    (  165) TGCTGCCGCAGGACGTCCAGGCCGGTCAGGCCGATCACCA  1 
+Op1816                   (   45) CCTTTGTCCTGGTCTTCGGCTTCTTCGGCGTGGTCATCGT  1 
+Op805                    (  191) CCGCCGGGCAGAACGGGCAGCAGTCCGAGGCCGAGGAGGA  1 
+Op4153                   (  307) TCCGGGCCGAGGAGGCGCGGATCGCCGGCACCGGCGAGGT  1 
+Op4173                   (  344) TCAGCCTGCTGGTCGCCGGGTTCTTCCTGGCCTACGCGAT  1 
+Op407                    (  402) CGGTCGCCACGGAGGTCCTGGAGATCGCCCACCACGGCTT  1 
+Op3152                   (  561) TCGCCGAGCGGGGCTTCCACGGGGTCGGCGTGGACGAGAT  1 
+Op4189                   (  498) TCATGGCCGAGTTCACCATGGAGCTCAACGACGAGCAGAA  1 
+Op3987                   (  558) AGCGCGGCATGGCCGAGCAGCTCAAGGGCGGCGTGATCAT  1 
+Op3629                   (   39) ACGACCTCATCGCCTACGCCAACGCCGGCGCCGACGCCGT  1 
+Op2076                   (   28) TGCGGGACGAAGAGGTGCAGGCCCGCCGGAAGTTCGACCA  1 
+Op1888                   (  510) CCGTCTCCCTGGCCGTACTCCTCGGCCTCGCCCTCTTCCT  1 
+Op3708                   (   45) GCCCCGTCCTCGACGCCCGGGTGGTCCAGGCGCAAATCCT  1 
+Op1828                   (  561) TCCAGGGCGTGATCGTGCGGAAGCACACCGAGGACGTGGA  1 
+Op67                     (  481) TGACGGTGGAGACGGAGCGGCGGGTCCGCGAGGCGATCGA  1 
+Op3900                   (  353) TCCGGGCGATGGAGCGCGACCTGGGCCTCGCGCTGGTCGA  1 
+Op374                    (  550) ACGACGGCCCGGAGGAGCAGTTCGTCCAGCACGGCGAACC  1 
+Op2326                   (  207) TGGCCCTGCCGACGGTGCTCGTCGCGGTCGCCGTGGTCTC  1 
+Op481                    (  558) TCGCCGCCGAGGGCCTGCGCTCCGTCCTCGCCGTCCCCGT  1 
+Op1922                   (  539) TCCGCGCCCAGGACCAGCTGGGGGCCGAGGCGTACCAGGT  1 
+Op1852                   (  522) CCGCCGCCCAGGACGAGGGCGGGCACGACATCAACGACAT  1 
+Op4136                   (   27) AGCCGGTGCCGGTGGTCCGGCTCCCCGTAGACGACGACGG  1 
+Op3815                   (  221) CGGACTTCAATGTGGCGCAGAGCTGCCGGGCCGTCAAGAT  1 
+Op1915                   (  370) ACTCCTGCGAGGAGTTCCGGCAGGGCGAGGCGGAGGCCAA  1 
+Op4271                   (  194) AGCCCCTCGTGGCGGCGCAGCTCGCGAGGGTCCACGGCGA  1 
+Op488                    (  514) TAGGGGGCGTGGTCGTCGGCGAGTTCGAGGACGTCGACCG  1 
+Op2576                   (  528) CCGTCGCGGGGGTGACCGTGCGCACCCTGCACCACTACGA  1 
+Op1943                   (   58) CCGGCGAGCGGGAGTTCGGCGTGAGCGAGGTGCACGTGTA  1 
+Op1035                   (  266) ACGCGGTCCTGGACCAGCGGCTCGACCTCGCGGGTGATCC  1 
+Op583                    (   52) CCGTCCTCCGTGCGGAGCAGGTTCTCCAGCAGCACCTTCA  1 
+Op3150                   (  551) TCGCAGCCCATGGCGTGCAGGGCGGTGGCGACCTGGACCA  1 
+Op737                    (  197) GCCACCTCGCGGAGGCGCCGGACGACAAAGGCGTCGACCA  1 
+Op444                    (  477) CACTACTACTGGGGGTGCATCTCATGCAGGCCGAGAACAA  1 
+Op3180                   (  255) CCGGGGCCAAGGACCTCCTCCACCGCCACATCGGCTCCAT  1 
+Op2022                   (  482) CGCATGAAAGGACGGTCCATGACCTCCTCCACCTCCACCA  1 
+Op1244                   (  550) TCCGCCTCCTTGATCAGCTTCTTGCGGGCGCCGTCGTCCA  1 
+Op109                    (  405) CCATGGCGGTCGACGCGCTGGACACCCGCATCCTGACGCT  1 
+Op4039                   (    5) TCGCGGCGGCTGAGCACCCGTACGTCCTGCCCGTCCTCGC  1 
+Op2905                   (  549) TCGACCCGGCGGACGCCAAGCCGTTCGCGGTGGTCGCCGA  1 
+Op4129                   (  516) TGCTCGCCGCCACGGTCCCCATGGTGCGGACCCTCGACCT  1 
+Op3012                   (  121) AGGAGCCCGGGGAGTACCGGTTCGCCCTGCAGCCGATGCA  1 
+Op1618                   (  526) CGGCGGAGATCGCCGCCCGGCTCGGTATCGCCGAGGGCGA  1 
+Op3496                   (  434) CCGTCGGGGGAGACGGCGAGGTCGGCGGGGTCGAGGACGC  1 
+Op3441                   (  245) CCGGCCTCAGCGCCGCCCCGGTCACCCGGGCCCTGGAGCA  1 
+Op303                    (   76) TGCGGGTGATGGAGTCGAGTGACATCAGGCTCCTCTGGGA  1 
+Op4143                   (  113) TGCGCCTCCAGGATCTGCGGGGTGGCCGCCACCAGGTCGT  1 
+Op563                    (  429) GGGCCGTGGACGCCGTGCGGGACTTTGCGGACATGCCCTA  1 
+Op37                     (  173) CCGTCGGCGAAGCGGCTCACCAGCGCCTCGTCGATGCCGA  1 
+Op2446                   (  483) TGACGGACGGGACGCACATGGACACCGACACCGGCACCGA  1 
+Op3108                   (    9) CCGCGCACCAGGTCGCGCTGGAGCACGTCCTGCGGCACCT  1 
+Op3071                   (  283) TCGCCCGCCGTGTCGAGCAGTTCGACCGCCGCGCCGATGA  1 
+Op505                    (  474) GACACGTCCACGGGAAGGTGGTCCTCGTGCCCCAGCACCC  1 
+Op157                    (  305) ACGGCGTGGCGGAGCAGCCGGACAGCCGCAGGCTGCTCGT  1 
+Op448                    (  391) ACCTCCACCGGAAGAAGCGTCACCTCCGAGACGCCGCCCC  1 
+Op447                    (  271) ACCTCCACCGGAAGAAGCGTCACCTCCGAGACGCCGCCCC  1 
+Op216                    (  315) TCCCCGAACGGGTCGACCGGGGCCTCCAGGAGCCCTGCGA  1 
+Op931                    (  511) TGAAGGTGCCGGTGACGTAGTTGTTCAGGCAGGTGCTCTT  1 
+Op2387                   (  558) CCCTGGGCCGCGAGCCGCTGCCCGCCCTCGCCACCCTCGA  1 
+Op2069                   (  335) CGGAGGTGGGCGCGTTCCAGGACACGGCGGTGAACGCCTT  1 
+Op3427                   (  350) CCCACCACCGAGAGTCCCAGCACGGTGACCATGTTGACGA  1 
+Op3428                   (  486) GCGTGGCCTCGTGCTCCGTGCTGGTCCTGGTCATGGACAA  1 
+Op3130                   (  282) TCCGGGCCGGAGACGTGGGGGACGGGCACGAGGGGCTCCC  1 
+Op1959                   (  400) CCGTCGCCAACGGTGAGCGGGACTGGAGCAAGGCGACCGA  1 
+Op970                    (  108) TACCCGTCAGAAAGATCGCCTCGCCCCACACCGAGATCAT  1 
+Op1977                   (  536) TGCGACTGGCGGCCGAGGGGCACGATGTGGCCGTGGGGTA  1 
+Op1779                   (  116) TCCAGGACGGCGCTGAGCCGGTCGGCGGTCTCGACGTTGC  1 
+Op2359                   (  488) TGGCCGGCGCCGTCGCCGCGCTCCTCGTCGGCCTCACCGC  1 
+Op2175                   (   71) CCCTCGTCGCGGGCTGGCTGCTGCGCCGGGGCGACCTCGC  1 
+Op3191                   (   69) AGGGCGGGCAGGCCGAGCAGCAGCAGGGAGGCGGTGACCA  1 
+Op3189                   (  498) ACGTGTCGAAGAAGAAGCTGTGGCTGCGCGCCGCCGCCTC  1 
+Op1502                   (  519) CAGTCGTGCTGGCTCAGCTTGTCGCGCAGCCCGGCGGGGT  1 
+Op655                    (    3) TACCCCTCGACGGCCTTCTTCAGTTCCCGGTGCTGTCCCT  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif HSSNSGHSVNGGMSGHSCDGSWSGBCSDSGMCSWSGHCSW MEME-1 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 40 n= 60027 bayes= 9.12928 E= 3.0e-107 
+    65    -51   -227    171 
+  -113     66      2  -1339 
+   -76      2     49   -155 
+    52    -41    -74    117 
+  -193     75    -14   -229 
+ -1339    -68    104   -187 
+    59    -31   -136    138 
+  -235     75      2  -1339 
+    77     12     -2   -387 
+   124   -110    -62     94 
+  -135    -41     78   -129 
+    24  -1339    118   -287 
+   162    -41   -194     52 
+ -1339     59     19   -155 
+   -23   -157     71     30 
+   135    -36   -268    113 
+  -293     19     57   -187 
+   -48     82    -51   -387 
+   115   -168    -51    122 
+ -1339    -88     98    -55 
+   -23    -27     35    -17 
+   146   -181   -194    159 
+ -1339     80     -6   -229 
+   -35    -81     54     22 
+   -61    -62    -51    162 
+ -1339    107   -102   -106 
+   -76     46     22  -1339 
+    77   -268    -22    152 
+  -113     35     35   -287 
+   -13   -102     94  -1339 
+   127     16   -227     38 
+ -1339     88    -14   -387 
+   -35    -31     66   -229 
+   152   -195   -146    141 
+  -393     75    -10   -155 
+    15   -127     73    -55 
+   146    -81   -227    126 
+  -393     94    -68    -87 
+    31    -36     29    -41 
+   190   -157   -426    126 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif HSSNSGHSVNGGMSGHSCDGSWSGBCSDSGMCSWSGHCSW MEME-1 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 40 nsites= 107 E= 3.0e-107 
+ 0.224299  0.252336  0.074766  0.448598 
+ 0.065421  0.570093  0.364486  0.000000 
+ 0.084112  0.364486  0.504673  0.046729 
+ 0.205607  0.271028  0.214953  0.308411 
+ 0.037383  0.607477  0.327103  0.028037 
+ 0.000000  0.224299  0.738318  0.037383 
+ 0.214953  0.289720  0.140187  0.355140 
+ 0.028037  0.607477  0.364486  0.000000 
+ 0.242991  0.392523  0.355140  0.009346 
+ 0.336449  0.168224  0.233645  0.261682 
+ 0.056075  0.271028  0.616822  0.056075 
+ 0.168224  0.000000  0.813084  0.018692 
+ 0.439252  0.271028  0.093458  0.196262 
+ 0.000000  0.542056  0.411215  0.046729 
+ 0.121495  0.121495  0.588785  0.168224 
+ 0.364486  0.280374  0.056075  0.299065 
+ 0.018692  0.411215  0.532710  0.037383 
+ 0.102804  0.635514  0.252336  0.009346 
+ 0.317757  0.112150  0.252336  0.317757 
+ 0.000000  0.196262  0.710280  0.093458 
+ 0.121495  0.299065  0.457944  0.121495 
+ 0.392523  0.102804  0.093458  0.411215 
+ 0.000000  0.626168  0.345794  0.028037 
+ 0.112150  0.205607  0.523364  0.158879 
+ 0.093458  0.233645  0.252336  0.420561 
+ 0.000000  0.757009  0.177570  0.065421 
+ 0.084112  0.495327  0.420561  0.000000 
+ 0.242991  0.056075  0.308411  0.392523 
+ 0.065421  0.457944  0.457944  0.018692 
+ 0.130841  0.177570  0.691589  0.000000 
+ 0.345794  0.401869  0.074766  0.177570 
+ 0.000000  0.663551  0.327103  0.009346 
+ 0.112150  0.289720  0.570093  0.028037 
+ 0.411215  0.093458  0.130841  0.364486 
+ 0.009346  0.607477  0.336449  0.046729 
+ 0.158879  0.149533  0.598131  0.093458 
+ 0.392523  0.205607  0.074766  0.327103 
+ 0.009346  0.691589  0.224299  0.074766 
+ 0.177570  0.280374  0.439252  0.102804 
+ 0.532710  0.121495  0.018692  0.327103 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif HSSNSGHSVNGGMSGHSCDGSWSGBCSDSGMCSWSGHCSW MEME-1 regular expression
+--------------------------------------------------------------------------------
+[TCA][CG][GC][TCGA][CG][GC][TCA][CG][CGA][ATG][GC]G[AC][CG]G[ATC][GC][CG][ATG]G[GC][TA][CG][GC][TGC]C[CG][TGA][CG]G[CA][CG][GC][AT][CG]G[ATC][CG][GC][AT]
+--------------------------------------------------------------------------------
+
+
+
+
+Time 39.23 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+MOTIF CGRCSNMGDSSRBSVCSAVGNYSGCSBCGVBSDSSNYS MEME-2	width =  38  sites = 107  llr = 1065  E-value = 1.1e-060
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif CGRCSNMGDSSRBSVCSAVGNYSGCSBCGVBSDSSNYS MEME-2 Description
+--------------------------------------------------------------------------------
+Simplified        A  2:33:23:42:51:3::53:2::21:13:41:5::41:
+pos.-specific     C  53264352:46:44264223264:64363245:44255
+probability       G  17416217334436326:37316615217325345215
+matrix            T  2:1::21:31:12:21:21133:13:31:13:32:23:
+
+         bits    2.9                                       
+                 2.6                                       
+                 2.3                                       
+                 2.0                                       
+Relative         1.7                                       
+Entropy          1.4                                       
+(14.4 bits)      1.1                  *                    
+                 0.9         *  *     *   *          *     
+                 0.6  * *    *  *    **   ***    *   *     
+                 0.3 ***** *** ** ***** ************** ****
+                 0.0 --------------------------------------
+
+Multilevel           CGGCGCCGACCACGGCGAGGTCGGCGCCGACCACGACG
+consensus            TCAACTACGGGGGCAGCCACGTCATCTACGTGGGCTTC
+sequence                  A  T   T    TC C     G   G T     
+                          G              A                 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CGRCSNMGDSSRBSVCSAVGNYSGCSBCGVBSDSSNYS MEME-2 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value                             Site               
+-------------             ----- ---------            --------------------------------------
+Op3150                      237  2.71e-10 CAGTCGCTGG TGGCGACGAGCGCGCCGAGGTCGGTGCCGGTGTCGATG CCGAGGCCGT
+Op3353                      172  2.02e-09 TGGAAGTAGG TGGAGTCGACCAGGGTGCCGTCGACGTCGATGATGGCG GCGCGGGCCT
+Op1035                      399  2.44e-09 GCGCCGAGGT CGAAGGCGAAGATCAGGTAGATGATGTACAGCAGGCCG TGGACCTGGG
+Op195                       180  5.12e-09 CGGGTCAGGT CGTCCTGGACCTCGTCGCGGTTGGTCTCGTTGAGGATC TCGTGCCGGG
+Op260                        64  1.47e-08 ACAAGCCCTC CGGCGACGATCAGCCCGAGGACGTTGTCGGCGGTCACG ACCTGCCGAT
+Op3108                      519  3.40e-08 TGCTGCCCGA CGACGCCGTCCACGGTGAGCTTGGCCGCGCGCTGGACC GCGCGGGCCG
+Op931                       424  3.99e-08 TGGTAGGTCA CGTCCCAGTGGTTGCCCTCGTTGGCGTAGATGTTGCCG GAGCCCGACT
+Op2576                       27  3.99e-08 CCGGTGGAGG AGTAGTAGATGACGGCCACGTTGACGGTGCCGGGCATG GGGGTGCTCC
+Op1943                      317  4.69e-08 GGGAGTTTCT TCGAGCCGAACAGCACGATGACCACGAGGGCCACGATC AGCAGATGCC
+Op3152                       24  6.43e-08 TAGTACGTGC CGCCCTTGACCGTGGCGTCGTTGGCCACGATCACGCAG AGCCGGCCCG
+Op1493                       38  6.43e-08 GTGGCCTCGG TGACGGGGAGGGCGTCGAGTTCGGTGCGGATCAGGACG GTGGGGCCGG
+Op407                       225  7.52e-08 ACCCGTCCGC TCACCCCGGACACCACCAAGGTCGCCAAGTGGATCTCC TCCGTGCAGA
+Op19                         73  1.38e-07 AGGACCACAC AGACGGCGACGATACCGACGACCATCATGACGAGCTCC TCACTTCTGG
+Op583                       119  1.60e-07 GCGGAGCCCT CGACCTTGTCCAGCCGGAAGATCTCGTACGACTCGTCG CCCACGCGCA
+Op805                        64  2.86e-07 GCGTAGCAGC CGGCGGTGGTGAGCGCGATGGCGATCCAGACGGTCATC GGGGGCTCTC
+Op4129                       31  3.29e-07 GTCGCCACCA CGACCGCGGTGGCCGCGACGATGGCCACGATCGTGGTC TTCTTGCGGT
+Op448                        52  3.79e-07 AAGTGCTCGG TGAACGAGTGCAGGGCCACGCCGACGATGGTGGTGTCC ATCAGGGCGA
+Op1864                      314  3.79e-07 GTGAACAGCG CGTCGTCGTCCACGTAGAGGGCGGTGGCGAGGAAGTCG ACGATGTGGG
+Op1244                       13  3.79e-07 GCGAAGGAGG CGGCGCCCACCACGAGGCAGGTGGCCACGGCGGCGACG AGGGCCCGGC
+Op67                         34  4.35e-07 CCCTCCCGGT CGACGAGGGCAGCGGCGATCTTGGTGCCGCCGATGTCC AGCGCGGCGG
+Op4143                       75  5.72e-07 GAGCGGGCCG CGACCTTGAGCAGGAAGCAGTCGTCCCCGGTCACGTGG TGCGCCTCCA
+Op2069                      167  5.72e-07 AAGAGGGCGG TGACACCGGCCTTGGCGAACTTCTCGTCCAGGTCGCCG CTGGGAGCGC
+Op157                        67  6.54e-07 GGTGGGGCGG AGGCGGCATCCGGGACGCCGGTGATGTCGGTCATGTCG TATCCCTGGA
+Op4271                      456  7.47e-07 ACGGTGCCGC CGGAGAACTCGGTGTCCTCGTGGACGTAGCGGAGCATG CCGAAGCCGC
+Op2002                      121  7.47e-07 TCCATGACTG AGCCCACGGCGAACGCGACCTCCGCGTCCATCTCCAGG TCTTGGAATC
+Op2446                      226  8.53e-07 TGCGGCCCCT CGGCCCTGATCACCTCCTCGGCGGCGGCGAGCACGGCC CGCCGCAGAT
+Op3987                      477  9.72e-07 CAGCAACTCG TCTCGTCCTACGTGAGGTAGCCCGTGTCCAGCACGCCC CCCGCCACCC
+Op3032                       53  9.72e-07 GCCTCGGCGG CGGCGACGGCCGCCTCGTACGCCGCGTACTCCTCGTCG GCCGTACGCA
+Op37                        558  1.11e-06 CGCGCCCAGT GGAAGGCGACGACGCCCACGCTCGTACCGGTCACCGTC GACGG     
+Op3130                       28  1.26e-06 CCGCCCGCCG ACGCCCCGTAGACCACCAGGACCACCGGGGCGAGGACG CAGCCGAAGG
+Op3071                      152  1.43e-06 GCGTCGGCCG GGGCGACGGCGGGGGCGATGACGGCGTCGGTGGCGGCG GCCAGCAGTT
+Op2691                      160  1.43e-06 CTGTGGATGC TCCTGCTGGCCATGGTGATCTCGGCGCCCATCAGCTTC GTCGCCCTCC
+Op1335                      556  1.43e-06 AGGGCCGGGA TGGCGAACAGCGGGGCGAAGGCGACCCCCCAGACGGCC TGTGCCG   
+Op4136                      410  1.62e-06 CGCCGCGCGA GGACGCAGAGGAGGACGATCCCCACCACCATGGCCAGC AGTTCGGCCT
+Op4039                      418  1.62e-06 CGGTTCTGTC CGGCGTCGTGCGTGCCGTCGTCCGTGTCGCTGTCTTCA CGACAGGCCC
+Op3428                      319  1.62e-06 CCGGGGCACT TCACGTACATGTCCGCGAGGACGTCCTCGGGCGGGCTC AGGCCGCCTC
+Op2135                      540  1.62e-06 CCGGAGAGGG CGACGTAGAGGATGCCCTGCCCGGCGGAGAAGTAGCCG CCGTAGACGC
+Op737                        67  1.83e-06 CCGCTCCGGG TGCCGACTTCCTTCACCTGCGTGGTCTCGCGCATCTCC CGCCTCGTTT
+Op2127                      334  1.83e-06 GCGAGCGGGA CGAGGAAGAACATGGCCAGCACGGAGCAGGTCGCGGAG CGGTTTCACG
+Op562                       126  2.07e-06 GTGCTCTGGC TCAACCCGGACGTGCCCATGTCGGCGGGGAAGGCGATG GCGCAGGCGG
+Op2175                      135  2.07e-06 TGCGGCTCTC CGCACTCGGCCGCGACGAACTCCGCGTCCACGGGGCGC CGGTGCGCGC
+Op417                        34  2.34e-06 CCGGCGGTCT GCGCGACGACGGCGACCACGGCGGTGGCGACGGCGAAG CCGAGCGGGT
+Op970                       504  2.64e-06 CCCCGGCTGG AGACTTCCAGCTTGGCCAGGATGTGGGAGACGTGGACG CTGGCGGTTT
+Op795                        68  2.98e-06 GCGCTGGCGA TGGAGCCGAAGGTGATGCTCTTCGACGAGCCGACCTCC GCGCTCGACC
+Op1922                        1  2.98e-06          . CGACCGGGGTCATGAGCAGGGTCGCGCCGCCCAGCAGG CAGCCGCTCC
+Op1828                       33  2.98e-06 AGCAGCGCGT CGAACACCACCGCCTCGTGCCCGGCCGCCGCCAGCTCC CGTACGACCT
+Op1779                       13  2.98e-06 CCGTCCCGCG CGTCGACCGCGAAGGCGCCGACCACCCAGGCGACCTCG GGCGCCTCCG
+Op2904                      221  3.35e-06 TACAGATTGA AGATCCACACGGCGACCAGCAGCGCCGAGAACAGGATC TGGAGAGGGG
+Op1888                      248  3.35e-06 GTCCCTGCCT GGGCCAAGACCACCGCCCTGCTGGCCCCGACGATCGGC ATCGGACTCC
+Op796                       187  3.77e-06 TACGCCTCGC AGGAGCAGTACAAGGGCAAGTTCAAGCTGTCCGGCCTG AGCCTGTCCA
+Op620                        10  3.77e-06  TGGCGGCGG AGAGCCAGAGCACGCGCTGCTCGATCTCGCCGAGGGCG GTGAGCAGCT
+Op3938                       10  3.77e-06  CGGCCAGCG TGACGGCCACCGCCGCCAGTTCGGCCCTGCTGTGCCCG GCGGCAGGCC
+Op1852                      126  4.23e-06 TACGGGCCGG ACGCGGAGTACTGGACCAACGCGGTCGCGGCCGGCTCC GGCCCGGCCC
+Op374                        76  4.74e-06 TCCAGGGCTT CGGCTTGGTGCTCGACGAGTCTCATGCCGACGATCGTC CGGCAGCGCG
+Op1618                      296  4.74e-06 GCCAGGAGTT CGGCGTAGGCGAGAACGTCGTCCGCAGAGCTCAGGAGC TACTGATCTC
+Op3180                      208  5.31e-06 CCGAGGACAC CGCCGAACACCTGGCCCTGGCCCGCGCCCTCCAGCACG GCGACGCGAC
+Op261                       408  5.31e-06 GTGCTCCTCG AGGCGCCGATCAGGATCTGCGTCGCGTTGACCTGCCGG GCGAGGGCCA
+Op4189                      178  6.65e-06 AAGTGCCGGT AGAGGATCGGCTTGGTGATGCCCGCCTCGGCGGCGATG GCGTTCATCG
+Op3427                      168  9.23e-06 GCCGACCGAC CGTACGAGACCACGGCGTACGCGCCGAACACCACCGCC CAGCCTGGCA
+Op2076                      555  9.23e-06 CGCCTGGCGC CGTACCCGACCACCACCCACGTCCCGTACTGCAGGACC GAGATCGA  
+Op3496                      528  1.03e-05 AGGGTGTCCG ACCAGCCCACCAGGAGGCGGTCCGCGTCCGGGAGGGCG GCGGTGCAGG
+Op3012                       22  1.03e-05 CTCACCTCCA TCGCCCCCAAGAACGCGATCCTGGTGGACAGCGCGTTC GCCGCCGAAC
+Op3953                      323  1.14e-05 TCTTCCGGCA GGGCCAGGAGCGCGGCGAGTTCCGCATCGACCTGCCCG CCGCCTGGCT
+Op3441                      489  1.14e-05 CGGGGGGCGA CGATGACCGTGATGACCAAGCTGTACTACCGCTTCGTG TACTGGAGAC
+Op303                         4  1.14e-05        CGA CGGCGTAAAAGATGACGTCGCCGAGCCACGTCGCTATC GGTTCGAAGA
+Op1502                      424  1.14e-05 CAGGCGCCCC CTCAGGCGTACGGGTCGAAGTCGATCCCCGAGGGCTTC GCCTTCTCCA
+Op871                       199  1.27e-05 CAGAAGCTGC TGGACCAGGGAGTGATGCAGATCGTCGCGGTGACCGAC CCGCTCACCG
+Op2326                      559  1.41e-05 CCCAGGACCT CGCCCTCGTCCTCCCCGCCCTCCACCGCGCCCTGGACC GCCG      
+Op4222                      447  1.56e-05 CGATGACGGT GGCACCCGAGGGCCAGGAATTCGGCCCCGGCATCGATC CCGAACGTCT
+Op3151                      542  1.56e-05 CCCTGATCAC CCTCCACGACCGCGAGCTGGACCGCCTGCGCGACGCCG ACCGCAAGCG
+Op2359                      557  1.56e-05 GAGCAGGCCG AGAAGCCGGCGGAGGGCAAGGCGTCGTCCGGCGCCTTC CCGGCC    
+Op3740                      202  1.91e-05 GCCGGACAGG CCAACTACGCCGCCTCCAAGGCCGGCCTGGTCGGCTTC GCCCGTTCCC
+Op3472                      554  2.33e-05 TCCGGTGGTG ACGCCCAGTCCACGGGGAACTGGGCCCTCGGCATCCTG CTGGTGATG 
+Op2906                      210  2.33e-05 AGTCCGGCAC CGGCCGCGAACTCGGCCCCGCCGGACTCGCCGAGTACC GCGAGTCCAA
+Op447                       547  2.57e-05 ACATCGTGGC CGAACACGAGGGCGAGCTGGTCGGGGTCGAATTCCGGC GCGCTCCGCG
+Op2976                      408  2.57e-05 CCCGCTCCCT CGCCCGGCTGGAGGGAGAACTCGGCGTCGACCTCTTCG CCCGGCACGG
+Op488                       554  2.83e-05 ACGTCGACCG GGATGGTCGGGGTGTCGAGGATGGTCGGGATCAGGTAG TCGGTGAAG 
+Op1452                       19  2.83e-05 CCGCCTGAGC AGCCGACGAGCAACCCGAGGGCCGACACCGCGGAGATG GCGGCGACGA
+Op3189                        3  3.11e-05         GT CGTGGGCGAGGATGTCGCCGGTCGCGACCAGGGTGAAC CGTCCGGGCG
+Op3815                      519  4.12e-05 CGTAGAACCG CGACATATGTGACCTCGCTCCTCGCCGCCGTCACCCTC GCCCTCACCG
+Op1816                      458  4.12e-05 TCCCCGCCGT ACACCTCGGCGAGATGCCGGACGGCGCCGCTCACGAGG TCCCCCGCAG
+Op505                        65  4.51e-05 CAGCCGGCGT CCCAGCCGTACGGGACGAGGGCGGTGGAGCGGGTGGAG ACCTCGGTGG
+Op109                         4  4.94e-05        TGC CCGAGACGGTCGCCGCCAGTCCGATGCCGAGTACCGCC CGGGCCGCGC
+Op2641                      506  5.91e-05 CCGACGCCGC CCGCGCCCACCTCGCCGTCGCCGGCCGCGTCCTCCACA CCCTGGAGGC
+Op3708                      470  7.04e-05 TAAGAATATC GTTCGCTGTCCGCGCCGAAGTCGGTGCGGACTTCGCTG TGCCCGGGAG
+Op2022                      366  7.68e-05 GCACGGGCCC GCCCCACGGGCACGCCGCCCGCCTCCCCGACGACCACC TCCCCAGCGG
+Op2850                      281  8.36e-05 GCGGGCCGGG TGCCATAGGTAAAGAGGAAGCTCAGGTGCTGGATCACG AGGCCAGTAT
+Op1977                       19  8.36e-05 CCGTTCTGCG ACAGGATGTACGGCACCCATGCCACCCAGCTCAGCCCG TTCGCGAGGA
+Op794                        77  9.09e-05 TCGCCGCTGC GGGCGTGGGTCACCTGGAAGCCGTGGCGGGAGAGGATC GCGGAGAGGG
+Op75                        563  9.88e-05 TGAGCAAGGA CGGCGCGCTGGTCGTCATGCACGACGCAGAGGTGGACC           
+Op481                       268  9.88e-05 GCGGACAGGA TCGCCCACGCGGGCGGGCGCGTGGCGGCGATCTCGAAG GGGCCGAGAT
+Op563                       483  1.07e-04 TGTCATCGGC CGGACGAAAGGGACGCGATGCGCGCGCCGCTCATCCTC ACCGCCGCCG
+Op3900                      437  1.16e-04 GGGGCCCTGG TCACCGACTGGGCGGGCCGGGTCGTCGAGGCGTCGGCC GCCTTCGACG
+Op3177                      195  1.26e-04 GCGGCGCCGC CCGCCGCTTCCAGCTGGAGGTCGAGGCCGGCATGGTCG GCGTCAACGT
+Op3629                      561  1.37e-04 CGGGGCTACT TCGGCCCCTTCGGCGGCAAGTTCATCCCGGAGGCGCTG GT        
+Op3473                      122  1.37e-04 AGGGCATCGA AGAGGGCTACGAACTCCCCCCGGGCGCCGACGACGACG TCTGGGCCCT
+Op216                       561  1.37e-04 GCCGCCTCGG CCCACCGGGGCAGGCTGCGGATCGCGCTGGGCATCACG CT        
+Op1100                      522  1.37e-04 GTGGAGGAGC TGGGGGCGAGCAGCGCGCAGAGCCTGTGGATCATCAAC GCCTATCCGG
+Op4173                      549  1.73e-04 TTCCGCGCCC GGCCCGAGTGGAGCCGGATGGCCGACCCGGACATCGCC CGTTCCGTCG
+Op2905                      397  1.73e-04 GGCATGGATT CGACGCCCATGGGCAGGTGCACCGGGCTGCCGTGCAGG CAGGCGGCAG
+Op2387                      498  1.87e-04 CGGAGCCGAG TCATGCTCACGACCCTCAAGACCGTCTACACCGATACA CGTGCCTCCG
+Op1959                       37  1.87e-04 TTGGCCTTAC TGACATAGGGCTCCTTGTAGCCGGTGAAGTCGGCCAGT TGCCGTTGAC
+Op4153                       82  2.17e-04 GCGACCCTGG AGCAGCTGTGCGCGCGGCCCTTCGCGGACGAGGGCTCC GTCCGCAGCG
+Op1915                       82  2.34e-04 ATATGCGTGC TGGAATATTCAGTCGCGTCGGCCAGCTCGTCCTGGGTC CACCCCCGTT
+Op3191                       13  2.90e-04 GCGGCGCTGC CCGCGCGGGCCTCGGCCCCGGCGGCGGCGTTCGGGCCG CCGGCCGCCG
+Op655                       230  3.12e-04 CTCCGACCCG CCCACGAGGTCACCGGGATGTCCGCACACGGATCGCCG TGCGCGGGCA
+Op444                       534  9.24e-04 GGGGCGGCGA CTTCGTGCGACATCCGCATGCTCGGACCGCTCAGCGCC GAACTCTGCG
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CGRCSNMGDSSRBSVCSAVGNYSGCSBCGVBSDSSNYS MEME-2 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Op3150                            2.7e-10  236_[+2]_326
+Op3353                              2e-09  171_[+2]_391
+Op1035                            2.4e-09  398_[+2]_164
+Op195                             5.1e-09  179_[+2]_383
+Op260                             1.5e-08  63_[+2]_499
+Op3108                            3.4e-08  518_[+2]_44
+Op931                               4e-08  423_[+2]_139
+Op2576                              4e-08  26_[+2]_536
+Op1943                            4.7e-08  316_[+2]_246
+Op3152                            6.4e-08  23_[+2]_539
+Op1493                            6.4e-08  37_[+2]_525
+Op407                             7.5e-08  224_[+2]_338
+Op19                              1.4e-07  72_[+2]_490
+Op583                             1.6e-07  118_[+2]_444
+Op805                             2.9e-07  63_[+2]_499
+Op4129                            3.3e-07  30_[+2]_532
+Op448                             3.8e-07  51_[+2]_511
+Op1864                            3.8e-07  313_[+2]_249
+Op1244                            3.8e-07  12_[+2]_550
+Op67                              4.4e-07  33_[+2]_529
+Op4143                            5.7e-07  74_[+2]_488
+Op2069                            5.7e-07  166_[+2]_396
+Op157                             6.5e-07  66_[+2]_496
+Op4271                            7.5e-07  455_[+2]_107
+Op2002                            7.5e-07  120_[+2]_442
+Op2446                            8.5e-07  225_[+2]_337
+Op3987                            9.7e-07  476_[+2]_86
+Op3032                            9.7e-07  52_[+2]_510
+Op37                              1.1e-06  557_[+2]_5
+Op3130                            1.3e-06  27_[+2]_535
+Op3071                            1.4e-06  151_[+2]_411
+Op2691                            1.4e-06  159_[+2]_403
+Op1335                            1.4e-06  555_[+2]_7
+Op4136                            1.6e-06  409_[+2]_153
+Op4039                            1.6e-06  417_[+2]_145
+Op3428                            1.6e-06  318_[+2]_244
+Op2135                            1.6e-06  539_[+2]_23
+Op737                             1.8e-06  66_[+2]_496
+Op2127                            1.8e-06  333_[+2]_229
+Op562                             2.1e-06  125_[+2]_437
+Op2175                            2.1e-06  134_[+2]_428
+Op417                             2.3e-06  33_[+2]_529
+Op970                             2.6e-06  503_[+2]_59
+Op795                               3e-06  67_[+2]_495
+Op1922                              3e-06  [+2]_562
+Op1828                              3e-06  32_[+2]_530
+Op1779                              3e-06  12_[+2]_550
+Op2904                            3.3e-06  220_[+2]_342
+Op1888                            3.3e-06  247_[+2]_315
+Op796                             3.8e-06  186_[+2]_376
+Op620                             3.8e-06  9_[+2]_553
+Op3938                            3.8e-06  9_[+2]_553
+Op1852                            4.2e-06  125_[+2]_437
+Op374                             4.7e-06  75_[+2]_487
+Op1618                            4.7e-06  295_[+2]_267
+Op3180                            5.3e-06  207_[+2]_355
+Op261                             5.3e-06  407_[+2]_155
+Op4189                            6.6e-06  177_[+2]_385
+Op3427                            9.2e-06  167_[+2]_395
+Op2076                            9.2e-06  554_[+2]_8
+Op3496                              1e-05  527_[+2]_35
+Op3012                              1e-05  21_[+2]_541
+Op3953                            1.1e-05  322_[+2]_240
+Op3441                            1.1e-05  488_[+2]_74
+Op303                             1.1e-05  3_[+2]_559
+Op1502                            1.1e-05  423_[+2]_139
+Op871                             1.3e-05  198_[+2]_364
+Op2326                            1.4e-05  558_[+2]_4
+Op4222                            1.6e-05  446_[+2]_116
+Op3151                            1.6e-05  541_[+2]_21
+Op2359                            1.6e-05  556_[+2]_6
+Op3740                            1.9e-05  201_[+2]_361
+Op3472                            2.3e-05  553_[+2]_9
+Op2906                            2.3e-05  209_[+2]_353
+Op447                             2.6e-05  546_[+2]_16
+Op2976                            2.6e-05  407_[+2]_155
+Op488                             2.8e-05  553_[+2]_9
+Op1452                            2.8e-05  18_[+2]_544
+Op3189                            3.1e-05  2_[+2]_560
+Op3815                            4.1e-05  518_[+2]_44
+Op1816                            4.1e-05  457_[+2]_105
+Op505                             4.5e-05  64_[+2]_498
+Op109                             4.9e-05  3_[+2]_559
+Op2641                            5.9e-05  505_[+2]_57
+Op3708                              7e-05  469_[+2]_93
+Op2022                            7.7e-05  365_[+2]_197
+Op2850                            8.4e-05  280_[+2]_282
+Op1977                            8.4e-05  18_[+2]_544
+Op794                             9.1e-05  76_[+2]_486
+Op75                              9.9e-05  562_[+2]
+Op481                             9.9e-05  267_[+2]_295
+Op563                             0.00011  482_[+2]_80
+Op3900                            0.00012  436_[+2]_126
+Op3177                            0.00013  194_[+2]_368
+Op3629                            0.00014  560_[+2]_2
+Op3473                            0.00014  121_[+2]_441
+Op216                             0.00014  560_[+2]_2
+Op1100                            0.00014  521_[+2]_41
+Op4173                            0.00017  548_[+2]_14
+Op2905                            0.00017  396_[+2]_166
+Op2387                            0.00019  497_[+2]_65
+Op1959                            0.00019  36_[+2]_526
+Op4153                            0.00022  81_[+2]_481
+Op1915                            0.00023  81_[+2]_481
+Op3191                            0.00029  12_[+2]_550
+Op655                             0.00031  229_[+2]_333
+Op444                             0.00092  533_[+2]_29
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CGRCSNMGDSSRBSVCSAVGNYSGCSBCGVBSDSSNYS MEME-2 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF CGRCSNMGDSSRBSVCSAVGNYSGCSBCGVBSDSSNYS width=38 seqs=107
+Op3150                   (  237) TGGCGACGAGCGCGCCGAGGTCGGTGCCGGTGTCGATG  1 
+Op3353                   (  172) TGGAGTCGACCAGGGTGCCGTCGACGTCGATGATGGCG  1 
+Op1035                   (  399) CGAAGGCGAAGATCAGGTAGATGATGTACAGCAGGCCG  1 
+Op195                    (  180) CGTCCTGGACCTCGTCGCGGTTGGTCTCGTTGAGGATC  1 
+Op260                    (   64) CGGCGACGATCAGCCCGAGGACGTTGTCGGCGGTCACG  1 
+Op3108                   (  519) CGACGCCGTCCACGGTGAGCTTGGCCGCGCGCTGGACC  1 
+Op931                    (  424) CGTCCCAGTGGTTGCCCTCGTTGGCGTAGATGTTGCCG  1 
+Op2576                   (   27) AGTAGTAGATGACGGCCACGTTGACGGTGCCGGGCATG  1 
+Op1943                   (  317) TCGAGCCGAACAGCACGATGACCACGAGGGCCACGATC  1 
+Op3152                   (   24) CGCCCTTGACCGTGGCGTCGTTGGCCACGATCACGCAG  1 
+Op1493                   (   38) TGACGGGGAGGGCGTCGAGTTCGGTGCGGATCAGGACG  1 
+Op407                    (  225) TCACCCCGGACACCACCAAGGTCGCCAAGTGGATCTCC  1 
+Op19                     (   73) AGACGGCGACGATACCGACGACCATCATGACGAGCTCC  1 
+Op583                    (  119) CGACCTTGTCCAGCCGGAAGATCTCGTACGACTCGTCG  1 
+Op805                    (   64) CGGCGGTGGTGAGCGCGATGGCGATCCAGACGGTCATC  1 
+Op4129                   (   31) CGACCGCGGTGGCCGCGACGATGGCCACGATCGTGGTC  1 
+Op448                    (   52) TGAACGAGTGCAGGGCCACGCCGACGATGGTGGTGTCC  1 
+Op1864                   (  314) CGTCGTCGTCCACGTAGAGGGCGGTGGCGAGGAAGTCG  1 
+Op1244                   (   13) CGGCGCCCACCACGAGGCAGGTGGCCACGGCGGCGACG  1 
+Op67                     (   34) CGACGAGGGCAGCGGCGATCTTGGTGCCGCCGATGTCC  1 
+Op4143                   (   75) CGACCTTGAGCAGGAAGCAGTCGTCCCCGGTCACGTGG  1 
+Op2069                   (  167) TGACACCGGCCTTGGCGAACTTCTCGTCCAGGTCGCCG  1 
+Op157                    (   67) AGGCGGCATCCGGGACGCCGGTGATGTCGGTCATGTCG  1 
+Op4271                   (  456) CGGAGAACTCGGTGTCCTCGTGGACGTAGCGGAGCATG  1 
+Op2002                   (  121) AGCCCACGGCGAACGCGACCTCCGCGTCCATCTCCAGG  1 
+Op2446                   (  226) CGGCCCTGATCACCTCCTCGGCGGCGGCGAGCACGGCC  1 
+Op3987                   (  477) TCTCGTCCTACGTGAGGTAGCCCGTGTCCAGCACGCCC  1 
+Op3032                   (   53) CGGCGACGGCCGCCTCGTACGCCGCGTACTCCTCGTCG  1 
+Op37                     (  558) GGAAGGCGACGACGCCCACGCTCGTACCGGTCACCGTC  1 
+Op3130                   (   28) ACGCCCCGTAGACCACCAGGACCACCGGGGCGAGGACG  1 
+Op3071                   (  152) GGGCGACGGCGGGGGCGATGACGGCGTCGGTGGCGGCG  1 
+Op2691                   (  160) TCCTGCTGGCCATGGTGATCTCGGCGCCCATCAGCTTC  1 
+Op1335                   (  556) TGGCGAACAGCGGGGCGAAGGCGACCCCCCAGACGGCC  1 
+Op4136                   (  410) GGACGCAGAGGAGGACGATCCCCACCACCATGGCCAGC  1 
+Op4039                   (  418) CGGCGTCGTGCGTGCCGTCGTCCGTGTCGCTGTCTTCA  1 
+Op3428                   (  319) TCACGTACATGTCCGCGAGGACGTCCTCGGGCGGGCTC  1 
+Op2135                   (  540) CGACGTAGAGGATGCCCTGCCCGGCGGAGAAGTAGCCG  1 
+Op737                    (   67) TGCCGACTTCCTTCACCTGCGTGGTCTCGCGCATCTCC  1 
+Op2127                   (  334) CGAGGAAGAACATGGCCAGCACGGAGCAGGTCGCGGAG  1 
+Op562                    (  126) TCAACCCGGACGTGCCCATGTCGGCGGGGAAGGCGATG  1 
+Op2175                   (  135) CGCACTCGGCCGCGACGAACTCCGCGTCCACGGGGCGC  1 
+Op417                    (   34) GCGCGACGACGGCGACCACGGCGGTGGCGACGGCGAAG  1 
+Op970                    (  504) AGACTTCCAGCTTGGCCAGGATGTGGGAGACGTGGACG  1 
+Op795                    (   68) TGGAGCCGAAGGTGATGCTCTTCGACGAGCCGACCTCC  1 
+Op1922                   (    1) CGACCGGGGTCATGAGCAGGGTCGCGCCGCCCAGCAGG  1 
+Op1828                   (   33) CGAACACCACCGCCTCGTGCCCGGCCGCCGCCAGCTCC  1 
+Op1779                   (   13) CGTCGACCGCGAAGGCGCCGACCACCCAGGCGACCTCG  1 
+Op2904                   (  221) AGATCCACACGGCGACCAGCAGCGCCGAGAACAGGATC  1 
+Op1888                   (  248) GGGCCAAGACCACCGCCCTGCTGGCCCCGACGATCGGC  1 
+Op796                    (  187) AGGAGCAGTACAAGGGCAAGTTCAAGCTGTCCGGCCTG  1 
+Op620                    (   10) AGAGCCAGAGCACGCGCTGCTCGATCTCGCCGAGGGCG  1 
+Op3938                   (   10) TGACGGCCACCGCCGCCAGTTCGGCCCTGCTGTGCCCG  1 
+Op1852                   (  126) ACGCGGAGTACTGGACCAACGCGGTCGCGGCCGGCTCC  1 
+Op374                    (   76) CGGCTTGGTGCTCGACGAGTCTCATGCCGACGATCGTC  1 
+Op1618                   (  296) CGGCGTAGGCGAGAACGTCGTCCGCAGAGCTCAGGAGC  1 
+Op3180                   (  208) CGCCGAACACCTGGCCCTGGCCCGCGCCCTCCAGCACG  1 
+Op261                    (  408) AGGCGCCGATCAGGATCTGCGTCGCGTTGACCTGCCGG  1 
+Op4189                   (  178) AGAGGATCGGCTTGGTGATGCCCGCCTCGGCGGCGATG  1 
+Op3427                   (  168) CGTACGAGACCACGGCGTACGCGCCGAACACCACCGCC  1 
+Op2076                   (  555) CGTACCCGACCACCACCCACGTCCCGTACTGCAGGACC  1 
+Op3496                   (  528) ACCAGCCCACCAGGAGGCGGTCCGCGTCCGGGAGGGCG  1 
+Op3012                   (   22) TCGCCCCCAAGAACGCGATCCTGGTGGACAGCGCGTTC  1 
+Op3953                   (  323) GGGCCAGGAGCGCGGCGAGTTCCGCATCGACCTGCCCG  1 
+Op3441                   (  489) CGATGACCGTGATGACCAAGCTGTACTACCGCTTCGTG  1 
+Op303                    (    4) CGGCGTAAAAGATGACGTCGCCGAGCCACGTCGCTATC  1 
+Op1502                   (  424) CTCAGGCGTACGGGTCGAAGTCGATCCCCGAGGGCTTC  1 
+Op871                    (  199) TGGACCAGGGAGTGATGCAGATCGTCGCGGTGACCGAC  1 
+Op2326                   (  559) CGCCCTCGTCCTCCCCGCCCTCCACCGCGCCCTGGACC  1 
+Op4222                   (  447) GGCACCCGAGGGCCAGGAATTCGGCCCCGGCATCGATC  1 
+Op3151                   (  542) CCTCCACGACCGCGAGCTGGACCGCCTGCGCGACGCCG  1 
+Op2359                   (  557) AGAAGCCGGCGGAGGGCAAGGCGTCGTCCGGCGCCTTC  1 
+Op3740                   (  202) CCAACTACGCCGCCTCCAAGGCCGGCCTGGTCGGCTTC  1 
+Op3472                   (  554) ACGCCCAGTCCACGGGGAACTGGGCCCTCGGCATCCTG  1 
+Op2906                   (  210) CGGCCGCGAACTCGGCCCCGCCGGACTCGCCGAGTACC  1 
+Op447                    (  547) CGAACACGAGGGCGAGCTGGTCGGGGTCGAATTCCGGC  1 
+Op2976                   (  408) CGCCCGGCTGGAGGGAGAACTCGGCGTCGACCTCTTCG  1 
+Op488                    (  554) GGATGGTCGGGGTGTCGAGGATGGTCGGGATCAGGTAG  1 
+Op1452                   (   19) AGCCGACGAGCAACCCGAGGGCCGACACCGCGGAGATG  1 
+Op3189                   (    3) CGTGGGCGAGGATGTCGCCGGTCGCGACCAGGGTGAAC  1 
+Op3815                   (  519) CGACATATGTGACCTCGCTCCTCGCCGCCGTCACCCTC  1 
+Op1816                   (  458) ACACCTCGGCGAGATGCCGGACGGCGCCGCTCACGAGG  1 
+Op505                    (   65) CCCAGCCGTACGGGACGAGGGCGGTGGAGCGGGTGGAG  1 
+Op109                    (    4) CCGAGACGGTCGCCGCCAGTCCGATGCCGAGTACCGCC  1 
+Op2641                   (  506) CCGCGCCCACCTCGCCGTCGCCGGCCGCGTCCTCCACA  1 
+Op3708                   (  470) GTTCGCTGTCCGCGCCGAAGTCGGTGCGGACTTCGCTG  1 
+Op2022                   (  366) GCCCCACGGGCACGCCGCCCGCCTCCCCGACGACCACC  1 
+Op2850                   (  281) TGCCATAGGTAAAGAGGAAGCTCAGGTGCTGGATCACG  1 
+Op1977                   (   19) ACAGGATGTACGGCACCCATGCCACCCAGCTCAGCCCG  1 
+Op794                    (   77) GGGCGTGGGTCACCTGGAAGCCGTGGCGGGAGAGGATC  1 
+Op75                     (  563) CGGCGCGCTGGTCGTCATGCACGACGCAGAGGTGGACC  1 
+Op481                    (  268) TCGCCCACGCGGGCGGGCGCGTGGCGGCGATCTCGAAG  1 
+Op563                    (  483) CGGACGAAAGGGACGCGATGCGCGCGCCGCTCATCCTC  1 
+Op3900                   (  437) TCACCGACTGGGCGGGCCGGGTCGTCGAGGCGTCGGCC  1 
+Op3177                   (  195) CCGCCGCTTCCAGCTGGAGGTCGAGGCCGGCATGGTCG  1 
+Op3629                   (  561) TCGGCCCCTTCGGCGGCAAGTTCATCCCGGAGGCGCTG  1 
+Op3473                   (  122) AGAGGGCTACGAACTCCCCCCGGGCGCCGACGACGACG  1 
+Op216                    (  561) CCCACCGGGGCAGGCTGCGGATCGCGCTGGGCATCACG  1 
+Op1100                   (  522) TGGGGGCGAGCAGCGCGCAGAGCCTGTGGATCATCAAC  1 
+Op4173                   (  549) GGCCCGAGTGGAGCCGGATGGCCGACCCGGACATCGCC  1 
+Op2905                   (  397) CGACGCCCATGGGCAGGTGCACCGGGCTGCCGTGCAGG  1 
+Op2387                   (  498) TCATGCTCACGACCCTCAAGACCGTCTACACCGATACA  1 
+Op1959                   (   37) TGACATAGGGCTCCTTGTAGCCGGTGAAGTCGGCCAGT  1 
+Op4153                   (   82) AGCAGCTGTGCGCGCGGCCCTTCGCGGACGAGGGCTCC  1 
+Op1915                   (   82) TGGAATATTCAGTCGCGTCGGCCAGCTCGTCCTGGGTC  1 
+Op3191                   (   13) CCGCGCGGGCCTCGGCCCCGGCGGCGGCGTTCGGGCCG  1 
+Op655                    (  230) CCCACGAGGTCACCGGGATGTCCGCACACGGATCGCCG  1 
+Op444                    (  534) CTTCGTGCGACATCCGCATGCTCGGACCGCTCAGCGCC  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CGRCSNMGDSSRBSVCSAVGNYSGCSBCGVBSDSSNYS MEME-2 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 38 n= 60241 bayes= 9.13443 E= 1.1e-060 
+    39     38   -168     77 
+ -1339    -46     98   -229 
+   127   -102      2    -29 
+    87     78   -227   -155 
+  -161      9     62   -287 
+    65    -18    -68     77 
+    97     46   -168    -29 
+  -235    -57     92   -155 
+   162  -1339    -27     94 
+    15     19    -36     13 
+  -193     73      2  -1339 
+   177  -1339      2     13 
+   -76     25    -46     71 
+  -235      2     76  -1339 
+   102    -88     -6     30 
+  -235     84    -62    -55 
+  -393      2     80  -1339 
+   192    -62  -1339     71 
+    97    -57    -14     13 
+ -1339    -36     86   -106 
+    52    -75    -51    126 
+ -1339     75   -268    130 
+ -1339     32     62  -1339 
+    77   -368     82    -55 
+  -113     64   -194    103 
+  -161     19     59  -1339 
+   -35     -6    -62    117 
+    82     64   -194    -55 
+ -1339    -41    102  -1339 
+   135    -88    -10    -41 
+   -48     12    -74    108 
+  -235     40     38   -229 
+   174  -1339    -41     88 
+  -193     16      2     52 
+ -1339     22     57   -155 
+   142    -88    -87     71 
+   -76     54   -168    103 
+  -235     38     46   -387 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CGRCSNMGDSSRBSVCSAVGNYSGCSBCGVBSDSSNYS MEME-2 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 38 nsites= 107 E= 1.1e-060 
+ 0.186916  0.467290  0.112150  0.233645 
+ 0.000000  0.261682  0.710280  0.028037 
+ 0.345794  0.177570  0.364486  0.112150 
+ 0.261682  0.616822  0.074766  0.046729 
+ 0.046729  0.383178  0.551402  0.018692 
+ 0.224299  0.317757  0.224299  0.233645 
+ 0.280374  0.495327  0.112150  0.112150 
+ 0.028037  0.242991  0.682243  0.046729 
+ 0.439252  0.000000  0.299065  0.261682 
+ 0.158879  0.411215  0.280374  0.149533 
+ 0.037383  0.598131  0.364486  0.000000 
+ 0.485981  0.000000  0.364486  0.149533 
+ 0.084112  0.429907  0.261682  0.224299 
+ 0.028037  0.364486  0.607477  0.000000 
+ 0.289720  0.196262  0.345794  0.168224 
+ 0.028037  0.644860  0.233645  0.093458 
+ 0.009346  0.364486  0.626168  0.000000 
+ 0.542056  0.233645  0.000000  0.224299 
+ 0.280374  0.242991  0.327103  0.149533 
+ 0.000000  0.280374  0.654206  0.065421 
+ 0.205607  0.214953  0.252336  0.327103 
+ 0.000000  0.607477  0.056075  0.336449 
+ 0.000000  0.448598  0.551402  0.000000 
+ 0.242991  0.028037  0.635514  0.093458 
+ 0.065421  0.560748  0.093458  0.280374 
+ 0.046729  0.411215  0.542056  0.000000 
+ 0.112150  0.345794  0.233645  0.308411 
+ 0.252336  0.560748  0.093458  0.093458 
+ 0.000000  0.271028  0.728972  0.000000 
+ 0.364486  0.196262  0.336449  0.102804 
+ 0.102804  0.392523  0.214953  0.289720 
+ 0.028037  0.476636  0.467290  0.028037 
+ 0.476636  0.000000  0.271028  0.252336 
+ 0.037383  0.401869  0.364486  0.196262 
+ 0.000000  0.420561  0.532710  0.046729 
+ 0.383178  0.196262  0.196262  0.224299 
+ 0.084112  0.523364  0.112150  0.280374 
+ 0.028037  0.467290  0.495327  0.009346 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CGRCSNMGDSSRBSVCSAVGNYSGCSBCGVBSDSSNYS MEME-2 regular expression
+--------------------------------------------------------------------------------
+[CT][GC][GA][CA][GC][CTAG][CA][GC][AGT][CG][CG][AG][CGT][GC][GA][CG][GC][ACT][GAC][GC][TGCA][CT][GC][GA][CT][GC][CTG][CA][GC][AG][CTG][CG][AGT][CG][GC][AT][CT][GC]
+--------------------------------------------------------------------------------
+
+
+
+
+Time 76.23 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+MOTIF CRVSMBCBNCSTCWYCVBCGNCGACSNGVWGSYCGMCGR MEME-3	width =  39  sites =  55  llr = 675  E-value = 2.3e-020
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif CRVSMBCBNCSTCWYCVBCGNCGACSNGVWGSYCGMCGR MEME-3 Description
+--------------------------------------------------------------------------------
+Simplified        A  :34132:23::1:61:311231:6123:34:22:33:25
+pos.-specific     C  713542732752715833723612743231334914811
+probability       G  34251333234:3::23416327:33284164:162273
+matrix            T  121:14:23:16:34:121:2122:12::5:24::2:11
+
+         bits    2.9                                        
+                 2.6                                        
+                 2.3                                        
+                 2.0                                        
+Relative         1.7                                        
+Entropy          1.4              *                         
+(17.7 bits)      1.1            * *               *         
+                 0.9            * **        *   * *   *     
+                 0.6       *  * *****       *   * *  *** * *
+                 0.3 ******* ** ****** ** **** ***** *******
+                 0.0 ---------------------------------------
+
+Multilevel           CGAGCTCCACCTCACCAGCGACGACCAGGTGGCCGCCGA
+consensus            GACCAGGGTGGCGTTGCC CCG CGGC CACCT AAG G
+sequence              TG  C TC       GT  G  T  G A          
+                             G                 T            
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CRVSMBCBNCSTCWYCVBCGNCGACSNGVWGSYCGMCGR MEME-3 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value                             Site                
+-------------             ----- ---------            ---------------------------------------
+Op3177                       15  4.49e-11 AGAAGGGCCA CTGGATCGGCCTCTCCCTCCTCGACAAGGTCTCCACCGA CTCCGACGCC
+Op37                         64  1.47e-10 CGAGGCGGTC CATGACCTGCGTCATCAGCGAGGCGTAGGTGTTCGACTG CGACCAGTGG
+Op562                        46  1.51e-09 GGGAGCTGGC CAAGCTCCAGGTCTCCGGCACCGAGCTGGAGGACCCCGA GGAGCCGGGC
+Op795                       219  5.42e-09 GCTCCGCGGC CAACCGCGTGGTCTTCATGGCGGACGGCCAGATCGTCGA GCAGGCGACC
+Op2002                      410  1.06e-08 CCGGACGCCG CTCCAACCTGCCCTTGGTCGACGTCATGGTGCTGGCCGA AGCCCTGAAC
+Op2904                      260  2.03e-08 AACAGGATCT GGAGAGGGGGGTCTCCCTCGACCACCCGCAGCACGACGA GGCCCACGCT
+Op796                       137  2.96e-08 AGACCGGTGC CGTCGACGCGCTGACCACCGACGACTCGATCCTCGCCGG CTACGCCTCG
+Op3629                       88  2.96e-08 TCCTGGTCGG CGAGTCGCTGGTCACCGGCCGCGACCCGAAGACCGCCGT GGCCGACCTG
+Op3151                      359  3.35e-08 GGCCCGGCCT CTACCGCCACTTCGCGGGCAAGGACGCGATGCTCGCCGA ACTGCTCGTC
+Op4129                      472  4.28e-08 TACTCGTGGG TAACATCCGGTCCATGAGCGCAGAACAGATGTCCATCGG CGAGATGCTC
+Op3473                       68  5.45e-08 ACTCCGGCGC CAACCCGTACCTCTCCTACGCCGTCCTCCTCGCCGCCGG CCTCAAGGGC
+Op871                       458  7.78e-08 TGCGCTCCAC CGAGAGCTTCGTCTACCTGAAGCTCAAGAAGCAGACCTA CATGTGGGGA
+Op3150                       58  7.78e-08 ACGGTACGGC GGAGTTCCTCGTGTTCGGCGGAGAGCCGGTGGTCCAGGG ACATCGGGTA
+Op3740                       77  1.55e-07 CCTCCGTCCT CGACACCAACCTCACCGGCACCTTCCGCGTGGTCAAGCG CGCCAACCGC
+Op2691                      266  1.94e-07 GCACCAAGGC CAGGCTCGACGCCAACCGCAGCCAGGAGGACGCCGCCGT CGACGCGGCC
+Op75                        434  2.16e-07 ACGAGCGGAT CTTGAACTTCCTCACCATCGGCCACCGGGGTGCCATGGG CCACGAGCCG
+Op1452                      482  2.16e-07 GACGGACCAC GGTCTCCCGCGTCATCAACGGTTCGGAGCTGGTCAGCGA CGAGGCCAGG
+Op3180                      389  2.41e-07 CATCTACGTA GGAGTTCCACCGCACCGTCGGAGACGTGCTGGACCAGGA GGAGAGGGAC
+Op3152                      508  2.41e-07 CCATGACTCC CACCGCCACCCCCACCCGCCGCGAGCAGATCCTCAAGGA GGCCGCCCGC
+Op3953                      440  2.69e-07 TCGCCGCCAA CGACTTCACCTACCTCATGGCCGAGCTGCTGCTCGGCGG AGCACGCCGG
+Op1493                      556  2.69e-07 AGCTGGAGTC GGAGACCTTCGAGATCTCGGACTACTCGGACGCGGCCGA GGTCGT    
+Op1852                       10  3.00e-07  GGCGGTCGG CGCGCTCGCCGTCATGAGCGAGGAGTGGCAGTTCGAGCC CGCGCCCGTC
+Op583                       514  3.34e-07 CGCATCTGCT CAGACTCCACCGCACCGGGATCGAGCGGATCGCCGCCGA GGATCCATTC
+Op3900                      534  3.71e-07 TCCGGGTCGC CGCCAGCCTCACCATCGCCGAGTACCTGCTGCCCGGCTG GCTCATCGCC
+Op2906                      144  4.13e-07 ACGGCACCGT CTGGATCAACGACTTCCACCCCTACCTGCCGCAGGCCGA ATGGGGCGGC
+Op1888                      438  4.13e-07 CCCATGTCAC CGCCAACGGCCTCTTCGGCCGCGCCTCCAACACCATCAA CCACTGAACC
+Op3987                      113  4.58e-07 TGAGCCAGGC CCTGCGCGCCGTCTTCGGCGACGCCTCGCAGGTCGACGC GGTCCGCCAG
+Op4173                      487  5.09e-07 CCCCGCAGGC CACCCTGGTTCCCATGAACCGAGCCCTGATCGTCGTCGA TGTCCAGGAA
+Op407                        58  5.09e-07 GTTCGACGAT CTGGTTCACCCTCACCATCGACGGGGAGAGCCTCGGCTA CTTCAACGGC
+Op4143                      499  5.64e-07 GATTCGACCC CATGAACCAGCAGTTCAGCGCCGCCCCGCAGCCCACCTC GTCCGCACCG
+Op1100                       25  6.92e-07 ACGACCATCC CGGGCAGCACCACTTCATCGTCGAGCGGCAGCACCGGAA GAGTCAGCGG
+Op3441                      156  7.66e-07 AACCGCAGCT CGCCCTCATCCTCACCCGGCGCGACGAGCCCGCCGACTG GCTCGCCGCC
+Op4039                       79  9.37e-07 CCAGTTTTCC CGTCCCGCCCGTGACCAGAATCGTCGTCATGGACGCCAG CCTGGCACCG
+Op805                         7  1.26e-06     CGAGGG GGCGTTCCAGGACCCCGGCGGGGACGAGGAGTCCGGCGA GCTTCCACGC
+Op2326                      328  1.53e-06 TCGCCCTGGC GGTGCTGGGGCTGTCGCTCGTCGCGCCGCTGTTCGCGGA AGGGCTGGCC
+Op794                       433  1.85e-06 GAGGAGGATG GAGCAAGACCCCGATGAGTGACGTATCGGTGACCAAGGA CACCATTCCC
+Op4153                      517  1.85e-06 GCACCGCGAA CAAGCCCGACCTCACCCACGGTGCCCTGGCGGCCGTGAT CGGCCCCGTC
+Op2127                      153  1.85e-06 ACGCACCCCT TTCGACCTTCGTCACCCCGGCCGCCCGGGACCTCCCCAA GACAGCGCAC
+Op3012                      550  2.45e-06 GCCACGTGGC AGAACTGGCCCTGAACCGCCCCGAGGCGATGAACGCCGT CTCCACCGAC
+Op970                        20  2.69e-06 TCCGCACCCG CTACCGGATCCCGTCGATCAACTTCCGCCGGCCCAACGA CGGCCGCCCC
+Op2175                      487  2.69e-06 ACTGCCGAAA GTGGAGTTCCTTCATGTCTGTCGACAACGTGACCGCCGT CGCCCCTGCC
+Op2976                      342  3.23e-06 CCGTCGCCCG CACCGAGCACGTCACCCGCGCCGCCGAGGAACTCGGCAT GCCGCAGTCG
+Op1618                      440  3.87e-06 GCGAGCAGCC CGAAGGGTCCCCGTTCCGGGCGGACATGAAGGCCGTCGG CAGGCAGGGC
+Op67                        431  4.62e-06 CCGCCCGGGC GGGGGTGGGGCTGAAGACCGTCTCCCGGGTGGTCAACAG CGAACCGGGG
+Op3071                      541  5.05e-06 CCCCCACCAC CCCCACCTGCCCCACCACCCCCGTCACGATCATCGGCGC CGGACTCGGT
+Op620                       560  5.51e-06 AGGTGGGGGC GGCGCTCGGCGACATCCCCGAGGTGGTGGAGGTGTACGG GC        
+Op1915                      440  6.01e-06 GGGCGACCGA CTGCCGCGTCCTGCTCAGACGGCACCAGGACTCGGCCGA TTGCGTGGCC
+Op157                       499  6.01e-06 CCAGGGCGGC GAGCAGGTGCGCCGCCGTCATGGACAGGGTGTCCGTCGG CGGAGCCCAT
+Op481                       439  6.55e-06 CCGCTCTGCG CGGCCTCAACGTCTCCTCCGGCAACGGCCTGGGCGGCAA GGCCGTCGCC
+Op1335                      369  7.77e-06 CGGGAGGCCG TCCCCGCCTGCTCAAGCCTGATGACGAGGACTTCGTCGT GGCGACGGCC
+Op374                       290  9.19e-06 TAGCCGGAGA CGGCTGCCACCTCACCCCACGGCAACGGGTCCCCGACCA CTGCCAGTTC
+Op2905                      466  9.19e-06 GATCGAAAGG CAAACACGACGTGTCGGCAGAACAGACCATTTACGTGGA CGGAACGTGG
+Op4136                      483  1.18e-05 AACCGGTGGG GTACCGGTCGCCGAAGGCCGCCTCCCAGGTGGCCGACCA GGCGTCCCAG
+Op3496                       68  1.76e-05 GCTCGGTGCC GTCGATCCAGATGTACTCAGCCTTGAAGGTCACGAACGC CATCCTTTGC
+Op1035                      478  2.06e-05 CCCCCGTGTC GAAGCCGTACTTGAACACCATGCTCACGCAGAGCACGAG CAACATGACT
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CRVSMBCBNCSTCWYCVBCGNCGACSNGVWGSYCGMCGR MEME-3 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Op3177                            4.5e-11  14_[+3]_547
+Op37                              1.5e-10  63_[+3]_498
+Op562                             1.5e-09  45_[+3]_516
+Op795                             5.4e-09  218_[+3]_343
+Op2002                            1.1e-08  409_[+3]_152
+Op2904                              2e-08  259_[+3]_302
+Op796                               3e-08  136_[+3]_425
+Op3629                              3e-08  87_[+3]_474
+Op3151                            3.3e-08  358_[+3]_203
+Op4129                            4.3e-08  471_[+3]_90
+Op3473                            5.4e-08  67_[+3]_494
+Op871                             7.8e-08  457_[+3]_104
+Op3150                            7.8e-08  57_[+3]_504
+Op3740                            1.5e-07  76_[+3]_485
+Op2691                            1.9e-07  265_[+3]_296
+Op75                              2.2e-07  433_[+3]_128
+Op1452                            2.2e-07  481_[+3]_80
+Op3180                            2.4e-07  388_[+3]_173
+Op3152                            2.4e-07  507_[+3]_54
+Op3953                            2.7e-07  439_[+3]_122
+Op1493                            2.7e-07  555_[+3]_6
+Op1852                              3e-07  9_[+3]_552
+Op583                             3.3e-07  513_[+3]_48
+Op3900                            3.7e-07  533_[+3]_28
+Op2906                            4.1e-07  143_[+3]_418
+Op1888                            4.1e-07  437_[+3]_124
+Op3987                            4.6e-07  112_[+3]_449
+Op4173                            5.1e-07  486_[+3]_75
+Op407                             5.1e-07  57_[+3]_504
+Op4143                            5.6e-07  498_[+3]_63
+Op1100                            6.9e-07  24_[+3]_537
+Op3441                            7.7e-07  155_[+3]_406
+Op4039                            9.4e-07  78_[+3]_483
+Op805                             1.3e-06  6_[+3]_555
+Op2326                            1.5e-06  327_[+3]_234
+Op794                             1.8e-06  432_[+3]_129
+Op4153                            1.8e-06  516_[+3]_45
+Op2127                            1.8e-06  152_[+3]_409
+Op3012                            2.5e-06  549_[+3]_12
+Op970                             2.7e-06  19_[+3]_542
+Op2175                            2.7e-06  486_[+3]_75
+Op2976                            3.2e-06  341_[+3]_220
+Op1618                            3.9e-06  439_[+3]_122
+Op67                              4.6e-06  430_[+3]_131
+Op3071                              5e-06  540_[+3]_21
+Op620                             5.5e-06  559_[+3]_2
+Op1915                              6e-06  439_[+3]_122
+Op157                               6e-06  498_[+3]_63
+Op481                             6.6e-06  438_[+3]_123
+Op1335                            7.8e-06  368_[+3]_193
+Op374                             9.2e-06  289_[+3]_272
+Op2905                            9.2e-06  465_[+3]_96
+Op4136                            1.2e-05  482_[+3]_79
+Op3496                            1.8e-05  67_[+3]_494
+Op1035                            2.1e-05  477_[+3]_84
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CRVSMBCBNCSTCWYCVBCGNCGACSNGVWGSYCGMCGR MEME-3 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF CRVSMBCBNCSTCWYCVBCGNCGACSNGVWGSYCGMCGR width=39 seqs=55
+Op3177                   (   15) CTGGATCGGCCTCTCCCTCCTCGACAAGGTCTCCACCGA  1 
+Op37                     (   64) CATGACCTGCGTCATCAGCGAGGCGTAGGTGTTCGACTG  1 
+Op562                    (   46) CAAGCTCCAGGTCTCCGGCACCGAGCTGGAGGACCCCGA  1 
+Op795                    (  219) CAACCGCGTGGTCTTCATGGCGGACGGCCAGATCGTCGA  1 
+Op2002                   (  410) CTCCAACCTGCCCTTGGTCGACGTCATGGTGCTGGCCGA  1 
+Op2904                   (  260) GGAGAGGGGGGTCTCCCTCGACCACCCGCAGCACGACGA  1 
+Op796                    (  137) CGTCGACGCGCTGACCACCGACGACTCGATCCTCGCCGG  1 
+Op3629                   (   88) CGAGTCGCTGGTCACCGGCCGCGACCCGAAGACCGCCGT  1 
+Op3151                   (  359) CTACCGCCACTTCGCGGGCAAGGACGCGATGCTCGCCGA  1 
+Op4129                   (  472) TAACATCCGGTCCATGAGCGCAGAACAGATGTCCATCGG  1 
+Op3473                   (   68) CAACCCGTACCTCTCCTACGCCGTCCTCCTCGCCGCCGG  1 
+Op871                    (  458) CGAGAGCTTCGTCTACCTGAAGCTCAAGAAGCAGACCTA  1 
+Op3150                   (   58) GGAGTTCCTCGTGTTCGGCGGAGAGCCGGTGGTCCAGGG  1 
+Op3740                   (   77) CGACACCAACCTCACCGGCACCTTCCGCGTGGTCAAGCG  1 
+Op2691                   (  266) CAGGCTCGACGCCAACCGCAGCCAGGAGGACGCCGCCGT  1 
+Op75                     (  434) CTTGAACTTCCTCACCATCGGCCACCGGGGTGCCATGGG  1 
+Op1452                   (  482) GGTCTCCCGCGTCATCAACGGTTCGGAGCTGGTCAGCGA  1 
+Op3180                   (  389) GGAGTTCCACCGCACCGTCGGAGACGTGCTGGACCAGGA  1 
+Op3152                   (  508) CACCGCCACCCCCACCCGCCGCGAGCAGATCCTCAAGGA  1 
+Op3953                   (  440) CGACTTCACCTACCTCATGGCCGAGCTGCTGCTCGGCGG  1 
+Op1493                   (  556) GGAGACCTTCGAGATCTCGGACTACTCGGACGCGGCCGA  1 
+Op1852                   (   10) CGCGCTCGCCGTCATGAGCGAGGAGTGGCAGTTCGAGCC  1 
+Op583                    (  514) CAGACTCCACCGCACCGGGATCGAGCGGATCGCCGCCGA  1 
+Op3900                   (  534) CGCCAGCCTCACCATCGCCGAGTACCTGCTGCCCGGCTG  1 
+Op2906                   (  144) CTGGATCAACGACTTCCACCCCTACCTGCCGCAGGCCGA  1 
+Op1888                   (  438) CGCCAACGGCCTCTTCGGCCGCGCCTCCAACACCATCAA  1 
+Op3987                   (  113) CCTGCGCGCCGTCTTCGGCGACGCCTCGCAGGTCGACGC  1 
+Op4173                   (  487) CACCCTGGTTCCCATGAACCGAGCCCTGATCGTCGTCGA  1 
+Op407                    (   58) CTGGTTCACCCTCACCATCGACGGGGAGAGCCTCGGCTA  1 
+Op4143                   (  499) CATGAACCAGCAGTTCAGCGCCGCCCCGCAGCCCACCTC  1 
+Op1100                   (   25) CGGGCAGCACCACTTCATCGTCGAGCGGCAGCACCGGAA  1 
+Op3441                   (  156) CGCCCTCATCCTCACCCGGCGCGACGAGCCCGCCGACTG  1 
+Op4039                   (   79) CGTCCCGCCCGTGACCAGAATCGTCGTCATGGACGCCAG  1 
+Op805                    (    7) GGCGTTCCAGGACCCCGGCGGGGACGAGGAGTCCGGCGA  1 
+Op2326                   (  328) GGTGCTGGGGCTGTCGCTCGTCGCGCCGCTGTTCGCGGA  1 
+Op794                    (  433) GAGCAAGACCCCGATGAGTGACGTATCGGTGACCAAGGA  1 
+Op4153                   (  517) CAAGCCCGACCTCACCCACGGTGCCCTGGCGGCCGTGAT  1 
+Op2127                   (  153) TTCGACCTTCGTCACCCCGGCCGCCCGGGACCTCCCCAA  1 
+Op3012                   (  550) AGAACTGGCCCTGAACCGCCCCGAGGCGATGAACGCCGT  1 
+Op970                    (   20) CTACCGGATCCCGTCGATCAACTTCCGCCGGCCCAACGA  1 
+Op2175                   (  487) GTGGAGTTCCTTCATGTCTGTCGACAACGTGACCGCCGT  1 
+Op2976                   (  342) CACCGAGCACGTCACCCGCGCCGCCGAGGAACTCGGCAT  1 
+Op1618                   (  440) CGAAGGGTCCCCGTTCCGGGCGGACATGAAGGCCGTCGG  1 
+Op67                     (  431) GGGGGTGGGGCTGAAGACCGTCTCCCGGGTGGTCAACAG  1 
+Op3071                   (  541) CCCCACCTGCCCCACCACCCCCGTCACGATCATCGGCGC  1 
+Op620                    (  560) GGCGCTCGGCGACATCCCCGAGGTGGTGGAGGTGTACGG  1 
+Op1915                   (  440) CTGCCGCGTCCTGCTCAGACGGCACCAGGACTCGGCCGA  1 
+Op157                    (  499) GAGCAGGTGCGCCGCCGTCATGGACAGGGTGTCCGTCGG  1 
+Op481                    (  439) CGGCCTCAACGTCTCCTCCGGCAACGGCCTGGGCGGCAA  1 
+Op1335                   (  369) TCCCCGCCTGCTCAAGCCTGATGACGAGGACTTCGTCGT  1 
+Op374                    (  290) CGGCTGCCACCTCACCCCACGGCAACGGGTCCCCGACCA  1 
+Op2905                   (  466) CAAACACGACGTGTCGGCAGAACAGACCATTTACGTGGA  1 
+Op4136                   (  483) GTACCGGTCGCCGAAGGCCGCCTCCCAGGTGGCCGACCA  1 
+Op3496                   (   68) GTCGATCCAGATGTACTCAGCCTTGAAGGTCACGAACGC  1 
+Op1035                   (  478) GAAGCCGTACTTGAACACCATGCTCACGCAGAGCACGAG  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CRVSMBCBNCSTCWYCVBCGNCGACSNGVWGSYCGMCGR MEME-3 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 39 n= 60134 bayes= 10.5896 E= 2.3e-020 
+  -297     86    -40   -133 
+   103   -272     28     67 
+   135    -50    -61      9 
+   -97     34     39  -1243 
+   127     21   -198      9 
+    20    -72    -50    141 
+ -1243     94    -31   -291 
+    20    -14    -31     67 
+   120    -72    -85     90 
+ -1243    101    -50   -291 
+  -197     45      9    -59 
+   -17    -72   -330    218 
+ -1243     98    -31  -1243 
+   198   -272   -330    134 
+     3     39  -1243    148 
+ -1243    108    -61  -1243 
+   127    -31    -40    -59 
+   -65    -40     15     79 
+   -65     98   -131   -133 
+    35    -85     78  -1243 
+   103    -40    -40     26 
+   -65     78    -61   -133 
+  -297   -131     90     26 
+   198    -72   -430     55 
+  -139     86    -31  -1243 
+    35     28    -50    -10 
+   103    -40    -72     67 
+ -1243   -114    122  -1243 
+    93    -22     22  -1243 
+   135   -272   -272    195 
+  -297    -22     82   -191 
+    20    -31      1     41 
+    20     21   -330    148 
+ -1243    128   -150  -1243 
+    83   -199     82   -291 
+   103      1   -114     41 
+ -1243    112    -72  -1243 
+    20   -231     86    -33 
+   178   -199    -31    -10 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CRVSMBCBNCSTCWYCVBCGNCGACSNGVWGSYCGMCGR MEME-3 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 39 nsites= 55 E= 2.3e-020 
+ 0.018182  0.654545  0.272727  0.054545 
+ 0.290909  0.054545  0.436364  0.218182 
+ 0.363636  0.254545  0.236364  0.145455 
+ 0.072727  0.454545  0.472727  0.000000 
+ 0.345455  0.418182  0.090909  0.145455 
+ 0.163636  0.218182  0.254545  0.363636 
+ 0.000000  0.690909  0.290909  0.018182 
+ 0.163636  0.327273  0.290909  0.218182 
+ 0.327273  0.218182  0.200000  0.254545 
+ 0.000000  0.727273  0.254545  0.018182 
+ 0.036364  0.490909  0.381818  0.090909 
+ 0.127273  0.218182  0.036364  0.618182 
+ 0.000000  0.709091  0.290909  0.000000 
+ 0.563636  0.054545  0.036364  0.345455 
+ 0.145455  0.472727  0.000000  0.381818 
+ 0.000000  0.763636  0.236364  0.000000 
+ 0.345455  0.290909  0.272727  0.090909 
+ 0.090909  0.272727  0.400000  0.236364 
+ 0.090909  0.709091  0.145455  0.054545 
+ 0.181818  0.200000  0.618182  0.000000 
+ 0.290909  0.272727  0.272727  0.163636 
+ 0.090909  0.618182  0.236364  0.054545 
+ 0.018182  0.145455  0.672727  0.163636 
+ 0.563636  0.218182  0.018182  0.200000 
+ 0.054545  0.654545  0.290909  0.000000 
+ 0.181818  0.436364  0.254545  0.127273 
+ 0.290909  0.272727  0.218182  0.218182 
+ 0.000000  0.163636  0.836364  0.000000 
+ 0.272727  0.309091  0.418182  0.000000 
+ 0.363636  0.054545  0.054545  0.527273 
+ 0.018182  0.309091  0.636364  0.036364 
+ 0.163636  0.290909  0.363636  0.181818 
+ 0.163636  0.418182  0.036364  0.381818 
+ 0.000000  0.872727  0.127273  0.000000 
+ 0.254545  0.090909  0.636364  0.018182 
+ 0.290909  0.363636  0.163636  0.181818 
+ 0.000000  0.781818  0.218182  0.000000 
+ 0.163636  0.072727  0.654545  0.109091 
+ 0.490909  0.090909  0.290909  0.127273 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CRVSMBCBNCSTCWYCVBCGNCGACSNGVWGSYCGMCGR MEME-3 regular expression
+--------------------------------------------------------------------------------
+[CG][GAT][ACG][GC][CA][TGC][CG][CGT][ATCG][CG][CG][TC][CG][AT][CT][CG][ACG][GCT]C[GC][ACG][CG]G[ACT][CG][CG][ACGT]G[GCA][TA][GC][GC][CT]C[GA][CA][CG]G[AG]
+--------------------------------------------------------------------------------
+
+
+
+
+Time 111.49 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+SUMMARY OF MOTIFS
+********************************************************************************
+
+--------------------------------------------------------------------------------
+	Combined block diagrams: non-overlapping sites with p-value < 0.0001
+--------------------------------------------------------------------------------
+SEQUENCE NAME            COMBINED P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Op1035                           4.75e-09  3_[+2(1.03e-05)]_224_[+1(4.19e-06)]_\
+    12_[+2(1.62e-06)]_43_[+2(2.44e-09)]_43_[+2(2.48e-07)]_83
+Op109                            5.44e-04  3_[+2(4.94e-05)]_363_[+1(6.27e-06)]_\
+    156
+Op1100                           1.34e-07  24_[+3(6.92e-07)]_377_\
+    [+1(2.53e-07)]_120
+Op1244                           1.57e-05  12_[+2(3.79e-07)]_353_\
+    [+2(4.51e-05)]_108_[+1(6.27e-06)]_11
+Op1335                           1.12e-07  253_[+1(2.24e-07)]_75_\
+    [+3(7.77e-06)]_148_[+2(1.43e-06)]_7
+Op1452                           5.77e-08  18_[+2(2.83e-05)]_425_\
+    [+3(2.16e-07)]_20_[+1(1.98e-07)]_20
+Op1493                           9.89e-11  7_[+2(1.41e-05)]_6_[+1(4.36e-05)]_\
+    41_[+1(3.36e-05)]_51_[+2(7.42e-06)]_239_[+1(7.08e-08)]_15_[+3(2.69e-07)]_6
+Op1502                           1.44e-02  423_[+2(1.14e-05)]_139
+Op157                            3.18e-06  66_[+2(6.54e-07)]_200_\
+    [+1(2.58e-05)]_154_[+3(6.01e-06)]_63
+Op1618                           4.65e-06  295_[+2(4.74e-06)]_106_\
+    [+3(3.87e-06)]_47_[+1(8.43e-06)]_35
+Op1779                           1.44e-03  12_[+2(2.98e-06)]_65_[+1(8.46e-05)]_\
+    363_[+2(6.45e-05)]_44
+Op1816                           2.77e-05  44_[+1(4.62e-07)]_373_\
+    [+2(4.12e-05)]_105
+Op1828                           5.19e-05  32_[+2(2.98e-06)]_490_\
+    [+1(1.62e-06)]
+Op1852                           1.39e-07  9_[+3(3.00e-07)]_29_[+1(9.16e-05)]_\
+    8_[+2(4.23e-06)]_100_[+1(4.74e-05)]_218_[+1(2.49e-06)]_39
+Op1864                           6.12e-08  30_[+2(2.11e-05)]_124_\
+    [+1(6.63e-05)]_81_[+2(3.79e-07)]_67_[+2(5.91e-05)]_30_[+1(8.68e-09)]_74
+Op1888                           8.33e-08  161_[+3(1.53e-06)]_47_\
+    [+2(3.35e-06)]_152_[+3(4.13e-07)]_33_[+1(1.30e-06)]_51
+Op19                             1.10e-09  72_[+2(1.38e-07)]_382_\
+    [+1(1.54e-07)]_5_[+1(7.80e-05)]_23
+Op1915                           7.53e-05  369_[+1(2.76e-06)]_30_\
+    [+3(6.01e-06)]_122
+Op1922                           7.86e-05  [+2(2.98e-06)]_500_[+1(2.49e-06)]_\
+    22
+Op1943                           2.15e-07  57_[+1(4.19e-06)]_78_[+2(9.09e-05)]_\
+    22_[+2(7.68e-05)]_43_[+2(4.69e-08)]_246
+Op195                            2.42e-10  27_[+2(4.74e-06)]_114_\
+    [+2(5.12e-09)]_39_[+1(1.16e-08)]_33_[+2(9.09e-05)]_40_[+2(9.23e-06)]_4_\
+    [+2(2.33e-05)]_113
+Op1959                           2.11e-02  399_[+1(7.80e-05)]_161
+Op1977                           2.76e-02  18_[+2(8.36e-05)]_479_\
+    [+1(8.46e-05)]_25
+Op2002                           6.67e-12  17_[+1(6.10e-05)]_63_[+2(7.47e-07)]_\
+    76_[+1(8.68e-09)]_135_[+3(1.06e-08)]_38_[+1(9.29e-06)]_32_[+1(5.85e-07)]_2
+Op2022                           5.30e-05  367_[+1(5.16e-05)]_74_\
+    [+1(6.27e-06)]_79
+Op2069                           1.22e-04  166_[+2(5.72e-07)]_22_\
+    [+2(3.75e-05)]_70_[+1(4.36e-05)]_83_[+2(4.94e-05)]_105
+Op2076                           8.71e-05  27_[+1(1.04e-06)]_487_\
+    [+2(9.23e-06)]_8
+Op2127                           5.28e-10  152_[+3(1.85e-06)]_142_\
+    [+2(1.83e-06)]_25_[+1(1.80e-05)]_56_[+1(2.18e-09)]_68
+Op2135                           1.09e-06  331_[+1(2.82e-05)]_30_\
+    [+2(3.11e-05)]_25_[+2(1.38e-07)]_37_[+2(1.62e-06)]_23
+Op216                            2.17e-02  314_[+1(2.82e-05)]_246
+Op2175                           1.41e-05  35_[+3(6.26e-05)]_60_[+2(2.07e-06)]_\
+    314_[+3(2.69e-06)]_75
+Op2326                           1.63e-06  113_[+1(7.65e-06)]_53_\
+    [+1(2.24e-06)]_81_[+3(1.53e-06)]_158_[+1(8.43e-06)]_36
+Op2359                           7.53e-03  487_[+1(9.92e-05)]_29_\
+    [+2(1.56e-05)]_6
+Op2387                           2.36e-03  492_[+3(3.02e-05)]_26_\
+    [+1(4.00e-05)]_3
+Op2446                           5.98e-05  90_[+2(8.36e-05)]_97_[+2(8.53e-07)]_\
+    219_[+1(2.16e-05)]_78
+Op2576                           1.16e-07  26_[+2(3.99e-08)]_463_\
+    [+1(3.41e-06)]_33
+Op260                            8.00e-08  63_[+2(1.47e-08)]_21_[+2(3.35e-06)]_\
+    296_[+1(1.98e-07)]_51_[+2(5.31e-06)]_15
+Op261                            4.55e-06  316_[+1(1.98e-07)]_51_\
+    [+2(5.31e-06)]_155
+Op2641                           2.24e-08  237_[+1(4.18e-10)]_14_\
+    [+1(2.16e-05)]_53_[+1(1.36e-05)]_102_[+3(1.76e-05)]_35
+Op2691                           1.40e-10  69_[+1(3.67e-05)]_50_[+2(1.43e-06)]_\
+    16_[+1(6.44e-09)]_12_[+3(1.94e-07)]_296
+Op2850                           4.45e-05  60_[+1(4.14e-08)]_180_\
+    [+2(8.36e-05)]_282
+Op2904                           1.62e-09  220_[+2(3.35e-06)]_1_[+3(2.03e-08)]_\
+    235_[+1(3.64e-07)]_27
+Op2905                           1.04e-04  465_[+3(9.19e-06)]_44_\
+    [+1(7.65e-06)]_12
+Op2906                           9.77e-08  43_[+1(2.24e-07)]_60_[+3(4.13e-07)]_\
+    60_[+3(1.91e-05)]_211_[+3(1.03e-06)]_69
+Op2976                           1.69e-07  [+1(5.61e-05)]_291_[+1(2.49e-06)]_\
+    36_[+2(2.57e-05)]_75_[+1(4.74e-08)]_40
+Op3012                           6.15e-06  16_[+3(7.77e-06)]_65_[+1(8.43e-06)]_\
+    301_[+1(6.63e-05)]_48_[+3(2.45e-06)]_12
+Op303                            1.91e-03  3_[+2(1.14e-05)]_34_[+1(1.24e-05)]_\
+    485
+Op3032                           7.08e-07  52_[+2(9.72e-07)]_416_\
+    [+1(4.00e-05)]_8_[+1(1.74e-07)]_6
+Op3071                           5.04e-06  64_[+2(2.57e-05)]_49_[+2(1.43e-06)]_\
+    93_[+1(2.36e-05)]_218_[+3(5.05e-06)]_21
+Op3108                           4.64e-06  8_[+1(2.36e-05)]_339_[+2(1.03e-05)]_\
+    93_[+2(3.40e-08)]_44
+Op3130                           1.25e-03  27_[+2(1.26e-06)]_216_\
+    [+1(6.63e-05)]_279
+Op3150                           1.02e-11  6_[+2(5.41e-05)]_13_[+3(7.78e-08)]_\
+    140_[+2(2.71e-10)]_25_[+2(7.04e-05)]_22_[+2(2.98e-06)]_13_[+2(4.74e-06)]_\
+    103_[+2(1.26e-06)]_11
+Op3151                           7.59e-09  232_[+3(2.41e-07)]_14_\
+    [+1(9.26e-07)]_33_[+3(3.35e-08)]_77_[+1(2.53e-07)]_27_[+2(1.56e-05)]_21
+Op3152                           9.80e-10  23_[+2(6.43e-08)]_111_\
+    [+1(4.36e-05)]_295_[+3(2.41e-07)]_14_[+1(9.26e-07)]
+Op3177                           2.67e-12  14_[+3(4.49e-11)]_47_[+1(4.76e-09)]_\
+    18_[+3(8.25e-05)]_11_[+1(2.24e-07)]_36_[+3(1.79e-08)]_3_[+3(5.51e-06)]_181_\
+    [+3(1.09e-05)]_15
+Op3180                           3.26e-07  66_[+3(3.78e-05)]_60_[+3(8.48e-07)]_\
+    3_[+2(5.31e-06)]_9_[+1(6.27e-06)]_94_[+3(2.41e-07)]_133_[+1(3.67e-05)]
+Op3189                           2.15e-02  2_[+2(3.11e-05)]_560
+Op3191                           5.63e-02  600
+Op3353                           2.03e-11  29_[+1(8.43e-06)]_12_[+2(4.94e-05)]_\
+    52_[+2(2.02e-09)]_339_[+1(1.59e-09)]_12
+Op3427                           7.80e-04  167_[+2(9.23e-06)]_28_\
+    [+2(7.04e-05)]_78_[+1(5.16e-05)]_117_[+2(4.12e-05)]_56
+Op3428                           1.64e-04  318_[+2(1.62e-06)]_129_\
+    [+1(6.10e-05)]_75
+Op3441                           2.61e-06  155_[+3(7.66e-07)]_50_\
+    [+1(9.29e-06)]_204_[+2(1.14e-05)]_74
+Op3472                           1.43e-07  29_[+1(1.98e-07)]_394_\
+    [+1(9.92e-05)]_50_[+2(2.33e-05)]_9
+Op3473                           6.73e-08  67_[+3(5.45e-08)]_164_\
+    [+1(1.98e-07)]_290
+Op3496                           8.35e-06  12_[+2(9.88e-05)]_17_[+3(1.76e-05)]_\
+    178_[+2(1.14e-05)]_112_[+2(1.83e-06)]_16_[+2(7.68e-05)]_1_[+2(1.03e-05)]_\
+    35
+Op3629                           1.75e-07  38_[+1(1.04e-06)]_9_[+3(2.96e-08)]_\
+    178_[+3(5.06e-05)]_212_[+3(3.02e-05)]_6
+Op37                             2.62e-10  63_[+3(1.47e-10)]_70_[+1(2.16e-05)]_\
+    345_[+2(1.11e-06)]_5
+Op3708                           1.74e-03  44_[+1(1.45e-06)]_385_\
+    [+2(7.04e-05)]_93
+Op374                            2.80e-06  75_[+2(4.74e-06)]_176_\
+    [+3(9.19e-06)]_221_[+1(2.01e-06)]_11
+Op3740                           3.31e-11  [+1(1.64e-05)]_36_[+3(1.55e-07)]_86_\
+    [+2(1.91e-05)]_32_[+3(3.11e-09)]_6_[+3(3.87e-06)]_54_[+3(4.38e-05)]_83_\
+    [+3(3.53e-06)]_30
+Op3815                           3.69e-04  220_[+1(2.76e-06)]_258_\
+    [+2(4.12e-05)]_44
+Op3900                           2.70e-06  352_[+1(2.01e-06)]_12_\
+    [+3(9.44e-05)]_11_[+1(3.36e-05)]_39_[+3(3.71e-07)]_28
+Op3938                           1.60e-06  9_[+2(3.77e-06)]_288_[+1(5.61e-05)]_\
+    98_[+1(1.05e-07)]_87
+Op3953                           2.02e-14  12_[+1(5.16e-05)]_66_[+3(1.28e-05)]_\
+    77_[+1(4.85e-14)]_54_[+3(7.14e-06)]_9_[+3(1.28e-05)]_24_[+3(2.69e-07)]_83_\
+    [+3(7.19e-05)]
+Op3987                           2.41e-08  13_[+3(3.51e-05)]_2_[+1(4.64e-06)]_\
+    18_[+3(4.58e-07)]_56_[+1(1.13e-05)]_229_[+2(9.72e-07)]_43_[+1(1.04e-06)]_3
+Op4039                           4.54e-07  4_[+1(7.65e-06)]_34_[+3(9.37e-07)]_\
+    300_[+2(1.62e-06)]_70_[+3(2.60e-05)]_36
+Op407                            1.83e-09  57_[+3(5.09e-07)]_128_\
+    [+2(7.52e-08)]_55_[+1(3.08e-05)]_44_[+1(7.37e-07)]_159
+Op4129                           6.90e-09  30_[+2(3.29e-07)]_403_\
+    [+3(4.28e-08)]_33_[+3(6.01e-06)]_18
+Op4136                           1.77e-06  26_[+1(2.76e-06)]_124_\
+    [+2(1.73e-05)]_106_[+2(4.51e-05)]_37_[+2(1.62e-06)]_35_[+3(1.18e-05)]_79
+Op4143                           2.22e-07  74_[+2(5.72e-07)]_[+1(1.64e-05)]_\
+    124_[+3(4.71e-05)]_183_[+3(5.64e-07)]_63
+Op4153                           6.41e-06  246_[+1(2.58e-05)]_20_\
+    [+1(5.85e-07)]_170_[+3(1.85e-06)]_45
+Op417                            2.63e-06  33_[+2(2.34e-06)]_49_[+2(1.14e-05)]_\
+    6_[+1(4.62e-07)]_308_[+1(8.46e-05)]_48
+Op4173                           1.23e-06  343_[+1(6.57e-07)]_103_\
+    [+3(5.09e-07)]_75
+Op4189                           1.13e-06  21_[+2(3.42e-05)]_118_\
+    [+2(6.65e-06)]_21_[+1(8.43e-06)]_221_[+1(1.04e-06)]_12_[+3(8.25e-05)]_12
+Op4222                           1.97e-10  446_[+2(1.56e-05)]_21_\
+    [+1(1.20e-11)]_55
+Op4271                           1.45e-05  15_[+2(4.51e-05)]_140_\
+    [+1(3.07e-06)]_117_[+2(9.09e-05)]_67_[+2(7.47e-07)]_107
+Op444                            3.71e-02  476_[+1(6.27e-06)]_84
+Op447                            3.46e-03  270_[+1(2.82e-05)]_236_\
+    [+2(2.57e-05)]_16
+Op448                            1.54e-06  51_[+2(3.79e-07)]_301_\
+    [+1(2.82e-05)]_170
+Op481                            3.61e-05  267_[+2(9.88e-05)]_133_\
+    [+3(6.55e-06)]_[+3(2.23e-05)]_41_[+1(2.49e-06)]_3
+Op488                            7.48e-06  430_[+2(5.91e-05)]_7_[+2(9.88e-05)]_\
+    [+1(3.41e-06)]_[+2(2.83e-05)]_9
+Op505                            6.27e-03  64_[+2(4.51e-05)]_371_\
+    [+1(2.58e-05)]_87
+Op562                            8.28e-11  45_[+3(1.51e-09)]_41_[+2(2.07e-06)]_\
+    397_[+1(3.23e-07)]
+Op563                            1.35e-03  428_[+1(1.80e-05)]_18_\
+    [+3(5.83e-05)]_75
+Op583                            1.36e-08  10_[+2(1.83e-06)]_3_[+1(4.64e-06)]_\
+    27_[+2(1.60e-07)]_2_[+3(8.45e-06)]_316_[+3(3.34e-07)]_48
+Op620                            2.25e-08  9_[+2(3.77e-06)]_118_[+2(5.91e-05)]_\
+    115_[+1(2.07e-08)]_201_[+3(5.51e-06)]_2
+Op655                            6.68e-02  600
+Op67                             1.58e-07  33_[+2(4.35e-07)]_359_\
+    [+3(4.62e-06)]_11_[+1(1.80e-06)]_80
+Op737                            8.99e-05  66_[+2(1.83e-06)]_92_[+1(5.68e-06)]_\
+    364
+Op75                             9.95e-08  433_[+3(2.16e-07)]_26_\
+    [+1(1.05e-07)]_5_[+1(1.36e-05)]_17
+Op794                            8.66e-08  76_[+2(9.09e-05)]_6_[+1(1.35e-08)]_\
+    272_[+3(1.85e-06)]_71_[+1(2.76e-06)]_18
+Op795                            1.34e-10  67_[+2(2.98e-06)]_4_[+1(1.05e-07)]_\
+    8_[+1(1.30e-06)]_21_[+3(5.42e-09)]_283_[+3(2.23e-05)]_21
+Op796                            4.95e-10  54_[+1(1.13e-05)]_42_[+3(2.96e-08)]_\
+    11_[+2(3.77e-06)]_49_[+1(6.20e-08)]_14_[+1(2.24e-06)]_233
+Op805                            1.05e-08  6_[+3(1.26e-06)]_18_[+2(2.86e-07)]_\
+    48_[+2(3.75e-05)]_3_[+1(5.20e-07)]_93_[+2(4.51e-05)]_16_[+2(2.98e-06)]_185
+Op871                            3.23e-12  180_[+1(9.29e-06)]_38_\
+    [+1(3.78e-06)]_65_[+1(3.23e-11)]_54_[+3(7.78e-08)]_104
+Op931                            1.55e-05  423_[+2(3.99e-08)]_40_\
+    [+2(4.23e-06)]_10_[+2(4.51e-05)]_13
+Op970                            1.52e-05  19_[+3(2.69e-06)]_56_[+3(3.78e-05)]_\
+    350_[+2(2.64e-06)]_59
+--------------------------------------------------------------------------------
+
+********************************************************************************
+
+
+********************************************************************************
+Stopped because the next motif E-value > 1.00e-03.
+********************************************************************************
+
+CPU: nnfcb-l1015.nnfcb.clients.local
+
+********************************************************************************

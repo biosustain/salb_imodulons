@@ -1,0 +1,10 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+CCWSSBCSWCSRCSWCGRSSNSCWCSKCGWSSWSSW	EXPREG_00001560	16	1.13838e-07	6.7278e-05	9.41394e-05	24	CCTCGCCGTCGGCGTCGACGCGCTCGGCGACCACGA	AATAGATTTTATCTATCGGTTAAATTGTACATAGAGATTT	+
+CCWSSBCSWCSRCSWCGRSSNSCWCSKCGWSSWSSW	MX000111	23	1.69365e-07	0.000100095	9.41394e-05	23	CCTCGCCGTCGGCGTCGACGCGCTCGGCGACCACGA	CCGGCCAATAGCAAGTGTCGTGCCAGGGCGCCGCCCGGCGGAATGC	-
+CCWSSBCSWCSRCSWCGRSSNSCWCSKCGWSSWSSW	EXPREG_000007b0	33	2.62173e-06	0.00154945	0.000728629	20	CCTCGCCGTCGGCGTCGACGCGCTCGGCGACCACGA	AGATAGATGTACCGTTTAATGTGACAGTGTCACCTTCATTGTAGGCACAGTCG	-
+CCWSSBCSWCSRCSWCGRSSNSCWCSKCGWSSWSSW	EXPREG_000004d0	-12	4.00517e-06	0.00236705	0.000835975	24	CCTCGCCGTCGGCGTCGACGCGCTCGGCGACCACGA	GTGCTGGCAGATCGCCATCATCGC	+
+GSVSKDSGCGGYGGTGGSGGCGGGSSNGGBGSKGGHG	EXPREG_000004d0	-1	3.82354e-07	0.000225971	0.00043179	24	GGGGGTGGCGGTGGTGGGGGCGGGGGTGGCGCTGGTG	GCGATGATGGCGATCTGCCAGCAC	-
+
+# Tomtom (Motif Comparison Tool): Version 5.5.5 compiled on Jan 16 2024 at 01:24:12
+# The format of this file is described at https://meme-suite.org/meme/doc/tomtom-output-format.html.
+# tomtom -oc motifs/UC-7/tomtom_consensus -thresh 0.001 -incomplete-scores -png motifs/UC-7/meme.txt /Users/nilmat/miniconda3/envs/imodulon/lib/python3.7/site-packages/pymodulon/data/meme/collectf.meme /Users/nilmat/miniconda3/envs/imodulon/lib/python3.7/site-packages/pymodulon/data/meme/dpinteract.meme /Users/nilmat/miniconda3/envs/imodulon/lib/python3.7/site-packages/pymodulon/data/meme/prodoric.meme /Users/nilmat/miniconda3/envs/imodulon/lib/python3.7/site-packages/pymodulon/data/meme/regtransbase.meme /Users/nilmat/miniconda3/envs/imodulon/lib/python3.7/site-packages/pymodulon/data/meme/SwissRegulon_e_coli.meme

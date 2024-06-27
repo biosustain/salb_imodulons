@@ -1,0 +1,7 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+WCNTSRKCAYCYNCSWCMWGSMGSSCNKCGDGMH	EXPREG_00001560	-9	4.06166e-07	0.000240044	0.000159989	25	TCGTGATCATCTCCGTCCAGGAGCGCCTCGAGCT	AAATCTCTATGTACAATTTAACCGATAGATAAAATCTATT	-
+WCNTSRKCAYCYNCSWCMWGSMGSSCNKCGDGMH	EXPREG_000006f0	-6	4.38605e-07	0.000259216	0.000159989	28	TCGTGATCATCTCCGTCCAGGAGCGCCTCGAGCT	GCAAGGTCTTGATGCACCTGGGAAGGAT	-
+
+# Tomtom (Motif Comparison Tool): Version 5.5.5 compiled on Jan 16 2024 at 01:24:12
+# The format of this file is described at https://meme-suite.org/meme/doc/tomtom-output-format.html.
+# tomtom -oc motifs/Ribosomal/tomtom_consensus -thresh 0.001 -incomplete-scores -png motifs/Ribosomal/meme.txt /Users/nilmat/miniconda3/envs/imodulon/lib/python3.7/site-packages/pymodulon/data/meme/collectf.meme /Users/nilmat/miniconda3/envs/imodulon/lib/python3.7/site-packages/pymodulon/data/meme/dpinteract.meme /Users/nilmat/miniconda3/envs/imodulon/lib/python3.7/site-packages/pymodulon/data/meme/prodoric.meme /Users/nilmat/miniconda3/envs/imodulon/lib/python3.7/site-packages/pymodulon/data/meme/regtransbase.meme /Users/nilmat/miniconda3/envs/imodulon/lib/python3.7/site-packages/pymodulon/data/meme/SwissRegulon_e_coli.meme

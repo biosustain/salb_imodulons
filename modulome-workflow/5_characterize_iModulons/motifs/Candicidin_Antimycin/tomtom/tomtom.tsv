@@ -1,0 +1,9 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+GAMSASSDTCSGGBMGKYGVTGRHCGHSNYSR	EXPREG_00001560	5	1.85317e-07	0.000109522	0.000139574	32	GACGACCGTCGGGGCGGCGCTGGCCGCCCTCG	AAATCTCTATGTACAATTTAACCGATAGATAAAATCTATT	-
+GAMSASSDTCSGGBMGKYGVTGRHCGHSNYSR	MX000111	-11	2.53187e-07	0.000149633	0.000139574	21	GACGACCGTCGGGGCGGCGCTGGCCGCCCTCG	GCATTCCGCCGGGCGGCGCCCTGGCACGACACTTGCTATTGGCCGG	+
+GAMSASSDTCSGGBMGKYGVTGRHCGHSNYSR	EXPREG_000009d0	4	3.62145e-06	0.00214028	0.000855803	20	GACGACCGTCGGGGCGGCGCTGGCCGCCCTCG	ACGGGCGGACGAACGGTAGGGGGA	-
+GAMSASSDTCSGGBMGKYGVTGRHCGHSNYSR	EXPREG_00000b50	-7	3.88106e-06	0.00229371	0.000855803	25	GACGACCGTCGGGGCGGCGCTGGCCGCCCTCG	TCCCCGTAAAATGTGAACTAGTTCACATTTCG	+
+
+# Tomtom (Motif Comparison Tool): Version 5.5.5 compiled on Jan 16 2024 at 01:24:12
+# The format of this file is described at https://meme-suite.org/meme/doc/tomtom-output-format.html.
+# tomtom -oc motifs/Candicidin_Antimycin/tomtom -thresh 0.001 -incomplete-scores -png motifs/Candicidin_Antimycin/meme.txt /Users/nilmat/miniconda3/envs/imodulon/lib/python3.7/site-packages/pymodulon/data/meme/collectf.meme /Users/nilmat/miniconda3/envs/imodulon/lib/python3.7/site-packages/pymodulon/data/meme/dpinteract.meme /Users/nilmat/miniconda3/envs/imodulon/lib/python3.7/site-packages/pymodulon/data/meme/prodoric.meme /Users/nilmat/miniconda3/envs/imodulon/lib/python3.7/site-packages/pymodulon/data/meme/regtransbase.meme /Users/nilmat/miniconda3/envs/imodulon/lib/python3.7/site-packages/pymodulon/data/meme/SwissRegulon_e_coli.meme

@@ -1,0 +1,24 @@
+name: imodulon
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.7
+  - meme
+  - perl-xml-parser
+  - matplotlib
+  - pandas
+  - notebook
+  - seaborn
+  - numpy
+  - jupyterlab
+  - scipy
+  - entrez-direct
+  - tqdm
+  - ipywidgets
+  - mpi4py
+  - scikit-learn
+  - nextflow
+  - pymodulon
+prefix: /Users/anand/opt/miniconda3/envs/imodulon

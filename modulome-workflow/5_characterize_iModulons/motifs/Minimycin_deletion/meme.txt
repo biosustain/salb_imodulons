@@ -1,0 +1,1365 @@
+********************************************************************************
+MEME - Motif discovery tool
+********************************************************************************
+MEME version 5.5.5 (Release date: Thu Sep 14 08:48:04 2023 +1000)
+
+For further information on how to interpret these results please access https://meme-suite.org/meme.
+To get a copy of the MEME Suite software please access https://meme-suite.org.
+
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey and Charles Elkan,
+"Fitting a mixture model by expectation maximization to
+discover motifs in biopolymers",
+Proceedings of the Second International Conference on Intelligent Systems
+for Molecular Biology, pp. 28-36, AAAI Press, Menlo Park, California, 1994.
+********************************************************************************
+
+
+********************************************************************************
+TRAINING SET
+********************************************************************************
+PRIMARY SEQUENCES= motifs/Minimycin_deletion.fasta
+CONTROL SEQUENCES= --none--
+ALPHABET= ACGT
+Sequence name            Weight Length  Sequence name            Weight Length  
+-------------            ------ ------  -------------            ------ ------  
+Op120                    1.0000    600  Op121                    1.0000    600  
+Op1733                   1.0000    600  Op1735                   1.0000    600  
+Op4191                   1.0000    600  Op4192                   1.0000    600  
+Op4193                   1.0000    600  Op4194                   1.0000    600  
+Op4195                   1.0000    600  Op4199                   1.0000    600  
+Op4201                   1.0000    600  Op4202                   1.0000    600  
+Op4206                   1.0000    600  Op4207                   1.0000    600  
+Op4208                   1.0000    600  Op4209                   1.0000    600  
+Op4211                   1.0000    600  Op4216                   1.0000    600  
+Op513                    1.0000    600  
+********************************************************************************
+
+********************************************************************************
+COMMAND LINE SUMMARY
+********************************************************************************
+This information can also be useful in the event you wish to report a
+problem with the MEME software.
+
+command: meme motifs/Minimycin_deletion.fasta -oc motifs/Minimycin_deletion -dna -mod zoops -p 8 -nmotifs 5 -evt 0.001 -minw 6 -maxw 40 -allw -minsites 6 
+
+model:  mod=         zoops    nmotifs=      1000    evt=         0.001
+objective function:           em=       E-value of product of p-values
+                              starts=   E-value of product of p-values
+strands: +
+width:  minw=            6    maxw=           40
+nsites: minsites=        6    maxsites=       19    wnsites=       0.8
+theta:  spmap=         uni    spfuzz=        0.5
+em:     prior=   dirichlet    b=            0.01    maxiter=        50
+        distance=    1e-05
+trim:   wg=             11    ws=              1    endgaps=       yes
+data:   n=           11400    N=              19
+sample: seed=            0    hsfrac=          0
+        searchsize=  11400    norand=         no    csites=       1000
+Letter frequencies in dataset:
+A 0.138 C 0.366 G 0.363 T 0.133 
+Background letter frequencies (from file dataset with add-one prior applied):
+A 0.138 C 0.366 G 0.363 T 0.133 
+Background model order: 0
+********************************************************************************
+
+
+********************************************************************************
+MOTIF TCSAGSDBSHCGWSSHBGWCSACCHCRGCGCCGMSCKGCT MEME-1	width =  40  sites =  16  llr = 322  E-value = 1.5e-024
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif TCSAGSDBSHCGWSSHBGWCSACCHCRGCGCCGMSCKGCT MEME-1 Description
+--------------------------------------------------------------------------------
+Simplified        A  3217:14133::4::4::41:7::3:3:::2:162::3::
+pos.-specific     C  :64:25:25373:54341:85:7749136:5814391271
+probability       G  :15:84343117236139214:331:4729128:51563:
+matrix            T  81:31:34:42:43:2314113::312:313::1::4:19
+
+         bits    2.9                                         
+                 2.6                                         
+                 2.3                                        *
+                 2.0 *  *                 *                 *
+Relative         1.7 *  *                 *                 *
+Entropy          1.5 *  *                 *                 *
+(29.1 bits)      1.2 *  *        *     *  *   *   *   *     *
+                 0.9 *  *  *     *    **  *   *   * *** **  *
+                 0.6 *  ** *  **** *  *** ***** * * *** **  *
+                 0.3 ****************************************
+                 0.0 ----------------------------------------
+
+Multilevel           TCGAGCAGCTCGTCGACGTCCACCCCGGCGCCGAGCGGCT
+consensus            A CT GTTAA CAGCCT A GTGGA ACT T  CC TAG 
+sequence                   G GC   T  G       T               
+                                                             
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif TCSAGSDBSHCGWSSHBGWCSACCHCRGCGCCGMSCKGCT MEME-1 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value                              Site                
+-------------             ----- ---------            ----------------------------------------
+Op121                       504  3.97e-15 AGTCCCGTGA TCGAGCATCACGTCCGTGTCCACCCCAGCGCCGACCGGCT GGCCCGGGAG
+Op120                       316  3.97e-15 AGTCCCGTGA TCGAGCATCACGTCCGTGTCCACCCCAGCGCCGACCGGCT GGCCCGGGAG
+Op4207                      558  6.44e-14 GTCGACGCCG TACTGCTTCTCGTCGAGGACGACCCCGGCGACGCGCTCCT GCT       
+Op4206                      522  6.44e-14 GTCGACGCCG TACTGCTTCTCGTCGAGGACGACCCCGGCGACGCGCTCCT GCTGGAGGAG
+Op4195                      481  5.82e-11 GAGACCGGGA TCAAGGTGAAGCTGGAGGTCGTCCCCTGGTCCGACCTGCT CAACCGCATC
+Op4209                      207  1.78e-10 GGGCTGGAGA TCGTCCGGGCCGTCGCCGACCACGTCACCGCCGAGCGGGT GCCGGTCGGC
+Op4192                      272  1.96e-10 CTTTCGCGGG AGCAGGAGACTGGTGCTGACGAGCACTCCGTCAAACGAGT GAACCGGAGG
+Op4191                      123  1.96e-10 CTTTCGCGGG AGCAGGAGACTGGTGCTGACGAGCACTCCGTCAAACGAGT GAACCGGAGG
+Op4208                      340  2.16e-10 ATCGCGGCGG TCAAGCAGATCGACGACTTCTTCGTCACGGTGGTGCGGCT CCCGGGCCGC
+Op4193                      503  8.50e-10 TGTCCCCGTG TCCTTCGCCTCGACCCCGTCCTCCTCGCTGCCGAGCCAGT CCCCGCCCGC
+Op1735                      338  1.10e-09 GGCGGCCTGG TTGAGGTCGTGCAGGACGAGGACGACGGTGCGGCCCTGCT CGCGGTTGAG
+Op4199                      466  2.12e-09 CTGGCTGTAG TTCACGGTCTCGTTCTTGGCCAGCACCGTGCCGCAGTGCC AGTGGGTCGT
+Op1733                       87  6.57e-09 CGCCTGGAGG TCGAGAAGCGCCATGACGTACTCCTTCGTGTCGAGCGGTC GGACGACCGC
+Op4194                      446  7.57e-09 CTGCGGCTGG AAGAGGTTGACCAGGTCGGCGAGGCCGGCGGCCAGGTACT CGGCGGTGTC
+Op4211                      209  9.33e-09 GGGGGAGGCC ACGTGGAAGGCGAGCCGGGTCAGCACGGGGCCGCCCTGCT CCCCGAGGAC
+Op4201                       45  4.22e-07 GGCCTTCTTC TCGACCGCCCTCGCCTCCTTCTCGGCGGCGAGGCGCGCCT TGGCCTCCGC
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif TCSAGSDBSHCGWSSHBGWCSACCHCRGCGCCGMSCKGCT MEME-1 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Op121                               4e-15  503_[+1]_57
+Op120                               4e-15  315_[+1]_245
+Op4207                            6.4e-14  557_[+1]_3
+Op4206                            6.4e-14  521_[+1]_39
+Op4195                            5.8e-11  480_[+1]_80
+Op4209                            1.8e-10  206_[+1]_354
+Op4192                              2e-10  271_[+1]_289
+Op4191                              2e-10  122_[+1]_438
+Op4208                            2.2e-10  339_[+1]_221
+Op4193                            8.5e-10  502_[+1]_58
+Op1735                            1.1e-09  337_[+1]_223
+Op4199                            2.1e-09  465_[+1]_95
+Op1733                            6.6e-09  86_[+1]_474
+Op4194                            7.6e-09  445_[+1]_115
+Op4211                            9.3e-09  208_[+1]_352
+Op4201                            4.2e-07  44_[+1]_516
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif TCSAGSDBSHCGWSSHBGWCSACCHCRGCGCCGMSCKGCT MEME-1 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF TCSAGSDBSHCGWSSHBGWCSACCHCRGCGCCGMSCKGCT width=40 seqs=16
+Op121                    (  504) TCGAGCATCACGTCCGTGTCCACCCCAGCGCCGACCGGCT  1 
+Op120                    (  316) TCGAGCATCACGTCCGTGTCCACCCCAGCGCCGACCGGCT  1 
+Op4207                   (  558) TACTGCTTCTCGTCGAGGACGACCCCGGCGACGCGCTCCT  1 
+Op4206                   (  522) TACTGCTTCTCGTCGAGGACGACCCCGGCGACGCGCTCCT  1 
+Op4195                   (  481) TCAAGGTGAAGCTGGAGGTCGTCCCCTGGTCCGACCTGCT  1 
+Op4209                   (  207) TCGTCCGGGCCGTCGCCGACCACGTCACCGCCGAGCGGGT  1 
+Op4192                   (  272) AGCAGGAGACTGGTGCTGACGAGCACTCCGTCAAACGAGT  1 
+Op4191                   (  123) AGCAGGAGACTGGTGCTGACGAGCACTCCGTCAAACGAGT  1 
+Op4208                   (  340) TCAAGCAGATCGACGACTTCTTCGTCACGGTGGTGCGGCT  1 
+Op4193                   (  503) TCCTTCGCCTCGACCCCGTCCTCCTCGCTGCCGAGCCAGT  1 
+Op1735                   (  338) TTGAGGTCGTGCAGGACGAGGACGACGGTGCGGCCCTGCT  1 
+Op4199                   (  466) TTCACGGTCTCGTTCTTGGCCAGCACCGTGCCGCAGTGCC  1 
+Op1733                   (   87) TCGAGAAGCGCCATGACGTACTCCTTCGTGTCGAGCGGTC  1 
+Op4194                   (  446) AAGAGGTTGACCAGGTCGGCGAGGCCGGCGGCCAGGTACT  1 
+Op4211                   (  209) ACGTGGAAGGCGAGCCGGGTCAGCACGGGGCCGCCCTGCT  1 
+Op4201                   (   45) TCGACCGCCCTCGCCTCCTTCTCGGCGGCGAGGCGCGCCT  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif TCSAGSDBSHCGWSSHBGWCSACCHCRGCGCCGMSCKGCT MEME-1 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 40 n= 10659 bayes= 9.17566 E= 1.5e-024 
+    86  -1064  -1064    250 
+    44     62   -154     -9 
+   -14      4     46  -1064 
+   231  -1064  -1064    123 
+ -1064    -96    105   -109 
+  -114     45     27  -1064 
+   166  -1064    -54    123 
+  -114    -96      5    150 
+    86     45    -54  -1064 
+    86    -55   -154    150 
+ -1064     91   -154     50 
+ -1064    -23     92  -1064 
+   144  -1064    -95    172 
+ -1064     45    -54     91 
+ -1064      4     78  -1064 
+   144    -23   -154     50 
+ -1064     26    -54    123 
+ -1064   -254    127   -109 
+   144  -1064    -95    172 
+  -114    104   -253     -9 
+ -1064     45     27   -109 
+   231  -1064  -1064    123 
+ -1064     91    -22  -1064 
+ -1064     91    -22  -1064 
+   118      4   -253     91 
+ -1064    136  -1064   -109 
+    86   -155     27     50 
+ -1064    -23     92  -1064 
+ -1064     62    -95     91 
+ -1064  -1064    137   -109 
+    44     45   -253     91 
+ -1064    115    -95  -1064 
+   -14   -254    116  -1064 
+   203      4  -1064   -109 
+    44    -23     46  -1064 
+ -1064    126   -154  -1064 
+ -1064   -254     46    172 
+    86    -96     63  -1064 
+ -1064     91    -54   -109 
+ -1064   -155  -1064    272 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif TCSAGSDBSHCGWSSHBGWCSACCHCRGCGCCGMSCKGCT MEME-1 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 40 nsites= 16 E= 1.5e-024 
+ 0.250000  0.000000  0.000000  0.750000 
+ 0.187500  0.562500  0.125000  0.125000 
+ 0.125000  0.375000  0.500000  0.000000 
+ 0.687500  0.000000  0.000000  0.312500 
+ 0.000000  0.187500  0.750000  0.062500 
+ 0.062500  0.500000  0.437500  0.000000 
+ 0.437500  0.000000  0.250000  0.312500 
+ 0.062500  0.187500  0.375000  0.375000 
+ 0.250000  0.500000  0.250000  0.000000 
+ 0.250000  0.250000  0.125000  0.375000 
+ 0.000000  0.687500  0.125000  0.187500 
+ 0.000000  0.312500  0.687500  0.000000 
+ 0.375000  0.000000  0.187500  0.437500 
+ 0.000000  0.500000  0.250000  0.250000 
+ 0.000000  0.375000  0.625000  0.000000 
+ 0.375000  0.312500  0.125000  0.187500 
+ 0.000000  0.437500  0.250000  0.312500 
+ 0.000000  0.062500  0.875000  0.062500 
+ 0.375000  0.000000  0.187500  0.437500 
+ 0.062500  0.750000  0.062500  0.125000 
+ 0.000000  0.500000  0.437500  0.062500 
+ 0.687500  0.000000  0.000000  0.312500 
+ 0.000000  0.687500  0.312500  0.000000 
+ 0.000000  0.687500  0.312500  0.000000 
+ 0.312500  0.375000  0.062500  0.250000 
+ 0.000000  0.937500  0.000000  0.062500 
+ 0.250000  0.125000  0.437500  0.187500 
+ 0.000000  0.312500  0.687500  0.000000 
+ 0.000000  0.562500  0.187500  0.250000 
+ 0.000000  0.000000  0.937500  0.062500 
+ 0.187500  0.500000  0.062500  0.250000 
+ 0.000000  0.812500  0.187500  0.000000 
+ 0.125000  0.062500  0.812500  0.000000 
+ 0.562500  0.375000  0.000000  0.062500 
+ 0.187500  0.312500  0.500000  0.000000 
+ 0.000000  0.875000  0.125000  0.000000 
+ 0.000000  0.062500  0.500000  0.437500 
+ 0.250000  0.187500  0.562500  0.000000 
+ 0.000000  0.687500  0.250000  0.062500 
+ 0.000000  0.125000  0.000000  0.875000 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif TCSAGSDBSHCGWSSHBGWCSACCHCRGCGCCGMSCKGCT MEME-1 regular expression
+--------------------------------------------------------------------------------
+[TA]C[GC][AT]G[CG][ATG][GT][CAG][TAC]C[GC][TA][CGT][GC][AC][CTG]G[TA]C[CG][AT][CG][CG][CAT]C[GA][GC][CT]G[CT]CG[AC][GC]C[GT][GA][CG]T
+--------------------------------------------------------------------------------
+
+
+
+
+Time  1.98 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+MOTIF CATSSCGNKGRCGWMGATSKTSCKSMC MEME-2	width =  27  sites =   9  llr = 194  E-value = 2.5e-012
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif CATSSCGNKGRCGWMGATSKTSCKSMC MEME-2 Description
+--------------------------------------------------------------------------------
+Simplified        A  :6:2:323::73247:a1:11:2::6:
+pos.-specific     C  a::237:21::71:31::6::46:44a
+probability       G  :2147:823a3:7::9:143:6266::
+matrix            T  :291:::26::::6:::8:69::4:::
+
+         bits    2.9                 *          
+                 2.6                 *          
+                 2.3   *             *   *      
+                 2.0   *          *  *   *      
+Relative         1.7   *          *  **  *      
+Entropy          1.5 * *      **  ** **  *     *
+(31.1 bits)      1.2 ***      **  ** ** **  * **
+                 0.9 ***  ** **** ***** **  * **
+                 0.6 *** *** ************** ****
+                 0.3 *** ***********************
+                 0.0 ---------------------------
+
+Multilevel           CATGGCGATGACGTAGATCTTGCGGAC
+consensus             G ACAACG GAAAC   GG CATCC 
+sequence              T C   G              G    
+                            T                   
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CATSSCGNKGRCGWMGATSKTSCKSMC MEME-2 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value                       Site          
+-------------             ----- ---------            ---------------------------
+Op4207                      110  1.58e-14 CTCCCGATCC CATACCGATGACATAGATGTTGCGCAC CCGGCCGAGT
+Op4206                       74  1.58e-14 CTCCCGATCC CATACCGATGACATAGATGTTGCGCAC CCGGCCGAGT
+Op121                       244  3.07e-11 GCCGGCGCAG CTTGGCGTGGGCGTAGATCTTCCGGCC GAGCGGTTTC
+Op120                        56  3.07e-11 GCCGGCGCAG CTTGGCGTGGGCGTAGATCTTCCGGCC GAGCGGTTTC
+Op4199                       17  1.23e-10 CCACGTACAG CAGTCCGATGAAGAACATCGTCATGAC CATGCGCGCG
+Op4192                      547  2.56e-10 AGGGCGAGCC CGTGGAACTGACGACGATCGTGGTGCC GGACCCCGGG
+Op4191                      398  2.56e-10 AGGGCGAGCC CGTGGAACTGACGACGATCGTGGTGCC GGACCCCGGG
+Op4202                      348  1.75e-09 CGAGCAGCAC CATCGCGGGGAAGTCGAGGTAGAGCAC GCTCCAGTTC
+Op4195                      419  2.94e-09 AGGGCCCCAG CATCGAGGCGGACAAGAAGATCCTCAC CCCCCGGCTG
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CATSSCGNKGRCGWMGATSKTSCKSMC MEME-2 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Op4207                            1.6e-14  109_[+2]_464
+Op4206                            1.6e-14  73_[+2]_500
+Op121                             3.1e-11  243_[+2]_330
+Op120                             3.1e-11  55_[+2]_518
+Op4199                            1.2e-10  16_[+2]_557
+Op4192                            2.6e-10  546_[+2]_27
+Op4191                            2.6e-10  397_[+2]_176
+Op4202                            1.8e-09  347_[+2]_226
+Op4195                            2.9e-09  418_[+2]_155
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CATSSCGNKGRCGWMGATSKTSCKSMC MEME-2 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF CATSSCGNKGRCGWMGATSKTSCKSMC width=27 seqs=9
+Op4207                   (  110) CATACCGATGACATAGATGTTGCGCAC  1 
+Op4206                   (   74) CATACCGATGACATAGATGTTGCGCAC  1 
+Op121                    (  244) CTTGGCGTGGGCGTAGATCTTCCGGCC  1 
+Op120                    (   56) CTTGGCGTGGGCGTAGATCTTCCGGCC  1 
+Op4199                   (   17) CAGTCCGATGAAGAACATCGTCATGAC  1 
+Op4192                   (  547) CGTGGAACTGACGACGATCGTGGTGCC  1 
+Op4191                   (  398) CGTGGAACTGACGACGATCGTGGTGCC  1 
+Op4202                   (  348) CATCGCGGGGAAGTCGAGGTAGAGCAC  1 
+Op4195                   (  419) CATCGAGGCGGACAAGAAGATCCTCAC  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CATSSCGNKGRCGWMGATSKTSCKSMC MEME-2 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 27 n= 10906 bayes= 10.6895 E= 2.5e-012 
+  -982    145   -982   -982 
+   201   -982    -71     74 
+  -982   -982   -171    274 
+    69    -72     29    -26 
+  -982    -13     88   -982 
+   127     87   -982   -982 
+    69   -982    110   -982 
+   127    -72    -71     74 
+  -982   -172    -12    206 
+  -982   -982    146   -982 
+   227   -982    -12   -982 
+   127     87   -982   -982 
+    69   -172     88   -982 
+   169   -982   -982    206 
+   227    -13   -982   -982 
+  -982   -172    129   -982 
+   285   -982   -982   -982 
+   -31   -982   -171    255 
+  -982     60     29   -982 
+   -31   -982    -12    206 
+   -31   -982   -982    274 
+  -982     28     61   -982 
+    69     60    -71   -982 
+  -982   -982     61    174 
+  -982     28     61   -982 
+   201     28   -982   -982 
+  -982    145   -982   -982 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CATSSCGNKGRCGWMGATSKTSCKSMC MEME-2 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 27 nsites= 9 E= 2.5e-012 
+ 0.000000  1.000000  0.000000  0.000000 
+ 0.555556  0.000000  0.222222  0.222222 
+ 0.000000  0.000000  0.111111  0.888889 
+ 0.222222  0.222222  0.444444  0.111111 
+ 0.000000  0.333333  0.666667  0.000000 
+ 0.333333  0.666667  0.000000  0.000000 
+ 0.222222  0.000000  0.777778  0.000000 
+ 0.333333  0.222222  0.222222  0.222222 
+ 0.000000  0.111111  0.333333  0.555556 
+ 0.000000  0.000000  1.000000  0.000000 
+ 0.666667  0.000000  0.333333  0.000000 
+ 0.333333  0.666667  0.000000  0.000000 
+ 0.222222  0.111111  0.666667  0.000000 
+ 0.444444  0.000000  0.000000  0.555556 
+ 0.666667  0.333333  0.000000  0.000000 
+ 0.000000  0.111111  0.888889  0.000000 
+ 1.000000  0.000000  0.000000  0.000000 
+ 0.111111  0.000000  0.111111  0.777778 
+ 0.000000  0.555556  0.444444  0.000000 
+ 0.111111  0.000000  0.333333  0.555556 
+ 0.111111  0.000000  0.000000  0.888889 
+ 0.000000  0.444444  0.555556  0.000000 
+ 0.222222  0.555556  0.222222  0.000000 
+ 0.000000  0.000000  0.555556  0.444444 
+ 0.000000  0.444444  0.555556  0.000000 
+ 0.555556  0.444444  0.000000  0.000000 
+ 0.000000  1.000000  0.000000  0.000000 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif CATSSCGNKGRCGWMGATSKTSCKSMC MEME-2 regular expression
+--------------------------------------------------------------------------------
+C[AGT]T[GAC][GC][CA][GA][ACGT][TG]G[AG][CA][GA][TA][AC]GAT[CG][TG]T[GC][CAG][GT][GC][AC]C
+--------------------------------------------------------------------------------
+
+
+
+
+Time  3.81 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+MOTIF YGGMSCASCBCVTGSTGGTSGTSDT MEME-3	width =  25  sites =  17  llr = 238  E-value = 5.3e-011
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif YGGMSCASCBCVTGSTGGTSGTSDT MEME-3 Description
+--------------------------------------------------------------------------------
+Simplified        A  ::2422a121122::1:21:21:42
+pos.-specific     C  42:526:68253:25:22:5:16::
+probability       G  158142:4:4241852852581441
+matrix            T  52:12::::4217::6:18::7:27
+
+         bits    2.9       *                  
+                 2.6       *                  
+                 2.3       *                  
+                 2.0       *                  
+Relative         1.7       *     *     *      
+Entropy          1.5       *     *     *     *
+(20.2 bits)      1.2   *   * *   *  *  * **  *
+                 0.9 * *   * *   *  *  * ** **
+                 0.6 * **  * *   ***** *******
+                 0.3 **** *****  *************
+                 0.0 -------------------------
+
+Multilevel           TGGCGCACCGCGTGGTGGTGGTCAT
+consensus            CC AC  G T CACCGCA C  GG 
+sequence              T         A           T 
+                                              
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif YGGMSCASCBCVTGSTGGTSGTSDT MEME-3 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value                      Site         
+-------------             ----- ---------            -------------------------
+Op513                       230  1.26e-09 CTCGCACCGT TTGTGCACCGTATGGTGAACGTCAT GGAAAGCCGC
+Op121                       288  1.67e-09 TTCCGGGCCA TGGCGCACCTCCTGGTGGTGGCCGT GCGGAGGGGG
+Op120                       100  1.67e-09 TTCCGGGCCA TGGCGCACCTCCTGGTGGTGGCCGT GCGGAGGGGG
+Op4192                      501  2.03e-08 GCACCAGAGA TGGCACAGCACGTGCGGGGCGTCAT CGCCCGCGCC
+Op4191                      352  2.03e-08 GCACCAGAGA TGGCACAGCACGTGCGGGGCGTCAT CGCCCGCGCC
+Op4194                       70  2.54e-08 GCCTGGCCGT CGAACCAGAGATTGGTGGTGATCTT CTGCATGGCG
+Op4209                       21  3.53e-08 CCGCGCCTCG CCGACGACCTCCTGCTGGTCGTCAG CGAGCTGGTC
+Op4207                      221  5.98e-08 GCTCCCCGCG GTGATCACCTTGACCGGATCGTGTT CCCGCGGACC
+Op4206                      185  5.98e-08 GCTCCCCGCG GTGATCACCTTGACCGGATCGTGTT CCCGCGGACC
+Op4199                      416  1.20e-07 TCGCCGCCCT CGGCGCAGACGCTGGTCTTGGTCAT CTGGTGGACC
+Op1733                      141  1.45e-07 GACCGCCACC TGGGAAAACGAGTGGTGCTGGTGGT GCTGGGTGGT
+Op4195                      370  5.06e-07 GACGGCGGCG CGGACAAGCCCAAGGAGCTCGTCTA CTGGGCCTCC
+Op4211                      370  5.49e-07 GGAGGGGATG CCGCTCACCGGCTGGTCAGGATCGT GTCGCACATG
+Op1735                      401  5.97e-07 GCGGACCAGG TCGAGGACCTCGACCTGGTGGGCGA GGTCGAGATA
+Op4216                      283  1.04e-06 ACCGTCCGCA CCGCCGACCGCATCCTCGTCGTGGA GGACGGCCGC
+Op4202                      236  3.98e-06 AGGGCCGCGG CGACGAAGAGGGTGGTGGTGAGGAG GACCGCGCCG
+Op4193                      439  5.79e-06 TACACACCCC TTACGCACCCCAGGCACCTGGAGAT CACCCCCGCA
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif YGGMSCASCBCVTGSTGGTSGTSDT MEME-3 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Op513                             1.3e-09  229_[+3]_346
+Op121                             1.7e-09  287_[+3]_288
+Op120                             1.7e-09  99_[+3]_476
+Op4192                              2e-08  500_[+3]_75
+Op4191                              2e-08  351_[+3]_224
+Op4194                            2.5e-08  69_[+3]_506
+Op4209                            3.5e-08  20_[+3]_555
+Op4207                              6e-08  220_[+3]_355
+Op4206                              6e-08  184_[+3]_391
+Op4199                            1.2e-07  415_[+3]_160
+Op1733                            1.5e-07  140_[+3]_435
+Op4195                            5.1e-07  369_[+3]_206
+Op4211                            5.5e-07  369_[+3]_206
+Op1735                              6e-07  400_[+3]_175
+Op4216                              1e-06  282_[+3]_293
+Op4202                              4e-06  235_[+3]_340
+Op4193                            5.8e-06  438_[+3]_137
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif YGGMSCASCBCVTGSTGGTSGTSDT MEME-3 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF YGGMSCASCBCVTGSTGGTSGTSDT width=25 seqs=17
+Op513                    (  230) TTGTGCACCGTATGGTGAACGTCAT  1 
+Op121                    (  288) TGGCGCACCTCCTGGTGGTGGCCGT  1 
+Op120                    (  100) TGGCGCACCTCCTGGTGGTGGCCGT  1 
+Op4192                   (  501) TGGCACAGCACGTGCGGGGCGTCAT  1 
+Op4191                   (  352) TGGCACAGCACGTGCGGGGCGTCAT  1 
+Op4194                   (   70) CGAACCAGAGATTGGTGGTGATCTT  1 
+Op4209                   (   21) CCGACGACCTCCTGCTGGTCGTCAG  1 
+Op4207                   (  221) GTGATCACCTTGACCGGATCGTGTT  1 
+Op4206                   (  185) GTGATCACCTTGACCGGATCGTGTT  1 
+Op4199                   (  416) CGGCGCAGACGCTGGTCTTGGTCAT  1 
+Op1733                   (  141) TGGGAAAACGAGTGGTGCTGGTGGT  1 
+Op4195                   (  370) CGGACAAGCCCAAGGAGCTCGTCTA  1 
+Op4211                   (  370) CCGCTCACCGGCTGGTCAGGATCGT  1 
+Op1735                   (  401) TCGAGGACCTCGACCTGGTGGGCGA  1 
+Op4216                   (  283) CCGCCGACCGCATCCTCGTCGTGGA  1 
+Op4202                   (  236) CGACGAAGAGGGTGGTGGTGAGGAG  1 
+Op4193                   (  439) TTACGCACCCCAGGCACCTGGAGAT  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif YGGMSCASCBCVTGSTGGTSGTSDT MEME-3 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 25 n= 10944 bayes= 9.7157 E= 5.3e-011 
+ -1073     17   -162    182 
+ -1073    -64     54     82 
+    35  -1073    118  -1073 
+   135     53   -262   -117 
+    35    -64     18     41 
+    35     82   -104  -1073 
+   286  -1073  -1073  -1073 
+  -123     68     -4  -1073 
+    35    117  -1073  -1073 
+   -23   -105     -4    141 
+   -23     53   -104     41 
+    77    -31     18   -117 
+    77  -1073   -262    241 
+ -1073    -64    107  -1073 
+ -1073     36     54  -1073 
+   -23  -1073    -63    228 
+ -1073    -64    107  -1073 
+    77   -105     54   -117 
+  -123  -1073   -104    252 
+ -1073     36     54  -1073 
+    35  -1073    118  -1073 
+  -123   -163   -162    241 
+ -1073     82     -4  -1073 
+   158  -1073     -4     82 
+    35  -1073   -162    241 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif YGGMSCASCBCVTGSTGGTSGTSDT MEME-3 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 25 nsites= 17 E= 5.3e-011 
+ 0.000000  0.411765  0.117647  0.470588 
+ 0.000000  0.235294  0.529412  0.235294 
+ 0.176471  0.000000  0.823529  0.000000 
+ 0.352941  0.529412  0.058824  0.058824 
+ 0.176471  0.235294  0.411765  0.176471 
+ 0.176471  0.647059  0.176471  0.000000 
+ 1.000000  0.000000  0.000000  0.000000 
+ 0.058824  0.588235  0.352941  0.000000 
+ 0.176471  0.823529  0.000000  0.000000 
+ 0.117647  0.176471  0.352941  0.352941 
+ 0.117647  0.529412  0.176471  0.176471 
+ 0.235294  0.294118  0.411765  0.058824 
+ 0.235294  0.000000  0.058824  0.705882 
+ 0.000000  0.235294  0.764706  0.000000 
+ 0.000000  0.470588  0.529412  0.000000 
+ 0.117647  0.000000  0.235294  0.647059 
+ 0.000000  0.235294  0.764706  0.000000 
+ 0.235294  0.176471  0.529412  0.058824 
+ 0.058824  0.000000  0.176471  0.764706 
+ 0.000000  0.470588  0.529412  0.000000 
+ 0.176471  0.000000  0.823529  0.000000 
+ 0.058824  0.117647  0.117647  0.705882 
+ 0.000000  0.647059  0.352941  0.000000 
+ 0.411765  0.000000  0.352941  0.235294 
+ 0.176471  0.000000  0.117647  0.705882 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif YGGMSCASCBCVTGSTGGTSGTSDT MEME-3 regular expression
+--------------------------------------------------------------------------------
+[TC][GCT]G[CA][GC]CA[CG]C[GT]C[GCA][TA][GC][GC][TG][GC][GA]T[GC]GT[CG][AGT]T
+--------------------------------------------------------------------------------
+
+
+
+
+Time  5.75 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+MOTIF MSSRMCDCSTCSACCHGSTBSAKCBCGMTCY MEME-4	width =  31  sites =  16  llr = 262  E-value = 8.7e-013
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif MSSRMCDCSTCSACCHGSTBSAKCBCGMTCY MEME-4 Description
+--------------------------------------------------------------------------------
+Simplified        A  43:53131:21:6::3:1:::61::1:51:1
+pos.-specific     C  454159176174:993:4345:2839331a4
+probability       G  2364::414:162111952353323171::1
+matrix            T  ::::2:32:71:2::31:63:25:4::28:4
+
+         bits    2.9                                
+                 2.6                                
+                 2.3                                
+                 2.0                                
+Relative         1.7                             *  
+Entropy          1.5          *                  ** 
+(23.6 bits)      1.2      *   *  **  *    *      ** 
+                 0.9    * *   *  *** * *  * * *  ** 
+                 0.6 * **** *** **** * * ***********
+                 0.3 *******************************
+                 0.0 -------------------------------
+
+Multilevel           ACGACCGCCTCGACCCGGTCCATCTCGATCT
+consensus            CACGA A G  C   T CCTGGG C CC  C
+sequence              G    T        A   G    G      
+                                                    
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MSSRMCDCSTCSACCHGSTBSAKCBCGMTCY MEME-4 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value                         Site            
+-------------             ----- ---------            -------------------------------
+Op121                       194  1.19e-12 GCCCAGAGCG CGGGCCATCTCGACCTGGTTCATCTCCCTCT CGCGGCGCAG
+Op120                         6  1.19e-12      GAGCG CGGGCCATCTCGACCTGGTTCATCTCCCTCT CGCGGCGCAG
+Op4192                      176  1.56e-10 ACGCTCGACC ACCACCGCCTCGGCCCGGTCGAGCCCGATCC GGGCGGGGGG
+Op4191                       27  1.56e-10 ACGCTCGACC ACCACCGCCTCGGCCCGGTCGAGCCCGATCC GGGCGGGGGG
+Op4207                       42  2.24e-10 GTCGAGCAGG AAGAACACGTCCACCCGCCGCATCGCCTTCA CCGCCTGAAG
+Op4206                        6  2.24e-10      GCAGG AAGAACACGTCCACCCGCCGCATCGCCTTCA CCGCCTGAAG
+Op4195                      570  1.23e-08 CGACGTCCTC AACATCGGCAACACCTGGTCCTCCTCGCTCC           
+Op1733                       48  5.46e-08 GGCGAGGTCG CCCACCGCCTCCTCCTGCGGGGTGTCCATCG CCTGGAGGTC
+Op4209                      570  5.93e-08 TCCGAAGGCG GAGGCATCGTCGTCCAGCTCGGCGGCGATCT           
+Op4208                      124  6.99e-08 TACCCCGACG CCCCCCGCCCCGACCTGATCCTGCTCGACCT CAACCTCCCC
+Op4193                      187  6.99e-08 ACGCTCCTTC AGCGACTTCCCCACCATCGTCGCCTCGATCC GGGACCGCCT
+Op4199                      295  7.58e-08 GTACCGGCCC AGGATCTCGTTGACCGGCTGGTACCAGGTCT CACCGCCGCC
+Op4202                       33  1.42e-07 CGACGGCAGG GCGAACCAGTCGTCGAGGTTGGGCTGGATCT GCTTGCGGCG
+Op1735                      464  1.42e-07 CAGGAGCAGG CCGGTCTCCTGGGCGAGGGCCATGGCGATCC AGACGCGCTG
+Op4211                      491  3.19e-07 CCCGAGGAGT CCCGACGCCATGACCGGACCGATCCCGCCCC TCGCCCCGAC
+Op4194                      551  8.76e-07 CTCCGGCCGC GCGGCCGCGAGCAGCCGGCTGATCCCGTACT CCTCCGTGGC
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MSSRMCDCSTCSACCHGSTBSAKCBCGMTCY MEME-4 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Op121                             1.2e-12  193_[+4]_376
+Op120                             1.2e-12  5_[+4]_564
+Op4192                            1.6e-10  175_[+4]_394
+Op4191                            1.6e-10  26_[+4]_543
+Op4207                            2.2e-10  41_[+4]_528
+Op4206                            2.2e-10  5_[+4]_564
+Op4195                            1.2e-08  569_[+4]
+Op1733                            5.5e-08  47_[+4]_522
+Op4209                            5.9e-08  569_[+4]
+Op4208                              7e-08  123_[+4]_446
+Op4193                              7e-08  186_[+4]_383
+Op4199                            7.6e-08  294_[+4]_275
+Op4202                            1.4e-07  32_[+4]_537
+Op1735                            1.4e-07  463_[+4]_106
+Op4211                            3.2e-07  490_[+4]_79
+Op4194                            8.8e-07  550_[+4]_19
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MSSRMCDCSTCSACCHGSTBSAKCBCGMTCY MEME-4 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF MSSRMCDCSTCSACCHGSTBSAKCBCGMTCY width=31 seqs=16
+Op121                    (  194) CGGGCCATCTCGACCTGGTTCATCTCCCTCT  1 
+Op120                    (    6) CGGGCCATCTCGACCTGGTTCATCTCCCTCT  1 
+Op4192                   (  176) ACCACCGCCTCGGCCCGGTCGAGCCCGATCC  1 
+Op4191                   (   27) ACCACCGCCTCGGCCCGGTCGAGCCCGATCC  1 
+Op4207                   (   42) AAGAACACGTCCACCCGCCGCATCGCCTTCA  1 
+Op4206                   (    6) AAGAACACGTCCACCCGCCGCATCGCCTTCA  1 
+Op4195                   (  570) AACATCGGCAACACCTGGTCCTCCTCGCTCC  1 
+Op1733                   (   48) CCCACCGCCTCCTCCTGCGGGGTGTCCATCG  1 
+Op4209                   (  570) GAGGCATCGTCGTCCAGCTCGGCGGCGATCT  1 
+Op4208                   (  124) CCCCCCGCCCCGACCTGATCCTGCTCGACCT  1 
+Op4193                   (  187) AGCGACTTCCCCACCATCGTCGCCTCGATCC  1 
+Op4199                   (  295) AGGATCTCGTTGACCGGCTGGTACCAGGTCT  1 
+Op4202                   (   33) GCGAACCAGTCGTCGAGGTTGGGCTGGATCT  1 
+Op1735                   (  464) CCGGTCTCCTGGGCGAGGGCCATGGCGATCC  1 
+Op4211                   (  491) CCCGACGCCATGACCGGACCGATCCCGCCCC  1 
+Op4194                   (  551) GCGGCCGCGAGCAGCCGGCTGATCCCGTACT  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MSSRMCDCSTCSACCHGSTBSAKCBCGMTCY MEME-4 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 31 n= 10830 bayes= 9.72297 E= 8.7e-013 
+   166      4    -95  -1064 
+    86     45    -54  -1064 
+ -1064     26     63  -1064 
+   186   -254     27  -1064 
+   118     45  -1064     50 
+  -114    136  -1064  -1064 
+    86   -254     27     91 
+  -114     91   -253     50 
+ -1064     77      5  -1064 
+    44   -155  -1064    237 
+  -114     91   -154     -9 
+ -1064      4     78  -1064 
+   218  -1064    -95     50 
+ -1064    136   -253  -1064 
+ -1064    126   -154  -1064 
+    86    -23   -154    123 
+ -1064  -1064    137   -109 
+   -14      4     46  -1064 
+ -1064    -55    -95    208 
+ -1064     26    -54    123 
+ -1064     45     46  -1064 
+   203  -1064    -54     50 
+  -114    -96    -54    191 
+ -1064    115    -95  -1064 
+ -1064    -23    -54    172 
+  -114    126   -253  -1064 
+ -1064    -23     92  -1064 
+   186    -55   -253     50 
+  -114   -155  -1064    261 
+ -1064    145  -1064  -1064 
+   -14      4   -253    172 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MSSRMCDCSTCSACCHGSTBSAKCBCGMTCY MEME-4 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 31 nsites= 16 E= 8.7e-013 
+ 0.437500  0.375000  0.187500  0.000000 
+ 0.250000  0.500000  0.250000  0.000000 
+ 0.000000  0.437500  0.562500  0.000000 
+ 0.500000  0.062500  0.437500  0.000000 
+ 0.312500  0.500000  0.000000  0.187500 
+ 0.062500  0.937500  0.000000  0.000000 
+ 0.250000  0.062500  0.437500  0.250000 
+ 0.062500  0.687500  0.062500  0.187500 
+ 0.000000  0.625000  0.375000  0.000000 
+ 0.187500  0.125000  0.000000  0.687500 
+ 0.062500  0.687500  0.125000  0.125000 
+ 0.000000  0.375000  0.625000  0.000000 
+ 0.625000  0.000000  0.187500  0.187500 
+ 0.000000  0.937500  0.062500  0.000000 
+ 0.000000  0.875000  0.125000  0.000000 
+ 0.250000  0.312500  0.125000  0.312500 
+ 0.000000  0.000000  0.937500  0.062500 
+ 0.125000  0.375000  0.500000  0.000000 
+ 0.000000  0.250000  0.187500  0.562500 
+ 0.000000  0.437500  0.250000  0.312500 
+ 0.000000  0.500000  0.500000  0.000000 
+ 0.562500  0.000000  0.250000  0.187500 
+ 0.062500  0.187500  0.250000  0.500000 
+ 0.000000  0.812500  0.187500  0.000000 
+ 0.000000  0.312500  0.250000  0.437500 
+ 0.062500  0.875000  0.062500  0.000000 
+ 0.000000  0.312500  0.687500  0.000000 
+ 0.500000  0.250000  0.062500  0.187500 
+ 0.062500  0.125000  0.000000  0.812500 
+ 0.000000  1.000000  0.000000  0.000000 
+ 0.125000  0.375000  0.062500  0.437500 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MSSRMCDCSTCSACCHGSTBSAKCBCGMTCY MEME-4 regular expression
+--------------------------------------------------------------------------------
+[AC][CAG][GC][AG][CA]C[GAT]C[CG]TC[GC]ACC[CTA]G[GC][TC][CTG][CG][AG][TG]C[TCG]C[GC][AC]TC[TC]
+--------------------------------------------------------------------------------
+
+
+
+
+Time  7.48 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+MOTIF MCGBCGSCACCGCCCVGSACGRCGAGGAGG MEME-5	width =  30  sites =  12  llr = 219  E-value = 5.7e-007
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif MCGBCGSCACCGCCCVGSACGRCGAGGAGG MEME-5 Description
+--------------------------------------------------------------------------------
+Simplified        A  6::2:22:6::11:132:71:5:383382:
+pos.-specific     C  3812915819a1887423:92:a::2:22:
+probability       G  1:8318332::6:233771:85:8357:78
+matrix            T  :213::::21:32:::::3::::::1:::3
+
+         bits    2.9                               
+                 2.6                               
+                 2.3                               
+                 2.0                            *  
+Relative         1.7                         *  *  
+Entropy          1.5           *       *   * *  *  
+(26.3 bits)      1.2  *  *    **       ** ** *  *  
+                 0.9 *** *   *** **    ******* ** *
+                 0.6 *** ** **** **  ********* ****
+                 0.3 ******************************
+                 0.0 ------------------------------
+
+Multilevel           ACGGCGCCACCGCCCCGGACGACGAGGAGG
+consensus            C  T  GG   T  GA CT  G AGAA  T
+sequence                            G              
+                                                   
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MCGBCGSCACCGCCCVGSACGRCGAGGAGG MEME-5 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value                         Site           
+-------------             ----- ---------            ------------------------------
+Op4192                      457  2.35e-12 GCGCCACCGG ACGGCGCCACCGCGCCGCACGACGAAGAGG AGAGGCACCA
+Op4191                      308  2.35e-12 GCGCCACCGG ACGGCGCCACCGCGCCGCACGACGAAGAGG AGAGGCACCA
+Op121                       467  2.14e-10 ACGTCCGTAT CCGTCAGGACCGCCCGAGACCACGAGGAGT CCCGTGATCG
+Op120                       279  2.14e-10 ACGTCCGTAT CCGTCAGGACCGCCCGAGACCACGAGGAGT CCCGTGATCG
+Op4193                      266  4.05e-10 CGCACCGGCC ACGGCGACACCACCACCGTCGGCGAGGAGG CCCCGCACCT
+Op4207                      470  5.50e-10 CCCGCAGGTG ATGCCGCCTCCTCCGAGGACGGCAGGAAAG ATGAACCCAC
+Op4206                      434  5.50e-10 CCCGCAGGTG ATGCCGCCTCCTCCGAGGACGGCAGGAAAG ATGAACCCAC
+Op1735                      284  8.60e-09 GCCCTCGGCG ACGACGCGGCCCTCCCGGAAGGCGATGAGG TGATCGGCGT
+Op4216                      166  1.69e-08 GTCATCCTCG ACGAGGCCACCGCCCACCTCGACAACACCT CGGAGGCCGC
+Op4208                       55  4.41e-08 ATCCGCAACA CCCTCCACGTCGTCCGGGACGGCGAGGAGG CCCTCGACTT
+Op4202                      445  4.71e-08 GGAGCCGAGT CCGGCGGCCCCGCCGAGGGCGGCGGAGAGG CAGCCTCCGG
+Op4211                      570  6.06e-08 CCCCGCCTCG GCTTCGGCACCTACCCGCTCGACGACACCG A         
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MCGBCGSCACCGCCCVGSACGRCGAGGAGG MEME-5 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Op4192                            2.4e-12  456_[+5]_114
+Op4191                            2.4e-12  307_[+5]_263
+Op121                             2.1e-10  466_[+5]_104
+Op120                             2.1e-10  278_[+5]_292
+Op4193                              4e-10  265_[+5]_305
+Op4207                            5.5e-10  469_[+5]_101
+Op4206                            5.5e-10  433_[+5]_137
+Op1735                            8.6e-09  283_[+5]_287
+Op4216                            1.7e-08  165_[+5]_405
+Op4208                            4.4e-08  54_[+5]_516
+Op4202                            4.7e-08  444_[+5]_126
+Op4211                            6.1e-08  569_[+5]_1
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MCGBCGSCACCGCCCVGSACGRCGAGGAGG MEME-5 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF MCGBCGSCACCGCCCVGSACGRCGAGGAGG width=30 seqs=12
+Op4192                   (  457) ACGGCGCCACCGCGCCGCACGACGAAGAGG  1 
+Op4191                   (  308) ACGGCGCCACCGCGCCGCACGACGAAGAGG  1 
+Op121                    (  467) CCGTCAGGACCGCCCGAGACCACGAGGAGT  1 
+Op120                    (  279) CCGTCAGGACCGCCCGAGACCACGAGGAGT  1 
+Op4193                   (  266) ACGGCGACACCACCACCGTCGGCGAGGAGG  1 
+Op4207                   (  470) ATGCCGCCTCCTCCGAGGACGGCAGGAAAG  1 
+Op4206                   (  434) ATGCCGCCTCCTCCGAGGACGGCAGGAAAG  1 
+Op1735                   (  284) ACGACGCGGCCCTCCCGGAAGGCGATGAGG  1 
+Op4216                   (  166) ACGAGGCCACCGCCCACCTCGACAACACCT  1 
+Op4208                   (   55) CCCTCCACGTCGTCCGGGACGGCGAGGAGG  1 
+Op4202                   (  445) CCGGCGGCCCCGCCGAGGGCGGCGGAGAGG  1 
+Op4211                   (  570) GCTTCGGCACCTACCCGCTCGACGACACCG  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MCGBCGSCACCGCCCVGSACGRCGAGGAGG MEME-5 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 30 n= 10849 bayes= 9.81872 E= 5.7e-007 
+   208    -13   -212  -1023 
+ -1023    119  -1023     33 
+ -1023   -213    120    -67 
+    27   -113    -12    133 
+ -1023    132   -212  -1023 
+    27   -213    105  -1023 
+    27     45    -12  -1023 
+ -1023    104    -54  -1023 
+   208   -213   -112     33 
+ -1023    132  -1023    -67 
+ -1023    145  -1023  -1023 
+   -73   -213     68     91 
+   -73    104  -1023     33 
+ -1023    119   -112  -1023 
+   -73     87    -54  -1023 
+   127     19    -54  -1023 
+    27   -113     88  -1023 
+ -1023    -13     88  -1023 
+   227  -1023   -212     91 
+   -73    132  -1023  -1023 
+ -1023   -113    120  -1023 
+   186  -1023     46  -1023 
+ -1023    145  -1023  -1023 
+    86  -1023    105  -1023 
+   244  -1023    -54  -1023 
+    86   -113     46    -67 
+   127  -1023     88  -1023 
+   259   -113  -1023  -1023 
+    27   -113     88  -1023 
+ -1023  -1023    105     91 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MCGBCGSCACCGCCCVGSACGRCGAGGAGG MEME-5 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 30 nsites= 12 E= 5.7e-007 
+ 0.583333  0.333333  0.083333  0.000000 
+ 0.000000  0.833333  0.000000  0.166667 
+ 0.000000  0.083333  0.833333  0.083333 
+ 0.166667  0.166667  0.333333  0.333333 
+ 0.000000  0.916667  0.083333  0.000000 
+ 0.166667  0.083333  0.750000  0.000000 
+ 0.166667  0.500000  0.333333  0.000000 
+ 0.000000  0.750000  0.250000  0.000000 
+ 0.583333  0.083333  0.166667  0.166667 
+ 0.000000  0.916667  0.000000  0.083333 
+ 0.000000  1.000000  0.000000  0.000000 
+ 0.083333  0.083333  0.583333  0.250000 
+ 0.083333  0.750000  0.000000  0.166667 
+ 0.000000  0.833333  0.166667  0.000000 
+ 0.083333  0.666667  0.250000  0.000000 
+ 0.333333  0.416667  0.250000  0.000000 
+ 0.166667  0.166667  0.666667  0.000000 
+ 0.000000  0.333333  0.666667  0.000000 
+ 0.666667  0.000000  0.083333  0.250000 
+ 0.083333  0.916667  0.000000  0.000000 
+ 0.000000  0.166667  0.833333  0.000000 
+ 0.500000  0.000000  0.500000  0.000000 
+ 0.000000  1.000000  0.000000  0.000000 
+ 0.250000  0.000000  0.750000  0.000000 
+ 0.750000  0.000000  0.250000  0.000000 
+ 0.250000  0.166667  0.500000  0.083333 
+ 0.333333  0.000000  0.666667  0.000000 
+ 0.833333  0.166667  0.000000  0.000000 
+ 0.166667  0.166667  0.666667  0.000000 
+ 0.000000  0.000000  0.750000  0.250000 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif MCGBCGSCACCGCCCVGSACGRCGAGGAGG MEME-5 regular expression
+--------------------------------------------------------------------------------
+[AC]CG[GT]CG[CG][CG]ACC[GT]CC[CG][CAG]G[GC][AT]CG[AG]C[GA][AG][GA][GA]AG[GT]
+--------------------------------------------------------------------------------
+
+
+
+
+Time  9.14 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+MOTIF KTCRSCTSWTCCGSMGMTYCMSAKCC MEME-6	width =  26  sites =   6  llr = 144  E-value = 2.7e-005
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif KTCRSCTSWTCCGSMGMTYCMSAKCC MEME-6 Description
+--------------------------------------------------------------------------------
+Simplified        A  :::3:3::7:::::5:5:::7:a:::
+pos.-specific     C  :28257:5:288:55:5:5a33::aa
+probability       G  3::55::5::2283:7:::::7:5::
+matrix            T  782:::a:38::22:3:a5::::5::
+
+         bits    2.9       *          *    *   
+                 2.6       *          *    *   
+                 2.3       *          *    *   
+                 2.0  *    * **       *    *   
+Relative         1.7  *    * **       *    *   
+Entropy          1.5 **    * **       * ** * **
+(34.6 bits)      1.2 ***   * **  * ******* ****
+                 0.9 ***  ** ***** ******* ****
+                 0.6 ************* ************
+                 0.3 **************************
+                 0.0 --------------------------
+
+Multilevel           TTCGCCTCATCCGCAGATCCAGAGCC
+consensus            G  AGA GT    GCTC T CC T  
+sequence                                       
+                                               
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif KTCRSCTSWTCCGSMGMTYCMSAKCC MEME-6 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value                       Site         
+-------------             ----- ---------            --------------------------
+Op121                       364  4.82e-13 ATCCGCACTC TTCGCATCTTCCGCCGATTCACAGCC GCCCGTTGTA
+Op120                       176  4.82e-13 ATCCGCACTC TTCGCATCTTCCGCCGATTCACAGCC GCCCGTTGTA
+Op4195                      259  6.12e-13 GGAAGGGGCG TTTGCCTCATGCGCAGATTCAGAGCC GCCTGTATGA
+Op4207                       84  5.15e-12 CGCCTGAAGG GTCAGCTGATCCGGATCTCCCGATCC CATACCGATG
+Op4206                       48  5.15e-12 CGCCTGAAGG GTCAGCTGATCCGGATCTCCCGATCC CATACCGATG
+Op4209                      526  5.38e-10 CGTCCCCCCG TCCCGCTGACCGTTCGCTCCAGATCC GGCAGCGCTC
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif KTCRSCTSWTCCGSMGMTYCMSAKCC MEME-6 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Op121                             4.8e-13  363_[+6]_211
+Op120                             4.8e-13  175_[+6]_399
+Op4195                            6.1e-13  258_[+6]_316
+Op4207                            5.1e-12  83_[+6]_491
+Op4206                            5.1e-12  47_[+6]_527
+Op4209                            5.4e-10  525_[+6]_49
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif KTCRSCTSWTCCGSMGMTYCMSAKCC MEME-6 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF KTCRSCTSWTCCGSMGMTYCMSAKCC width=26 seqs=6
+Op121                    (  364) TTCGCATCTTCCGCCGATTCACAGCC  1 
+Op120                    (  176) TTCGCATCTTCCGCCGATTCACAGCC  1 
+Op4195                   (  259) TTTGCCTCATGCGCAGATTCAGAGCC  1 
+Op4207                   (   84) GTCAGCTGATCCGGATCTCCCGATCC  1 
+Op4206                   (   48) GTCAGCTGATCCGGATCTCCCGATCC  1 
+Op4209                   (  526) TCCCGCTGACCGTTCGCTCCAGATCC  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif KTCRSCTSWTCCGSMGMTYCMSAKCC MEME-6 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 26 n= 10925 bayes= 10.8296 E= 2.7e-005 
+  -923   -923    -12    233 
+  -923   -113   -923    265 
+  -923    119   -923     33 
+   127   -113     46   -923 
+  -923     45     46   -923 
+   127     86   -923   -923 
+  -923   -923   -923    291 
+  -923     45     46   -923 
+   227   -923   -923    133 
+  -923   -113   -923    265 
+  -923    119   -112   -923 
+  -923    119   -112   -923 
+  -923   -923    120     33 
+  -923     45    -12     33 
+   185     45   -923   -923 
+  -923   -923     88    133 
+   185     45   -923   -923 
+  -923   -923   -923    291 
+  -923     45   -923    191 
+  -923    145   -923   -923 
+   227    -13   -923   -923 
+  -923    -13     88   -923 
+   285   -923   -923   -923 
+  -923   -923     46    191 
+  -923    145   -923   -923 
+  -923    145   -923   -923 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif KTCRSCTSWTCCGSMGMTYCMSAKCC MEME-6 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 26 nsites= 6 E= 2.7e-005 
+ 0.000000  0.000000  0.333333  0.666667 
+ 0.000000  0.166667  0.000000  0.833333 
+ 0.000000  0.833333  0.000000  0.166667 
+ 0.333333  0.166667  0.500000  0.000000 
+ 0.000000  0.500000  0.500000  0.000000 
+ 0.333333  0.666667  0.000000  0.000000 
+ 0.000000  0.000000  0.000000  1.000000 
+ 0.000000  0.500000  0.500000  0.000000 
+ 0.666667  0.000000  0.000000  0.333333 
+ 0.000000  0.166667  0.000000  0.833333 
+ 0.000000  0.833333  0.166667  0.000000 
+ 0.000000  0.833333  0.166667  0.000000 
+ 0.000000  0.000000  0.833333  0.166667 
+ 0.000000  0.500000  0.333333  0.166667 
+ 0.500000  0.500000  0.000000  0.000000 
+ 0.000000  0.000000  0.666667  0.333333 
+ 0.500000  0.500000  0.000000  0.000000 
+ 0.000000  0.000000  0.000000  1.000000 
+ 0.000000  0.500000  0.000000  0.500000 
+ 0.000000  1.000000  0.000000  0.000000 
+ 0.666667  0.333333  0.000000  0.000000 
+ 0.000000  0.333333  0.666667  0.000000 
+ 1.000000  0.000000  0.000000  0.000000 
+ 0.000000  0.000000  0.500000  0.500000 
+ 0.000000  1.000000  0.000000  0.000000 
+ 0.000000  1.000000  0.000000  0.000000 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif KTCRSCTSWTCCGSMGMTYCMSAKCC MEME-6 regular expression
+--------------------------------------------------------------------------------
+[TG]TC[GA][CG][CA]T[CG][AT]TCCG[CG][AC][GT][AC]T[CT]C[AC][GC]A[GT]CC
+--------------------------------------------------------------------------------
+
+
+
+
+Time 10.68 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+MOTIF GSGGRKCACSKCKBCGGGASGGTGGBSGAGSKSVSC MEME-7	width =  36  sites =  10  llr = 211  E-value = 4.7e-005
+********************************************************************************
+--------------------------------------------------------------------------------
+	Motif GSGGRKCACSKCKBCGGGASGGTGGBSGAGSKSVSC MEME-7 Description
+--------------------------------------------------------------------------------
+Simplified        A  :21:4117:2:::121::72::::::::8::::3::
+pos.-specific     C  :5::::617317228:1215:2:2:24:::3:4349
+probability       G  a3986511355353:66723a828a46a:a65636:
+matrix            T  :::2:421::4:34:331::::8::4::2:15:1:1
+
+         bits    2.9                                     
+                 2.6                                     
+                 2.3                                     
+                 2.0                       *     *       
+Relative         1.7                       *     *       
+Entropy          1.5 *                   * * *  ***      
+(30.5 bits)      1.2 * ***  *          * * * *  *** *   *
+                 0.9 * **** *      **  * *****  *** *   *
+                 0.6 * **** ** **  ***** ********** ** **
+                 0.3 ********************************* **
+                 0.0 ------------------------------------
+
+Multilevel           GCGGGGCACGGCGTCGGGACGGTGGGGGAGGGGAGC
+consensus             G TATT GCTGTGATTCGG CGC TC T CTCCC 
+sequence              A       A  CC     A     C       G  
+                                                         
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif GSGGRKCACSKCKBCGGGASGGTGGBSGAGSKSVSC MEME-7 sites sorted by position p-value
+--------------------------------------------------------------------------------
+Sequence name             Start   P-value                            Site              
+-------------             ----- ---------            ------------------------------------
+Op4192                      211  3.78e-13 CGATCCGGGC GGGGGGTACGGCGTCGGGACGGTGGGGGAGGGGCGC CATGGGTCGG
+Op4191                       62  3.78e-13 CGATCCGGGC GGGGGGTACGGCGTCGGGACGGTGGGGGAGGGGCGC CATGGGTCGG
+Op4207                      415  1.26e-11 CGCCGCACGC GCGTGTCACAGGTGAGTGAGGGGGGTGGAGCGCAGC CGTGCTGCTC
+Op4206                      379  1.26e-11 CGCCGCACGC GCGTGTCACAGGTGAGTGAGGGGGGTGGAGCGCAGC CGTGCTGCTC
+Op121                       551  1.26e-11 GCTGGCCCGG GAGGAGCAGCTCGCCTGGAAGCTGGCCGAGGTGGCC ACCGCCACCG
+Op120                       363  1.26e-11 GCTGGCCCGG GAGGAGCAGCTCGCCTGGAAGCTGGCCGAGGTGGCC ACCGCCACCG
+Op1733                      313  2.31e-10 CCATCGACAG GCGGGTCAGCTGTTCGCCGGGGTGGGCGAGGTGCCC TTGGTAGGTG
+Op4194                      218  1.80e-09 CAGCCGTTCG GCGGGTACCGGCGGCTGTGCGGTGGTGGTGTGGTGC AGGAGGTGGT
+Op1735                      517  5.05e-09 GCTGGCCACC GGAGAGGGCGTCCACGGGACGGTCGGCGAGGTCGGT GGTGGCGGTG
+Op4208                      207  8.21e-09 CAAGGCGGAC GCGGAACTCGCCCTCATCCCGGTCGTGGTGCTCACC ACCTCGTCCG
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif GSGGRKCACSKCKBCGGGASGGTGGBSGAGSKSVSC MEME-7 block diagrams
+--------------------------------------------------------------------------------
+SEQUENCE NAME            POSITION P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Op4192                            3.8e-13  210_[+7]_354
+Op4191                            3.8e-13  61_[+7]_503
+Op4207                            1.3e-11  414_[+7]_150
+Op4206                            1.3e-11  378_[+7]_186
+Op121                             1.3e-11  550_[+7]_14
+Op120                             1.3e-11  362_[+7]_202
+Op1733                            2.3e-10  312_[+7]_252
+Op4194                            1.8e-09  217_[+7]_347
+Op1735                              5e-09  516_[+7]_48
+Op4208                            8.2e-09  206_[+7]_358
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif GSGGRKCACSKCKBCGGGASGGTGGBSGAGSKSVSC MEME-7 in BLOCKS format
+--------------------------------------------------------------------------------
+BL   MOTIF GSGGRKCACSKCKBCGGGASGGTGGBSGAGSKSVSC width=36 seqs=10
+Op4192                   (  211) GGGGGGTACGGCGTCGGGACGGTGGGGGAGGGGCGC  1 
+Op4191                   (   62) GGGGGGTACGGCGTCGGGACGGTGGGGGAGGGGCGC  1 
+Op4207                   (  415) GCGTGTCACAGGTGAGTGAGGGGGGTGGAGCGCAGC  1 
+Op4206                   (  379) GCGTGTCACAGGTGAGTGAGGGGGGTGGAGCGCAGC  1 
+Op121                    (  551) GAGGAGCAGCTCGCCTGGAAGCTGGCCGAGGTGGCC  1 
+Op120                    (  363) GAGGAGCAGCTCGCCTGGAAGCTGGCCGAGGTGGCC  1 
+Op1733                   (  313) GCGGGTCAGCTGTTCGCCGGGGTGGGCGAGGTGCCC  1 
+Op4194                   (  218) GCGGGTACCGGCGGCTGTGCGGTGGTGGTGTGGTGC  1 
+Op1735                   (  517) GGAGAGGGCGTCCACGGGACGGTCGGCGAGGTCGGT  1 
+Op4208                   (  207) GCGGAACTCGCCCTCATCCCGGTCGTGGTGCTCACC  1 
+//
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif GSGGRKCACSKCKBCGGGASGGTGGBSGAGSKSVSC MEME-7 position-specific scoring matrix
+--------------------------------------------------------------------------------
+log-odds matrix: alength= 4 w= 36 n= 10735 bayes= 9.85242 E= 4.7e-005 
+  -997   -997    146   -997 
+    53     45    -28   -997 
+   -47   -997    131   -997 
+  -997   -997    114     59 
+   153   -997     72   -997 
+   -47   -997     46    159 
+   -47     71   -186     59 
+   234   -187   -186    -41 
+  -997     94    -28   -997 
+    53    -29     46   -997 
+  -997   -187     46    159 
+  -997     94    -28   -997 
+  -997    -87     46    117 
+   -47    -87    -28    159 
+    53    113   -997   -997 
+   -47   -997     72    117 
+  -997   -187     72    117 
+  -997    -87     95    -41 
+   234   -187    -86   -997 
+    53     45    -28   -997 
+  -997   -997    146   -997 
+  -997    -87    114   -997 
+  -997   -997    -86    259 
+  -997    -87    114   -997 
+  -997   -997    146   -997 
+  -997    -87     14    159 
+  -997     13     72   -997 
+  -997   -997    146   -997 
+   253   -997   -997     59 
+  -997   -997    146   -997 
+  -997    -29     72    -41 
+  -997   -997     46    191 
+  -997     13     72   -997 
+   112    -29    -28    -41 
+  -997     13     72   -997 
+  -997    130   -997    -41 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif GSGGRKCACSKCKBCGGGASGGTGGBSGAGSKSVSC MEME-7 position-specific probability matrix
+--------------------------------------------------------------------------------
+letter-probability matrix: alength= 4 w= 36 nsites= 10 E= 4.7e-005 
+ 0.000000  0.000000  1.000000  0.000000 
+ 0.200000  0.500000  0.300000  0.000000 
+ 0.100000  0.000000  0.900000  0.000000 
+ 0.000000  0.000000  0.800000  0.200000 
+ 0.400000  0.000000  0.600000  0.000000 
+ 0.100000  0.000000  0.500000  0.400000 
+ 0.100000  0.600000  0.100000  0.200000 
+ 0.700000  0.100000  0.100000  0.100000 
+ 0.000000  0.700000  0.300000  0.000000 
+ 0.200000  0.300000  0.500000  0.000000 
+ 0.000000  0.100000  0.500000  0.400000 
+ 0.000000  0.700000  0.300000  0.000000 
+ 0.000000  0.200000  0.500000  0.300000 
+ 0.100000  0.200000  0.300000  0.400000 
+ 0.200000  0.800000  0.000000  0.000000 
+ 0.100000  0.000000  0.600000  0.300000 
+ 0.000000  0.100000  0.600000  0.300000 
+ 0.000000  0.200000  0.700000  0.100000 
+ 0.700000  0.100000  0.200000  0.000000 
+ 0.200000  0.500000  0.300000  0.000000 
+ 0.000000  0.000000  1.000000  0.000000 
+ 0.000000  0.200000  0.800000  0.000000 
+ 0.000000  0.000000  0.200000  0.800000 
+ 0.000000  0.200000  0.800000  0.000000 
+ 0.000000  0.000000  1.000000  0.000000 
+ 0.000000  0.200000  0.400000  0.400000 
+ 0.000000  0.400000  0.600000  0.000000 
+ 0.000000  0.000000  1.000000  0.000000 
+ 0.800000  0.000000  0.000000  0.200000 
+ 0.000000  0.000000  1.000000  0.000000 
+ 0.000000  0.300000  0.600000  0.100000 
+ 0.000000  0.000000  0.500000  0.500000 
+ 0.000000  0.400000  0.600000  0.000000 
+ 0.300000  0.300000  0.300000  0.100000 
+ 0.000000  0.400000  0.600000  0.000000 
+ 0.000000  0.900000  0.000000  0.100000 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+	Motif GSGGRKCACSKCKBCGGGASGGTGGBSGAGSKSVSC MEME-7 regular expression
+--------------------------------------------------------------------------------
+G[CGA]G[GT][GA][GT][CT]A[CG][GCA][GT][CG][GTC][TGC][CA][GT][GT][GC][AG][CGA]G[GC][TG][GC]G[GTC][GC]G[AT]G[GC][GT][GC][ACG][GC]C
+--------------------------------------------------------------------------------
+
+
+
+
+Time 12.21 secs.
+
+********************************************************************************
+
+
+********************************************************************************
+SUMMARY OF MOTIFS
+********************************************************************************
+
+--------------------------------------------------------------------------------
+	Combined block diagrams: non-overlapping sites with p-value < 0.0001
+--------------------------------------------------------------------------------
+SEQUENCE NAME            COMBINED P-VALUE  MOTIF DIAGRAM
+-------------            ----------------  -------------
+Op120                            5.77e-50  5_[+4(1.19e-12)]_19_[+2(3.07e-11)]_\
+    17_[+3(1.67e-09)]_51_[+6(4.82e-13)]_77_[+5(2.14e-10)]_7_[+1(3.97e-15)]_7_\
+    [+7(1.26e-11)]_202
+Op121                            5.77e-50  25_[+1(8.52e-05)]_128_\
+    [+4(1.19e-12)]_19_[+2(3.07e-11)]_17_[+3(1.67e-09)]_51_[+6(4.82e-13)]_77_\
+    [+5(2.14e-10)]_7_[+1(3.97e-15)]_7_[+7(1.26e-11)]_14
+Op1733                           2.54e-15  47_[+4(5.46e-08)]_8_[+1(6.57e-09)]_\
+    14_[+3(1.45e-07)]_60_[+7(8.03e-06)]_51_[+7(2.31e-10)]_39_[+7(4.52e-05)]_\
+    102_[+7(2.90e-05)]_39
+Op1735                           1.21e-18  241_[+1(7.45e-05)]_2_[+5(8.60e-09)]_\
+    24_[+1(1.10e-09)]_23_[+3(5.97e-07)]_38_[+4(1.42e-07)]_22_[+7(5.05e-09)]_48
+Op4191                           5.01e-36  26_[+4(1.56e-10)]_4_[+7(3.78e-13)]_\
+    25_[+1(1.96e-10)]_145_[+5(2.35e-12)]_14_[+3(2.03e-08)]_21_[+2(2.56e-10)]_\
+    92_[+5(1.98e-05)]_54
+Op4192                           5.01e-36  76_[+1(1.40e-05)]_59_[+4(1.56e-10)]_\
+    4_[+7(3.78e-13)]_25_[+1(1.96e-10)]_145_[+5(2.35e-12)]_14_[+3(2.03e-08)]_21_\
+    [+2(2.56e-10)]_27
+Op4193                           1.80e-14  186_[+4(6.99e-08)]_48_\
+    [+5(4.05e-10)]_143_[+3(5.79e-06)]_39_[+1(8.50e-10)]_58
+Op4194                           8.54e-15  69_[+3(2.54e-08)]_123_\
+    [+7(1.80e-09)]_192_[+1(7.57e-09)]_65_[+4(8.76e-07)]_19
+Op4195                           5.94e-25  258_[+6(6.12e-13)]_85_\
+    [+3(5.06e-07)]_24_[+2(2.94e-09)]_35_[+1(5.82e-11)]_49_[+4(1.23e-08)]
+Op4199                           2.98e-16  16_[+2(1.23e-10)]_251_\
+    [+4(7.58e-08)]_90_[+3(1.20e-07)]_25_[+1(2.12e-09)]_95
+Op4201                           8.47e-03  44_[+1(4.22e-07)]_516
+Op4202                           5.08e-13  32_[+4(1.42e-07)]_172_\
+    [+3(3.98e-06)]_87_[+2(1.75e-09)]_70_[+5(4.71e-08)]_126
+Op4206                           6.38e-47  5_[+4(2.24e-10)]_11_[+6(5.15e-12)]_\
+    [+2(1.58e-14)]_84_[+3(5.98e-08)]_169_[+7(1.26e-11)]_19_[+5(5.50e-10)]_58_\
+    [+1(6.44e-14)]_14_[+3(3.76e-05)]
+Op4207                           6.38e-47  41_[+4(2.24e-10)]_11_[+6(5.15e-12)]_\
+    [+2(1.58e-14)]_84_[+3(5.98e-08)]_169_[+7(1.26e-11)]_19_[+5(5.50e-10)]_58_\
+    [+1(6.44e-14)]_3
+Op4208                           1.26e-17  54_[+5(4.41e-08)]_39_[+4(6.99e-08)]_\
+    52_[+7(8.21e-09)]_97_[+1(2.16e-10)]_221
+Op4209                           2.90e-17  20_[+3(3.53e-08)]_161_\
+    [+1(1.78e-10)]_279_[+6(5.38e-10)]_18_[+4(5.93e-08)]
+Op4211                           2.20e-13  133_[+1(2.02e-05)]_35_\
+    [+1(9.33e-09)]_121_[+3(5.49e-07)]_58_[+4(6.05e-06)]_7_[+4(3.19e-07)]_48_\
+    [+5(6.06e-08)]_1
+Op4216                           3.21e-06  99_[+3(5.17e-05)]_41_[+5(1.69e-08)]_\
+    87_[+3(1.04e-06)]_293
+Op513                            1.97e-04  229_[+3(1.26e-09)]_346
+--------------------------------------------------------------------------------
+
+********************************************************************************
+
+
+********************************************************************************
+Stopped because the next motif E-value > 1.00e-03.
+********************************************************************************
+
+CPU: nnfcb-l1015.nnfcb.clients.local
+
+********************************************************************************
